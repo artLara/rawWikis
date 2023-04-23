@@ -1,0 +1,24 @@
+<p>El <b>modo condicional</b> es uno de los <a href="/wiki/Modo_gramatical" title="Modo gramatical">modos</a> del verbo en algunas <a href="/wiki/Lenguas_romances" title="Lenguas romances">lenguas romances</a> y <a href="/wiki/Lenguas_germ%C3%A1nicas" title="Lenguas germánicas">germánicas</a>. Otro nombre alternativo es el de <b>modo potencial</b> porque en ocasiones se refiere a acciones hipotéticas o posibles. Frecuentemente se considera que el condicional es simplemente un <a href="/wiki/Tiempo_verbal" title="Tiempo verbal">tiempo verbal</a> del <a class="mw-disambig" href="/wiki/Modo_indicativo" title="Modo indicativo">modo indicativo</a> y no un modo independiente.
+</p>
+<p>En español, el condicional se usa como tiempo del verbo principal en una oración condicional contrafactual:
+</p>
+<p>O bien como una especie de correlato del futuro en una oración afirmativa, en la cual el tiempo en el que se dan todas las acciones de la misma se dan en el pasado, como sucede en la oración:
+</p>
+<p>En (1) el condicional expresa una acción que nunca ha sucedido ni existen indicios de que exista; en cambio, en (2) se expresa una acción (<i>llegar</i> [<i>el paquete</i>]) que probablemente sí sucedió.
+</p>
+<p>Se utiliza igualmente, en un registro formal hablado o escrito, como forma de atenuación de la intención. Compárese (3a, 3b y 3c) con formas progresivamente más atenuadas (percibidas como más corteses) del mismo contenido semántico.
+</p>
+<p>Igual que en español el futuro puede indicar probabilidad o cálculo aproximado, lo mismo hace el condicional para el pasado:
+</p>
+<p>En la <a href="/wiki/Gram%C3%A1tica_tradicional" title="Gramática tradicional">gramática tradicional</a> del español, se ha considerado el condicional como un tiempo del indicativo. El carácter <a href="/wiki/Modo_gramatical#Modos_irrealis" title="Modo gramatical"><i>irrealis</i></a> del condicional en algunos contextos ha llevado a algunos autores a considerarlo como un modo diferente:
+</p>
+<p>La oración condicional se interpreta como que ninguna de las dos situaciones sucede y por tanto es un hipotético o [—<i>realis</i>]. Sin embargo, existen argumentos para considerarlo formas de indicativo, ya que las dos oraciones siguientes parecen paralelas, excepto por el hecho de que la primera se interpreta en el presente y la segunda en el pasado:
+</p>
+<p>En la primera, <i>habrá llegado</i> es [+realis] por lo que debe deducirse que la interpretación de <i>habría llegado</i> es también [+realis].
+</p>
+<p>Por tanto,<sup>[<i><a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">cita requerida</a></i>]</sup> la discusión de si el condicional debe considerarse un modo aparte o parte del indicativo en español, depende de cómo se defina el modo indicativo.
+</p>
+<p>El <b>condicional perfecto</b> es la forma compuesta del condicional simple. Es un tiempo relativo para expresar una acción futura en relación con un pasado que se considera punto de partida de la acción. La diferencia existente con el condicional es que la acción se presenta ya terminada en el presente. Al igual que el condicional, la acción expresada es <a href="/wiki/Hip%C3%B3tesis_(m%C3%A9todo_cient%C3%ADfico)" title="Hipótesis (método científico)">hipotética</a>. 
+</p>
+<p>Este tiempo se utiliza en la oración principal después de una subordinada de tiempo condicional, imperfecto de subjuntivo y pretérito perfecto de subjuntivo. Se usa también para expresar alguna probabilidad en el pasado, aunque siempre precedida o seguida por una condición. Para expresar posibilidades o dudas de tiempo pasado se usa el futuro perfecto. Ejemplos: 
+</p>

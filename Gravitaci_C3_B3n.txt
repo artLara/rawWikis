@@ -1,0 +1,1313 @@
+<p>La <b>gravedad</b> es un <a href="/wiki/Fen%C3%B3meno_natural" title="Fenómeno natural">fenómeno natural</a> por el cual los objetos y <a href="/wiki/Teor%C3%ADa_cu%C3%A1ntica_de_campos" title="Teoría cuántica de campos">campos de materia</a> dotados de <a href="/wiki/Masa" title="Masa">masa</a> o <a href="/wiki/Energ%C3%ADa" title="Energía">energía</a> son atraídos entre sí, efecto mayormente observable en la interacción entre los <a href="/wiki/Planeta" title="Planeta">planetas</a>, <a href="/wiki/Galaxia" title="Galaxia">galaxias</a> y demás objetos del <a href="/wiki/Universo" title="Universo">universo</a>. Es una de las cuatro <a href="/wiki/Interacciones_fundamentales" title="Interacciones fundamentales">interacciones fundamentales</a> que origina la fuerza que experimenta un cuerpo físico en las cercanías de un <a href="/wiki/Objeto_astron%C3%B3mico" title="Objeto astronómico">objeto astronómico</a>. También se denomina <b>interacción gravitatoria</b> o <b>gravitación</b>.
+</p>
+<p>Si un cuerpo está situado en las proximidades de un planeta, un observador a una distancia fija del planeta medirá una aceleración del cuerpo dirigida hacia la zona central de dicho planeta, si tal cuerpo no está sometido al efecto de otras <a class="mw-redirect" href="/wiki/Fuerzas" title="Fuerzas">fuerzas</a>. La <a href="/wiki/Oficina_Internacional_de_Pesas_y_Medidas" title="Oficina Internacional de Pesas y Medidas">Oficina Internacional de Pesas y Medidas</a> estableció en 1901 una <a href="/wiki/Gravedad_est%C3%A1ndar" title="Gravedad estándar">gravedad estándar</a> para la superficie de la Tierra, acorde al <a class="mw-redirect" href="/wiki/Sistema_Internacional" title="Sistema Internacional">Sistema Internacional</a>, con un valor fijo de 9,80665 m/s².<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La gravedad es una de las cuatro <a href="/wiki/Interacciones_fundamentales" title="Interacciones fundamentales">interacciones fundamentales</a> observadas en la naturaleza. Origina los movimientos a gran escala que se observan en el <a href="/wiki/Universo" title="Universo">universo</a>: la <a href="/wiki/%C3%93rbita" title="Órbita">órbita</a> de la <a href="/wiki/Luna" title="Luna">Luna</a> alrededor de la <a href="/wiki/Tierra" title="Tierra">Tierra</a>, las órbitas de los <a class="mw-redirect" href="/wiki/Planetas" title="Planetas">planetas</a> alrededor del <a href="/wiki/Sol" title="Sol">Sol</a>, etcétera. A escala cosmológica parece ser la interacción dominante, pues gobierna la mayor parte de los fenómenos a gran escala (las otras tres interacciones fundamentales son predominantes a escalas más pequeñas). El <a href="/wiki/Electromagnetismo" title="Electromagnetismo">electromagnetismo</a> explica el resto de los <a href="/wiki/Nivel_macrosc%C3%B3pico" title="Nivel macroscópico">fenómenos macroscópicos</a>, mientras que la <a class="mw-redirect" href="/wiki/Interacci%C3%B3n_fuerte" title="Interacción fuerte">interacción fuerte</a> y la <a href="/wiki/Interacci%C3%B3n_d%C3%A9bil" title="Interacción débil">interacción débil</a> son importantes solo a <a href="/wiki/Part%C3%ADcula_subat%C3%B3mica" title="Partícula subatómica">escala subatómica</a>.
+</p>
+<p>El término «gravedad» se utiliza para designar la intensidad del fenómeno gravitatorio en la superficie de los planetas o satélites. <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> fue el primero en exponer que es de la misma naturaleza la fuerza que hace que los objetos caigan con aceleración constante en la Tierra (gravedad terrestre) y la fuerza que mantiene en movimiento los planetas y las <a href="/wiki/Estrella" title="Estrella">estrellas</a>. Esta idea le llevó a formular la primera teoría general de la gravitación, la universalidad del fenómeno, expuesta en su obra <i><a class="mw-redirect" href="/wiki/Philosophiae_Naturalis_Principia_Mathematica" title="Philosophiae Naturalis Principia Mathematica">Philosophiae Naturalis Principia Mathematica</a></i>.
+</p>
+<p>Einstein, en la <a class="mw-redirect" href="/wiki/Teor%C3%ADa_de_la_relatividad_general" title="Teoría de la relatividad general">teoría de la relatividad general</a> hace un análisis diferente de la interacción gravitatoria. De acuerdo con esta teoría, la gravedad puede entenderse como un efecto geométrico de la materia sobre el <a href="/wiki/Espacio-tiempo" title="Espacio-tiempo">espacio-tiempo</a>. Cuando cierta cantidad de materia ocupa una región del espacio-tiempo, provoca que este se deforme, de este modo la deformación de este es como si el mismo <a href="/wiki/Espacio-tiempo" title="Espacio-tiempo">espacio-tiempo</a> se comprimiera en dirección al centro de masa de un objeto. Visto así, la fuerza gravitatoria deja de ser una «misteriosa fuerza que atrae», y se convierte en el efecto que produce la deformación del espacio-tiempo —de <a class="mw-redirect" href="/wiki/Geometr%C3%ADa_no_eucl%C3%ADdea" title="Geometría no euclídea">geometría no euclídea</a>— sobre el movimiento de los cuerpos. Según esta teoría, dado que todos los objetos se mueven en el espacio-tiempo, al deformarse este, la trayectoria de aquellos será desviada produciendo su aceleración.
+</p>
+<p>Actualmente, los científicos continúan trabajando en una nueva teoría de <a href="/wiki/Gravedad_cu%C3%A1ntica" title="Gravedad cuántica">gravedad cuántica</a> que describa unificadamente y de manera consistente los fenómenos gravitatorios y cuánticos. Se requiere una teoría que unifique los dos tipos de fenómenos para poder entender los primeros instantes del <a href="/wiki/Big_Bang" title="Big Bang">Big Bang</a> o las <a class="mw-redirect" href="/wiki/Singularidad_espacio-temporal" title="Singularidad espacio-temporal">singularidades gravitatorias</a> en el interior de los <a href="/wiki/Agujero_negro" title="Agujero negro">agujeros negros</a>.
+</p>
+<p>El antiguo filósofo griego <a href="/wiki/Arqu%C3%ADmedes" title="Arquímedes">Arquímedes</a> descubrió el <a href="/wiki/Centro_de_gravedad" title="Centro de gravedad">centro de gravedad</a> de un triángulo.<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ También postuló que si dos pesos iguales no tenían el mismo centro de gravedad, el centro de gravedad de los dos pesos juntos estaría en el medio de la línea que une sus centros de gravedad.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El arquitecto e ingeniero romano <a href="/wiki/Vitruvio" title="Vitruvio">Vitruvio</a> en <i><a class="mw-redirect" href="/wiki/De_Architectura" title="De Architectura">De Architectura</a></i> postuló que la gravedad de un objeto no dependía del peso sino de su "naturaleza".<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Los trabajos modernos sobre la teoría gravitacional comenzaron con el trabajo de <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a> a finales del siglo <span style="font-variant:small-caps;text-transform:lowercase">XVI</span> y principios del <span style="font-variant:small-caps;text-transform:lowercase">XVII</span>. En su famoso (aunque posiblemente <a href="/wiki/Heter%C3%B3nimo" title="Heterónimo">apócrifo</a><sup class="reference separada" id="cite_ref-Ball_Piza_5-0"><a href="#cite_note-Ball_Piza-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​) experimento dejando caer bolas desde la <a class="mw-redirect" href="/wiki/Torre_inclinada_de_Pisa" title="Torre inclinada de Pisa">Torre de Pisa</a>, y más tarde con cuidadosas mediciones de bolas rodando por un <a href="/wiki/Plano_inclinado" title="Plano inclinado">plano inclinado</a>, Galileo demostró que la aceleración gravitatoria es la misma para todos los objetos. Esto supuso un gran cambio respecto a la creencia de <a href="/wiki/Arist%C3%B3teles" title="Aristóteles">Aristóteles</a> de que los objetos más pesados tienen una mayor aceleración gravitatoria.<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​ Galileo postuló la <a class="mw-redirect" href="/wiki/Resistencia_del_aire" title="Resistencia del aire">resistencia del aire</a> como la razón por la que los objetos con baja densidad y una <a href="/wiki/Superficie_(matem%C3%A1tica)" title="Superficie (matemática)">superficie</a> elevada caen más lentamente en una atmósfera. El trabajo de Galileo sentó las bases para la formulación de la teoría de la gravedad de Newton.<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​ Galileo tomó de los <a href="/wiki/Calculadores_de_Merton_College" title="Calculadores de Merton College">calculadores de Merton College</a> y de <a href="/wiki/Domingo_de_Soto" title="Domingo de Soto">Domingo de Soto</a> la noción de que el movimiento en caída libre de un objeto sin efectos aerodinámicos importantes, siguen un <a href="/wiki/Movimiento_uniformemente_acelerado" title="Movimiento uniformemente acelerado">movimiento uniformemente acelerado</a>, ya que él mismo explica que eso era enseñado por "los doctores de París" a principio del siglo <span style="font-variant:small-caps;text-transform:lowercase">XVI</span>.
+</p>
+<p>En 1687, el matemático inglés Sir <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> publicó <i><a class="mw-redirect" href="/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica" title="Philosophiæ Naturalis Principia Mathematica">Principia</a></i>, que plantea la hipótesis de la <a href="/wiki/Ley_de_la_inversa_del_cuadrado" title="Ley de la inversa del cuadrado">ley de la inversa del cuadrado</a> de la gravitación universal. En sus propias palabras, <i>deduje que las fuerzas que mantienen a los planetas en sus orbes deben [ser] recíprocamente como los cuadrados de sus distancias desde los centros alrededor de los cuales giran: y así comparé la fuerza requerida para mantener a la Luna en su Orbe con la fuerza de gravedad en la superficie de la Tierra; y encontré que responden de manera bastante cercana.</i><sup class="reference separada" id="cite_ref-8"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ La cita procede de un memorándum que se cree que fue escrito hacia 1714. Ya en 1645 <a href="/wiki/Isma%C3%ABl_Bullialdus" title="Ismaël Bullialdus">Ismaël Bullialdus</a> había argumentado que cualquier fuerza ejercida por el Sol sobre objetos distantes tendría que seguir una ley inversa al cuadrado. Sin embargo, también descartó la idea de que tal fuerza existiera. Véase, por ejemplo,<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ La ecuación es la siguiente:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}}\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>F</mi>
+<mo>=</mo>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}}\ }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}}\ }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c6ee5510ba3c7d6664775c0e76b53e72468303a" style="vertical-align: -2.171ex; width:14.272ex; height:5.009ex;"/></span>
+</p>
+<p>Donde <i>F</i> es la fuerza, <i>m<sub>1</sub></i> y <i>m<sub>2</sub></i> son las masas de los objetos que interactúan, <i>r</i> es la distancia entre los centros de las masas y <i>G</i> es la <a href="/wiki/Constante_de_gravitaci%C3%B3n_universal" title="Constante de gravitación universal">constante gravitatoria</a>.
+</p>
+<p>La teoría de Newton tuvo su mayor éxito cuando se utilizó para predecir la existencia de <a href="/wiki/Neptuno_(planeta)" title="Neptuno (planeta)">Neptuno</a> basándose en los movimientos de <a href="/wiki/Urano_(planeta)" title="Urano (planeta)">Urano</a> que no podían ser explicados por las acciones de los otros planetas. Los cálculos de <a href="/wiki/John_Couch_Adams" title="John Couch Adams">John Couch Adams</a> y <a href="/wiki/Urbain_Le_Verrier" title="Urbain Le Verrier">Urbain Le Verrier</a> predijeron la posición general del planeta, y los cálculos de Le Verrier son los que llevaron a <a href="/wiki/Johann_Gottfried_Galle" title="Johann Gottfried Galle">Johann Gottfried Galle</a> al descubrimiento de Neptuno.
+</p>
+<p>Una discrepancia en la órbita de <a href="/wiki/Mercurio_(planeta)" title="Mercurio (planeta)">Mercurio</a> puso de manifiesto los fallos de la teoría de Newton. A finales del siglo <span style="font-variant:small-caps;text-transform:lowercase">XIX</span>, se sabía que su órbita mostraba ligeras perturbaciones que no podían explicarse por completo con la teoría de Newton, pero todas las búsquedas de otro cuerpo perturbador (como un planeta que orbitara alrededor del Sol aún más cerca que Mercurio) habían sido infructuosas. La cuestión se resolvió en 1915 con la nueva teoría de la <a href="/wiki/Relatividad_general" title="Relatividad general">relatividad general</a> de <a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a>, que explicaba la pequeña discrepancia en la órbita de Mercurio. Esta discrepancia era el avance en el <a href="/wiki/%C3%81pside" title="Ápside">perihelio</a> de Mercurio de 42,98 segundos de arco por siglo.<sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Aunque la teoría de Newton ha sido superada por la relatividad general de Albert Einstein, la mayoría de los cálculos gravitacionales modernos de la <a href="/wiki/Teor%C3%ADa_de_la_relatividad" title="Teoría de la relatividad">no relativista</a> se siguen haciendo con la teoría de Newton porque es más sencilla de trabajar y da resultados suficientemente precisos para la mayoría de las aplicaciones que implican masas, velocidades y energías suficientemente pequeñas.
+</p>
+<p>El <a href="/wiki/Principio_de_equivalencia" title="Principio de equivalencia">principio de equivalencia</a>, explorado por una sucesión de investigadores, entre ellos Galileo, <a href="/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s" title="Loránd Eötvös">Loránd Eötvös</a> y Einstein, expresa la idea de que todos los objetos caen de la misma manera, y que los efectos de la gravedad son indistintos de ciertos aspectos de la aceleración y la desaceleración. La forma más sencilla de comprobar el principio de equivalencia débil es dejar caer dos objetos de masas o composiciones diferentes en el vacío y ver si caen al suelo al mismo tiempo. Estos experimentos demuestran que todos los objetos caen a la misma velocidad cuando otras fuerzas (como la resistencia del aire y los efectos electromagnéticos) son despreciables. Las pruebas más sofisticadas utilizan una balanza de torsión del tipo inventado por Eötvös. Para realizar experimentos más precisos en el espacio se han previsto experimentos por satélite, por ejemplo <a class="new" href="/w/index.php?title=STEP_(sat%C3%A9lite)&amp;action=edit&amp;redlink=1" title="STEP (satélite) (aún no redactado)">STEP</a>.<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Las formulaciones del principio de equivalencia incluyen:
+</p>
+<p>En la teoría newtoniana de la gravitación, los efectos de la gravedad son siempre atractivos, y la fuerza resultante se calcula respecto del <a href="/wiki/Centro_de_gravedad" title="Centro de gravedad">centro de gravedad</a> de ambos objetos (en el caso de la Tierra, el centro de gravedad es su centro de masas, al igual que en la mayoría de los cuerpos celestes de características homogéneas). La gravedad newtoniana tiene un alcance teórico infinito; la fuerza es mayor si los objetos están próximos pero a mayor distancia dicha fuerza pierde intensidad. Además Newton postuló que la gravedad es una <a href="/wiki/Acci%C3%B3n_a_distancia" title="Acción a distancia">acción a distancia</a> (y por tanto a nivel relativista no es una descripción correcta, sino solo una primera aproximación para cuerpos en movimiento muy lento comparado con la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>).
+</p>
+<p>La ley de la gravitación universal formulada por Isaac Newton postula que la fuerza que ejerce una partícula puntual con masa <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m_{1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m_{1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle m_{1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/31aafa60e48d39ccce922404c0b80340b2cc777a" style="vertical-align: -0.671ex; width:3.095ex; height:2.009ex;"/></span> sobre otra con masa <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m_{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m_{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle m_{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0ecebe334d5cadc3ffcf245eb02919034d7a2ec8" style="vertical-align: -0.671ex; width:3.095ex; height:2.009ex;"/></span> es directamente proporcional al producto de las masas, e inversamente proporcional al cuadrado de la <a href="/wiki/Distancia" title="Distancia">distancia</a> que las separa:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r_{2}} -\mathbf {r_{1}} |^{2}}}\mathbf {\hat {u}} _{21}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi mathvariant="bold">r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="bold">2</mn>
+</mrow>
+</msub>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi mathvariant="bold">r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="bold">1</mn>
+</mrow>
+</msub>
+</mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">u</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r_{2}} -\mathbf {r_{1}} |^{2}}}\mathbf {\hat {u}} _{21}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r_{2}} -\mathbf {r_{1}} |^{2}}}\mathbf {\hat {u}} _{21}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a9bce3b9a8fd38ed49238f06ad7e9aee0a0c811c" style="vertical-align: -3.005ex; width:24.237ex; height:5.843ex;"/></span>
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {\hat {u}} _{21}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">u</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {\hat {u}} _{21}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {\hat {u}} _{21}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/acf4eb32fd660b2f71878b5324bdcbaf697a9df2" style="vertical-align: -0.671ex; width:3.362ex; height:2.676ex;"/></span> es el <a href="/wiki/Vector_unitario" title="Vector unitario">vector unitario</a> que dirigido de la partícula 1 a la 2, esto es, en la dirección del vector
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {r} _{21}=\mathbf {r} _{2}-\mathbf {r} _{1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {r} _{21}=\mathbf {r} _{2}-\mathbf {r} _{1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {r} _{21}=\mathbf {r} _{2}-\mathbf {r} _{1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/332591956d7f7fbf45646db92d05ac9706ef5281" style="vertical-align: -0.671ex; width:13.23ex; height:2.343ex;"/></span>, y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G\,\!}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle G\,\!}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c5360c2263beb7cabb600946e9d8d2f34f6eb17e" style="vertical-align: -0.338ex; margin-right: -0.387ex; width:2.214ex; height:2.176ex;"/></span> es la <a href="/wiki/Constante_de_gravitaci%C3%B3n_universal" title="Constante de gravitación universal">constante de gravitación universal</a>, siendo su valor aproximadamente 6,674 × 10<sup>−11 </sup>N·m²/kg².
+</p>
+<p>Por ejemplo, usando la ley de la gravitación universal, podemos calcular la fuerza de atracción entre la Tierra y un cuerpo de 50 kg. La masa de la Tierra es 5,974 × 10<sup>24</sup> kg y la distancia entre el centro de gravedad de la Tierra (centro de la tierra) y el centro de gravedad del cuerpo es 6378,14 km (igual a <span style="white-space:nowrap">6 378 140 m</span>, y suponiendo que el cuerpo se encuentre sobre la <a href="/wiki/Ecuador_terrestre" title="Ecuador terrestre">línea del ecuador</a>). Entonces, la fuerza es:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle F=G{\frac {m_{1}m_{2}}{d^{2}}}=6,67428\times 10^{-11}{\frac {50\times 5,974\cdot 10^{24}}{6378140^{2}}}=490,062\ {\text{N}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>F</mi>
+<mo>=</mo>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>6</mn>
+<mo>,</mo>
+<mn>67428</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>11</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>50</mn>
+<mo>×<!-- × --></mo>
+<mn>5</mn>
+<mo>,</mo>
+<mn>974</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>24</mn>
+</mrow>
+</msup>
+</mrow>
+<msup>
+<mn>6378140</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>490</mn>
+<mo>,</mo>
+<mn>062</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>N</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F=G{\frac {m_{1}m_{2}}{d^{2}}}=6,67428\times 10^{-11}{\frac {50\times 5,974\cdot 10^{24}}{6378140^{2}}}=490,062\ {\text{N}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle F=G{\frac {m_{1}m_{2}}{d^{2}}}=6,67428\times 10^{-11}{\frac {50\times 5,974\cdot 10^{24}}{6378140^{2}}}=490,062\ {\text{N}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e29efcba5eb2ce3468ca4bb08ceee2d6c64abe49" style="vertical-align: -2.338ex; width:64.115ex; height:6.343ex;"/></span>
+</p>
+<p>La fuerza con que se atraen la Tierra y el cuerpo de 50 kg es 490.062 N (<a href="/wiki/Newton_(unidad)" title="Newton (unidad)">Newtons</a>, <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a>), lo que representa 50 kgf (<a class="mw-redirect" href="/wiki/Kilogramo-fuerza" title="Kilogramo-fuerza">kilogramo-fuerza</a>, <a class="mw-redirect" href="/wiki/Sistema_T%C3%A9cnico" title="Sistema Técnico">Sistema Técnico</a>), como cabía esperar, por lo que decimos simplemente que el cuerpo <a href="/wiki/Peso" title="Peso">pesa</a> 50 kg.
+</p>
+<p>Dentro de esta <a href="/wiki/Empirismo" title="Empirismo">ley empírica</a>, tenemos estas importantes conclusiones:
+</p>
+<p>A pesar de los siglos, hoy sigue utilizándose cotidianamente esta ley en el ámbito del movimiento de cuerpos incluso a la escala del sistema solar, aunque esté desfasada teóricamente. Para estudiar el fenómeno en su completitud hay que recurrir a la teoría de la <a class="mw-redirect" href="/wiki/Relatividad_General" title="Relatividad General">Relatividad General</a>.
+</p>
+<p>La ley de Newton aplicada a un sistema de dos partículas o dos cuerpos, cuyas dimensiones físicas son pequeñas comparadas con las distancias entre ellos, lleva a que ambos cuerpos describirán una <a href="/wiki/Secci%C3%B3n_c%C3%B3nica" title="Sección cónica">curva cónica</a> (elipse, parábola o hipérbola) respecto a un sistema de referencia inercial con origen en el centro de masa del sistema, que además coincidirá con uno de los focos de la cónica. Si la energía total del sistema (energía potencial más energía cinética de los cuerpos) es negativa, entonces las curvas cónicas que dan la trayectoria de ambos cuerpos serán elipses. Ese resultado fue la primera deducción teórica de que los planetas reales se mueven en trayectorias que con bastante aproximación, son elipses, y permitió explicar diversas observaciones empíricas resumidas en las <a href="/wiki/Leyes_de_Kepler" title="Leyes de Kepler">leyes de Kepler</a>.
+</p>
+<p>De acuerdo con la descripción newtoniana, cuando se mueven tres cuerpos bajo la acción de su campo gravitatorio mutuo, como el sistema Sol-Tierra-Luna, la fuerza sobre cada cuerpo es justamente la suma vectorial de las fuerzas gravitatorias ejercidas por los otros dos. Así las <a href="/wiki/Ecuaci%C3%B3n_de_movimiento" title="Ecuación de movimiento">ecuaciones de movimiento</a> son fáciles de escribir pero difíciles de resolver ya que no son <a class="mw-redirect" href="/wiki/No_linealidad" title="No linealidad">lineales</a>. De hecho, es bien conocido que la dinámica del problema de los tres cuerpos de la mecánica clásica es una <a class="mw-redirect" href="/wiki/Caos_determinista" title="Caos determinista">dinámica caótica</a>.
+</p>
+<p>Desde la época de Newton se ha intentado hallar soluciones matemáticamente exactas del problema de los tres cuerpos, hasta que a finales del siglo <span style="font-variant:small-caps;text-transform:lowercase">XIX</span> <a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Henri Poincaré</a> demostró en un célebre trabajo que era imposible una solución general analítica (sin embargo, se mostró también que por medio de series infinitas convergentes se podía solucionar el problema). Solamente en algunas circunstancias son posibles ciertas soluciones sencillas. Por ejemplo, si la masa de uno de los tres cuerpos es mucho menor que la de los otros dos (problema conocido como <i>problema restringido de los tres cuerpos</i>), el sistema puede ser reducido a un problema de dos cuerpos más otro problema de un solo cuerpo.
+</p>
+<p><a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a> revisó la teoría newtoniana en su teoría de la <a href="/wiki/Relatividad_general" title="Relatividad general">relatividad general</a>, describiendo la interacción gravitatoria como una deformación de la geometría del <a href="/wiki/Espacio-tiempo" title="Espacio-tiempo">espacio-tiempo</a> por efecto de la masa de los cuerpos; el espacio y el tiempo asumen un papel dinámico.
+</p>
+<p>Según Einstein, no existe el empuje gravitatorio; dicha fuerza es una ilusión, un efecto de la <a href="/wiki/Geometr%C3%ADa" title="Geometría">geometría</a>. Así, la Tierra deforma el espacio-tiempo de nuestro entorno, de manera que el propio espacio nos empuja hacia el suelo. Una hormiga, al caminar sobre un papel arrugado, tendrá la sensación de que hay fuerzas misteriosas que la empujan hacia diferentes direcciones, pero lo único que existe son pliegues en el papel, su geometría.
+</p>
+<p>La deformación geométrica viene caracterizada por el <a href="/wiki/Tensor_m%C3%A9trico" title="Tensor métrico">tensor métrico</a> que satisface las <a class="mw-redirect" href="/wiki/Ecuaci%C3%B3n_del_campo_de_Einstein" title="Ecuación del campo de Einstein">ecuaciones de campo de Einstein</a>. La "fuerza de la gravedad" newtoniana es solo un efecto asociado al hecho de que un <a href="/wiki/Observador" title="Observador">observador</a> en reposo respecto a la fuente del campo no es un <a class="mw-redirect" href="/wiki/Sistema_inercial#Sistemas_inerciales_en_mecánica_relativista" title="Sistema inercial">observador inercial</a> y por tanto al tratar de aplicar el equivalente relativista de las <a href="/wiki/Leyes_de_Newton" title="Leyes de Newton">leyes de Newton</a> mide <a href="/wiki/Fuerza_ficticia" title="Fuerza ficticia">fuerzas ficticias</a> dadas por los <a href="/wiki/S%C3%ADmbolos_de_Christoffel" title="Símbolos de Christoffel">símbolos de Christoffel</a> de la métrica del espacio-tiempo.
+</p>
+<p>La gravedad convencional de acuerdo con la teoría de la relatividad tiene generalmente características atractivas, mientras que la denominada <a href="/wiki/Energ%C3%ADa_oscura" title="Energía oscura">energía oscura</a> parece tener características de fuerza gravitacional repulsiva, causando la acelerada <a href="/wiki/Expansi%C3%B3n_m%C3%A9trica_del_espacio" title="Expansión métrica del espacio">expansión del universo</a>.
+</p>
+<p>En presencia de una masa esférica, el espacio-tiempo no es plano sino curvo, y el <a href="/wiki/Tensor_m%C3%A9trico" title="Tensor métrico">tensor métrico</a> <i>g</i> que sirve para calcular las distancias viene dado en coordenadas usuales <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle (t,r,\theta ,\phi )}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo>,</mo>
+<mi>r</mi>
+<mo>,</mo>
+<mi>θ<!-- θ --></mi>
+<mo>,</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle (t,r,\theta ,\phi )}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle (t,r,\theta ,\phi )}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb4bab1268db0b56b5256ce86fc33fc5add29e3c" style="vertical-align: -0.671ex; width:5.737ex; height:2.176ex;"/></span>, llamada <a href="/wiki/M%C3%A9trica_de_Schwarzschild" title="Métrica de Schwarzschild">métrica de Schwarzschild</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle g=-c^{2}\left(1-{\frac {2GM}{c^{2}r}}\right)\mathrm {d} t\otimes \mathrm {d} t+\left(1-{\frac {2GM}{c^{2}r}}\right)^{-1}\mathrm {d} r\otimes \mathrm {d} r+r^{2}\left(\mathrm {d} \theta \otimes \mathrm {d} \theta +\sin ^{2}\theta \ \mathrm {d} \varphi \otimes \mathrm {d} \varphi \right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>g</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+<mrow>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>r</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>t</mi>
+<mo>⊗<!-- ⊗ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>t</mi>
+<mo>+</mo>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+<mrow>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>r</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>r</mi>
+<mo>⊗<!-- ⊗ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>r</mi>
+<mo>+</mo>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>θ<!-- θ --></mi>
+<mo>⊗<!-- ⊗ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>θ<!-- θ --></mi>
+<mo>+</mo>
+<msup>
+<mi>sin</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>θ<!-- θ --></mi>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>φ<!-- φ --></mi>
+<mo>⊗<!-- ⊗ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>φ<!-- φ --></mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle g=-c^{2}\left(1-{\frac {2GM}{c^{2}r}}\right)\mathrm {d} t\otimes \mathrm {d} t+\left(1-{\frac {2GM}{c^{2}r}}\right)^{-1}\mathrm {d} r\otimes \mathrm {d} r+r^{2}\left(\mathrm {d} \theta \otimes \mathrm {d} \theta +\sin ^{2}\theta \ \mathrm {d} \varphi \otimes \mathrm {d} \varphi \right)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle g=-c^{2}\left(1-{\frac {2GM}{c^{2}r}}\right)\mathrm {d} t\otimes \mathrm {d} t+\left(1-{\frac {2GM}{c^{2}r}}\right)^{-1}\mathrm {d} r\otimes \mathrm {d} r+r^{2}\left(\mathrm {d} \theta \otimes \mathrm {d} \theta +\sin ^{2}\theta \ \mathrm {d} \varphi \otimes \mathrm {d} \varphi \right)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5b2616c1b80bbe50484c71e071c19e33bd57c38c" style="vertical-align: -2.505ex; width:88.382ex; height:6.509ex;"/></span>
+</p>
+<p>donde <i>G</i> es la <a href="/wiki/Constante_de_gravitaci%C3%B3n_universal" title="Constante de gravitación universal">constante de gravitación universal</a>, <i>M</i> es la masa de la estrella, y <i>c</i> es la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>. La ecuación de las <a href="/wiki/Geod%C3%A9sica" title="Geodésica">geodésicas</a> dará la ecuación de las trayectorias en el espacio-tiempo curvo. Si se considera una partícula en reposo respecto a la masa gravitatoria que crea el campo, se tiene que esta seguirá una trayectoria dada por las ecuaciones:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{cases}{\cfrac {d^{2}r}{d\tau ^{2}}}=+{\cfrac {GM}{(c^{2}r-2GM)r}}\left({\cfrac {dr}{d\tau }}\right)^{2}-\left(r-{\cfrac {2GM}{c^{2}}}\right){\cfrac {GM}{r^{3}}}\left({\cfrac {dt}{d\tau }}\right)^{2}\\\\{\cfrac {d^{2}t}{d\tau ^{2}}}=-2{\cfrac {GM}{(c^{2}r-2GM)r}}\left({\cfrac {dr}{d\tau }}\right)\left({\cfrac {dt}{d\tau }}\right)\end{cases}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>{</mo>
+<mtable columnalign="left left" columnspacing="1em" displaystyle="false" rowspacing=".2em">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>r</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<msup>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>r</mi>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<mi>G</mi>
+<mi>M</mi>
+<mo stretchy="false">)</mo>
+<mi>r</mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>r</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>τ<!-- τ --></mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>r</mi>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>τ<!-- τ --></mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>t</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<msup>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>r</mi>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<mi>G</mi>
+<mi>M</mi>
+<mo stretchy="false">)</mo>
+<mi>r</mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>r</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>τ<!-- τ --></mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>τ<!-- τ --></mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+<mo fence="true" stretchy="true" symmetric="true"></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{cases}{\cfrac {d^{2}r}{d\tau ^{2}}}=+{\cfrac {GM}{(c^{2}r-2GM)r}}\left({\cfrac {dr}{d\tau }}\right)^{2}-\left(r-{\cfrac {2GM}{c^{2}}}\right){\cfrac {GM}{r^{3}}}\left({\cfrac {dt}{d\tau }}\right)^{2}\\\\{\cfrac {d^{2}t}{d\tau ^{2}}}=-2{\cfrac {GM}{(c^{2}r-2GM)r}}\left({\cfrac {dr}{d\tau }}\right)\left({\cfrac {dt}{d\tau }}\right)\end{cases}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{cases}{\cfrac {d^{2}r}{d\tau ^{2}}}=+{\cfrac {GM}{(c^{2}r-2GM)r}}\left({\cfrac {dr}{d\tau }}\right)^{2}-\left(r-{\cfrac {2GM}{c^{2}}}\right){\cfrac {GM}{r^{3}}}\left({\cfrac {dt}{d\tau }}\right)^{2}\\\\{\cfrac {d^{2}t}{d\tau ^{2}}}=-2{\cfrac {GM}{(c^{2}r-2GM)r}}\left({\cfrac {dr}{d\tau }}\right)\left({\cfrac {dt}{d\tau }}\right)\end{cases}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/db560386a8745915195a3a2265fb1f69c562c7b7" style="vertical-align: -8.505ex; width:65.313ex; height:18.176ex;"/></span>
+</p>
+<p>La primera de estas ecuaciones da el cambio de la coordenada radial, y la segunda da la <a href="/wiki/Dilataci%C3%B3n_del_tiempo" title="Dilatación del tiempo">dilatación del tiempo</a> respecto a un observador inercial, situado a una distancia muy grande respecto a la masa que crea el campo. Si se particularizan esas ecuaciones para el instante inicial en que la partícula está en reposo y empieza a moverse desde la posición inicial, se llega a que la fuerza aparente que mediría un observador en reposo viene dada por:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\cfrac {d^{2}r}{d\tau ^{2}}}=-\left(r-{\cfrac {2GM}{c^{2}}}\right){\cfrac {GM}{r^{3}}}\left({\cfrac {dt}{d\tau }}\right)^{2}=-{\cfrac {GM}{r^{2}}}\left[\left(1-{\cfrac {2GM}{c^{2}r}}\right)\left({\cfrac {dt}{d\tau }}\right)^{2}\right]\approx -{\cfrac {GM}{r^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>r</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<msup>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>r</mi>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>τ<!-- τ --></mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>r</mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>τ<!-- τ --></mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>≈<!-- ≈ --></mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\cfrac {d^{2}r}{d\tau ^{2}}}=-\left(r-{\cfrac {2GM}{c^{2}}}\right){\cfrac {GM}{r^{3}}}\left({\cfrac {dt}{d\tau }}\right)^{2}=-{\cfrac {GM}{r^{2}}}\left[\left(1-{\cfrac {2GM}{c^{2}r}}\right)\left({\cfrac {dt}{d\tau }}\right)^{2}\right]\approx -{\cfrac {GM}{r^{2}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\cfrac {d^{2}r}{d\tau ^{2}}}=-\left(r-{\cfrac {2GM}{c^{2}}}\right){\cfrac {GM}{r^{3}}}\left({\cfrac {dt}{d\tau }}\right)^{2}=-{\cfrac {GM}{r^{2}}}\left[\left(1-{\cfrac {2GM}{c^{2}r}}\right)\left({\cfrac {dt}{d\tau }}\right)^{2}\right]\approx -{\cfrac {GM}{r^{2}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/729517c255e2734d84b2537ea337419c79f3df3d" style="vertical-align: -3.671ex; width:82.817ex; height:8.509ex;"/></span>
+</p>
+<p>Esta expresión coincide con la expresión de la teoría newtoniana si se tiene en cuenta que la <a href="/wiki/Dilataci%C3%B3n_del_tiempo#Dilatación_del_tiempo_por_gravitación" title="Dilatación del tiempo">dilatación del tiempo gravitatoria</a> para un observador dentro de un campo gravitatorio y en reposo respecto a la fuente del campo viene dado por:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\cfrac {dt}{d\tau }}\right)^{2}=\left[1-{\cfrac {2GM}{c^{2}r}}\right]^{-1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>τ<!-- τ --></mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>r</mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\cfrac {dt}{d\tau }}\right)^{2}=\left[1-{\cfrac {2GM}{c^{2}r}}\right]^{-1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left({\cfrac {dt}{d\tau }}\right)^{2}=\left[1-{\cfrac {2GM}{c^{2}r}}\right]^{-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/672d87b66209dd84c1234f739f4815254acebf7a" style="vertical-align: -3.171ex; width:26.402ex; height:8.009ex;"/></span>
+</p>
+<p>Además, la relatividad general predice la propagación de <a href="/wiki/Onda_gravitatoria" title="Onda gravitatoria">ondas gravitatorias</a>. Estas ondas solo podrían ser medibles si las originan fenómenos astrofísicos violentos, como el choque de dos estrellas masivas o remanentes del <i><a href="/wiki/Big_Bang" title="Big Bang">Big Bang</a></i>. Estudios preliminares sugieren que estas ondas han sido finalmente detectadas<sup class="reference separada" id="cite_ref-mundogravi_14-0"><a href="#cite_note-mundogravi-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​ de forma indirecta en la variación del periodo de rotación de <a class="mw-redirect" href="/wiki/Pulsar" title="Pulsar">púlsares dobles</a>, y según el proyecto LIGO, también se detectaron provenientes de la unión de dos agujeros negros.<sup class="reference separada" id="cite_ref-ligodetect_15-0"><a href="#cite_note-ligodetect-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​ Por otro lado, las teorías cuánticas actuales apuntan a una "unidad de medida de la gravedad", el <a href="/wiki/Gravit%C3%B3n" title="Gravitón">gravitón</a>, como <a href="/wiki/Part%C3%ADcula_elemental" title="Partícula elemental">partícula</a> que provoca dicha "fuerza", es decir, como partícula asociada al campo gravitatorio.
+</p>
+<p>Con la ayuda de esta nueva teoría, se pueden observar y estudiar una nueva serie de sucesos antes no explicables o no observados:
+</p>
+<p>Aunque aún no se dispone de una auténtica descripción cuántica de la gravedad, todos los intentos por crear una teoría física que satisfaga simultáneamente los principios cuánticos y a grandes escalas coincida con la teoría de Einstein de la gravitación, han encontrado grandes dificultades. En la actualidad existen algunos enfoques prometedores como la <a href="/wiki/Gravedad_cu%C3%A1ntica_de_bucles" title="Gravedad cuántica de bucles">gravedad cuántica de bucles</a>, la <a href="/wiki/Teor%C3%ADa_de_supercuerdas" title="Teoría de supercuerdas">teoría de supercuerdas</a> o la <a class="mw-redirect" href="/wiki/Twistor" title="Twistor">teoría de twistores</a>, pero ninguno de ellos es un modelo completo que pueda suministrar predicciones suficientemente precisas. Además se han ensayado un buen número de aproximaciones semiclásicas que han sugerido nuevos efectos que debería predecir una teoría cuántica de la gravedad. Por ejemplo, <a href="/wiki/Stephen_Hawking" title="Stephen Hawking">Stephen Hawking</a> usando uno de estos últimos enfoques sugirió que un agujero negro debería emitir cierta cantidad de radiación, efecto que se llamó <a href="/wiki/Radiaci%C3%B3n_de_Hawking" title="Radiación de Hawking">radiación de Hawking</a> y que aún no ha sido verificado empíricamente.
+</p>
+<p>Las razones de las dificultades de una teoría unificada son varias. La mayor de ellas es que en el resto de <a href="/wiki/Teor%C3%ADa_cu%C3%A1ntica_de_campos" title="Teoría cuántica de campos">teorías cuánticas de campos</a> la estructura del espacio-tiempo es fija totalmente independiente de la materia, pero en cambio, en una teoría cuántica de la gravedad el propio espacio-tiempo debe estar sujeto a principios probabilistas, pero no sabemos como describir un <a href="/wiki/Espacio_de_Hilbert" title="Espacio de Hilbert">espacio de Hilbert</a> para los diversos estados cuánticos del propio espacio-tiempo. Así La unificación de la fuerza gravitatoria con las otras fuerzas fundamentales sigue resistiéndose a los físicos. La aparición en el Universo de <a href="/wiki/Materia_oscura" title="Materia oscura">materia oscura</a> o una aceleración de la expansión del Universo hace pensar que todavía falta una teoría satisfactoria de las interacciones gravitatorias completas de las partículas con masa.
+</p>
+<p>Otro punto difícil, es que de acuerdo con los principios cuánticos, el campo gravitatorio debería manifestarse en <a href="/wiki/Cuanto" title="Cuanto">«cuantos»</a> o partículas <a href="/wiki/Bos%C3%B3n" title="Bosón">bosónicas</a> transmisoras de la influencia gravitatoria. Dadas las características del campo gravitatorio, la supuesta partícula que transmitiría la interacción gravitatoria, llamada provisionalmente <a href="/wiki/Gravit%C3%B3n" title="Gravitón">gravitón</a>, debería ser una partícula sin masa (o con una masa extremadamente pequeña) y un espín de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2\hbar }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>2</mn>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 2\hbar }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 2\hbar }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5094d4ab4c3f40201cbbe7c711dad130531cfb09" style="vertical-align: -0.338ex; width:2.469ex; height:2.176ex;"/></span>. Sin embargo, los experimentos de detección de ondas gravitatorias todavía no han encontrado evidencia de la existencia del gravitón, por lo que de momento no es más que una conjetura física que podría no corresponderse con la realidad.
+</p>
+<p>La interacción gravitatoria es una de las cuatro <a class="mw-redirect" href="/wiki/Fuerzas_fundamentales" title="Fuerzas fundamentales">fuerzas fundamentales</a> de la Naturaleza, junto al <a href="/wiki/Electromagnetismo" title="Electromagnetismo">electromagnetismo</a>, la <a href="/wiki/Interacci%C3%B3n_nuclear_fuerte" title="Interacción nuclear fuerte">interacción nuclear fuerte</a> y la <a class="mw-redirect" href="/wiki/Interacci%C3%B3n_nuclear_d%C3%A9bil" title="Interacción nuclear débil">interacción nuclear débil</a>. A diferencia de las fuerzas nucleares y a semejanza del electromagnetismo, actúa a grandes distancias. Sin embargo, al contrario que el electromagnetismo, la gravedad es una fuerza de tipo atractiva aunque existen casos particulares en que las geodésicas temporales pueden expandirse en ciertas regiones del espacio-tiempo, lo cual hace aparecer a la gravedad como una fuerza repulsiva, por ejemplo la <a href="/wiki/Energ%C3%ADa_oscura" title="Energía oscura">energía oscura</a>. Este es el motivo de que la gravedad sea la fuerza más importante a la hora de explicar los movimientos celestes.
+</p>

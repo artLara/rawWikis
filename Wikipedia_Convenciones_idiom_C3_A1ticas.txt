@@ -1,0 +1,162 @@
+<p>A continuación, una lista sobre las dudas más frecuentes sobre nuestro idioma. Es, a la vez que una referencia y una página de ayuda, una página de debate y de peticiones. Si tienes alguna duda para consultar, la puedes listar en <a class="mw-redirect" href="/wiki/Wikipedia:Consultas_ling%C3%BC%C3%ADsticas" title="Wikipedia:Consultas lingüísticas">Wikipedia:Consultas lingüísticas</a>. Además, o consultar o discutir las convenciones de estilo en Wikipedia (traducciones, abreviaturas, transliteraciones, etc.) puedes visitar el <a href="/wiki/Wikipedia:Manual_de_estilo" title="Wikipedia:Manual de estilo">Manual de estilo de Wikipedia</a>.
+</p>
+<p>El siguiente texto es una respuesta a una consulta hecha al Departamento de «Español al día» de la Real Academia Española:
+</p>
+<p>Aunque una frase empiece por un número, también se considera a este como la primera palabra, por lo que la siguiente palabra debe escribirse con minúscula inicial: <i>23 330 latas de cerveza y 12 000 latas de refresco</i>. Lo mismo sucede si se trata de un número romano: <i>[…] y sonrió. XVIII duquesa de Alba de Tormes, doña Cayetana ha sabido. Cuando el V obispo de San Bartolomé de Chillán condujo</i>.
+</p>
+<p>La <i>Ortografía de la lengua española</i> de 2010 señala al respecto de los puntos cardinales:<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><br/>
+</p>
+<p>Los adjetivos <a href="/wiki/Gentilicio" title="Gentilicio">gentilicios</a> deben ir en minúscula, pues al comenzar una oración, acompañan a un artículo (por ejemplo: «argentino», «americanos», «española», y no «Argentino»*, «Americanos»*, «Española»*).<sup class="reference separada" id="cite_ref-DPDmay6_2-0"><a href="#cite_note-DPDmay6-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ En inglés, se escriben siempre con mayúscula, pero en español son sustantivos comunes y por eso deben empezar en minúscula, al contrario que los propios.
+</p>
+<p>La expresión «hora central europea» —y otras equivalentes— deben ir en minúscula, y no en mayúscula como se ha venido haciendo hasta ahora. Tras una consulta a la Real Academia, esta fue su respuesta:
+<link href="mw-data:TemplateStyles:r149592375" rel="mw-deduplicated-inline-style"/>
+</p>
+<p>La expresión «hora central europea», utilizada como especificación de la referencia horaria, se escribe siempre con minúsculas: «Se trata, naturalmente, de una decisión política adoptada hace sesenta años por un Gobierno que se adhirió por decreto a la llamada hora central europea —la de Berlín—, aun a pesar de que el meridiano de Greenwich discurre casi por el centro de la Península» (La Nueva España 6.12.2006).
+</p>
+<p>Nótese también que «examen», «imagen», «joven», «orden» y «origen» son palabras llanas terminadas en «n» y, por tanto, no llevan acento ortográfico, en tanto que sus plurales se hacen esdrújulas y siempre van tildadas. Una regla que evita un alto porcentaje de los errores es considerar las palabras terminadas en <u>n</u>, <u>s</u> o <u>vocal</u> como naturalmente graves y, por tanto, se escriben sin tilde: «aborigen» (termina en n, <a class="mw-redirect" href="/wiki/Alfabeto_fon%C3%A9tico_internacional" title="Alfabeto fonético internacional">se pronuncia</a> [abo'ɾixen]), «zapato» (termina en vocal, <a class="mw-redirect" href="/wiki/Alfabeto_fon%C3%A9tico_internacional" title="Alfabeto fonético internacional">se pronuncia</a> [sa'pato] o [za'pato]), «pecosos» (termina en s, <a class="mw-redirect" href="/wiki/Alfabeto_fon%C3%A9tico_internacional" title="Alfabeto fonético internacional">se pronuncia</a> [pe'kosos]).
+</p>
+<p>En principio, el uso con o sin preposición tiene significados distintos:
+</p>
+<p>Sin embargo, la <a class="external text" href="http://lema.rae.es/dpd/?key=deber" rel="nofollow">Real Academia</a> no considera incorrecta la supresión de la preposición en el segundo caso: «Debe estar lloviendo».
+</p>
+<p>Para poder distinguir fácilmente ambos significados, en el primer caso (obligación), generalmente puede ser sustituido por «tener que»: «Tienes que obedecer a tu madre». Si al hacer el cambio, la oración también cambia, se trata del segundo caso (posibilidad): no es lo mismo «Tiene que estar lloviendo» que «Debe de estar lloviendo».
+</p>
+<p>Para quienes este primer método no sea aclaratorio, otra forma de distinguir ambos significados es sustituir «debe de» por «es probable que»; si al hacerlo la oración pierde su significado original, entonces «debe de» es incorrecto y hay que usar «debe» en su lugar.
+</p>
+<p>En el registro coloquial y usos de habla de nivel vulgar es común el empleo de la expresión «de que» en lugares donde corresponde la conjunción «que», fenómeno conocido como <a class="external text" href="http://lema.rae.es/dpd/?key=dequeísmo" rel="nofollow">dequeísmo</a>.
+</p>
+<p>Ejemplos de dequeísmo:
+</p>
+<p>Al contrario, en este tipo de sociolectos, es también habitual encontrar empleo indebido de «que» cuando corresponde «de que»; denominado <b><a class="external text" href="http://lema.rae.es/dpd/?key=que%C3%ADsmo" rel="nofollow">queísmo</a></b>.
+</p>
+<p>Ejemplos de queísmo:
+</p>
+<p>Un buen modo de determinar cuándo corresponde el empleo de uno u otro, es aplicar la regla del <a class="external text" href="http://www.elcastellano.org/que.html" rel="nofollow">«que-eso»</a>: Consiste en reemplazar la palabra «que» por la palabra «eso» y comprobar si la oración tiene sentido.
+</p>
+<p>¿Se escribe «correción» o corrección? En general hay erratas con los -ción y los -cción. Si duda, recuerde que solo las palabras terminadas en «-cción» aceptan el sufijo «-ctor». Ejemplos: <i>a<u>cción</u> → a<u>ctor</u>, tradu<u>cción</u> → tradu<u>ctor</u>, corre<u>cción</u> → corre<u>ctor</u>,</i> etc.
+</p>
+<p>Por el contrario, no se escribirá «inflacción», sino «inflación».
+</p>
+<p>Para los hablantes seseantes, una importante excepción es el sustantivo <i>conexión</i>, a pesar de que el verbo correspondiente es <i>conectar</i>. Esta irregularidad tiene razones etimológicas, ya que en <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a> también se escribía CONNEXIO, -ONIS. (Téngase en cuenta que la terminación -cción del castellano viene del latín -CTIO, pronunciada originalmente /ktio/).
+</p>
+<p>La forma correcta es decir «gratis»: «El agua es gratis». *«de gratis» es <a class="external text" href="http://lema.rae.es/dpd/?key=gratis" rel="nofollow">incorrecto</a> (se debe al cruce con expresiones como «de balde»): *«A Lucía la dejaron entrar de gratis».
+</p>
+<p>Las palabras terminadas en -i o -u acentuadas permiten el doble plural (por ejemplo: «jabalís»/«jabalíes»). En cambio, en el caso de los gentilicios («iraquí», «iraní», etc.) se emplea de forma casi única el plural en -«íes». <a class="external text" href="http://lema.rae.es/dpd/?key=plural" rel="nofollow">Más información</a>.
+</p>
+<p>Debe escribirse «prescribir», «prescripción», «prescriptible». Son incorrectas, por tanto, las formas con doble -ee- *«Preescribir, preescripción, preescriptible». Similar observación vale para «prever»: «preverse», «previsible» son formas correctas que suelen escribirse de manera errónea como (*«preveer»). <a class="external text" href="http://lema.rae.es/dpd/?key=prescribir" rel="nofollow">Más información</a>.
+</p>
+<p>Las <a href="/wiki/Asociaci%C3%B3n_de_Academias_de_la_Lengua_Espa%C3%B1ola" title="Asociación de Academias de la Lengua Española">Academias de la Lengua Española</a>, en su <i>Diccionario panhispánico de dudas</i>, sí consideran correcto este uso, en su acepción de «‘poseer públicamente [algo considerado un honor o un privilegio, como un cargo relevante, un título, etc.]’».<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En <a href="/wiki/Idioma_franc%C3%A9s" title="Idioma francés">francés</a> se usa <i>jouer</i> para el uso que en español damos a «representar» un papel de teatro o «tocar» un instrumento musical. En <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a> existe la expresión similar <i>play</i>. Por extensión de «papel» se habla de las funciones, cargos, responsabilidades o importancia que tiene una persona o cosa en un asunto determinado.
+</p>
+<p>Es un extendido galicismo transportar literalmente el francés <i>jouer son rôle</i> o el inglés <i>play his role</i> (‘representar su papel’) y decir «jugar un papel». Aunque la Real Academia <a class="external text" href="http://lema.rae.es/dpd/?key=jugar" rel="nofollow">no lo considera erróneo</a>, se considera preferible, sin embargo, utilizar verbos alternativos como «representar» o «desempeñar».
+</p>
+<p>«Soportar» se usa con frecuencia como traducción del <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a> <i>support</i>; sin embargo, es un <a href="/wiki/Falso_amigo" title="Falso amigo">falso amigo</a>. Como verbo, el inglés <i>support</i> significa ‘apoyar, admitir, financiar, ser compatible con…’; y, como sustantivo, ‘ayuda’ o ‘asistencia’ (por lo que «soporte técnico» tampoco es una expresión correcta, sino que se tendría que decir «ayuda técnica» o «asistencia técnica»).
+</p>
+<p><a class="external text" href="http://buscon.rae.es/draeI/SrvltGUIBusUsual?TIPO_HTML=2&amp;TIPO_BUS=3&amp;LEMA=soportar" rel="nofollow">Soportar</a> es sostener una carga o aguantar algo o a alguien. Por ejemplo:
+</p>
+<p>Un ejemplo del mal uso de soportar es el siguiente:
+</p>
+<p>Si bien es correcto decir «hace dos siglos pasó tal suceso» o «dos siglos atrás pasó tal otro», mezclar las dos oraciones es una redundancia muy común. Es incorrecto decir «hace dos siglos atrás» porque la última palabra y la primera están haciendo referencia a lo mismo, por lo que no deben ser usadas en conjunto. Por el contrario, pueden usarse sustitutivamente para evitar repeticiones.
+</p>
+<p>Aunque el DRAE incluye «estadounidense» como cuarta acepción del término «<a class="external text" href="http://lema.rae.es/drae/?val=americano" rel="nofollow">americano</a>», el <i>Diccionario panhispánico de dudas</i> desaconseja utilizar este término como sinónimo de «estadounidense», ya que es un calco erróneo del inglés. En cambio, sí considera aceptable emplear el término «norteamericano» en el sentido de «estadounidense»:
+</p>
+<p>En cualquier caso, para mayor claridad, y para evitar ambigüedades, siempre es preferible utilizar el término más específico «estadounidense» para referirse a los naturales de los <a class="mw-redirect" href="/wiki/Estados_Unidos_de_Am%C3%A9rica" title="Estados Unidos de América">Estados Unidos de América</a>, tal como <a class="external text" href="http://lema.rae.es/dpd/?key=estadounidense" rel="nofollow">se recomienda en el DRAE</a>, ya que norteamericanos pueden ser también los canadienses o los mexicanos; y americanos también pueden ser, además de los estadounidenses, los argentinos, los cubanos, etc.
+</p>
+<p>El gerundio es una forma impersonal del verbo que recibe su referencia temporal y personal del otro verbo conjugado con que se usa. Es una forma verbal que expresa el proceso en curso de una acción pero que no cumple la función de verbo, por lo tanto no denota la acción, sino que expresa simultaneidad de la acción con el tiempo en que se habla. Sus terminaciones son -ando, para los verbos de la 1. a conjugación, o -iendo, para los de la 2. ª y 3.
+</p>
+<p>El gerundio solamente puede emplearse para expresar anterioridad o simultaneidad, pero nunca posterioridad. <b>El uso del gerundio debe evitarse cuando la acción que denota es posterior a la acción que expresa el verbo principal.</b> El gerundio de posterioridad es un uso incorrecto y antinormativo porque el gerundio nunca puede usarse cuando indica un acto posterior al señalado por el verbo principal, del cual depende. Lo correcto es utilizar el gerundio de anterioridad, es decir, aquel que expresa una acción que sucede antes que la del verbo principal, por ejemplo: <i>Nació <b>siendo </b>una princesa.</i>
+</p>
+<p>En el español corriente es frecuente encontrar <a class="new" href="/w/index.php?title=Oraciones_condicionales&amp;action=edit&amp;redlink=1" title="Oraciones condicionales (aún no redactado)">oraciones condicionales</a> de negación implícita enteramente construidas haciendo uso del <a class="mw-redirect" href="/wiki/Modo_potencial" title="Modo potencial">modo potencial</a> (o condicional del indicativo) y olvidando por completo el <a href="/wiki/Modo_subjuntivo" title="Modo subjuntivo">modo subjuntivo</a>, que es el modo del deseo o la posibilidad.
+</p>
+<p>En los tiempos simples (presente y futuro), un <a class="new" href="/w/index.php?title=Per%C3%ADodo_condicional&amp;action=edit&amp;redlink=1" title="Período condicional (aún no redactado)">período condicional</a> debe construirse empleando el modo subjuntivo en la <a href="/wiki/Pr%C3%B3tasis" title="Prótasis">prótasis</a> y el modo potencial <b>sólo</b> en la <a href="/wiki/Ap%C3%B3dosis" title="Apódosis">apódosis</a>. Ej.:
+</p>
+<p>En los tiempos compuestos (pasado), la regla sigue siendo la misma. Lo único que hay que tener en cuenta es que el cambio <b>sólo</b> debe afectar al <a href="/wiki/Verbo_auxiliar" title="Verbo auxiliar">verbo auxiliar</a>. Ej.:
+</p>
+<p>Aunque, con el tiempo, la RAE terminó aceptando también el modo subjuntivo para la <a href="/wiki/Ap%C3%B3dosis" title="Apódosis">apódosis</a>. Ej.:
+</p>
+<p>Un par de sutilezas más:
+</p>
+<p>A continuación, una lista sobre las dudas más frecuentes sobre nuestro idioma. Es, a la vez que una referencia y una página de ayuda, una página de debate y de peticiones. Si tienes alguna duda para consultar, la puedes listar en <a class="mw-redirect" href="/wiki/Wikipedia:Consultas_ling%C3%BC%C3%ADsticas" title="Wikipedia:Consultas lingüísticas">Wikipedia:Consultas lingüísticas</a>. Además, o consultar o discutir las convenciones de estilo en Wikipedia (traducciones, abreviaturas, transliteraciones, etc.) puedes visitar el <a href="/wiki/Wikipedia:Manual_de_estilo" title="Wikipedia:Manual de estilo">Manual de estilo de Wikipedia</a>.
+</p>
+<p>El siguiente texto es una respuesta a una consulta hecha al Departamento de «Español al día» de la Real Academia Española:
+</p>
+<p>Aunque una frase empiece por un número, también se considera a este como la primera palabra, por lo que la siguiente palabra debe escribirse con minúscula inicial: <i>23 330 latas de cerveza y 12 000 latas de refresco</i>. Lo mismo sucede si se trata de un número romano: <i>[…] y sonrió. XVIII duquesa de Alba de Tormes, doña Cayetana ha sabido. Cuando el V obispo de San Bartolomé de Chillán condujo</i>.
+</p>
+<p>La <i>Ortografía de la lengua española</i> de 2010 señala al respecto de los puntos cardinales:<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><br/>
+</p>
+<p>Los adjetivos <a href="/wiki/Gentilicio" title="Gentilicio">gentilicios</a> deben ir en minúscula, pues al comenzar una oración, acompañan a un artículo (por ejemplo: «argentino», «americanos», «española», y no «Argentino»*, «Americanos»*, «Española»*).<sup class="reference separada" id="cite_ref-DPDmay6_2-0"><a href="#cite_note-DPDmay6-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ En inglés, se escriben siempre con mayúscula, pero en español son sustantivos comunes y por eso deben empezar en minúscula, al contrario que los propios.
+</p>
+<p>La expresión «hora central europea» —y otras equivalentes— deben ir en minúscula, y no en mayúscula como se ha venido haciendo hasta ahora. Tras una consulta a la Real Academia, esta fue su respuesta:
+<link href="mw-data:TemplateStyles:r149592375" rel="mw-deduplicated-inline-style"/>
+</p>
+<p>La expresión «hora central europea», utilizada como especificación de la referencia horaria, se escribe siempre con minúsculas: «Se trata, naturalmente, de una decisión política adoptada hace sesenta años por un Gobierno que se adhirió por decreto a la llamada hora central europea —la de Berlín—, aun a pesar de que el meridiano de Greenwich discurre casi por el centro de la Península» (La Nueva España 6.12.2006).
+</p>
+<p>Nótese también que «examen», «imagen», «joven», «orden» y «origen» son palabras llanas terminadas en «n» y, por tanto, no llevan acento ortográfico, en tanto que sus plurales se hacen esdrújulas y siempre van tildadas. Una regla que evita un alto porcentaje de los errores es considerar las palabras terminadas en <u>n</u>, <u>s</u> o <u>vocal</u> como naturalmente graves y, por tanto, se escriben sin tilde: «aborigen» (termina en n, <a class="mw-redirect" href="/wiki/Alfabeto_fon%C3%A9tico_internacional" title="Alfabeto fonético internacional">se pronuncia</a> [abo'ɾixen]), «zapato» (termina en vocal, <a class="mw-redirect" href="/wiki/Alfabeto_fon%C3%A9tico_internacional" title="Alfabeto fonético internacional">se pronuncia</a> [sa'pato] o [za'pato]), «pecosos» (termina en s, <a class="mw-redirect" href="/wiki/Alfabeto_fon%C3%A9tico_internacional" title="Alfabeto fonético internacional">se pronuncia</a> [pe'kosos]).
+</p>
+<p>En principio, el uso con o sin preposición tiene significados distintos:
+</p>
+<p>Sin embargo, la <a class="external text" href="http://lema.rae.es/dpd/?key=deber" rel="nofollow">Real Academia</a> no considera incorrecta la supresión de la preposición en el segundo caso: «Debe estar lloviendo».
+</p>
+<p>Para poder distinguir fácilmente ambos significados, en el primer caso (obligación), generalmente puede ser sustituido por «tener que»: «Tienes que obedecer a tu madre». Si al hacer el cambio, la oración también cambia, se trata del segundo caso (posibilidad): no es lo mismo «Tiene que estar lloviendo» que «Debe de estar lloviendo».
+</p>
+<p>Para quienes este primer método no sea aclaratorio, otra forma de distinguir ambos significados es sustituir «debe de» por «es probable que»; si al hacerlo la oración pierde su significado original, entonces «debe de» es incorrecto y hay que usar «debe» en su lugar.
+</p>
+<p>En el registro coloquial y usos de habla de nivel vulgar es común el empleo de la expresión «de que» en lugares donde corresponde la conjunción «que», fenómeno conocido como <a class="external text" href="http://lema.rae.es/dpd/?key=dequeísmo" rel="nofollow">dequeísmo</a>.
+</p>
+<p>Ejemplos de dequeísmo:
+</p>
+<p>Al contrario, en este tipo de sociolectos, es también habitual encontrar empleo indebido de «que» cuando corresponde «de que»; denominado <b><a class="external text" href="http://lema.rae.es/dpd/?key=que%C3%ADsmo" rel="nofollow">queísmo</a></b>.
+</p>
+<p>Ejemplos de queísmo:
+</p>
+<p>Un buen modo de determinar cuándo corresponde el empleo de uno u otro, es aplicar la regla del <a class="external text" href="http://www.elcastellano.org/que.html" rel="nofollow">«que-eso»</a>: Consiste en reemplazar la palabra «que» por la palabra «eso» y comprobar si la oración tiene sentido.
+</p>
+<p>¿Se escribe «correción» o corrección? En general hay erratas con los -ción y los -cción. Si duda, recuerde que solo las palabras terminadas en «-cción» aceptan el sufijo «-ctor». Ejemplos: <i>a<u>cción</u> → a<u>ctor</u>, tradu<u>cción</u> → tradu<u>ctor</u>, corre<u>cción</u> → corre<u>ctor</u>,</i> etc.
+</p>
+<p>Por el contrario, no se escribirá «inflacción», sino «inflación».
+</p>
+<p>Para los hablantes seseantes, una importante excepción es el sustantivo <i>conexión</i>, a pesar de que el verbo correspondiente es <i>conectar</i>. Esta irregularidad tiene razones etimológicas, ya que en <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a> también se escribía CONNEXIO, -ONIS. (Téngase en cuenta que la terminación -cción del castellano viene del latín -CTIO, pronunciada originalmente /ktio/).
+</p>
+<p>La forma correcta es decir «gratis»: «El agua es gratis». *«de gratis» es <a class="external text" href="http://lema.rae.es/dpd/?key=gratis" rel="nofollow">incorrecto</a> (se debe al cruce con expresiones como «de balde»): *«A Lucía la dejaron entrar de gratis».
+</p>
+<p>Las palabras terminadas en -i o -u acentuadas permiten el doble plural (por ejemplo: «jabalís»/«jabalíes»). En cambio, en el caso de los gentilicios («iraquí», «iraní», etc.) se emplea de forma casi única el plural en -«íes». <a class="external text" href="http://lema.rae.es/dpd/?key=plural" rel="nofollow">Más información</a>.
+</p>
+<p>Debe escribirse «prescribir», «prescripción», «prescriptible». Son incorrectas, por tanto, las formas con doble -ee- *«Preescribir, preescripción, preescriptible». Similar observación vale para «prever»: «preverse», «previsible» son formas correctas que suelen escribirse de manera errónea como (*«preveer»). <a class="external text" href="http://lema.rae.es/dpd/?key=prescribir" rel="nofollow">Más información</a>.
+</p>
+<p>Las <a href="/wiki/Asociaci%C3%B3n_de_Academias_de_la_Lengua_Espa%C3%B1ola" title="Asociación de Academias de la Lengua Española">Academias de la Lengua Española</a>, en su <i>Diccionario panhispánico de dudas</i>, sí consideran correcto este uso, en su acepción de «‘poseer públicamente [algo considerado un honor o un privilegio, como un cargo relevante, un título, etc.]’».<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En <a href="/wiki/Idioma_franc%C3%A9s" title="Idioma francés">francés</a> se usa <i>jouer</i> para el uso que en español damos a «representar» un papel de teatro o «tocar» un instrumento musical. En <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a> existe la expresión similar <i>play</i>. Por extensión de «papel» se habla de las funciones, cargos, responsabilidades o importancia que tiene una persona o cosa en un asunto determinado.
+</p>
+<p>Es un extendido galicismo transportar literalmente el francés <i>jouer son rôle</i> o el inglés <i>play his role</i> (‘representar su papel’) y decir «jugar un papel». Aunque la Real Academia <a class="external text" href="http://lema.rae.es/dpd/?key=jugar" rel="nofollow">no lo considera erróneo</a>, se considera preferible, sin embargo, utilizar verbos alternativos como «representar» o «desempeñar».
+</p>
+<p>«Soportar» se usa con frecuencia como traducción del <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a> <i>support</i>; sin embargo, es un <a href="/wiki/Falso_amigo" title="Falso amigo">falso amigo</a>. Como verbo, el inglés <i>support</i> significa ‘apoyar, admitir, financiar, ser compatible con…’; y, como sustantivo, ‘ayuda’ o ‘asistencia’ (por lo que «soporte técnico» tampoco es una expresión correcta, sino que se tendría que decir «ayuda técnica» o «asistencia técnica»).
+</p>
+<p><a class="external text" href="http://buscon.rae.es/draeI/SrvltGUIBusUsual?TIPO_HTML=2&amp;TIPO_BUS=3&amp;LEMA=soportar" rel="nofollow">Soportar</a> es sostener una carga o aguantar algo o a alguien. Por ejemplo:
+</p>
+<p>Un ejemplo del mal uso de soportar es el siguiente:
+</p>
+<p>Si bien es correcto decir «hace dos siglos pasó tal suceso» o «dos siglos atrás pasó tal otro», mezclar las dos oraciones es una redundancia muy común. Es incorrecto decir «hace dos siglos atrás» porque la última palabra y la primera están haciendo referencia a lo mismo, por lo que no deben ser usadas en conjunto. Por el contrario, pueden usarse sustitutivamente para evitar repeticiones.
+</p>
+<p>Aunque el DRAE incluye «estadounidense» como cuarta acepción del término «<a class="external text" href="http://lema.rae.es/drae/?val=americano" rel="nofollow">americano</a>», el <i>Diccionario panhispánico de dudas</i> desaconseja utilizar este término como sinónimo de «estadounidense», ya que es un calco erróneo del inglés. En cambio, sí considera aceptable emplear el término «norteamericano» en el sentido de «estadounidense»:
+</p>
+<p>En cualquier caso, para mayor claridad, y para evitar ambigüedades, siempre es preferible utilizar el término más específico «estadounidense» para referirse a los naturales de los <a class="mw-redirect" href="/wiki/Estados_Unidos_de_Am%C3%A9rica" title="Estados Unidos de América">Estados Unidos de América</a>, tal como <a class="external text" href="http://lema.rae.es/dpd/?key=estadounidense" rel="nofollow">se recomienda en el DRAE</a>, ya que norteamericanos pueden ser también los canadienses o los mexicanos; y americanos también pueden ser, además de los estadounidenses, los argentinos, los cubanos, etc.
+</p>
+<p>El gerundio es una forma impersonal del verbo que recibe su referencia temporal y personal del otro verbo conjugado con que se usa. Es una forma verbal que expresa el proceso en curso de una acción pero que no cumple la función de verbo, por lo tanto no denota la acción, sino que expresa simultaneidad de la acción con el tiempo en que se habla. Sus terminaciones son -ando, para los verbos de la 1. a conjugación, o -iendo, para los de la 2. ª y 3.
+</p>
+<p>El gerundio solamente puede emplearse para expresar anterioridad o simultaneidad, pero nunca posterioridad. <b>El uso del gerundio debe evitarse cuando la acción que denota es posterior a la acción que expresa el verbo principal.</b> El gerundio de posterioridad es un uso incorrecto y antinormativo porque el gerundio nunca puede usarse cuando indica un acto posterior al señalado por el verbo principal, del cual depende. Lo correcto es utilizar el gerundio de anterioridad, es decir, aquel que expresa una acción que sucede antes que la del verbo principal, por ejemplo: <i>Nació <b>siendo </b>una princesa.</i>
+</p>
+<p>En el español corriente es frecuente encontrar <a class="new" href="/w/index.php?title=Oraciones_condicionales&amp;action=edit&amp;redlink=1" title="Oraciones condicionales (aún no redactado)">oraciones condicionales</a> de negación implícita enteramente construidas haciendo uso del <a class="mw-redirect" href="/wiki/Modo_potencial" title="Modo potencial">modo potencial</a> (o condicional del indicativo) y olvidando por completo el <a href="/wiki/Modo_subjuntivo" title="Modo subjuntivo">modo subjuntivo</a>, que es el modo del deseo o la posibilidad.
+</p>
+<p>En los tiempos simples (presente y futuro), un <a class="new" href="/w/index.php?title=Per%C3%ADodo_condicional&amp;action=edit&amp;redlink=1" title="Período condicional (aún no redactado)">período condicional</a> debe construirse empleando el modo subjuntivo en la <a href="/wiki/Pr%C3%B3tasis" title="Prótasis">prótasis</a> y el modo potencial <b>sólo</b> en la <a href="/wiki/Ap%C3%B3dosis" title="Apódosis">apódosis</a>. Ej.:
+</p>
+<p>En los tiempos compuestos (pasado), la regla sigue siendo la misma. Lo único que hay que tener en cuenta es que el cambio <b>sólo</b> debe afectar al <a href="/wiki/Verbo_auxiliar" title="Verbo auxiliar">verbo auxiliar</a>. Ej.:
+</p>
+<p>Aunque, con el tiempo, la RAE terminó aceptando también el modo subjuntivo para la <a href="/wiki/Ap%C3%B3dosis" title="Apódosis">apódosis</a>. Ej.:
+</p>
+<p>Un par de sutilezas más:
+</p>

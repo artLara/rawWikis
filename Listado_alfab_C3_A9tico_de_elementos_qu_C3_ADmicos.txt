@@ -1,0 +1,17 @@
+<p>Este anexo contiene una <b>tabla de elementos químicos</b> inicialmente ordenada por su número atómico. Entre otras informaciones, incluye para cada elemento su símbolo, nombre, <a href="/wiki/N%C3%BAmero_at%C3%B3mico" title="Número atómico">número atómico</a>, <a href="/wiki/Masa_at%C3%B3mica" title="Masa atómica">masa atómica</a>, y números del grupo y período de la <a href="/wiki/Tabla_peri%C3%B3dica_de_los_elementos" title="Tabla periódica de los elementos">tabla periódica de los elementos</a>.
+</p>
+<p><i><u>Cada una de sus quince columnas permite ordenar alfabéticamente el contenido de la tabla.</u></i>
+</p>
+<p>Los distintos colores de sombreado de las celdas de la tabla tienen el siguiente significado:
+</p>
+<p><b>Características químicas:</b>
+</p>
+<p><b>Procedencia de los nombres de los elementos químicos:</b><br/>
+Los nombres de los elementos son en su mayoría de tipo etimológico (proceden de sus nombres en distintas lenguas clásicas como el griego o el latín, o de otras lenguas modernas); mitológico (con referencias a numerosas deidades, especialmente grecorromanas y nórdicas); astronómico; o llevan el nombre de su descubridor o de científicos célebres a los que se rinde homenaje, o una referencia geográfica del lugar en el que se descubrieron. Por último, unos pocos se denominan de acuerdo con un mineral con el que guardan relación.
+</p>
+<p>En muchos casos, las referencias mitológicas, las astronómicas y las geográficas están íntimamente ligadas con las lenguas clásicas. El nombre de los laboratorios también puede estar ligado a la ciudad o a la institución a la que pertenecen. 
+</p>
+<p>Los elementos químicos relacionados son la totalidad de los contenidos en la <a href="/wiki/Tabla_peri%C3%B3dica_de_los_elementos" title="Tabla periódica de los elementos">tabla periódica de los elementos</a>.
+</p>
+<p>A continuación se detallan los elementos conocidos, ordenados por su <a href="/wiki/N%C3%BAmero_at%C3%B3mico" title="Número atómico">número atómico</a>.
+</p>

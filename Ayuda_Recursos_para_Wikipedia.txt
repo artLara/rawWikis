@@ -1,0 +1,60 @@
+<p>En esta página hay información sobre distintos programas o utilidades que pueden facilitar bastante el trabajo en Wikipedia.
+</p>
+<p>Si conoces el lenguaje <a href="/wiki/SQL" title="SQL">SQL</a>, se puede hacer consultas sobre un volcado (o versión guardada) de Wikipedia. Esto permite hacer búsquedas muy sofisticadas; por ejemplo, escribiendo la consulta apropiada, se puede obtener la lista de artículos que no han sido modificados en un año y que pertenezcan a una determinada categoría o la lista de artículos que contengan una falta de ortografía concreta.
+</p>
+<p>Anteriormente <a class="external text" href="http://www.wikisign.org/query.php?wsLang=es" rel="nofollow">Wikisign.org</a> permitía hacerlo, pero cerró. Necesitas por tanto hacerlo localmente o solicitar la consulta a un usuario que tenga instalado el sistema.
+</p>
+<p>En la dirección <a class="external free" href="http://vs.aka-online.de/globalwpsearch/" rel="nofollow">http://vs.aka-online.de/globalwpsearch/</a> se puede buscar un artículo en las Wikipedias principales. Da la lista de <a class="mw-redirect" href="/wiki/Wikipedia:Enlace_interling%C3%BC%C3%ADstico" title="Wikipedia:Enlace interlingüístico">Interwikis</a> que faltan en cada Wikipedia.
+</p>
+<p>También hay una versión con campo de búsqueda multilínea en <a class="external free" href="http://vs.aka-online.de/globalwpsearch/index_multiline.html" rel="nofollow">http://vs.aka-online.de/globalwpsearch/index_multiline.html</a>
+</p>
+<p>Microsoft lanzó un <a href="/wiki/Complemento_(inform%C3%A1tica)" title="Complemento (informática)">complemento</a> que te permite guardar tus documentos de Microsoft Office Word 2007 o superior en formato MediaWiki.
+</p>
+<p><a class="mw-redirect" href="/wiki/OpenOffice.org_Writer" title="OpenOffice.org Writer">OpenOffice.org Writer</a> versiones 3.3 y posteriores, y derivativos como <a href="/wiki/LibreOffice" title="LibreOffice">LibreOffice</a> pueden enviar documentos de Word directamente a una MediaWiki. Una vez que has añadido el <a href="/wiki/Wikipedia:Servidores" title="Wikipedia:Servidores">servidor de MediaWiki de tu elección</a>, los envíos posteriores pueden ocurrir de manera automática.
+</p>
+<p>En LibreOffice se pueden convertir tablas, creándolas allí y elegiendo Exportar a MediaWiki (.txt) .
+</p>
+<p>Para convertir tablas en HTML a formato wiki, puedes usar <a class="external text" href="http://bmanolov.free.fr/html2wiki-tables.php" rel="nofollow">esta herramienta</a>.
+</p>
+<p><b>(Conservando formato y atributos)</b>
+</p>
+<p>El editor de imágenes es especialmente útil para realizar o modificar imágenes. El programa GIMP es un software libre y gratuito que te puedes descargar desde el enlace indicado en el titular de este apartado. Sigue las instrucciones para su instalación dependiendo del sistema operativo que utilices. GIMP está disponible <a class="external text" href="https://www.gimp.org/downloads/" rel="nofollow">aquí</a>.
+</p>
+<p>El formato <a href="/wiki/Gr%C3%A1ficos_vectoriales_escalables" title="Gráficos vectoriales escalables">SVG</a> es el recomendado para subir mapas, esquemas y otras imágenes no fotográficas a Commons, ya que pueden hacerse tan grandes o pequeños como se desee sin perder detalle. Inkscape es software libre y gratuito y, al contrario de otros editores de dibujo vectorial, ha sido diseñado desde el principio pensando en el formato SVG. A pesar de considerarse aún en desarrollo, está ya muy completo y puede usarse sin problemas. Puedes bajarlo desde <a class="external text" href="https://inkscape.org/es/descargas/" rel="nofollow">la página oficial</a>.
+</p>
+<p>Esta es una posibilidad que da la última versión del software para aquellos que quieran personalizar una botonera con enlaces a otras páginas web de utilidad. El invento permite añadir botones de búsqueda personalizados, y botones de edición con acciones específicas
+</p>
+<p>Este sistema desarrollado en la Wikipedia en inglés, sirve para poder ver una previsualización de un artículo con solo mantener el puntero del ratón sobre un enlace. <b>Disponible como Gadget</b>
+</p>
+<p>Twinkle es un conjunto de scripts, confeccionados en la Wikipedia inglesa, cuyas funciones están relacionadas con el <a class="mw-redirect" href="/wiki/Wikipedia:MANT" title="Wikipedia:MANT">mantenimiento</a>. Entre los módulos más importantes se encuentra Rollback, borrado rápido, advertencia al usuario, denuncia a vandalismo en curso, marcar artículos con plantillas de mantenimiento, etc. <b>Disponible como Gadget, <i>parcialmente funcional</i></b>.
+</p>
+<p>En esta página hay información sobre distintos programas o utilidades que pueden facilitar bastante el trabajo en Wikipedia.
+</p>
+<p>Si conoces el lenguaje <a href="/wiki/SQL" title="SQL">SQL</a>, se puede hacer consultas sobre un volcado (o versión guardada) de Wikipedia. Esto permite hacer búsquedas muy sofisticadas; por ejemplo, escribiendo la consulta apropiada, se puede obtener la lista de artículos que no han sido modificados en un año y que pertenezcan a una determinada categoría o la lista de artículos que contengan una falta de ortografía concreta.
+</p>
+<p>Anteriormente <a class="external text" href="http://www.wikisign.org/query.php?wsLang=es" rel="nofollow">Wikisign.org</a> permitía hacerlo, pero cerró. Necesitas por tanto hacerlo localmente o solicitar la consulta a un usuario que tenga instalado el sistema.
+</p>
+<p>En la dirección <a class="external free" href="http://vs.aka-online.de/globalwpsearch/" rel="nofollow">http://vs.aka-online.de/globalwpsearch/</a> se puede buscar un artículo en las Wikipedias principales. Da la lista de <a class="mw-redirect" href="/wiki/Wikipedia:Enlace_interling%C3%BC%C3%ADstico" title="Wikipedia:Enlace interlingüístico">Interwikis</a> que faltan en cada Wikipedia.
+</p>
+<p>También hay una versión con campo de búsqueda multilínea en <a class="external free" href="http://vs.aka-online.de/globalwpsearch/index_multiline.html" rel="nofollow">http://vs.aka-online.de/globalwpsearch/index_multiline.html</a>
+</p>
+<p>Microsoft lanzó un <a href="/wiki/Complemento_(inform%C3%A1tica)" title="Complemento (informática)">complemento</a> que te permite guardar tus documentos de Microsoft Office Word 2007 o superior en formato MediaWiki.
+</p>
+<p><a class="mw-redirect" href="/wiki/OpenOffice.org_Writer" title="OpenOffice.org Writer">OpenOffice.org Writer</a> versiones 3.3 y posteriores, y derivativos como <a href="/wiki/LibreOffice" title="LibreOffice">LibreOffice</a> pueden enviar documentos de Word directamente a una MediaWiki. Una vez que has añadido el <a href="/wiki/Wikipedia:Servidores" title="Wikipedia:Servidores">servidor de MediaWiki de tu elección</a>, los envíos posteriores pueden ocurrir de manera automática.
+</p>
+<p>En LibreOffice se pueden convertir tablas, creándolas allí y elegiendo Exportar a MediaWiki (.txt) .
+</p>
+<p>Para convertir tablas en HTML a formato wiki, puedes usar <a class="external text" href="http://bmanolov.free.fr/html2wiki-tables.php" rel="nofollow">esta herramienta</a>.
+</p>
+<p><b>(Conservando formato y atributos)</b>
+</p>
+<p>El editor de imágenes es especialmente útil para realizar o modificar imágenes. El programa GIMP es un software libre y gratuito que te puedes descargar desde el enlace indicado en el titular de este apartado. Sigue las instrucciones para su instalación dependiendo del sistema operativo que utilices. GIMP está disponible <a class="external text" href="https://www.gimp.org/downloads/" rel="nofollow">aquí</a>.
+</p>
+<p>El formato <a href="/wiki/Gr%C3%A1ficos_vectoriales_escalables" title="Gráficos vectoriales escalables">SVG</a> es el recomendado para subir mapas, esquemas y otras imágenes no fotográficas a Commons, ya que pueden hacerse tan grandes o pequeños como se desee sin perder detalle. Inkscape es software libre y gratuito y, al contrario de otros editores de dibujo vectorial, ha sido diseñado desde el principio pensando en el formato SVG. A pesar de considerarse aún en desarrollo, está ya muy completo y puede usarse sin problemas. Puedes bajarlo desde <a class="external text" href="https://inkscape.org/es/descargas/" rel="nofollow">la página oficial</a>.
+</p>
+<p>Esta es una posibilidad que da la última versión del software para aquellos que quieran personalizar una botonera con enlaces a otras páginas web de utilidad. El invento permite añadir botones de búsqueda personalizados, y botones de edición con acciones específicas
+</p>
+<p>Este sistema desarrollado en la Wikipedia en inglés, sirve para poder ver una previsualización de un artículo con solo mantener el puntero del ratón sobre un enlace. <b>Disponible como Gadget</b>
+</p>
+<p>Twinkle es un conjunto de scripts, confeccionados en la Wikipedia inglesa, cuyas funciones están relacionadas con el <a class="mw-redirect" href="/wiki/Wikipedia:MANT" title="Wikipedia:MANT">mantenimiento</a>. Entre los módulos más importantes se encuentra Rollback, borrado rápido, advertencia al usuario, denuncia a vandalismo en curso, marcar artículos con plantillas de mantenimiento, etc. <b>Disponible como Gadget, <i>parcialmente funcional</i></b>.
+</p>

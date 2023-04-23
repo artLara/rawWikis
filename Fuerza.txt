@@ -1,0 +1,2228 @@
+<p>En <a href="/wiki/F%C3%ADsica" title="Física">física</a> clásica, la <b>fuerza</b> (abreviatura F) es un fenómeno que modifica el movimiento de un cuerpo (lo acelera, frena, cambia el sentido, etc.) o bien lo deforma. Las fuerzas pueden representarse mediante vectores, ya que poseen <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitud</a> y dirección.  No debe confundirse el concepto de fuerza con el <a href="/wiki/Esfuerzo_interno" title="Esfuerzo interno">esfuerzo</a> o la <a href="/wiki/Energ%C3%ADa" title="Energía">energía</a>. 
+</p>
+<p>En el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a>, la <a href="/wiki/Unidad_de_medida" title="Unidad de medida">unidad de medida</a> de la fuerza es el <a href="/wiki/Newton_(unidad)" title="Newton (unidad)">newton</a> que se representa con el símbolo N, en reconocimiento a <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> por su aporte a la física, especialmente a la <a href="/wiki/Mec%C3%A1nica_cl%C3%A1sica" title="Mecánica clásica">mecánica clásica</a>. El newton es una <a href="/wiki/Unidades_derivadas_del_Sistema_Internacional" title="Unidades derivadas del Sistema Internacional">unidad derivada del Sistema Internacional de Unidades</a> que se define como la fuerza necesaria para proporcionar una <a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a> de 1m/s² a un objeto de 1kg de <a href="/wiki/Masa" title="Masa">masa</a>.
+</p>
+<p>Los conceptos relacionados con la fuerza incluyen: <a href="/wiki/Empuje" title="Empuje">empuje</a>, que aumenta la velocidad de un objeto; <a class="mw-redirect" href="/wiki/Arrastre_(f%C3%ADsica)" title="Arrastre (física)">arrastrar</a>, que disminuye la velocidad de un objeto; y <a href="/wiki/Par_motor" title="Par motor">par motor</a>, que produce <a href="/wiki/Aceleraci%C3%B3n_angular" title="Aceleración angular">cambios en la velocidad de rotación</a> de un objeto. En un cuerpo extendido, cada parte suele aplicar fuerzas sobre las partes adyacentes; la distribución de dichas fuerzas a través del cuerpo es la <a href="/wiki/Tensi%C3%B3n_(mec%C3%A1nica)" title="Tensión (mecánica)">tensión mecánica</a> interna. Tales tensiones mecánicas internas no causan ninguna aceleración de ese cuerpo, ya que las fuerzas se equilibran entre sí. La <a href="/wiki/Presi%C3%B3n" title="Presión">presión</a>, la distribución de muchas fuerzas pequeñas aplicadas sobre un área de un cuerpo, es un tipo de tensión simple que, si se desequilibra, puede hacer que el cuerpo se acelere. El estrés suele provocar la <a href="/wiki/Deformaci%C3%B3n_(ingenier%C3%ADa)" title="Deformación (ingeniería)">deformación</a> de los materiales sólidos, o el flujo en los <a class="mw-redirect" href="/wiki/Fluidos" title="Fluidos">fluidos</a>.
+</p>
+<p>La fuerza es un <a href="/wiki/Modelo_matem%C3%A1tico" title="Modelo matemático">modelo matemático</a> de intensidad de las interacciones, junto con la energía. Así, por ejemplo, la <a href="/wiki/Gravedad" title="Gravedad">fuerza gravitacional</a> es la atracción entre los cuerpos que tienen masa, el peso es la atracción que la Tierra ejerce sobre los objetos en las cercanías de su superficie, la fuerza elástica es la que ejerce un resorte deformado (comprimido o estirado). En <a href="/wiki/F%C3%ADsica" title="Física">física</a>, hay dos tipos de ecuaciones de fuerza: las «de causas», en las cuales se especifica el origen de la atracción o repulsión, como, por ejemplo, la <a href="/wiki/Ley_de_gravitaci%C3%B3n_universal" title="Ley de gravitación universal">ley de la gravitación universal</a> de Newton o la <a href="/wiki/Ley_de_Coulomb" title="Ley de Coulomb">ley de Coulomb</a>; y las «de efectos», la cual es, fundamentalmente, la segunda ley de Newton.
+</p>
+<p>La fuerza es una <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitud física</a> de carácter <a href="/wiki/Vector" title="Vector">vectorial</a> capaz de deformar un cuerpo (efecto estático), modificar su velocidad o vencer su <a href="/wiki/Inercia" title="Inercia">inercia</a> y ponerlos en movimiento si estaban inmóviles (efecto dinámico). En este sentido, la fuerza puede definirse como toda acción o influencia capaz de modificar el estado de movimiento o de reposo de un cuerpo (imprimiéndole una <a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a> que modifica el <a href="/wiki/M%C3%B3dulo_(vector)" title="Módulo (vector)">módulo</a> o la dirección de su <a href="/wiki/Velocidad" title="Velocidad">velocidad</a>).
+</p>
+<p>Comúnmente nos referimos a la fuerza aplicada sobre un objeto sin tener en cuenta al otro objeto u objetos con los que está interactuando y que experimentarán, a su vez, otras fuerzas. Actualmente, cabe definir la fuerza como un ente físico matemático, de carácter vectorial, asociado con la interacción del cuerpo con otros cuerpos que constituyen su entorno. Este concepto tiene relación directa con la <a class="mw-redirect" href="/wiki/Tercera_ley_de_Newton" title="Tercera ley de Newton">tercera ley de Newton</a>.
+</p>
+<p>Los filósofos de la <a href="/wiki/Antig%C3%BCedad_cl%C3%A1sica" title="Antigüedad clásica">antigüedad</a> utilizaron el concepto de fuerza en el estudio de los objetos <a href="/wiki/Est%C3%A1tica_(mec%C3%A1nica)" title="Estática (mecánica)">estacionarios</a> y <a class="mw-redirect" href="/wiki/Din%C3%A1mica_(f%C3%ADsica)" title="Dinámica (física)">en movimiento</a> y de las <a class="mw-redirect" href="/wiki/M%C3%A1quinas_simples" title="Máquinas simples">máquinas simples</a>, pero pensadores como <a href="/wiki/Arist%C3%B3teles" title="Aristóteles">Aristóteles</a> y <a href="/wiki/Arqu%C3%ADmedes" title="Arquímedes">Arquímedes</a> mantuvieron errores fundamentales en la comprensión de la fuerza. En parte, esto se debía a una comprensión incompleta de la fuerza, a veces no evidente, del <a class="mw-redirect" href="/wiki/Rozamiento" title="Rozamiento">rozamiento</a>, y a una visión consecuentemente inadecuada de la naturaleza del movimiento natural.<sup class="reference separada" id="cite_ref-Arquímedes_1-0"><a href="#cite_note-Arquímedes-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Un error fundamental fue la creencia de que se requiere una fuerza para mantener el movimiento, incluso a una velocidad constante. La mayoría de los malentendidos anteriores sobre el movimiento y la fuerza fueron finalmente corregidos por <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a> e <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a>. Con su perspicacia matemática, Isaac Newton formuló las <a class="mw-redirect" href="/wiki/Leyes_del_movimiento_de_Newton" title="Leyes del movimiento de Newton">leyes del movimiento</a> que no fueron mejoradas durante casi trescientos años.<sup class="reference separada" id="cite_ref-uniphysics_ch2_2-0"><a href="#cite_note-uniphysics_ch2-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ A principios del <a href="/wiki/Siglo_XX" title="Siglo XX">siglo <span style="font-variant:small-caps;text-transform:lowercase">XX</span></a>, <a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a> desarrolló una <a href="/wiki/Teor%C3%ADa_de_la_relatividad" title="Teoría de la relatividad">teoría de la relatividad</a> que predecía correctamente la acción de las fuerzas sobre los objetos con momentos crecientes cercanos a la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>, y también proporcionó una visión de las fuerzas producidas por la gravitación y la <a href="/wiki/Inercia" title="Inercia">inercia</a>.
+</p>
+<p>Con los conocimientos modernos de la <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a> y la tecnología que puede acelerar las partículas cerca de la velocidad de la luz, la <a href="/wiki/F%C3%ADsica_de_part%C3%ADculas" title="Física de partículas">física de partículas</a> ha ideado un <a class="mw-redirect" href="/wiki/Modelo_Est%C3%A1ndar" title="Modelo Estándar">Modelo Estándar</a> para describir las fuerzas entre partículas más pequeñas que los átomos. El <a class="mw-redirect" href="/wiki/Modelo_Est%C3%A1ndar" title="Modelo Estándar">Modelo Estándar</a> predice que las partículas intercambiadas, llamadas <a class="mw-redirect" href="/wiki/Bosones_de_gauge" title="Bosones de gauge">bosones de gauge</a>, son el medio fundamental por el que se emiten y absorben las fuerzas. Solo se conocen cuatro interacciones principales: en orden de fuerza decreciente, son: <a class="mw-redirect" href="/wiki/Fuerza_fuerte" title="Fuerza fuerte">fuerte</a>, <a href="/wiki/Electromagnetismo" title="Electromagnetismo">electromagnética</a>, <a class="mw-redirect" href="/wiki/Fuerza_d%C3%A9bil" title="Fuerza débil">débil</a>, y <a class="mw-redirect" href="/wiki/Fuerza_gravitatoria" title="Fuerza gravitatoria">gravitatoria</a>.<sup class="reference separada" id="cite_ref-FeynmanVol1_3-0"><a href="#cite_note-FeynmanVol1-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference nowrap"><span title="Page / location: 2–10">: 2–10 </span></sup><sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​<sup class="reference nowrap"><span title="Page / location: 79">: 79 </span></sup> <a class="mw-redirect" href="/wiki/F%C3%ADsica_de_alta_energ%C3%ADa" title="Física de alta energía">Física de partículas de alta energía</a> Las <a class="mw-redirect" href="/wiki/Observaciones" title="Observaciones">observaciones</a> realizadas durante las décadas de 1970 y 1980 confirmaron que las fuerzas débil y electromagnética son expresiones de una interacción <a class="mw-redirect" href="/wiki/Electrod%C3%A9bil" title="Electrodébil">electrodébil</a> más fundamental.<sup class="reference separada" id="cite_ref-final_theory_5-0"><a href="#cite_note-final_theory-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​<sup class="reference nowrap"><span title="Page / location: 199–128">: 199–128 </span></sup>
+</p>
+<p>El concepto de fuerza fue descrito originalmente por <a href="/wiki/Arqu%C3%ADmedes" title="Arquímedes">Arquímedes</a>, si bien únicamente en términos estáticos. Arquímedes y otros creyeron que el «estado natural» de los objetos materiales en la esfera terrestre era el <a href="/wiki/Reposo" title="Reposo">reposo</a> y que los cuerpos tendían, por sí mismos, hacia ese estado si no se actuaba sobre ellos en modo alguno. De acuerdo con <a href="/wiki/Arist%C3%B3teles" title="Aristóteles">Aristóteles</a> la perseverancia del movimiento requería siempre una causa eficiente (algo que parece concordar con la experiencia cotidiana, donde las fuerzas de fricción pueden pasar desapercibidas).
+</p>
+<p><a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a> (1564-1642) sería el primero en dar una definición dinámica de fuerza, opuesta a la de Arquímedes, estableciendo claramente la <a href="/wiki/Leyes_de_Newton" title="Leyes de Newton">ley de la inercia</a>, afirmando que un cuerpo sobre el que no actúa ninguna fuerza permanece en movimiento inalterado. Esta ley, que refuta la tesis de Arquímedes, aún hoy día no resulta obvia para la mayoría de las personas sin formación científica.
+</p>
+<p>Se considera que fue <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> el primero que formuló matemáticamente la moderna definición de fuerza, aunque también usó el término latino <i><a href="/wiki/Velocidad" title="Velocidad">vis impressa</a></i> ('fuerza impresa') y <i><a href="/wiki/Impulso" title="Impulso">vis motrix</a></i> para otros conceptos diferentes. Además, Isaac Newton postuló que las fuerzas gravitatorias variaban según la <a href="/wiki/Ley_de_la_inversa_del_cuadrado" title="Ley de la inversa del cuadrado">ley de la inversa del cuadrado</a> de la distancia.
+</p>
+<p><a href="/wiki/Charles-Augustin_de_Coulomb" title="Charles-Augustin de Coulomb">Charles Coulomb</a> fue el primero que comprobó que la interacción entre <a href="/wiki/Carga_el%C3%A9ctrica" title="Carga eléctrica">cargas eléctricas o electrónicas</a> puntuales también varía según la ley de la inversa del cuadrado de la distancia (1784).
+</p>
+<p>En 1798, <a href="/wiki/Henry_Cavendish" title="Henry Cavendish">Henry Cavendish</a> logró medir experimentalmente la fuerza de atracción gravitatoria entre dos masas pequeñas utilizando una <a href="/wiki/Balanza_de_torsi%C3%B3n" title="Balanza de torsión">balanza de torsión</a>. Gracias a lo cual pudo determinar el valor de la <a href="/wiki/Constante_de_gravitaci%C3%B3n_universal" title="Constante de gravitación universal">constante de la gravitación universal</a> y, por tanto, pudo calcular la masa de la Tierra.
+</p>
+<p>Con el desarrollo de la <a href="/wiki/Electrodin%C3%A1mica_cu%C3%A1ntica" title="Electrodinámica cuántica">electrodinámica cuántica</a>, a mediados del siglo <span style="font-variant:small-caps;text-transform:lowercase">XX</span>, se constató que la «fuerza» era una <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitud</a> puramente macroscópica surgida de la <a class="mw-redirect" href="/wiki/Ley_de_conservaci%C3%B3n" title="Ley de conservación">conservación del momento lineal o cantidad de movimiento</a> para partículas elementales. Por esa razón las llamadas <a href="/wiki/Interacciones_fundamentales" title="Interacciones fundamentales">fuerzas fundamentales</a> suelen denominarse «interacciones fundamentales».
+</p>
+<p>Desde la antigüedad el concepto de fuerza ha sido reconocido como parte integral del funcionamiento de cada una de las <a class="mw-redirect" href="/wiki/M%C3%A1quinas_simples" title="Máquinas simples">máquinas simples</a>. La <a href="/wiki/Ventaja_mec%C3%A1nica" title="Ventaja mecánica">ventaja mecánica</a> dada por una máquina simple permitía utilizar menos fuerza a cambio de que esa fuerza actuara sobre una mayor distancia para la misma cantidad de <a href="/wiki/Trabajo_(f%C3%ADsica)" title="Trabajo (física)">trabajo</a>. El análisis de las características de las fuerzas culminó en última instancia con el trabajo de <a href="/wiki/Arqu%C3%ADmedes" title="Arquímedes">Arquímedes</a> que fue especialmente famoso por formular un tratamiento de las <a href="/wiki/Flotabilidad" title="Flotabilidad">fuerzas de flotación</a> inherentes a los <a class="mw-redirect" href="/wiki/Fluidos" title="Fluidos">fluidos</a>.<sup class="reference separada" id="cite_ref-Arquímedes_1-1"><a href="#cite_note-Arquímedes-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><a href="/wiki/Arist%C3%B3teles" title="Aristóteles">Aristóteles</a> proporcionó una discusión <a class="mw-redirect" href="/wiki/Filos%C3%B3fica" title="Filosófica">filosófica</a> del concepto de fuerza como parte integral de la <a href="/wiki/F%C3%ADsica_(Arist%C3%B3teles)" title="Física (Aristóteles)">Cosmología aristotélica</a>. En opinión de Aristóteles, la esfera terrestre contenía cuatro <a class="mw-redirect" href="/wiki/Elemento_cl%C3%A1sico" title="Elemento clásico">elementos</a> que llegan a descansar en diferentes «lugares naturales» de la misma. Aristóteles creía que los objetos inmóviles de la Tierra, los compuestos mayoritariamente por los elementos tierra y agua, estaban en su lugar natural en el suelo y que permanecerían así si se les dejaba tranquilos. Distinguía entre la tendencia innata de los objetos a encontrar su «lugar natural» (por ejemplo para que los cuerpos pesados caigan), lo que conducía al «movimiento natural», y el movimiento no natural o forzado, que requería la aplicación continua de una fuerza.<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​ Esta teoría, basada en la experiencia cotidiana de cómo se mueven los objetos, como la aplicación constante de una fuerza necesaria para mantener un carro en movimiento, tenía problemas conceptuales para explicar el comportamiento de los <a class="mw-redirect" href="/wiki/Proyectiles" title="Proyectiles">proyectiles</a>, como el vuelo de las flechas. El lugar en el que el arquero mueve el proyectil estaba en el inicio del vuelo, y mientras el proyectil navegaba por el aire, ninguna causa eficiente discernible actuaba sobre él. Aristóteles era consciente de este problema y propuso que el aire desplazado a través de la trayectoria del proyectil lo lleva hasta su objetivo. Esta explicación exige un continuo como el aire para el cambio de lugar en general.<sup class="reference separada" id="cite_ref-Hetherington_7-0"><a href="#cite_note-Hetherington-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La <a href="/wiki/F%C3%ADsica_aristot%C3%A9lica" title="Física aristotélica">física aristotélica</a> comenzó a enfrentarse a las críticas en <a href="/wiki/Historia_de_la_ciencia" title="Historia de la ciencia">la ciencia medieval</a>, primero por parte de <a class="mw-redirect" href="/wiki/Juan_Filop%C3%B3n" title="Juan Filopón">Juan Filopón</a> en el <a href="/wiki/Siglo_VI" title="Siglo VI">siglo <span style="font-variant:small-caps;text-transform:lowercase">VI</span></a>.
+</p>
+<p>Las deficiencias de la física aristotélica no se corregirían del todo hasta el trabajo del <a href="/wiki/Siglo_XVII" title="Siglo XVII">siglo <span style="font-variant:small-caps;text-transform:lowercase">XVII</span></a> de <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a>, que se vio influenciado por la idea tardomedieval de que los objetos en movimiento forzado llevaban una fuerza innata de <a href="/wiki/Teor%C3%ADa_del_%C3%ADmpetu" title="Teoría del ímpetu">ímpetus</a>. Galileo construyó un experimento en el que se hicieron rodar piedras y balas de cañón por una pendiente para refutar la <a href="/wiki/F%C3%ADsica_aristot%C3%A9lica" title="Física aristotélica">teoría aristotélica del movimiento</a>. Demostró que los cuerpos eran acelerados por la gravedad en una medida que era independiente de su masa y argumentó que los objetos conservan su <a href="/wiki/Velocidad" title="Velocidad">velocidad</a> a menos que se actúe sobre ellos con una fuerza, por ejemplo la <a href="/wiki/Fricci%C3%B3n" title="Fricción">fricción</a>.<sup class="reference separada" id="cite_ref-Galileo_8-0"><a href="#cite_note-Galileo-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>A principios del siglo <span style="font-variant:small-caps;text-transform:lowercase">XVII</span>, antes de los Principios de Newton, el término «fuerza» (en <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a>: <i lang="la">vis</i>) se aplicaba a muchos fenómenos físicos y no físicos, por ejemplo, para la aceleración de un punto. El producto de una masa puntual por el cuadrado de su velocidad fue denominado <i lang="la" title="Texto en idioma latín">vis viva</i> (fuerza viva) por <a class="mw-redirect" href="/wiki/Gottfried_Wilhelm_Leibniz" title="Gottfried Wilhelm Leibniz">Leibniz</a>. El concepto moderno de fuerza corresponde a la <i lang="la" title="Texto en idioma latín">vis motrix</i> de Newton. (fuerza de aceleración).<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La primera ley del movimiento de Newton establece que los objetos continúan moviéndose en un estado de velocidad constante a menos que se actúe sobre ellos con una <a href="/wiki/Fuerza_neta" title="Fuerza neta">fuerza neta</a> externa. (fuerza resultante).<sup class="reference separada" id="cite_ref-Principia_10-0"><a href="#cite_note-Principia-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​ Esta ley es una extensión de la idea de Galileo de que la velocidad constante estaba asociada a la falta de fuerza neta (véase <a href="#Equilibrio_dinámico">una descripción más detallada de esto más adelante</a>). Newton propuso que todo objeto con masa tiene una <a href="/wiki/Inercia" title="Inercia">inercia</a> innata que funciona como el «estado natural» de equilibrio fundamental en lugar de la idea aristotélica del «estado natural de reposo». Es decir, la primera ley empírica de Newton contradice la creencia intuitiva aristotélica de que se requiere una fuerza neta para mantener un objeto en movimiento con velocidad constante. Al hacer que el «reposo» sea físicamente indistinguible de la «velocidad constante no nula», la primera ley de Newton conecta directamente la inercia con el concepto de <a class="mw-redirect" href="/wiki/Invariancia_galileana" title="Invariancia galileana">velocidades relativas</a>. En concreto, en los sistemas en los que los objetos se mueven con diferentes velocidades, es imposible determinar qué objeto está «en movimiento» y qué objeto está «en reposo». Las leyes de la física son las mismas en todos los <a href="/wiki/Sistema_de_referencia_inercial" title="Sistema de referencia inercial">marcos de referencia inerciales</a>, es decir, en todos los marcos relacionados por una <a href="/wiki/Transformaci%C3%B3n_de_Galileo" title="Transformación de Galileo">transformación galileana</a>.
+</p>
+<p>Por ejemplo, mientras se viaja en un vehículo en movimiento a una <a href="/wiki/Velocidad" title="Velocidad">velocidad</a> constante, las leyes de la física no cambian como resultado de su movimiento. Si una persona que viaja dentro del vehículo lanza una pelota hacia arriba, esa persona observará que se eleva verticalmente y cae verticalmente y no tendrá que aplicar una fuerza en la dirección en que se mueve el vehículo. Otra persona, observando el paso del vehículo en movimiento, observaría que la pelota sigue una trayectoria curva <a href="/wiki/Par%C3%A1bola_(matem%C3%A1tica)" title="Parábola (matemática)">parabólica</a> en la misma dirección que el movimiento del vehículo. Es la inercia de la pelota, asociada a su velocidad constante en la dirección del movimiento del vehículo, la que hace que la pelota siga avanzando incluso cuando es lanzada hacia arriba y vuelve a caer. Desde la perspectiva de la persona que va en el coche, el vehículo y todo lo que hay en su interior está en reposo: Es el mundo exterior el que se mueve con una velocidad constante en dirección contraria a la del vehículo. Como no hay ningún experimento que pueda distinguir si es el vehículo el que está en reposo o el mundo exterior el que está en reposo, se considera que ambas situaciones son <a href="/wiki/Principio_de_equivalencia" title="Principio de equivalencia">físicamente indistinguibles</a>. Por lo tanto, la inercia se aplica igualmente al movimiento de velocidad constante que al reposo.
+</p>
+<p>Un enunciado moderno de la segunda ley de Newton es una ecuación vectorial:<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>nota 1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {p}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>p</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {p}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {p}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/84fee53c81592db54e0fe6c6f9eba002bb1dc74b" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.415ex; height:2.676ex;"/></span> es el <a href="/wiki/Cantidad_de_movimiento" title="Cantidad de movimiento">momento</a> del sistema, y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {F}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {F}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {F}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef40edff397a115ecdce7d3518001dfcc7f37d9e" style="vertical-align: -0.338ex; width:1.771ex; height:2.843ex;"/></span> es la fuerza neta «suma de vectores». Si un cuerpo está en equilibrio, la fuerza «neta» es nula por definición (aunque puede haber fuerzas equilibradas). Por el contrario, la segunda ley establece que si hay una fuerza <i>desequilibrada</i> que actúa sobre un objeto, el momento del objeto cambiará con el tiempo.<sup class="reference separada" id="cite_ref-Principia_10-1"><a href="#cite_note-Principia-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Por la definición de <a class="mw-redirect" href="/wiki/Momentum#Momento_lineal_de_una_partícula" title="Momentum">momento</a>,
+</p>
+<p>donde <i>m</i> es la <a href="/wiki/Masa" title="Masa">masa</a> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {v}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>v</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {v}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {v}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/85820588abd7333ef4d0c56539cb31c20e730753" style="vertical-align: -0.338ex; width:1.175ex; height:2.343ex;"/></span> es la <a href="/wiki/Velocidad" title="Velocidad">velocidad</a>.<sup class="reference separada" id="cite_ref-FeynmanVol1_3-1"><a href="#cite_note-FeynmanVol1-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference nowrap"><span title="Page / location: 9–1, 9–2">: 9–1, 9–2 </span></sup>
+</p>
+<p>Si se aplica la segunda ley de Newton a un sistema de <a class="mw-redirect" href="/wiki/Leyes_del_movimiento_de_Newton#Sistemas_abiertos" title="Leyes del movimiento de Newton">masa constante</a>,<sup class="reference separada" id="cite_ref-Halliday_12-0"><a href="#cite_note-Halliday-12"><span class="corchete-llamada">[</span>nota 2<span class="corchete-llamada">]</span></a></sup>​ <i>m</i> puede moverse fuera del operador de la derivada. La ecuación se convierte entonces en
+</p>
+<p>Sustituyendo la definición de <a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a>, se obtiene la versión algebraica de la <a class="mw-redirect" href="/wiki/Segunda_ley_de_Newton" title="Segunda ley de Newton">segunda ley de Newton</a>:
+</p>
+<p>Newton nunca ha indicado explícitamente la fórmula en la forma reducida anterior.<sup class="reference separada" id="cite_ref-13"><a href="#cite_note-13"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La segunda ley de Newton afirma la proporcionalidad directa de la aceleración a la fuerza y la proporcionalidad inversa de la aceleración a la masa. Las aceleraciones pueden definirse mediante mediciones <a href="/wiki/Cinem%C3%A1tica" title="Cinemática">cinemáticas</a>. Sin embargo, mientras que la cinemática está bien descrita a través del análisis del <a class="mw-redirect" href="/wiki/Marco_de_referencia" title="Marco de referencia">marco de referencia</a> en la física avanzada, todavía hay profundas preguntas que permanecen en cuanto a cuál es la definición apropiada de masa. La <a href="/wiki/Relatividad_general" title="Relatividad general">relatividad general</a> ofrece una equivalencia entre el <a href="/wiki/Espacio-tiempo" title="Espacio-tiempo">espacio-tiempo</a> y la masa, pero a falta de una teoría coherente de la <a href="/wiki/Gravedad_cu%C3%A1ntica" title="Gravedad cuántica">gravedad cuántica</a>, no está claro cómo o si esta conexión es relevante en las microescalas. Con cierta justificación, la segunda ley de Newton puede tomarse como una definición cuantitativa de «masa» escribiendo la ley como una igualdad; las unidades relativas de fuerza y masa quedan entonces fijadas.
+</p>
+<p>El uso de la segunda ley de Newton como <i>definición</i> de la fuerza ha sido despreciado en algunos de los libros de texto más rigurosos,<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-Kleppner_15-0"><a href="#cite_note-Kleppner-15"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​ Una excepción a esta regla es:<sup class="reference separada" id="cite_ref-16"><a href="#cite_note-16"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​ porque es esencialmente una <a class="mw-redirect" href="/wiki/Perogrullada" title="Perogrullada">perogrullada</a> matemática. Entre los físicos, filósofos y matemáticos notables que han buscado una definición más explícita del concepto de fuerza se encuentran <a href="/wiki/Ernst_Mach" title="Ernst Mach">Ernst Mach</a> y <a class="new" href="/w/index.php?title=Walter_Noll&amp;action=edit&amp;redlink=1" title="Walter Noll (aún no redactado)">Walter Noll</a>.<sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La segunda ley de Newton puede utilizarse para medir la fuerza de las fuerzas. Por ejemplo, el conocimiento de las masas de los <a class="mw-redirect" href="/wiki/Planetas" title="Planetas">planetas</a> junto con las aceleraciones de sus <a class="new" href="/w/index.php?title=%C3%93rbitas&amp;action=edit&amp;redlink=1" title="Órbitas (aún no redactado)">órbitas</a> permite a los científicos calcular las fuerzas gravitatorias sobre los planetas.
+</p>
+<p>Siempre que un cuerpo ejerce una fuerza sobre otro, éste ejerce simultáneamente una fuerza igual y opuesta sobre el primero. En forma vectorial, si
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\vec {F}}_{1,2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo>,</mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\vec {F}}_{1,2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle {\vec {F}}_{1,2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1b14ee7d036cd9d65146fb2f6479309471f10930" style="vertical-align: -0.838ex; width:3.179ex; height:2.843ex;"/></span> es la fuerza del cuerpo 1 sobre el cuerpo 2 y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\vec {F}}_{2,1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>,</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\vec {F}}_{2,1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle {\vec {F}}_{2,1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/262016ce029ff9c4e6715ffff247b4149a935174" style="vertical-align: -0.838ex; width:3.179ex; height:2.843ex;"/></span> la del cuerpo 2 en el cuerpo 1, entonces
+</p>
+<p>Esta ley se denomina a veces <i>ley de acción-reacción</i>, con <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\vec {F}}_{1,2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo>,</mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\vec {F}}_{1,2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle {\vec {F}}_{1,2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1b14ee7d036cd9d65146fb2f6479309471f10930" style="vertical-align: -0.838ex; width:3.179ex; height:2.843ex;"/></span> llamada la <i>acción</i> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle -{\vec {F}}_{2,1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mo>−<!-- − --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>,</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle -{\vec {F}}_{2,1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle -{\vec {F}}_{2,1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/79826e1b67e53012db44f1febeb9704095a2cc6f" style="vertical-align: -0.838ex; width:4.458ex; height:2.843ex;"/></span> la <i><a href="/wiki/Reacci%C3%B3n_mec%C3%A1nica" title="Reacción mecánica">reacción</a></i>.
+</p>
+<p>La tercera ley de Newton es el resultado de aplicar la <a href="/wiki/Simetr%C3%ADa" title="Simetría">simetría</a> a las situaciones en las que las fuerzas pueden atribuirse a la presencia de diferentes objetos. La tercera ley significa que todas las fuerzas son <i>interacciones</i> entre cuerpos diferentes,<sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-20"><a href="#cite_note-20"><span class="corchete-llamada">[</span>nota 3<span class="corchete-llamada">]</span></a></sup>​ y, por tanto, que no existe una fuerza unidireccional o que actúe sobre un solo cuerpo.
+</p>
+<p>En un sistema compuesto por el objeto 1 y el objeto 2, la fuerza neta sobre el sistema debida a sus interacciones mutuas es cero:
+</p>
+<p>Más generalmente, en un <a href="/wiki/Sistema_cerrado" title="Sistema cerrado">sistema cerrado</a> de partículas, todas las fuerzas internas están equilibradas. Las partículas pueden acelerarse entre sí, pero el <a class="mw-redirect" href="/wiki/Centro_de_masa" title="Centro de masa">centro de masa</a> del sistema no se acelera. Si una fuerza externa actúa sobre el sistema, hará que el centro de masa se acelere en proporción a la magnitud de la fuerza externa dividida por la masa del sistema.<sup class="reference separada" id="cite_ref-FeynmanVol1_3-2"><a href="#cite_note-FeynmanVol1-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference nowrap"><span title="Page / location: 19–1">: 19–1 </span></sup><sup class="reference separada" id="cite_ref-Kleppner_15-1"><a href="#cite_note-Kleppner-15"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Combinando la Segunda y la Tercera Ley de Newton, es posible demostrar que la <a class="mw-redirect" href="/wiki/Conservaci%C3%B3n_del_momento" title="Conservación del momento">momento lineal de un sistema se conserva</a>.<sup class="reference separada" id="cite_ref-21"><a href="#cite_note-21"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​ En un sistema de dos partículas, si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\vec {p}}_{1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>p</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\vec {p}}_{1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle {\vec {p}}_{1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee645216d9d663b37c4815558e622a0ea840c9b0" style="vertical-align: -0.671ex; margin-left: -0.063ex; width:1.888ex; height:2.509ex;"/></span> es el momento del objeto 1 y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\vec {p}}_{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>p</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\vec {p}}_{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle {\vec {p}}_{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f9487f37d4bd737023707bd26e69425ee76075e6" style="vertical-align: -0.671ex; margin-left: -0.063ex; width:1.888ex; height:2.509ex;"/></span> el momento del objeto 2, entonces
+</p>
+<p>Utilizando argumentos similares, esto puede generalizarse a un sistema con un número arbitrario de partículas. En general, siempre que todas las fuerzas se deban a la interacción de objetos con masa, es posible definir un sistema tal que el momento neto nunca se pierda ni se gane.<sup class="reference separada" id="cite_ref-FeynmanVol1_3-3"><a href="#cite_note-FeynmanVol1-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-Kleppner_15-2"><a href="#cite_note-Kleppner-15"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La fuerza se puede definir a partir de la <a href="/wiki/Derivada" title="Derivada">derivada</a> temporal del <a href="/wiki/Cantidad_de_movimiento" title="Cantidad de movimiento">momento lineal</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} ={\frac {d\mathbf {p} }{dt}}={\frac {d(m\mathbf {v} )}{dt}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">p</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mo stretchy="false">(</mo>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} ={\frac {d\mathbf {p} }{dt}}={\frac {d(m\mathbf {v} )}{dt}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} ={\frac {d\mathbf {p} }{dt}}={\frac {d(m\mathbf {v} )}{dt}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0e6118695c3cfbd09a72e907047d3b6939782005" style="vertical-align: -2.005ex; width:18.73ex; height:5.843ex;"/></span>
+</p>
+<p>Si la masa permanece constante, se puede escribir:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_*" style="font-style: normal;"><a href="#Eqnref_*">*</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =m{\frac {d\mathbf {v} }{dt}}=m\mathbf {a} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =m{\frac {d\mathbf {v} }{dt}}=m\mathbf {a} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =m{\frac {d\mathbf {v} }{dt}}=m\mathbf {a} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3fa4b01bab96f20fa7dbcefb396b8fc8615fc7c" style="vertical-align: -2.005ex; width:16.723ex; height:5.509ex;"/></span>
+</p>
+<p>donde <b>m</b> es la <a href="/wiki/Masa" title="Masa">masa</a> y <b>a</b> la <a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a>, que es la expresión tradicional de la <a href="/wiki/Leyes_de_Newton#Segunda_ley_de_Newton_o_ley_de_fuerza" title="Leyes de Newton">segunda ley de Newton</a>. En el caso de la estática, donde no existen aceleraciones, las fuerzas actuantes pueden deducirse de consideraciones de <a href="/wiki/Equilibrio_mec%C3%A1nico" title="Equilibrio mecánico">equilibrio</a>.
+</p>
+<p>La ecuación (<span class="plainlinks neverexpand" id="Eqnref_*"><a class="external text" href="https://es.wikipedia.org/wiki/Fuerza#Equation_*">*</a></span>) es útil sobre todo para describir el movimiento de partículas o cuerpos cuya forma no es importante para el problema planteado. Pero incluso si se trata de estudiar la mecánica de sólidos rígidos se necesitan postulados adicionales para definir la velocidad angular del sólido, o su aceleración angular así como su relación con las fuerzas aplicadas. Para un sistema de referencia arbitrario la ecuación (<span class="plainlinks neverexpand" id="Eqnref_*"><a class="external text" href="https://es.wikipedia.org/wiki/Fuerza#Equation_*">*</a></span>) debe substituirse por:<sup class="reference separada" id="cite_ref-22"><a href="#cite_note-22"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Donde:
+</p>
+<p>En un sentido estricto, todas las fuerzas naturales son fuerzas producidas a distancia como producto de la interacción entre cuerpos; sin embargo desde el punto de vista macroscópico, se acostumbra a dividir a las fuerzas en dos tipos generales:
+</p>
+<p>En los sólidos, el <a href="/wiki/Principio_de_exclusi%C3%B3n_de_Pauli" title="Principio de exclusión de Pauli">principio de exclusión de Pauli</a> conduce junto con la <a href="/wiki/Conservaci%C3%B3n_de_la_energ%C3%ADa" title="Conservación de la energía">conservación de la energía</a> a que los átomos tengan sus electrones distribuidos en capas y tengan <a href="/wiki/Impenetrabilidad" title="Impenetrabilidad">impenetrabilidad</a> a pesar de estar vacíos en un 99 %. La impenetrabilidad se deriva de que los átomos sean «extensos» y que los electrones de las capas exteriores ejerzan fuerzas electrostáticas de repulsión que hacen que la materia sea macroscópicamente impenetrable.
+</p>
+<p>Lo anterior se traduce en que dos cuerpos puestos en «contacto» experimentarán superficialmente fuerzas resultantes normales (o aproximadamente normales) a la superficie que impedirán el solapamiento de las nubes electrónicas de ambos cuerpos.
+</p>
+<p>Las fuerzas internas son similares a las fuerzas de contacto entre ambos cuerpos y si bien tienen una forma más complicada, ya que no existe una superficie macroscópica a través de la cual se den la superficie. La complicación se traduce por ejemplo en que las fuerzas internas necesitan ser modelizadas mediante un <a href="/wiki/Tensor_tensi%C3%B3n" title="Tensor tensión">tensor de tensiones</a> en que la fuerza por unidad de superficie que experimenta un punto del interior depende de la dirección a lo largo de la cual se consideren las fuerzas.
+</p>
+<p>Lo anterior se refiere a sólidos, en los fluidos en reposo las fuerzas internas dependen esencialmente de la presión, y en los fluidos en movimiento también la <a href="/wiki/Viscosidad" title="Viscosidad">viscosidad</a> puede desempeñar un papel importante.
+</p>
+<p>La fricción en sólidos puede darse entre sus superficies libres en contacto. En el tratamiento de los problemas mediante mecánica newtoniana, la fricción entre sólidos frecuentemente se modeliza como una fuerza tangente sobre cualquiera de los planos del contacto entre sus superficies, de valor proporcional a la fuerza normal.
+</p>
+<p>El rozamiento entre sólido-líquido y en el interior de un líquido o un gas depende esencialmente de si el flujo se considera laminar o turbulento y de su <a href="/wiki/Ecuaci%C3%B3n_constitutiva" title="Ecuación constitutiva">ecuación constitutiva</a>.
+</p>
+<p>En mecánica newtoniana la fuerza de atracción entre dos masas, cuyos centros de gravedad están lejos comparadas con las dimensiones del cuerpo,<sup class="reference separada" id="cite_ref-23"><a href="#cite_note-23"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>​ viene dada por la ley de la gravitación universal de Newton:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r} _{21}|^{2}}}\mathbf {e} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r} _{21}|^{3}}}\mathbf {r} _{21}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r} _{21}|^{2}}}\mathbf {e} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r} _{21}|^{3}}}\mathbf {r} _{21}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r} _{21}|^{2}}}\mathbf {e} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r} _{21}|^{3}}}\mathbf {r} _{21}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a0259918da480fad3a444c5f06e7f19ccd8a8df3" style="vertical-align: -3.005ex; width:37.156ex; height:5.843ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>Cuando la masa de uno de los cuerpos es muy grande en comparación con la del otro (por ejemplo, si tiene dimensiones planetarias), la expresión anterior se transforma en otra más simple:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =-m\left(G{\frac {M}{R_{0}^{2}}}\right){\hat {\mathbf {u} }}_{r}=-mg{\hat {\mathbf {u} }}_{r}=m\mathbf {g} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>m</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>M</mi>
+<msubsup>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>m</mi>
+<mi>g</mi>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">g</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =-m\left(G{\frac {M}{R_{0}^{2}}}\right){\hat {\mathbf {u} }}_{r}=-mg{\hat {\mathbf {u} }}_{r}=m\mathbf {g} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =-m\left(G{\frac {M}{R_{0}^{2}}}\right){\hat {\mathbf {u} }}_{r}=-mg{\hat {\mathbf {u} }}_{r}=m\mathbf {g} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8e5bc0b1e1186766015b51778eb58e3820fd7ce3" style="vertical-align: -3.171ex; width:38.023ex; height:7.509ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>En mecánica newtoniana también es posible modelizar algunas fuerzas constantes en el tiempo como <a href="/wiki/Campo_(f%C3%ADsica)#Campos_de_fuerzas_en_física_clásica" title="Campo (física)">campos de fuerza</a>. Por ejemplo la fuerza entre dos cargas eléctricas inmóviles, puede representarse adecuadamente mediante la <a href="/wiki/Ley_de_Coulomb" title="Ley de Coulomb">ley de Coulomb</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} _{12}=-\kappa {\frac {q_{1}q_{2}}{\|\mathbf {r} _{12}\|^{3}}}\mathbf {r} _{12}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>12</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>κ<!-- κ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>12</mn>
+</mrow>
+</msub>
+<msup>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>12</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} _{12}=-\kappa {\frac {q_{1}q_{2}}{\|\mathbf {r} _{12}\|^{3}}}\mathbf {r} _{12}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} _{12}=-\kappa {\frac {q_{1}q_{2}}{\|\mathbf {r} _{12}\|^{3}}}\mathbf {r} _{12}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5de595c51799de330e9fffd87a51c01cc84347d7" style="vertical-align: -2.671ex; width:19.976ex; height:5.676ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>También los campos magnéticos estáticos y los debidos a cargas estáticas con distribuciones más complejas pueden resumirse en dos funciones vectoriales llamadas <a href="/wiki/Campo_el%C3%A9ctrico" title="Campo eléctrico">campo eléctrico</a> y <a href="/wiki/Campo_magn%C3%A9tico" title="Campo magnético">campo magnético</a> tales que una partícula en movimiento respecto a las fuentes estáticas de dichos campos viene dada por la <a href="/wiki/Fuerza_de_Lorentz" title="Fuerza de Lorentz">expresión de Lorentz</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =q(\mathbf {E} +\mathbf {v} \times \mathbf {B} ),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mi>q</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =q(\mathbf {E} +\mathbf {v} \times \mathbf {B} ),}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =q(\mathbf {E} +\mathbf {v} \times \mathbf {B} ),}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d179abe43021d3c2f80b5f1af5c74a8161601dc3" style="vertical-align: -0.838ex; width:19.057ex; height:2.843ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>Los campos de fuerzas no constantes sin embargo presentan una dificultad especialmente cuando están creados por partículas en movimiento rápido, porque en esos casos los efectos relativistas de retardo pueden ser importantes, y la mecánica clásica, da lugar a un tratamiento de <a href="/wiki/Acci%C3%B3n_a_distancia" title="Acción a distancia">acción a distancia</a> que puede resultar inadecuado si las fuerzas cambian rápidamente con el tiempo.
+</p>
+<p>La <b>fuerza eléctrica</b> también son de acción a distancia, pero a veces la interacción entre los cuerpos actúa como una <b>fuerza atractiva</b> mientras que, otras veces, tiene el efecto inverso, es decir puede actuar como una <b>fuerza repulsiva</b>.
+</p>
+<p>En el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a> (SI) y en el <a href="/wiki/Sistema_Cegesimal_de_Unidades" title="Sistema Cegesimal de Unidades">Cegesimal</a> (cgs), el hecho de definir la fuerza a partir de la masa y la aceleración (magnitud en la que intervienen longitud y tiempo), conlleva a que la fuerza sea una magnitud derivada. Por el contrario, en el Sistema Técnico la fuerza es una Unidad Fundamental y a partir de ella se define la unidad de masa en este sistema, la <a href="/wiki/Unidad_t%C3%A9cnica_de_masa" title="Unidad técnica de masa">unidad técnica de masa</a>, abreviada u.t.m. (no tiene símbolo). Este hecho atiende a las evidencias que posee la física actual, expresado en el concepto de <a href="/wiki/Interacciones_fundamentales" title="Interacciones fundamentales">fuerzas fundamentales</a>, y se ve reflejado en el Sistema Internacional de Unidades.
+</p>
+<p>En relatividad especial, la fuerza se debe definir solamente como derivada del momento lineal, ya que en este caso la fuerza no resulta simplemente proporcional a la aceleración:
+</p>
+<p>De hecho en general el vector de aceleración y el de fuerza ni siquiera serán paralelos, solo en el <a href="/wiki/Movimiento_circular_uniforme" title="Movimiento circular uniforme">movimiento circular uniforme</a> y en cualquier <a href="/wiki/Movimiento_rectil%C3%ADneo" title="Movimiento rectilíneo">movimiento rectilíneo</a> serán paralelos el vector de fuerza y aceleración pero en general el <a href="/wiki/M%C3%B3dulo_(vector)" title="Módulo (vector)">módulo</a> de la fuerza dependerá tanto de la velocidad como de la aceleración.
+</p>
+<p>En la <a href="/wiki/Relatividad_general" title="Relatividad general">teoría de la relatividad general</a> el <a href="/wiki/Campo_gravitatorio#Campo_gravitatorio_en_física_relativista" title="Campo gravitatorio">campo gravitatorio</a> no se trata como un campo de fuerzas real, sino como un efecto de la <a href="/wiki/Curvatura_del_espacio-tiempo" title="Curvatura del espacio-tiempo">curvatura del espacio-tiempo</a>. Una partícula másica que no sufre el efecto de ninguna otra interacción, más que de la gravitatoria, seguirá una <a href="/wiki/Geod%C3%A9sica" title="Geodésica">trayectoria geodésica</a> de mínima curvatura a través del espacio-tiempo, y por tanto su <a href="/wiki/Ecuaci%C3%B3n_de_movimiento" title="Ecuación de movimiento">ecuación de movimiento</a> será:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\cfrac {d^{2}x^{\mu }}{ds^{2}}}+\sum _{\sigma ,\nu }\Gamma _{\sigma \nu }^{\mu }{\cfrac {dx^{\sigma }}{ds}}{\cfrac {dx^{\nu }}{ds}}=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>σ<!-- σ --></mi>
+<mo>,</mo>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</munder>
+<msubsup>
+<mi mathvariant="normal">Γ<!-- Γ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>σ<!-- σ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>σ<!-- σ --></mi>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\cfrac {d^{2}x^{\mu }}{ds^{2}}}+\sum _{\sigma ,\nu }\Gamma _{\sigma \nu }^{\mu }{\cfrac {dx^{\sigma }}{ds}}{\cfrac {dx^{\nu }}{ds}}=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\cfrac {d^{2}x^{\mu }}{ds^{2}}}+\sum _{\sigma ,\nu }\Gamma _{\sigma \nu }^{\mu }{\cfrac {dx^{\sigma }}{ds}}{\cfrac {dx^{\nu }}{ds}}=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e45186bea53d81a3c61b2a77b3f6a4ca783ab1ff" style="vertical-align: -3.171ex; width:29.041ex; height:7.343ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>La fuerza gravitatoria aparente procede del término asociado a los símbolos de Christoffel. Un observador en «caída libre» formará un sistema de referencia en movimiento en el que dichos símbolos de Christoffel son nulos, y por tanto no percibirá ninguna fuerza gravitatoria tal como sostiene el <a href="/wiki/Principio_de_equivalencia" title="Principio de equivalencia">principio de equivalencia</a> que ayudó a Einstein a formular sus ideas sobre el campo gravitatorio.
+</p>
+<p>El efecto del <a href="/wiki/Campo_electromagn%C3%A9tico" title="Campo electromagnético">campo electromagnético</a> sobre una partícula relativista viene dado por la expresión covariante de la <a href="/wiki/Fuerza_de_Lorentz" title="Fuerza de Lorentz">fuerza de Lorentz</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f_{\alpha }=\sum _{\beta }q\ F_{\alpha \beta }\ u^{\beta }\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+</mrow>
+</munder>
+<mi>q</mi>
+<mtext> </mtext>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+<mi>β<!-- β --></mi>
+</mrow>
+</msub>
+<mtext> </mtext>
+<msup>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f_{\alpha }=\sum _{\beta }q\ F_{\alpha \beta }\ u^{\beta }\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle f_{\alpha }=\sum _{\beta }q\ F_{\alpha \beta }\ u^{\beta }\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd035ad45947c64c63ff35840513666a7f194776" style="vertical-align: -3.338ex; width:18.106ex; height:5.843ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>La ecuación de movimiento de una partícula en un espacio-tiempo curvo y sometida a la acción de la fuerza anterior viene dada por:
+</p>
+<p>Donde la expresión anterior se ha aplicado el <a href="/wiki/Convenio_de_suma_de_Einstein" title="Convenio de suma de Einstein">convenio de sumación de Einstein</a> para índices repetidos, el miembro de la derecha representa la <a href="/wiki/Cuadriaceleraci%C3%B3n" title="Cuadriaceleración">cuadriaceleración</a> y siendo las otras magnitudes:
+</p>
+<p>En <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a> no resulta fácil definir para muchos sistemas un equivalente claro de la fuerza. Esto sucede porque en mecánica cuántica un sistema mecánico queda descrito por una <a href="/wiki/Funci%C3%B3n_de_onda" title="Función de onda">función de onda</a> o vector de estado <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle |\psi \rangle }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>ψ<!-- ψ --></mi>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle |\psi \rangle }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle |\psi \rangle }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a53a943aa4b7e25a759e2ac07023caaad3f2b0a5" style="vertical-align: -0.671ex; width:2.167ex; height:2.176ex;"/></span> que en general representa a todo el sistema en conjunto y no puede separarse en partes. Solo para sistemas donde el estado del sistema pueda descomponerse de manera no ambigua en la forma <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle |\psi \rangle =|\psi _{A}\rangle +|\psi _{B}\rangle }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>ψ<!-- ψ --></mi>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mi>ψ<!-- ψ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mi>ψ<!-- ψ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle |\psi \rangle =|\psi _{A}\rangle +|\psi _{B}\rangle }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle |\psi \rangle =|\psi _{A}\rangle +|\psi _{B}\rangle }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62039b75281d0788a1bdd68293aae8f97fe95ed6" style="vertical-align: -0.671ex; width:11.4ex; height:2.176ex;"/></span> donde cada una de esas dos partes representa una parte del sistema es posible definir el concepto de fuerza. Sin embargo, en la mayoría de sistemas interesantes no es posible esta descomposición. Por ejemplo si consideramos el conjunto de electrones de un átomo, que es un conjunto de <a href="/wiki/Part%C3%ADculas_id%C3%A9nticas" title="Partículas idénticas">partículas idénticas</a> no es posible determinar una magnitud que represente la fuerza entre dos electrones concretos, porque no es posible escribir una función de onda que describa por separado los dos electrones.
+</p>
+<p>Sin embargo, en el caso de una partícula aislada sometida a la acción de una <a href="/wiki/Fuerza_conservativa" title="Fuerza conservativa">fuerza conservativa</a> es posible describir la fuerza mediante un potencial externo e introducir la noción de fuerza. Esta situación es la que se da por ejemplo en el <a href="/wiki/Modelo_at%C3%B3mico_de_Schr%C3%B6dinger" title="Modelo atómico de Schrödinger">modelo atómico de Schrödinger</a> para un <a href="/wiki/%C3%81tomo_hidrogenoide" title="Átomo hidrogenoide">átomo hidrogenoide</a> donde el electrón y el núcleo son discernibles uno de otro. En este y otros casos de una partícula aislada en un potencial el <a href="/wiki/Teorema_de_Ehrenfest" title="Teorema de Ehrenfest">teorema de Ehrenfest</a> lleva a una generalización de la segunda ley de Newton en la forma:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {d}{dt}}\langle p\rangle =\int \Phi ^{*}V(\mathbf {x} ,t)\nabla \Phi ~d^{3}\mathbf {x} -\int \Phi ^{*}(\nabla V(\mathbf {x} ,t))\Phi ~d^{3}\mathbf {x} -\int \Phi ^{*}V(\mathbf {x} ,t)\nabla \Phi ~d^{3}\mathbf {x} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mi>p</mi>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mo>=</mo>
+<mo>∫<!-- ∫ --></mo>
+<msup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msup>
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mtext> </mtext>
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>−<!-- − --></mo>
+<mo>∫<!-- ∫ --></mo>
+<msup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mtext> </mtext>
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>−<!-- − --></mo>
+<mo>∫<!-- ∫ --></mo>
+<msup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msup>
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mtext> </mtext>
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {d}{dt}}\langle p\rangle =\int \Phi ^{*}V(\mathbf {x} ,t)\nabla \Phi ~d^{3}\mathbf {x} -\int \Phi ^{*}(\nabla V(\mathbf {x} ,t))\Phi ~d^{3}\mathbf {x} -\int \Phi ^{*}V(\mathbf {x} ,t)\nabla \Phi ~d^{3}\mathbf {x} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {d}{dt}}\langle p\rangle =\int \Phi ^{*}V(\mathbf {x} ,t)\nabla \Phi ~d^{3}\mathbf {x} -\int \Phi ^{*}(\nabla V(\mathbf {x} ,t))\Phi ~d^{3}\mathbf {x} -\int \Phi ^{*}V(\mathbf {x} ,t)\nabla \Phi ~d^{3}\mathbf {x} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/49fe3d7bc056546e11abece4f59880186012e4f6" style="vertical-align: -2.338ex; width:76.675ex; height:5.843ex;"/></span>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle =0-\int \Phi ^{*}(\nabla V(\mathbf {x} ,t))\Phi ~d^{3}\mathbf {x} -0=\langle -\nabla V(\mathbf {x} ,t)\rangle =\langle F\rangle ,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mn>0</mn>
+<mo>−<!-- − --></mo>
+<mo>∫<!-- ∫ --></mo>
+<msup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mtext> </mtext>
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>−<!-- − --></mo>
+<mn>0</mn>
+<mo>=</mo>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mo>−<!-- − --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mo>=</mo>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mi>F</mi>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =0-\int \Phi ^{*}(\nabla V(\mathbf {x} ,t))\Phi ~d^{3}\mathbf {x} -0=\langle -\nabla V(\mathbf {x} ,t)\rangle =\langle F\rangle ,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle =0-\int \Phi ^{*}(\nabla V(\mathbf {x} ,t))\Phi ~d^{3}\mathbf {x} -0=\langle -\nabla V(\mathbf {x} ,t)\rangle =\langle F\rangle ,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2a896ab532aece76886bd34cdfb16639faf52b83" style="vertical-align: -2.338ex; width:55.169ex; height:5.676ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>En otros casos como los experimentos de colisión o dispersión de partículas elementales de energía positiva que son disparados contra otras partículas que hacen de blanco, como los experimentos típicos llevados a cabo en <a href="/wiki/Acelerador_de_part%C3%ADculas" title="Acelerador de partículas">aceleradores de partículas</a> a veces es posible definir un potencial que está relacionado con la fuerza típica que experimentará una partícula en colisión, pero aun así en muchos casos no puede hablarse de fuerza en el sentido clásico de la palabra.
+</p>
+<p>En <a href="/wiki/Teor%C3%ADa_cu%C3%A1ntica_de_campos" title="Teoría cuántica de campos">teoría cuántica de campos</a>, el término «fuerza» tiene un sentido ligeramente diferente al que tiene en mecánica clásica debido a la dificultad específica señalada en la sección anterior de definir un equivalente cuántico de las fuerzas clásicas. Por esa razón el término «fuerza fundamental» en teoría cuántica de campos se refiere al modo de interacción entre partículas o campos cuánticos, más que a una medida concreta de la interacción de dos partículas o campos.
+</p>
+<p>La teoría cuántica de campos trata de dar una descripción de las formas de interacción existentes entre las diferentes formas de materia o campos cuánticos existentes en el Universo. Así el término «fuerzas fundamentales» se refiere actualmente a los modos claramente diferenciados de interacción que conocemos. Cada fuerza fundamental quedará descrita por una teoría diferente y postulará diferentes <a href="/wiki/Lagrangiano" title="Lagrangiano">lagrangianos</a> de interacción que describan como es ese modo peculiar de interacción.
+</p>
+<p>Cuando se formuló la idea de fuerza fundamental se consideró que existían cuatro «fuerzas fundamentales»: la gravitatoria, la electromagnética, la nuclear fuerte y la nuclear débil. La descripción de las «fuerzas fundamentales» tradicionales es la siguiente:
+</p>
+<p>Sin embargo, cabe señalar que el número de fuerzas fundamentales en el sentido anteriormente expuesto depende de nuestro estado de conocimiento, así hasta finales de los <a href="/wiki/A%C3%B1os_1960" title="Años 1960">años 1960</a> la <a href="/wiki/Interacci%C3%B3n_d%C3%A9bil" title="Interacción débil">interacción débil</a> y la <a class="mw-redirect" href="/wiki/Interacci%C3%B3n_electromagn%C3%A9tica" title="Interacción electromagnética">interacción electromagnética</a> se consideraban fuerzas fundamentales diferentes, pero los avances teóricos permitieron establecer que en realidad ambos tipos de interacción eran manifestaciones fenomenológicamente diferentes de la misma «fuerza fundamental», la <a href="/wiki/Modelo_electrod%C3%A9bil" title="Modelo electrodébil">interacción electrodébil</a>. Se tiene la sospecha de que en última instancia todas las «fuerzas fundamentales» son manifestaciones fenomenológicas de una única «fuerza» que sería descrita por algún tipo de <a href="/wiki/Teor%C3%ADa_de_la_gran_unificaci%C3%B3n" title="Teoría de la gran unificación">teoría unificada</a> o <a href="/wiki/Teor%C3%ADa_del_todo" title="Teoría del todo">teoría del todo</a>.
+</p>
+<p>En <a href="/wiki/F%C3%ADsica" title="Física">física</a> clásica, la <b>fuerza</b> (abreviatura F) es un fenómeno que modifica el movimiento de un cuerpo (lo acelera, frena, cambia el sentido, etc.) o bien lo deforma. Las fuerzas pueden representarse mediante vectores, ya que poseen <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitud</a> y dirección.  No debe confundirse el concepto de fuerza con el <a href="/wiki/Esfuerzo_interno" title="Esfuerzo interno">esfuerzo</a> o la <a href="/wiki/Energ%C3%ADa" title="Energía">energía</a>. 
+</p>
+<p>En el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a>, la <a href="/wiki/Unidad_de_medida" title="Unidad de medida">unidad de medida</a> de la fuerza es el <a href="/wiki/Newton_(unidad)" title="Newton (unidad)">newton</a> que se representa con el símbolo N, en reconocimiento a <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> por su aporte a la física, especialmente a la <a href="/wiki/Mec%C3%A1nica_cl%C3%A1sica" title="Mecánica clásica">mecánica clásica</a>. El newton es una <a href="/wiki/Unidades_derivadas_del_Sistema_Internacional" title="Unidades derivadas del Sistema Internacional">unidad derivada del Sistema Internacional de Unidades</a> que se define como la fuerza necesaria para proporcionar una <a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a> de 1m/s² a un objeto de 1kg de <a href="/wiki/Masa" title="Masa">masa</a>.
+</p>
+<p>Los conceptos relacionados con la fuerza incluyen: <a href="/wiki/Empuje" title="Empuje">empuje</a>, que aumenta la velocidad de un objeto; <a class="mw-redirect" href="/wiki/Arrastre_(f%C3%ADsica)" title="Arrastre (física)">arrastrar</a>, que disminuye la velocidad de un objeto; y <a href="/wiki/Par_motor" title="Par motor">par motor</a>, que produce <a href="/wiki/Aceleraci%C3%B3n_angular" title="Aceleración angular">cambios en la velocidad de rotación</a> de un objeto. En un cuerpo extendido, cada parte suele aplicar fuerzas sobre las partes adyacentes; la distribución de dichas fuerzas a través del cuerpo es la <a href="/wiki/Tensi%C3%B3n_(mec%C3%A1nica)" title="Tensión (mecánica)">tensión mecánica</a> interna. Tales tensiones mecánicas internas no causan ninguna aceleración de ese cuerpo, ya que las fuerzas se equilibran entre sí. La <a href="/wiki/Presi%C3%B3n" title="Presión">presión</a>, la distribución de muchas fuerzas pequeñas aplicadas sobre un área de un cuerpo, es un tipo de tensión simple que, si se desequilibra, puede hacer que el cuerpo se acelere. El estrés suele provocar la <a href="/wiki/Deformaci%C3%B3n_(ingenier%C3%ADa)" title="Deformación (ingeniería)">deformación</a> de los materiales sólidos, o el flujo en los <a class="mw-redirect" href="/wiki/Fluidos" title="Fluidos">fluidos</a>.
+</p>
+<p>La fuerza es un <a href="/wiki/Modelo_matem%C3%A1tico" title="Modelo matemático">modelo matemático</a> de intensidad de las interacciones, junto con la energía. Así, por ejemplo, la <a href="/wiki/Gravedad" title="Gravedad">fuerza gravitacional</a> es la atracción entre los cuerpos que tienen masa, el peso es la atracción que la Tierra ejerce sobre los objetos en las cercanías de su superficie, la fuerza elástica es la que ejerce un resorte deformado (comprimido o estirado). En <a href="/wiki/F%C3%ADsica" title="Física">física</a>, hay dos tipos de ecuaciones de fuerza: las «de causas», en las cuales se especifica el origen de la atracción o repulsión, como, por ejemplo, la <a href="/wiki/Ley_de_gravitaci%C3%B3n_universal" title="Ley de gravitación universal">ley de la gravitación universal</a> de Newton o la <a href="/wiki/Ley_de_Coulomb" title="Ley de Coulomb">ley de Coulomb</a>; y las «de efectos», la cual es, fundamentalmente, la segunda ley de Newton.
+</p>
+<p>La fuerza es una <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitud física</a> de carácter <a href="/wiki/Vector" title="Vector">vectorial</a> capaz de deformar un cuerpo (efecto estático), modificar su velocidad o vencer su <a href="/wiki/Inercia" title="Inercia">inercia</a> y ponerlos en movimiento si estaban inmóviles (efecto dinámico). En este sentido, la fuerza puede definirse como toda acción o influencia capaz de modificar el estado de movimiento o de reposo de un cuerpo (imprimiéndole una <a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a> que modifica el <a href="/wiki/M%C3%B3dulo_(vector)" title="Módulo (vector)">módulo</a> o la dirección de su <a href="/wiki/Velocidad" title="Velocidad">velocidad</a>).
+</p>
+<p>Comúnmente nos referimos a la fuerza aplicada sobre un objeto sin tener en cuenta al otro objeto u objetos con los que está interactuando y que experimentarán, a su vez, otras fuerzas. Actualmente, cabe definir la fuerza como un ente físico matemático, de carácter vectorial, asociado con la interacción del cuerpo con otros cuerpos que constituyen su entorno. Este concepto tiene relación directa con la <a class="mw-redirect" href="/wiki/Tercera_ley_de_Newton" title="Tercera ley de Newton">tercera ley de Newton</a>.
+</p>
+<p>Los filósofos de la <a href="/wiki/Antig%C3%BCedad_cl%C3%A1sica" title="Antigüedad clásica">antigüedad</a> utilizaron el concepto de fuerza en el estudio de los objetos <a href="/wiki/Est%C3%A1tica_(mec%C3%A1nica)" title="Estática (mecánica)">estacionarios</a> y <a class="mw-redirect" href="/wiki/Din%C3%A1mica_(f%C3%ADsica)" title="Dinámica (física)">en movimiento</a> y de las <a class="mw-redirect" href="/wiki/M%C3%A1quinas_simples" title="Máquinas simples">máquinas simples</a>, pero pensadores como <a href="/wiki/Arist%C3%B3teles" title="Aristóteles">Aristóteles</a> y <a href="/wiki/Arqu%C3%ADmedes" title="Arquímedes">Arquímedes</a> mantuvieron errores fundamentales en la comprensión de la fuerza. En parte, esto se debía a una comprensión incompleta de la fuerza, a veces no evidente, del <a class="mw-redirect" href="/wiki/Rozamiento" title="Rozamiento">rozamiento</a>, y a una visión consecuentemente inadecuada de la naturaleza del movimiento natural.<sup class="reference separada" id="cite_ref-Arquímedes_1-0"><a href="#cite_note-Arquímedes-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Un error fundamental fue la creencia de que se requiere una fuerza para mantener el movimiento, incluso a una velocidad constante. La mayoría de los malentendidos anteriores sobre el movimiento y la fuerza fueron finalmente corregidos por <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a> e <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a>. Con su perspicacia matemática, Isaac Newton formuló las <a class="mw-redirect" href="/wiki/Leyes_del_movimiento_de_Newton" title="Leyes del movimiento de Newton">leyes del movimiento</a> que no fueron mejoradas durante casi trescientos años.<sup class="reference separada" id="cite_ref-uniphysics_ch2_2-0"><a href="#cite_note-uniphysics_ch2-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ A principios del <a href="/wiki/Siglo_XX" title="Siglo XX">siglo <span style="font-variant:small-caps;text-transform:lowercase">XX</span></a>, <a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a> desarrolló una <a href="/wiki/Teor%C3%ADa_de_la_relatividad" title="Teoría de la relatividad">teoría de la relatividad</a> que predecía correctamente la acción de las fuerzas sobre los objetos con momentos crecientes cercanos a la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>, y también proporcionó una visión de las fuerzas producidas por la gravitación y la <a href="/wiki/Inercia" title="Inercia">inercia</a>.
+</p>
+<p>Con los conocimientos modernos de la <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a> y la tecnología que puede acelerar las partículas cerca de la velocidad de la luz, la <a href="/wiki/F%C3%ADsica_de_part%C3%ADculas" title="Física de partículas">física de partículas</a> ha ideado un <a class="mw-redirect" href="/wiki/Modelo_Est%C3%A1ndar" title="Modelo Estándar">Modelo Estándar</a> para describir las fuerzas entre partículas más pequeñas que los átomos. El <a class="mw-redirect" href="/wiki/Modelo_Est%C3%A1ndar" title="Modelo Estándar">Modelo Estándar</a> predice que las partículas intercambiadas, llamadas <a class="mw-redirect" href="/wiki/Bosones_de_gauge" title="Bosones de gauge">bosones de gauge</a>, son el medio fundamental por el que se emiten y absorben las fuerzas. Solo se conocen cuatro interacciones principales: en orden de fuerza decreciente, son: <a class="mw-redirect" href="/wiki/Fuerza_fuerte" title="Fuerza fuerte">fuerte</a>, <a href="/wiki/Electromagnetismo" title="Electromagnetismo">electromagnética</a>, <a class="mw-redirect" href="/wiki/Fuerza_d%C3%A9bil" title="Fuerza débil">débil</a>, y <a class="mw-redirect" href="/wiki/Fuerza_gravitatoria" title="Fuerza gravitatoria">gravitatoria</a>.<sup class="reference separada" id="cite_ref-FeynmanVol1_3-0"><a href="#cite_note-FeynmanVol1-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference nowrap"><span title="Page / location: 2–10">: 2–10 </span></sup><sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​<sup class="reference nowrap"><span title="Page / location: 79">: 79 </span></sup> <a class="mw-redirect" href="/wiki/F%C3%ADsica_de_alta_energ%C3%ADa" title="Física de alta energía">Física de partículas de alta energía</a> Las <a class="mw-redirect" href="/wiki/Observaciones" title="Observaciones">observaciones</a> realizadas durante las décadas de 1970 y 1980 confirmaron que las fuerzas débil y electromagnética son expresiones de una interacción <a class="mw-redirect" href="/wiki/Electrod%C3%A9bil" title="Electrodébil">electrodébil</a> más fundamental.<sup class="reference separada" id="cite_ref-final_theory_5-0"><a href="#cite_note-final_theory-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​<sup class="reference nowrap"><span title="Page / location: 199–128">: 199–128 </span></sup>
+</p>
+<p>El concepto de fuerza fue descrito originalmente por <a href="/wiki/Arqu%C3%ADmedes" title="Arquímedes">Arquímedes</a>, si bien únicamente en términos estáticos. Arquímedes y otros creyeron que el «estado natural» de los objetos materiales en la esfera terrestre era el <a href="/wiki/Reposo" title="Reposo">reposo</a> y que los cuerpos tendían, por sí mismos, hacia ese estado si no se actuaba sobre ellos en modo alguno. De acuerdo con <a href="/wiki/Arist%C3%B3teles" title="Aristóteles">Aristóteles</a> la perseverancia del movimiento requería siempre una causa eficiente (algo que parece concordar con la experiencia cotidiana, donde las fuerzas de fricción pueden pasar desapercibidas).
+</p>
+<p><a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a> (1564-1642) sería el primero en dar una definición dinámica de fuerza, opuesta a la de Arquímedes, estableciendo claramente la <a href="/wiki/Leyes_de_Newton" title="Leyes de Newton">ley de la inercia</a>, afirmando que un cuerpo sobre el que no actúa ninguna fuerza permanece en movimiento inalterado. Esta ley, que refuta la tesis de Arquímedes, aún hoy día no resulta obvia para la mayoría de las personas sin formación científica.
+</p>
+<p>Se considera que fue <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> el primero que formuló matemáticamente la moderna definición de fuerza, aunque también usó el término latino <i><a href="/wiki/Velocidad" title="Velocidad">vis impressa</a></i> ('fuerza impresa') y <i><a href="/wiki/Impulso" title="Impulso">vis motrix</a></i> para otros conceptos diferentes. Además, Isaac Newton postuló que las fuerzas gravitatorias variaban según la <a href="/wiki/Ley_de_la_inversa_del_cuadrado" title="Ley de la inversa del cuadrado">ley de la inversa del cuadrado</a> de la distancia.
+</p>
+<p><a href="/wiki/Charles-Augustin_de_Coulomb" title="Charles-Augustin de Coulomb">Charles Coulomb</a> fue el primero que comprobó que la interacción entre <a href="/wiki/Carga_el%C3%A9ctrica" title="Carga eléctrica">cargas eléctricas o electrónicas</a> puntuales también varía según la ley de la inversa del cuadrado de la distancia (1784).
+</p>
+<p>En 1798, <a href="/wiki/Henry_Cavendish" title="Henry Cavendish">Henry Cavendish</a> logró medir experimentalmente la fuerza de atracción gravitatoria entre dos masas pequeñas utilizando una <a href="/wiki/Balanza_de_torsi%C3%B3n" title="Balanza de torsión">balanza de torsión</a>. Gracias a lo cual pudo determinar el valor de la <a href="/wiki/Constante_de_gravitaci%C3%B3n_universal" title="Constante de gravitación universal">constante de la gravitación universal</a> y, por tanto, pudo calcular la masa de la Tierra.
+</p>
+<p>Con el desarrollo de la <a href="/wiki/Electrodin%C3%A1mica_cu%C3%A1ntica" title="Electrodinámica cuántica">electrodinámica cuántica</a>, a mediados del siglo <span style="font-variant:small-caps;text-transform:lowercase">XX</span>, se constató que la «fuerza» era una <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitud</a> puramente macroscópica surgida de la <a class="mw-redirect" href="/wiki/Ley_de_conservaci%C3%B3n" title="Ley de conservación">conservación del momento lineal o cantidad de movimiento</a> para partículas elementales. Por esa razón las llamadas <a href="/wiki/Interacciones_fundamentales" title="Interacciones fundamentales">fuerzas fundamentales</a> suelen denominarse «interacciones fundamentales».
+</p>
+<p>Desde la antigüedad el concepto de fuerza ha sido reconocido como parte integral del funcionamiento de cada una de las <a class="mw-redirect" href="/wiki/M%C3%A1quinas_simples" title="Máquinas simples">máquinas simples</a>. La <a href="/wiki/Ventaja_mec%C3%A1nica" title="Ventaja mecánica">ventaja mecánica</a> dada por una máquina simple permitía utilizar menos fuerza a cambio de que esa fuerza actuara sobre una mayor distancia para la misma cantidad de <a href="/wiki/Trabajo_(f%C3%ADsica)" title="Trabajo (física)">trabajo</a>. El análisis de las características de las fuerzas culminó en última instancia con el trabajo de <a href="/wiki/Arqu%C3%ADmedes" title="Arquímedes">Arquímedes</a> que fue especialmente famoso por formular un tratamiento de las <a href="/wiki/Flotabilidad" title="Flotabilidad">fuerzas de flotación</a> inherentes a los <a class="mw-redirect" href="/wiki/Fluidos" title="Fluidos">fluidos</a>.<sup class="reference separada" id="cite_ref-Arquímedes_1-1"><a href="#cite_note-Arquímedes-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><a href="/wiki/Arist%C3%B3teles" title="Aristóteles">Aristóteles</a> proporcionó una discusión <a class="mw-redirect" href="/wiki/Filos%C3%B3fica" title="Filosófica">filosófica</a> del concepto de fuerza como parte integral de la <a href="/wiki/F%C3%ADsica_(Arist%C3%B3teles)" title="Física (Aristóteles)">Cosmología aristotélica</a>. En opinión de Aristóteles, la esfera terrestre contenía cuatro <a class="mw-redirect" href="/wiki/Elemento_cl%C3%A1sico" title="Elemento clásico">elementos</a> que llegan a descansar en diferentes «lugares naturales» de la misma. Aristóteles creía que los objetos inmóviles de la Tierra, los compuestos mayoritariamente por los elementos tierra y agua, estaban en su lugar natural en el suelo y que permanecerían así si se les dejaba tranquilos. Distinguía entre la tendencia innata de los objetos a encontrar su «lugar natural» (por ejemplo para que los cuerpos pesados caigan), lo que conducía al «movimiento natural», y el movimiento no natural o forzado, que requería la aplicación continua de una fuerza.<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​ Esta teoría, basada en la experiencia cotidiana de cómo se mueven los objetos, como la aplicación constante de una fuerza necesaria para mantener un carro en movimiento, tenía problemas conceptuales para explicar el comportamiento de los <a class="mw-redirect" href="/wiki/Proyectiles" title="Proyectiles">proyectiles</a>, como el vuelo de las flechas. El lugar en el que el arquero mueve el proyectil estaba en el inicio del vuelo, y mientras el proyectil navegaba por el aire, ninguna causa eficiente discernible actuaba sobre él. Aristóteles era consciente de este problema y propuso que el aire desplazado a través de la trayectoria del proyectil lo lleva hasta su objetivo. Esta explicación exige un continuo como el aire para el cambio de lugar en general.<sup class="reference separada" id="cite_ref-Hetherington_7-0"><a href="#cite_note-Hetherington-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La <a href="/wiki/F%C3%ADsica_aristot%C3%A9lica" title="Física aristotélica">física aristotélica</a> comenzó a enfrentarse a las críticas en <a href="/wiki/Historia_de_la_ciencia" title="Historia de la ciencia">la ciencia medieval</a>, primero por parte de <a class="mw-redirect" href="/wiki/Juan_Filop%C3%B3n" title="Juan Filopón">Juan Filopón</a> en el <a href="/wiki/Siglo_VI" title="Siglo VI">siglo <span style="font-variant:small-caps;text-transform:lowercase">VI</span></a>.
+</p>
+<p>Las deficiencias de la física aristotélica no se corregirían del todo hasta el trabajo del <a href="/wiki/Siglo_XVII" title="Siglo XVII">siglo <span style="font-variant:small-caps;text-transform:lowercase">XVII</span></a> de <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a>, que se vio influenciado por la idea tardomedieval de que los objetos en movimiento forzado llevaban una fuerza innata de <a href="/wiki/Teor%C3%ADa_del_%C3%ADmpetu" title="Teoría del ímpetu">ímpetus</a>. Galileo construyó un experimento en el que se hicieron rodar piedras y balas de cañón por una pendiente para refutar la <a href="/wiki/F%C3%ADsica_aristot%C3%A9lica" title="Física aristotélica">teoría aristotélica del movimiento</a>. Demostró que los cuerpos eran acelerados por la gravedad en una medida que era independiente de su masa y argumentó que los objetos conservan su <a href="/wiki/Velocidad" title="Velocidad">velocidad</a> a menos que se actúe sobre ellos con una fuerza, por ejemplo la <a href="/wiki/Fricci%C3%B3n" title="Fricción">fricción</a>.<sup class="reference separada" id="cite_ref-Galileo_8-0"><a href="#cite_note-Galileo-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>A principios del siglo <span style="font-variant:small-caps;text-transform:lowercase">XVII</span>, antes de los Principios de Newton, el término «fuerza» (en <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a>: <i lang="la">vis</i>) se aplicaba a muchos fenómenos físicos y no físicos, por ejemplo, para la aceleración de un punto. El producto de una masa puntual por el cuadrado de su velocidad fue denominado <i lang="la" title="Texto en idioma latín">vis viva</i> (fuerza viva) por <a class="mw-redirect" href="/wiki/Gottfried_Wilhelm_Leibniz" title="Gottfried Wilhelm Leibniz">Leibniz</a>. El concepto moderno de fuerza corresponde a la <i lang="la" title="Texto en idioma latín">vis motrix</i> de Newton. (fuerza de aceleración).<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La primera ley del movimiento de Newton establece que los objetos continúan moviéndose en un estado de velocidad constante a menos que se actúe sobre ellos con una <a href="/wiki/Fuerza_neta" title="Fuerza neta">fuerza neta</a> externa. (fuerza resultante).<sup class="reference separada" id="cite_ref-Principia_10-0"><a href="#cite_note-Principia-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​ Esta ley es una extensión de la idea de Galileo de que la velocidad constante estaba asociada a la falta de fuerza neta (véase <a href="#Equilibrio_dinámico">una descripción más detallada de esto más adelante</a>). Newton propuso que todo objeto con masa tiene una <a href="/wiki/Inercia" title="Inercia">inercia</a> innata que funciona como el «estado natural» de equilibrio fundamental en lugar de la idea aristotélica del «estado natural de reposo». Es decir, la primera ley empírica de Newton contradice la creencia intuitiva aristotélica de que se requiere una fuerza neta para mantener un objeto en movimiento con velocidad constante. Al hacer que el «reposo» sea físicamente indistinguible de la «velocidad constante no nula», la primera ley de Newton conecta directamente la inercia con el concepto de <a class="mw-redirect" href="/wiki/Invariancia_galileana" title="Invariancia galileana">velocidades relativas</a>. En concreto, en los sistemas en los que los objetos se mueven con diferentes velocidades, es imposible determinar qué objeto está «en movimiento» y qué objeto está «en reposo». Las leyes de la física son las mismas en todos los <a href="/wiki/Sistema_de_referencia_inercial" title="Sistema de referencia inercial">marcos de referencia inerciales</a>, es decir, en todos los marcos relacionados por una <a href="/wiki/Transformaci%C3%B3n_de_Galileo" title="Transformación de Galileo">transformación galileana</a>.
+</p>
+<p>Por ejemplo, mientras se viaja en un vehículo en movimiento a una <a href="/wiki/Velocidad" title="Velocidad">velocidad</a> constante, las leyes de la física no cambian como resultado de su movimiento. Si una persona que viaja dentro del vehículo lanza una pelota hacia arriba, esa persona observará que se eleva verticalmente y cae verticalmente y no tendrá que aplicar una fuerza en la dirección en que se mueve el vehículo. Otra persona, observando el paso del vehículo en movimiento, observaría que la pelota sigue una trayectoria curva <a href="/wiki/Par%C3%A1bola_(matem%C3%A1tica)" title="Parábola (matemática)">parabólica</a> en la misma dirección que el movimiento del vehículo. Es la inercia de la pelota, asociada a su velocidad constante en la dirección del movimiento del vehículo, la que hace que la pelota siga avanzando incluso cuando es lanzada hacia arriba y vuelve a caer. Desde la perspectiva de la persona que va en el coche, el vehículo y todo lo que hay en su interior está en reposo: Es el mundo exterior el que se mueve con una velocidad constante en dirección contraria a la del vehículo. Como no hay ningún experimento que pueda distinguir si es el vehículo el que está en reposo o el mundo exterior el que está en reposo, se considera que ambas situaciones son <a href="/wiki/Principio_de_equivalencia" title="Principio de equivalencia">físicamente indistinguibles</a>. Por lo tanto, la inercia se aplica igualmente al movimiento de velocidad constante que al reposo.
+</p>
+<p>Un enunciado moderno de la segunda ley de Newton es una ecuación vectorial:<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>nota 1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {p}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>p</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {p}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {p}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/84fee53c81592db54e0fe6c6f9eba002bb1dc74b" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.415ex; height:2.676ex;"/></span> es el <a href="/wiki/Cantidad_de_movimiento" title="Cantidad de movimiento">momento</a> del sistema, y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {F}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {F}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {F}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef40edff397a115ecdce7d3518001dfcc7f37d9e" style="vertical-align: -0.338ex; width:1.771ex; height:2.843ex;"/></span> es la fuerza neta «suma de vectores». Si un cuerpo está en equilibrio, la fuerza «neta» es nula por definición (aunque puede haber fuerzas equilibradas). Por el contrario, la segunda ley establece que si hay una fuerza <i>desequilibrada</i> que actúa sobre un objeto, el momento del objeto cambiará con el tiempo.<sup class="reference separada" id="cite_ref-Principia_10-1"><a href="#cite_note-Principia-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Por la definición de <a class="mw-redirect" href="/wiki/Momentum#Momento_lineal_de_una_partícula" title="Momentum">momento</a>,
+</p>
+<p>donde <i>m</i> es la <a href="/wiki/Masa" title="Masa">masa</a> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {v}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>v</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {v}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {v}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/85820588abd7333ef4d0c56539cb31c20e730753" style="vertical-align: -0.338ex; width:1.175ex; height:2.343ex;"/></span> es la <a href="/wiki/Velocidad" title="Velocidad">velocidad</a>.<sup class="reference separada" id="cite_ref-FeynmanVol1_3-1"><a href="#cite_note-FeynmanVol1-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference nowrap"><span title="Page / location: 9–1, 9–2">: 9–1, 9–2 </span></sup>
+</p>
+<p>Si se aplica la segunda ley de Newton a un sistema de <a class="mw-redirect" href="/wiki/Leyes_del_movimiento_de_Newton#Sistemas_abiertos" title="Leyes del movimiento de Newton">masa constante</a>,<sup class="reference separada" id="cite_ref-Halliday_12-0"><a href="#cite_note-Halliday-12"><span class="corchete-llamada">[</span>nota 2<span class="corchete-llamada">]</span></a></sup>​ <i>m</i> puede moverse fuera del operador de la derivada. La ecuación se convierte entonces en
+</p>
+<p>Sustituyendo la definición de <a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a>, se obtiene la versión algebraica de la <a class="mw-redirect" href="/wiki/Segunda_ley_de_Newton" title="Segunda ley de Newton">segunda ley de Newton</a>:
+</p>
+<p>Newton nunca ha indicado explícitamente la fórmula en la forma reducida anterior.<sup class="reference separada" id="cite_ref-13"><a href="#cite_note-13"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La segunda ley de Newton afirma la proporcionalidad directa de la aceleración a la fuerza y la proporcionalidad inversa de la aceleración a la masa. Las aceleraciones pueden definirse mediante mediciones <a href="/wiki/Cinem%C3%A1tica" title="Cinemática">cinemáticas</a>. Sin embargo, mientras que la cinemática está bien descrita a través del análisis del <a class="mw-redirect" href="/wiki/Marco_de_referencia" title="Marco de referencia">marco de referencia</a> en la física avanzada, todavía hay profundas preguntas que permanecen en cuanto a cuál es la definición apropiada de masa. La <a href="/wiki/Relatividad_general" title="Relatividad general">relatividad general</a> ofrece una equivalencia entre el <a href="/wiki/Espacio-tiempo" title="Espacio-tiempo">espacio-tiempo</a> y la masa, pero a falta de una teoría coherente de la <a href="/wiki/Gravedad_cu%C3%A1ntica" title="Gravedad cuántica">gravedad cuántica</a>, no está claro cómo o si esta conexión es relevante en las microescalas. Con cierta justificación, la segunda ley de Newton puede tomarse como una definición cuantitativa de «masa» escribiendo la ley como una igualdad; las unidades relativas de fuerza y masa quedan entonces fijadas.
+</p>
+<p>El uso de la segunda ley de Newton como <i>definición</i> de la fuerza ha sido despreciado en algunos de los libros de texto más rigurosos,<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-Kleppner_15-0"><a href="#cite_note-Kleppner-15"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​ Una excepción a esta regla es:<sup class="reference separada" id="cite_ref-16"><a href="#cite_note-16"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​ porque es esencialmente una <a class="mw-redirect" href="/wiki/Perogrullada" title="Perogrullada">perogrullada</a> matemática. Entre los físicos, filósofos y matemáticos notables que han buscado una definición más explícita del concepto de fuerza se encuentran <a href="/wiki/Ernst_Mach" title="Ernst Mach">Ernst Mach</a> y <a class="new" href="/w/index.php?title=Walter_Noll&amp;action=edit&amp;redlink=1" title="Walter Noll (aún no redactado)">Walter Noll</a>.<sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La segunda ley de Newton puede utilizarse para medir la fuerza de las fuerzas. Por ejemplo, el conocimiento de las masas de los <a class="mw-redirect" href="/wiki/Planetas" title="Planetas">planetas</a> junto con las aceleraciones de sus <a class="new" href="/w/index.php?title=%C3%93rbitas&amp;action=edit&amp;redlink=1" title="Órbitas (aún no redactado)">órbitas</a> permite a los científicos calcular las fuerzas gravitatorias sobre los planetas.
+</p>
+<p>Siempre que un cuerpo ejerce una fuerza sobre otro, éste ejerce simultáneamente una fuerza igual y opuesta sobre el primero. En forma vectorial, si
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\vec {F}}_{1,2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo>,</mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\vec {F}}_{1,2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle {\vec {F}}_{1,2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1b14ee7d036cd9d65146fb2f6479309471f10930" style="vertical-align: -0.838ex; width:3.179ex; height:2.843ex;"/></span> es la fuerza del cuerpo 1 sobre el cuerpo 2 y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\vec {F}}_{2,1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>,</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\vec {F}}_{2,1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle {\vec {F}}_{2,1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/262016ce029ff9c4e6715ffff247b4149a935174" style="vertical-align: -0.838ex; width:3.179ex; height:2.843ex;"/></span> la del cuerpo 2 en el cuerpo 1, entonces
+</p>
+<p>Esta ley se denomina a veces <i>ley de acción-reacción</i>, con <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\vec {F}}_{1,2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo>,</mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\vec {F}}_{1,2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle {\vec {F}}_{1,2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1b14ee7d036cd9d65146fb2f6479309471f10930" style="vertical-align: -0.838ex; width:3.179ex; height:2.843ex;"/></span> llamada la <i>acción</i> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle -{\vec {F}}_{2,1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mo>−<!-- − --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>,</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle -{\vec {F}}_{2,1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle -{\vec {F}}_{2,1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/79826e1b67e53012db44f1febeb9704095a2cc6f" style="vertical-align: -0.838ex; width:4.458ex; height:2.843ex;"/></span> la <i><a href="/wiki/Reacci%C3%B3n_mec%C3%A1nica" title="Reacción mecánica">reacción</a></i>.
+</p>
+<p>La tercera ley de Newton es el resultado de aplicar la <a href="/wiki/Simetr%C3%ADa" title="Simetría">simetría</a> a las situaciones en las que las fuerzas pueden atribuirse a la presencia de diferentes objetos. La tercera ley significa que todas las fuerzas son <i>interacciones</i> entre cuerpos diferentes,<sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-20"><a href="#cite_note-20"><span class="corchete-llamada">[</span>nota 3<span class="corchete-llamada">]</span></a></sup>​ y, por tanto, que no existe una fuerza unidireccional o que actúe sobre un solo cuerpo.
+</p>
+<p>En un sistema compuesto por el objeto 1 y el objeto 2, la fuerza neta sobre el sistema debida a sus interacciones mutuas es cero:
+</p>
+<p>Más generalmente, en un <a href="/wiki/Sistema_cerrado" title="Sistema cerrado">sistema cerrado</a> de partículas, todas las fuerzas internas están equilibradas. Las partículas pueden acelerarse entre sí, pero el <a class="mw-redirect" href="/wiki/Centro_de_masa" title="Centro de masa">centro de masa</a> del sistema no se acelera. Si una fuerza externa actúa sobre el sistema, hará que el centro de masa se acelere en proporción a la magnitud de la fuerza externa dividida por la masa del sistema.<sup class="reference separada" id="cite_ref-FeynmanVol1_3-2"><a href="#cite_note-FeynmanVol1-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference nowrap"><span title="Page / location: 19–1">: 19–1 </span></sup><sup class="reference separada" id="cite_ref-Kleppner_15-1"><a href="#cite_note-Kleppner-15"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Combinando la Segunda y la Tercera Ley de Newton, es posible demostrar que la <a class="mw-redirect" href="/wiki/Conservaci%C3%B3n_del_momento" title="Conservación del momento">momento lineal de un sistema se conserva</a>.<sup class="reference separada" id="cite_ref-21"><a href="#cite_note-21"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​ En un sistema de dos partículas, si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\vec {p}}_{1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>p</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\vec {p}}_{1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle {\vec {p}}_{1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee645216d9d663b37c4815558e622a0ea840c9b0" style="vertical-align: -0.671ex; margin-left: -0.063ex; width:1.888ex; height:2.509ex;"/></span> es el momento del objeto 1 y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\vec {p}}_{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>p</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\vec {p}}_{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle {\vec {p}}_{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f9487f37d4bd737023707bd26e69425ee76075e6" style="vertical-align: -0.671ex; margin-left: -0.063ex; width:1.888ex; height:2.509ex;"/></span> el momento del objeto 2, entonces
+</p>
+<p>Utilizando argumentos similares, esto puede generalizarse a un sistema con un número arbitrario de partículas. En general, siempre que todas las fuerzas se deban a la interacción de objetos con masa, es posible definir un sistema tal que el momento neto nunca se pierda ni se gane.<sup class="reference separada" id="cite_ref-FeynmanVol1_3-3"><a href="#cite_note-FeynmanVol1-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-Kleppner_15-2"><a href="#cite_note-Kleppner-15"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La fuerza se puede definir a partir de la <a href="/wiki/Derivada" title="Derivada">derivada</a> temporal del <a href="/wiki/Cantidad_de_movimiento" title="Cantidad de movimiento">momento lineal</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} ={\frac {d\mathbf {p} }{dt}}={\frac {d(m\mathbf {v} )}{dt}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">p</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mo stretchy="false">(</mo>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} ={\frac {d\mathbf {p} }{dt}}={\frac {d(m\mathbf {v} )}{dt}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} ={\frac {d\mathbf {p} }{dt}}={\frac {d(m\mathbf {v} )}{dt}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0e6118695c3cfbd09a72e907047d3b6939782005" style="vertical-align: -2.005ex; width:18.73ex; height:5.843ex;"/></span>
+</p>
+<p>Si la masa permanece constante, se puede escribir:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_*" style="font-style: normal;"><a href="#Eqnref_*">*</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =m{\frac {d\mathbf {v} }{dt}}=m\mathbf {a} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =m{\frac {d\mathbf {v} }{dt}}=m\mathbf {a} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =m{\frac {d\mathbf {v} }{dt}}=m\mathbf {a} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3fa4b01bab96f20fa7dbcefb396b8fc8615fc7c" style="vertical-align: -2.005ex; width:16.723ex; height:5.509ex;"/></span>
+</p>
+<p>donde <b>m</b> es la <a href="/wiki/Masa" title="Masa">masa</a> y <b>a</b> la <a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a>, que es la expresión tradicional de la <a href="/wiki/Leyes_de_Newton#Segunda_ley_de_Newton_o_ley_de_fuerza" title="Leyes de Newton">segunda ley de Newton</a>. En el caso de la estática, donde no existen aceleraciones, las fuerzas actuantes pueden deducirse de consideraciones de <a href="/wiki/Equilibrio_mec%C3%A1nico" title="Equilibrio mecánico">equilibrio</a>.
+</p>
+<p>La ecuación (<span class="plainlinks neverexpand" id="Eqnref_*"><a class="external text" href="https://es.wikipedia.org/wiki/Fuerza#Equation_*">*</a></span>) es útil sobre todo para describir el movimiento de partículas o cuerpos cuya forma no es importante para el problema planteado. Pero incluso si se trata de estudiar la mecánica de sólidos rígidos se necesitan postulados adicionales para definir la velocidad angular del sólido, o su aceleración angular así como su relación con las fuerzas aplicadas. Para un sistema de referencia arbitrario la ecuación (<span class="plainlinks neverexpand" id="Eqnref_*"><a class="external text" href="https://es.wikipedia.org/wiki/Fuerza#Equation_*">*</a></span>) debe substituirse por:<sup class="reference separada" id="cite_ref-22"><a href="#cite_note-22"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Donde:
+</p>
+<p>En un sentido estricto, todas las fuerzas naturales son fuerzas producidas a distancia como producto de la interacción entre cuerpos; sin embargo desde el punto de vista macroscópico, se acostumbra a dividir a las fuerzas en dos tipos generales:
+</p>
+<p>En los sólidos, el <a href="/wiki/Principio_de_exclusi%C3%B3n_de_Pauli" title="Principio de exclusión de Pauli">principio de exclusión de Pauli</a> conduce junto con la <a href="/wiki/Conservaci%C3%B3n_de_la_energ%C3%ADa" title="Conservación de la energía">conservación de la energía</a> a que los átomos tengan sus electrones distribuidos en capas y tengan <a href="/wiki/Impenetrabilidad" title="Impenetrabilidad">impenetrabilidad</a> a pesar de estar vacíos en un 99 %. La impenetrabilidad se deriva de que los átomos sean «extensos» y que los electrones de las capas exteriores ejerzan fuerzas electrostáticas de repulsión que hacen que la materia sea macroscópicamente impenetrable.
+</p>
+<p>Lo anterior se traduce en que dos cuerpos puestos en «contacto» experimentarán superficialmente fuerzas resultantes normales (o aproximadamente normales) a la superficie que impedirán el solapamiento de las nubes electrónicas de ambos cuerpos.
+</p>
+<p>Las fuerzas internas son similares a las fuerzas de contacto entre ambos cuerpos y si bien tienen una forma más complicada, ya que no existe una superficie macroscópica a través de la cual se den la superficie. La complicación se traduce por ejemplo en que las fuerzas internas necesitan ser modelizadas mediante un <a href="/wiki/Tensor_tensi%C3%B3n" title="Tensor tensión">tensor de tensiones</a> en que la fuerza por unidad de superficie que experimenta un punto del interior depende de la dirección a lo largo de la cual se consideren las fuerzas.
+</p>
+<p>Lo anterior se refiere a sólidos, en los fluidos en reposo las fuerzas internas dependen esencialmente de la presión, y en los fluidos en movimiento también la <a href="/wiki/Viscosidad" title="Viscosidad">viscosidad</a> puede desempeñar un papel importante.
+</p>
+<p>La fricción en sólidos puede darse entre sus superficies libres en contacto. En el tratamiento de los problemas mediante mecánica newtoniana, la fricción entre sólidos frecuentemente se modeliza como una fuerza tangente sobre cualquiera de los planos del contacto entre sus superficies, de valor proporcional a la fuerza normal.
+</p>
+<p>El rozamiento entre sólido-líquido y en el interior de un líquido o un gas depende esencialmente de si el flujo se considera laminar o turbulento y de su <a href="/wiki/Ecuaci%C3%B3n_constitutiva" title="Ecuación constitutiva">ecuación constitutiva</a>.
+</p>
+<p>En mecánica newtoniana la fuerza de atracción entre dos masas, cuyos centros de gravedad están lejos comparadas con las dimensiones del cuerpo,<sup class="reference separada" id="cite_ref-23"><a href="#cite_note-23"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>​ viene dada por la ley de la gravitación universal de Newton:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r} _{21}|^{2}}}\mathbf {e} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r} _{21}|^{3}}}\mathbf {r} _{21}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r} _{21}|^{2}}}\mathbf {e} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r} _{21}|^{3}}}\mathbf {r} _{21}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r} _{21}|^{2}}}\mathbf {e} _{21}=-G{\frac {m_{1}m_{2}}{|\mathbf {r} _{21}|^{3}}}\mathbf {r} _{21}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a0259918da480fad3a444c5f06e7f19ccd8a8df3" style="vertical-align: -3.005ex; width:37.156ex; height:5.843ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>Cuando la masa de uno de los cuerpos es muy grande en comparación con la del otro (por ejemplo, si tiene dimensiones planetarias), la expresión anterior se transforma en otra más simple:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =-m\left(G{\frac {M}{R_{0}^{2}}}\right){\hat {\mathbf {u} }}_{r}=-mg{\hat {\mathbf {u} }}_{r}=m\mathbf {g} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>m</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>M</mi>
+<msubsup>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>m</mi>
+<mi>g</mi>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">g</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =-m\left(G{\frac {M}{R_{0}^{2}}}\right){\hat {\mathbf {u} }}_{r}=-mg{\hat {\mathbf {u} }}_{r}=m\mathbf {g} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =-m\left(G{\frac {M}{R_{0}^{2}}}\right){\hat {\mathbf {u} }}_{r}=-mg{\hat {\mathbf {u} }}_{r}=m\mathbf {g} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8e5bc0b1e1186766015b51778eb58e3820fd7ce3" style="vertical-align: -3.171ex; width:38.023ex; height:7.509ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>En mecánica newtoniana también es posible modelizar algunas fuerzas constantes en el tiempo como <a href="/wiki/Campo_(f%C3%ADsica)#Campos_de_fuerzas_en_física_clásica" title="Campo (física)">campos de fuerza</a>. Por ejemplo la fuerza entre dos cargas eléctricas inmóviles, puede representarse adecuadamente mediante la <a href="/wiki/Ley_de_Coulomb" title="Ley de Coulomb">ley de Coulomb</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} _{12}=-\kappa {\frac {q_{1}q_{2}}{\|\mathbf {r} _{12}\|^{3}}}\mathbf {r} _{12}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>12</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>κ<!-- κ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>12</mn>
+</mrow>
+</msub>
+<msup>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>12</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} _{12}=-\kappa {\frac {q_{1}q_{2}}{\|\mathbf {r} _{12}\|^{3}}}\mathbf {r} _{12}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} _{12}=-\kappa {\frac {q_{1}q_{2}}{\|\mathbf {r} _{12}\|^{3}}}\mathbf {r} _{12}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5de595c51799de330e9fffd87a51c01cc84347d7" style="vertical-align: -2.671ex; width:19.976ex; height:5.676ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>También los campos magnéticos estáticos y los debidos a cargas estáticas con distribuciones más complejas pueden resumirse en dos funciones vectoriales llamadas <a href="/wiki/Campo_el%C3%A9ctrico" title="Campo eléctrico">campo eléctrico</a> y <a href="/wiki/Campo_magn%C3%A9tico" title="Campo magnético">campo magnético</a> tales que una partícula en movimiento respecto a las fuentes estáticas de dichos campos viene dada por la <a href="/wiki/Fuerza_de_Lorentz" title="Fuerza de Lorentz">expresión de Lorentz</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =q(\mathbf {E} +\mathbf {v} \times \mathbf {B} ),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mi>q</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =q(\mathbf {E} +\mathbf {v} \times \mathbf {B} ),}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =q(\mathbf {E} +\mathbf {v} \times \mathbf {B} ),}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d179abe43021d3c2f80b5f1af5c74a8161601dc3" style="vertical-align: -0.838ex; width:19.057ex; height:2.843ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>Los campos de fuerzas no constantes sin embargo presentan una dificultad especialmente cuando están creados por partículas en movimiento rápido, porque en esos casos los efectos relativistas de retardo pueden ser importantes, y la mecánica clásica, da lugar a un tratamiento de <a href="/wiki/Acci%C3%B3n_a_distancia" title="Acción a distancia">acción a distancia</a> que puede resultar inadecuado si las fuerzas cambian rápidamente con el tiempo.
+</p>
+<p>La <b>fuerza eléctrica</b> también son de acción a distancia, pero a veces la interacción entre los cuerpos actúa como una <b>fuerza atractiva</b> mientras que, otras veces, tiene el efecto inverso, es decir puede actuar como una <b>fuerza repulsiva</b>.
+</p>
+<p>En el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a> (SI) y en el <a href="/wiki/Sistema_Cegesimal_de_Unidades" title="Sistema Cegesimal de Unidades">Cegesimal</a> (cgs), el hecho de definir la fuerza a partir de la masa y la aceleración (magnitud en la que intervienen longitud y tiempo), conlleva a que la fuerza sea una magnitud derivada. Por el contrario, en el Sistema Técnico la fuerza es una Unidad Fundamental y a partir de ella se define la unidad de masa en este sistema, la <a href="/wiki/Unidad_t%C3%A9cnica_de_masa" title="Unidad técnica de masa">unidad técnica de masa</a>, abreviada u.t.m. (no tiene símbolo). Este hecho atiende a las evidencias que posee la física actual, expresado en el concepto de <a href="/wiki/Interacciones_fundamentales" title="Interacciones fundamentales">fuerzas fundamentales</a>, y se ve reflejado en el Sistema Internacional de Unidades.
+</p>
+<p>En relatividad especial, la fuerza se debe definir solamente como derivada del momento lineal, ya que en este caso la fuerza no resulta simplemente proporcional a la aceleración:
+</p>
+<p>De hecho en general el vector de aceleración y el de fuerza ni siquiera serán paralelos, solo en el <a href="/wiki/Movimiento_circular_uniforme" title="Movimiento circular uniforme">movimiento circular uniforme</a> y en cualquier <a href="/wiki/Movimiento_rectil%C3%ADneo" title="Movimiento rectilíneo">movimiento rectilíneo</a> serán paralelos el vector de fuerza y aceleración pero en general el <a href="/wiki/M%C3%B3dulo_(vector)" title="Módulo (vector)">módulo</a> de la fuerza dependerá tanto de la velocidad como de la aceleración.
+</p>
+<p>En la <a href="/wiki/Relatividad_general" title="Relatividad general">teoría de la relatividad general</a> el <a href="/wiki/Campo_gravitatorio#Campo_gravitatorio_en_física_relativista" title="Campo gravitatorio">campo gravitatorio</a> no se trata como un campo de fuerzas real, sino como un efecto de la <a href="/wiki/Curvatura_del_espacio-tiempo" title="Curvatura del espacio-tiempo">curvatura del espacio-tiempo</a>. Una partícula másica que no sufre el efecto de ninguna otra interacción, más que de la gravitatoria, seguirá una <a href="/wiki/Geod%C3%A9sica" title="Geodésica">trayectoria geodésica</a> de mínima curvatura a través del espacio-tiempo, y por tanto su <a href="/wiki/Ecuaci%C3%B3n_de_movimiento" title="Ecuación de movimiento">ecuación de movimiento</a> será:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\cfrac {d^{2}x^{\mu }}{ds^{2}}}+\sum _{\sigma ,\nu }\Gamma _{\sigma \nu }^{\mu }{\cfrac {dx^{\sigma }}{ds}}{\cfrac {dx^{\nu }}{ds}}=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>σ<!-- σ --></mi>
+<mo>,</mo>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</munder>
+<msubsup>
+<mi mathvariant="normal">Γ<!-- Γ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>σ<!-- σ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>σ<!-- σ --></mi>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\cfrac {d^{2}x^{\mu }}{ds^{2}}}+\sum _{\sigma ,\nu }\Gamma _{\sigma \nu }^{\mu }{\cfrac {dx^{\sigma }}{ds}}{\cfrac {dx^{\nu }}{ds}}=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\cfrac {d^{2}x^{\mu }}{ds^{2}}}+\sum _{\sigma ,\nu }\Gamma _{\sigma \nu }^{\mu }{\cfrac {dx^{\sigma }}{ds}}{\cfrac {dx^{\nu }}{ds}}=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e45186bea53d81a3c61b2a77b3f6a4ca783ab1ff" style="vertical-align: -3.171ex; width:29.041ex; height:7.343ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>La fuerza gravitatoria aparente procede del término asociado a los símbolos de Christoffel. Un observador en «caída libre» formará un sistema de referencia en movimiento en el que dichos símbolos de Christoffel son nulos, y por tanto no percibirá ninguna fuerza gravitatoria tal como sostiene el <a href="/wiki/Principio_de_equivalencia" title="Principio de equivalencia">principio de equivalencia</a> que ayudó a Einstein a formular sus ideas sobre el campo gravitatorio.
+</p>
+<p>El efecto del <a href="/wiki/Campo_electromagn%C3%A9tico" title="Campo electromagnético">campo electromagnético</a> sobre una partícula relativista viene dado por la expresión covariante de la <a href="/wiki/Fuerza_de_Lorentz" title="Fuerza de Lorentz">fuerza de Lorentz</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f_{\alpha }=\sum _{\beta }q\ F_{\alpha \beta }\ u^{\beta }\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+</mrow>
+</munder>
+<mi>q</mi>
+<mtext> </mtext>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+<mi>β<!-- β --></mi>
+</mrow>
+</msub>
+<mtext> </mtext>
+<msup>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f_{\alpha }=\sum _{\beta }q\ F_{\alpha \beta }\ u^{\beta }\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle f_{\alpha }=\sum _{\beta }q\ F_{\alpha \beta }\ u^{\beta }\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd035ad45947c64c63ff35840513666a7f194776" style="vertical-align: -3.338ex; width:18.106ex; height:5.843ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>La ecuación de movimiento de una partícula en un espacio-tiempo curvo y sometida a la acción de la fuerza anterior viene dada por:
+</p>
+<p>Donde la expresión anterior se ha aplicado el <a href="/wiki/Convenio_de_suma_de_Einstein" title="Convenio de suma de Einstein">convenio de sumación de Einstein</a> para índices repetidos, el miembro de la derecha representa la <a href="/wiki/Cuadriaceleraci%C3%B3n" title="Cuadriaceleración">cuadriaceleración</a> y siendo las otras magnitudes:
+</p>
+<p>En <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a> no resulta fácil definir para muchos sistemas un equivalente claro de la fuerza. Esto sucede porque en mecánica cuántica un sistema mecánico queda descrito por una <a href="/wiki/Funci%C3%B3n_de_onda" title="Función de onda">función de onda</a> o vector de estado <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle |\psi \rangle }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>ψ<!-- ψ --></mi>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle |\psi \rangle }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle |\psi \rangle }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a53a943aa4b7e25a759e2ac07023caaad3f2b0a5" style="vertical-align: -0.671ex; width:2.167ex; height:2.176ex;"/></span> que en general representa a todo el sistema en conjunto y no puede separarse en partes. Solo para sistemas donde el estado del sistema pueda descomponerse de manera no ambigua en la forma <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle |\psi \rangle =|\psi _{A}\rangle +|\psi _{B}\rangle }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>ψ<!-- ψ --></mi>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mi>ψ<!-- ψ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mi>ψ<!-- ψ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle |\psi \rangle =|\psi _{A}\rangle +|\psi _{B}\rangle }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle |\psi \rangle =|\psi _{A}\rangle +|\psi _{B}\rangle }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62039b75281d0788a1bdd68293aae8f97fe95ed6" style="vertical-align: -0.671ex; width:11.4ex; height:2.176ex;"/></span> donde cada una de esas dos partes representa una parte del sistema es posible definir el concepto de fuerza. Sin embargo, en la mayoría de sistemas interesantes no es posible esta descomposición. Por ejemplo si consideramos el conjunto de electrones de un átomo, que es un conjunto de <a href="/wiki/Part%C3%ADculas_id%C3%A9nticas" title="Partículas idénticas">partículas idénticas</a> no es posible determinar una magnitud que represente la fuerza entre dos electrones concretos, porque no es posible escribir una función de onda que describa por separado los dos electrones.
+</p>
+<p>Sin embargo, en el caso de una partícula aislada sometida a la acción de una <a href="/wiki/Fuerza_conservativa" title="Fuerza conservativa">fuerza conservativa</a> es posible describir la fuerza mediante un potencial externo e introducir la noción de fuerza. Esta situación es la que se da por ejemplo en el <a href="/wiki/Modelo_at%C3%B3mico_de_Schr%C3%B6dinger" title="Modelo atómico de Schrödinger">modelo atómico de Schrödinger</a> para un <a href="/wiki/%C3%81tomo_hidrogenoide" title="Átomo hidrogenoide">átomo hidrogenoide</a> donde el electrón y el núcleo son discernibles uno de otro. En este y otros casos de una partícula aislada en un potencial el <a href="/wiki/Teorema_de_Ehrenfest" title="Teorema de Ehrenfest">teorema de Ehrenfest</a> lleva a una generalización de la segunda ley de Newton en la forma:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {d}{dt}}\langle p\rangle =\int \Phi ^{*}V(\mathbf {x} ,t)\nabla \Phi ~d^{3}\mathbf {x} -\int \Phi ^{*}(\nabla V(\mathbf {x} ,t))\Phi ~d^{3}\mathbf {x} -\int \Phi ^{*}V(\mathbf {x} ,t)\nabla \Phi ~d^{3}\mathbf {x} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mi>p</mi>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mo>=</mo>
+<mo>∫<!-- ∫ --></mo>
+<msup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msup>
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mtext> </mtext>
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>−<!-- − --></mo>
+<mo>∫<!-- ∫ --></mo>
+<msup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mtext> </mtext>
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>−<!-- − --></mo>
+<mo>∫<!-- ∫ --></mo>
+<msup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msup>
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mtext> </mtext>
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {d}{dt}}\langle p\rangle =\int \Phi ^{*}V(\mathbf {x} ,t)\nabla \Phi ~d^{3}\mathbf {x} -\int \Phi ^{*}(\nabla V(\mathbf {x} ,t))\Phi ~d^{3}\mathbf {x} -\int \Phi ^{*}V(\mathbf {x} ,t)\nabla \Phi ~d^{3}\mathbf {x} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {d}{dt}}\langle p\rangle =\int \Phi ^{*}V(\mathbf {x} ,t)\nabla \Phi ~d^{3}\mathbf {x} -\int \Phi ^{*}(\nabla V(\mathbf {x} ,t))\Phi ~d^{3}\mathbf {x} -\int \Phi ^{*}V(\mathbf {x} ,t)\nabla \Phi ~d^{3}\mathbf {x} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/49fe3d7bc056546e11abece4f59880186012e4f6" style="vertical-align: -2.338ex; width:76.675ex; height:5.843ex;"/></span>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle =0-\int \Phi ^{*}(\nabla V(\mathbf {x} ,t))\Phi ~d^{3}\mathbf {x} -0=\langle -\nabla V(\mathbf {x} ,t)\rangle =\langle F\rangle ,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mn>0</mn>
+<mo>−<!-- − --></mo>
+<mo>∫<!-- ∫ --></mo>
+<msup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mtext> </mtext>
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>−<!-- − --></mo>
+<mn>0</mn>
+<mo>=</mo>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mo>−<!-- − --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mo>=</mo>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mi>F</mi>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =0-\int \Phi ^{*}(\nabla V(\mathbf {x} ,t))\Phi ~d^{3}\mathbf {x} -0=\langle -\nabla V(\mathbf {x} ,t)\rangle =\langle F\rangle ,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle =0-\int \Phi ^{*}(\nabla V(\mathbf {x} ,t))\Phi ~d^{3}\mathbf {x} -0=\langle -\nabla V(\mathbf {x} ,t)\rangle =\langle F\rangle ,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2a896ab532aece76886bd34cdfb16639faf52b83" style="vertical-align: -2.338ex; width:55.169ex; height:5.676ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>En otros casos como los experimentos de colisión o dispersión de partículas elementales de energía positiva que son disparados contra otras partículas que hacen de blanco, como los experimentos típicos llevados a cabo en <a href="/wiki/Acelerador_de_part%C3%ADculas" title="Acelerador de partículas">aceleradores de partículas</a> a veces es posible definir un potencial que está relacionado con la fuerza típica que experimentará una partícula en colisión, pero aun así en muchos casos no puede hablarse de fuerza en el sentido clásico de la palabra.
+</p>
+<p>En <a href="/wiki/Teor%C3%ADa_cu%C3%A1ntica_de_campos" title="Teoría cuántica de campos">teoría cuántica de campos</a>, el término «fuerza» tiene un sentido ligeramente diferente al que tiene en mecánica clásica debido a la dificultad específica señalada en la sección anterior de definir un equivalente cuántico de las fuerzas clásicas. Por esa razón el término «fuerza fundamental» en teoría cuántica de campos se refiere al modo de interacción entre partículas o campos cuánticos, más que a una medida concreta de la interacción de dos partículas o campos.
+</p>
+<p>La teoría cuántica de campos trata de dar una descripción de las formas de interacción existentes entre las diferentes formas de materia o campos cuánticos existentes en el Universo. Así el término «fuerzas fundamentales» se refiere actualmente a los modos claramente diferenciados de interacción que conocemos. Cada fuerza fundamental quedará descrita por una teoría diferente y postulará diferentes <a href="/wiki/Lagrangiano" title="Lagrangiano">lagrangianos</a> de interacción que describan como es ese modo peculiar de interacción.
+</p>
+<p>Cuando se formuló la idea de fuerza fundamental se consideró que existían cuatro «fuerzas fundamentales»: la gravitatoria, la electromagnética, la nuclear fuerte y la nuclear débil. La descripción de las «fuerzas fundamentales» tradicionales es la siguiente:
+</p>
+<p>Sin embargo, cabe señalar que el número de fuerzas fundamentales en el sentido anteriormente expuesto depende de nuestro estado de conocimiento, así hasta finales de los <a href="/wiki/A%C3%B1os_1960" title="Años 1960">años 1960</a> la <a href="/wiki/Interacci%C3%B3n_d%C3%A9bil" title="Interacción débil">interacción débil</a> y la <a class="mw-redirect" href="/wiki/Interacci%C3%B3n_electromagn%C3%A9tica" title="Interacción electromagnética">interacción electromagnética</a> se consideraban fuerzas fundamentales diferentes, pero los avances teóricos permitieron establecer que en realidad ambos tipos de interacción eran manifestaciones fenomenológicamente diferentes de la misma «fuerza fundamental», la <a href="/wiki/Modelo_electrod%C3%A9bil" title="Modelo electrodébil">interacción electrodébil</a>. Se tiene la sospecha de que en última instancia todas las «fuerzas fundamentales» son manifestaciones fenomenológicas de una única «fuerza» que sería descrita por algún tipo de <a href="/wiki/Teor%C3%ADa_de_la_gran_unificaci%C3%B3n" title="Teoría de la gran unificación">teoría unificada</a> o <a href="/wiki/Teor%C3%ADa_del_todo" title="Teoría del todo">teoría del todo</a>.
+</p>

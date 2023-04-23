@@ -1,0 +1,519 @@
+<p>Una <b>lógica modal</b> es un <a href="/wiki/Sistema_formal" title="Sistema formal">sistema formal</a> que intenta capturar el comportamiento deductivo de algún grupo de operadores modales.<sup class="reference separada" id="cite_ref-sep_1-0"><a href="#cite_note-sep-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Los operadores modales son expresiones que <i>califican</i> la verdad de los juicios.<sup class="reference separada" id="cite_ref-sep_1-1"><a href="#cite_note-sep-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Por ejemplo, en el juicio «es necesario que 2 + 2 = 4», la expresión «es necesario que» es un operador modal que califica de <i>necesaria</i> a la verdad del juicio «2 + 2 = 4». De manera análoga, la expresión «siempre» califica a un juicio verdadero como verdadero en cualquier momento, es decir, <i>siempre</i>. No es lo mismo decir «está lloviendo» que decir «siempre está lloviendo».
+</p>
+<p>En un sentido más restringido, sin embargo, una <b>lógica modal</b> es un sistema formal que intenta capturar el comportamiento deductivo de las expresiones «es necesario que» y «es posible que».<sup class="reference separada" id="cite_ref-sep_1-2"><a href="#cite_note-sep-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Este artículo trata exclusivamente sobre lógicas modales en este sentido restringido. Las lógicas modales pertenecen al grupo de las llamadas «extensiones de la lógica clásica» o «lógicas extendidas» entre las cuales se incluyen además la <a href="/wiki/L%C3%B3gica_de%C3%B3ntica" title="Lógica deóntica">lógica deóntica</a>, la <a href="/wiki/L%C3%B3gica_temporal" title="Lógica temporal">lógica temporal</a>, la <a href="/wiki/L%C3%B3gica_epist%C3%A9mica" title="Lógica epistémica">lógica epistémica</a> y la <a href="/wiki/L%C3%B3gica_dox%C3%A1stica" title="Lógica doxástica">lógica doxástica</a>.
+</p>
+<p>La lógica modal solo agrega dos símbolos al vocabulario de la <a href="/wiki/L%C3%B3gica_proposicional" title="Lógica proposicional">lógica proposicional</a>: el símbolo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Box }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◻<!-- ◻ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Box }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Box }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/029b77f09ebeaf7528fc831fe57848be51f2240b" style="vertical-align: -0.338ex; width:1.808ex; height:2.176ex;"/></span> , que representa la expresión del <a href="/wiki/Lenguaje_natural" title="Lenguaje natural">lenguaje natural</a> "es necesario que", y el símbolo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Diamond }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◊<!-- ◊ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Diamond }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Diamond }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1e5e6f31a91de53f443e2cd4c7478693a1a6a57b" style="vertical-align: -0.505ex; width:1.55ex; height:2.343ex;"/></span>, que representa la expresión "es posible que". Ambos símbolos se prefijan a proposiciones, de modo que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Box p}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◻<!-- ◻ --></mi>
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Box p}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Box p}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6fa5310caae4cbefab3d3730ccd93b1159162cc5" style="vertical-align: -0.671ex; width:2.978ex; height:2.509ex;"/></span> se lee "es necesario que <i>p</i>", y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Diamond p}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◊<!-- ◊ --></mi>
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Diamond p}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Diamond p}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e1fb96c0fe1144abb54bb4e954299048e596da20" style="vertical-align: -0.671ex; width:2.72ex; height:2.509ex;"/></span> se lee "es posible que <i>p</i>". Además, en la lógica modal clásica, ambos símbolos son interdefinibles por medio del otro y de la negación; así:
+</p>
+<p>Esto implica que en principio, solo es necesario tomar uno de los dos símbolos como primitivo, ya que el otro se puede definir a partir de éste y del vocabulario de la lógica proposicional. En general, el símbolo que se toma como primitivo es el de necesidad. Estas interdefiniciones son paralelas a las de los <a href="/wiki/Cuantificador" title="Cuantificador">cuantificadores</a> en la <a href="/wiki/L%C3%B3gica_de_primer_orden" title="Lógica de primer orden">lógica de primer orden</a>:
+</p>
+<p>Las razones de este paralelismo resultarán más claras en la sección de semántica de mundos posibles.
+</p>
+<p>La gramática nos indica qué secuencias de signos del vocabulario están bien construidas. A estas secuencias se las llama <a href="/wiki/F%C3%B3rmula_bien_formada" title="Fórmula bien formada">fórmulas bien formadas</a>. La gramática de la lógica modal es igual a la de la <a href="/wiki/L%C3%B3gica_proposicional" title="Lógica proposicional">lógica proposicional</a>, excepto que añade una regla para los operadores modales, la cual ya fue indicada informalmente en la sección anterior:
+</p>
+<p>Algunos ejemplos de fórmulas bien formadas del lenguaje serán, por lo tanto:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Diamond (p\to \Box q)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◊<!-- ◊ --></mi>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mo stretchy="false">→<!-- → --></mo>
+<mi>◻<!-- ◻ --></mi>
+<mi>q</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Diamond (p\to \Box q)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Diamond (p\to \Box q)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8fee6a184cb51f457a476b18d15821088f4cc452" style="vertical-align: -0.838ex; width:11.021ex; height:2.843ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \neg (\Diamond p\land \neg p)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<mo stretchy="false">(</mo>
+<mi>◊<!-- ◊ --></mi>
+<mi>p</mi>
+<mo>∧<!-- ∧ --></mo>
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \neg (\Diamond p\land \neg p)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \neg (\Diamond p\land \neg p)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cb6ea32268957cf60a69d8dc6980d191d2a6efb0" style="vertical-align: -0.838ex; width:11.382ex; height:2.843ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Box (p\lor \neg p)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◻<!-- ◻ --></mi>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mo>∨<!-- ∨ --></mo>
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Box (p\lor \neg p)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Box (p\lor \neg p)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/601508ae5f7d415a8dca812c68f7c46c9aafde29" style="vertical-align: -0.838ex; width:10.089ex; height:2.843ex;"/></span>
+</p>
+<p>La <a href="/wiki/Regla_de_inferencia" title="Regla de inferencia">regla de inferencia</a> más propia de la lógica modal se llama <b>N</b> (o regla de <i>Necesitación</i>), y dice que si una fórmula <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \phi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϕ<!-- ϕ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \phi \,}</annotation>
+</semantics>
+</math></span><img alt="\phi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c69f1c4a95b2d750b30fa4cf5d5d068a573ac0d8" style="vertical-align: -0.671ex; width:1.773ex; height:2.509ex;"/></span> es un <a href="/wiki/Teorema" title="Teorema">teorema</a>, entonces "es necesario que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \phi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϕ<!-- ϕ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \phi \,}</annotation>
+</semantics>
+</math></span><img alt="\phi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c69f1c4a95b2d750b30fa4cf5d5d068a573ac0d8" style="vertical-align: -0.671ex; width:1.773ex; height:2.509ex;"/></span>" también es un teorema. En otros términos:
+</p>
+<p>A esta regla hay que sumarle, por supuesto, el <a class="mw-redirect" href="/wiki/Modus_ponens" title="Modus ponens">modus ponens</a> heredado de la lógica proposicional.
+</p>
+<p>Cuáles deben ser los <a href="/wiki/Axioma" title="Axioma">axiomas</a> de la lógica modal es algo muy debatido. Diferentes conjuntos de axiomas permiten demostrar diferentes <a href="/wiki/Teorema" title="Teorema">teoremas</a>, y por lo tanto los axiomas que se eligen muchas veces dependen de los teoremas que se quieren demostrar, y de la posición filosófica que se defiende.
+</p>
+<p>La siguiente es una lista de algunos de los axiomas más conocidos:
+</p>
+<p>Diferentes combinaciones de axiomas dan lugar a diferentes sistemas de lógica modal. El sistema <b>K</b> (llamado así en honor a <a href="/wiki/Saul_Kripke" title="Saul Kripke">Saul Kripke</a>) es el que menos axiomas utiliza: aparte de los axiomas de la lógica proposicional, el sistema <b>K</b> se sirve solo del axioma K (no confundir el axioma con el sistema). Por esta misma razón, sin embargo, el sistema <b>K</b> también es el más débil de los sistemas, es decir, el que menos teoremas puede demostrar. Sistemas más fuertes se construyen agregando axiomas a <b>K</b>. A continuación hay una tabla con los nombres de los sistemas más conocidos y sus axiomas:
+</p>
+<p>Una interpretación para un lenguaje modal es un conjunto ordenado de tres elementos: &lt;<i>W</i>, <i>R</i>, <i>V</i>&gt;
+</p>
+<p>A los dos primeros elementos de la interpretación se los llama el <i>marco</i> de la interpretación, y cuando se les suma el tercero se tiene un <i>modelo</i> para el sistema. Los mundos posibles no juegan ningún papel sustancial en la definición de los operadores lógicos no-modales, salvo que las condiciones de verdad se definen relativamente a mundos posibles. Por ejemplo:
+</p>
+<p>Pero los mundos posibles juegan un papel clave en la definición de las condiciones de verdad de los operadores modales:
+</p>
+<p>Una observación: Si desde un mundo posible <i>w</i> no se puede acceder a ningún otro mundo posible, entonces todas las fórmulas de la forma <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Box \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◻<!-- ◻ --></mi>
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Box \phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Box \phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bac6d8e20bfba09462096d4f815c14b676e4b2f4" style="vertical-align: -0.671ex; width:3.194ex; height:2.509ex;"/></span> serán verdaderas en <i>w</i>, mientras que todas las de la forma <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Diamond \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◊<!-- ◊ --></mi>
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Diamond \phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Diamond \phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a66fbb65d563e99aa91360d0da21ee6637080ea9" style="vertical-align: -0.671ex; width:2.936ex; height:2.509ex;"/></span> serán falsas. Las condiciones de verdad de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Box \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◻<!-- ◻ --></mi>
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Box \phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Box \phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bac6d8e20bfba09462096d4f815c14b676e4b2f4" style="vertical-align: -0.671ex; width:3.194ex; height:2.509ex;"/></span> no requieren la existencia de un mundo posible que sea accesible, ya que "todo mundo posible <i>w*</i> tal que <i>wRw*</i> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V(w,\phi )=0\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mi>w</mi>
+<mo>,</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V(w,\phi )=0\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V(w,\phi )=0\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b289a920214eca4f20b660755313dca21393a148" style="vertical-align: -0.838ex; width:12.328ex; height:2.843ex;"/></span>  es equivalente a "no hay ningún mundo posible tal que <i>wRw*</i> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V(w,\neg \phi )=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mi>w</mi>
+<mo>,</mo>
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<mi>ϕ<!-- ϕ --></mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V(w,\neg \phi )=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V(w,\neg \phi )=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8843a1febcb34817f98c7ab4a1f3a17504d41031" style="vertical-align: -0.838ex; width:13.491ex; height:2.843ex;"/></span> ". Es decir, todo lo que se requiere para que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Box \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◻<!-- ◻ --></mi>
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Box \phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Box \phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bac6d8e20bfba09462096d4f815c14b676e4b2f4" style="vertical-align: -0.671ex; width:3.194ex; height:2.509ex;"/></span> sea verdadero en <i>w</i> es que no haya ningún mundo accesible desde <i>w</i> donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \phi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϕ<!-- ϕ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \phi \,}</annotation>
+</semantics>
+</math></span><img alt="\phi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c69f1c4a95b2d750b30fa4cf5d5d068a573ac0d8" style="vertical-align: -0.671ex; width:1.773ex; height:2.509ex;"/></span> sea falso. Por otro lado las condiciones de verdad de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Diamond \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◊<!-- ◊ --></mi>
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Diamond \phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Diamond \phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a66fbb65d563e99aa91360d0da21ee6637080ea9" style="vertical-align: -0.671ex; width:2.936ex; height:2.509ex;"/></span> requieren la existencia de un mundo posible. Para que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Diamond \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◊<!-- ◊ --></mi>
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Diamond \phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Diamond \phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a66fbb65d563e99aa91360d0da21ee6637080ea9" style="vertical-align: -0.671ex; width:2.936ex; height:2.509ex;"/></span> sea verdadero en <i>w</i>, debe haber al menos un mundo accesible desde <i>w</i> en el que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \phi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϕ<!-- ϕ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \phi \,}</annotation>
+</semantics>
+</math></span><img alt="\phi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c69f1c4a95b2d750b30fa4cf5d5d068a573ac0d8" style="vertical-align: -0.671ex; width:1.773ex; height:2.509ex;"/></span> sea verdadero. Si desde <i>w</i> no se accede a ningún mundo posible, entonces <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Diamond \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◊<!-- ◊ --></mi>
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Diamond \phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Diamond \phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a66fbb65d563e99aa91360d0da21ee6637080ea9" style="vertical-align: -0.671ex; width:2.936ex; height:2.509ex;"/></span> será falso en <i>w</i>.
+</p>
+<p>Dentro de los lenguajes lógicos podemos distinguir dos tipos de relaciones de consecuencia entre premisas y conclusión: la <a href="/wiki/Consecuencia_l%C3%B3gica" title="Consecuencia lógica">consecuencia lógica</a> y la deducibilidad. La relación de consecuencia lógica es una relación <i><a href="/wiki/Sem%C3%A1ntica" title="Semántica">semántica</a></i> en el sentido de que es una relación entre las premisas bajo una interpretación y la conclusión bajo la misma interpretación. La relación de deducibilidad es una relación <i>sintáctica</i> porque queda caracterizada por un conjunto de reglas (un sistema deductivo) que atienden solamente a la forma de las premisas y conclusión. Se entiende habitualmente que la relación de consecuencia lógica es <i>más básica</i> (aunque esto está sujeto a cierto debate) y que el objetivo de un sistema deductivo es caracterizar en términos puramente sintácticos la relación de consecuencia lógica. Un sistema deductivo caracteriza de un modo satisfactorio la consecuencia lógica cuando nos permite deducir solo consecuencias lógicas (se dice entonces que el sistema es consistente o correcto, en inglés <i>sound</i>) y todas las consecuencias lógicas (se dice que es completo, en inglés <i>complete</i>).
+</p>
+<p>En lógica clásica hay una sola relación de consecuencia lógica y distintos sistemas deductivos para caracterizarla (sistemas axiomáticos, <i>tableaux</i>, deducción natural, sistemas de Gentzen, entre otros). Esto no es así en lógica modal. En lógica modal hay distintos sistemas modales que caracterizan distintas relaciones de consecuencia lógica. En este sentido más que de <i>lógica modal</i> debería hablarse de <i>lógicas modales</i>. En primer lugar introduciremos una definición general de consecuencia lógica. En segundo lugar se tratará el sistema modal básico llamado K. Después indicaremos cómo modificar los sistemas modales y cuáles son sus correspondientes relaciones de consecuencia lógica.
+</p>
+<p>La <a href="/wiki/Consecuencia_l%C3%B3gica" title="Consecuencia lógica">consecuencia lógica</a> está ligada a la noción de verdad; que un argumento es válido quiere decir que preserva necesariamente la verdad. En lógica modal la verdad es relativa a <a class="mw-redirect" href="/wiki/Mundos_posibles" title="Mundos posibles">mundos posibles</a> (una fórmula es verdadera en una interpretación en un mundo posible) de modo que la consecuencia lógica también será relativa a mundos posibles: un argumento será válido justo cuando, si sus premisas son todas verdaderas en un mundo posible, su conclusión es verdadera en ese mundo posible.
+Por otro lado, suele entenderse la necesaria preservación de verdad como preservación de verdad en toda interpretación. Por tanto, un argumento es válido en nuestro lenguaje modal cuando preserva la verdad en todos los mundos posibles en toda interpretación:
+</p>
+<p>Un <a href="/wiki/Sistema_deductivo" title="Sistema deductivo">sistema deductivo</a> es un conjunto de reglas que nos permite establecer afirmaciones de consecuencia entre un conjunto de oraciones y una oración atendiendo solamente a su forma. Cuando <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \phi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϕ<!-- ϕ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \phi \,}</annotation>
+</semantics>
+</math></span><img alt="\phi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c69f1c4a95b2d750b30fa4cf5d5d068a573ac0d8" style="vertical-align: -0.671ex; width:1.773ex; height:2.509ex;"/></span> es una consecuencia deductiva de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Gamma \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Γ<!-- Γ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Gamma \,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Gamma \,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f7eb5039764f13bd45b57a37f374ed22eae752ca" style="vertical-align: -0.338ex; width:1.84ex; height:2.176ex;"/></span> en un sistema deductivo S se suele escribir "<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Gamma \vdash \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Γ<!-- Γ --></mi>
+<mo>⊢<!-- ⊢ --></mo>
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Gamma \vdash \phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Gamma \vdash \phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e98da8d3cf0372a4701a3ff204982a36cd0f4251" style="vertical-align: -0.671ex; width:5.549ex; height:2.509ex;"/></span>  en S". El tipo de sistemas deductivos tradicionales en lógica modal son los sistemas axiomáticos. Un sistema axiomático es un conjunto de enunciados del lenguaje (o <i>formas de enunciados</i> si contienen metavariables) y un conjunto de reglas de inferencia. Una consecuencia deductiva de un sistema axiomático es, o bien un axioma, o bien un enunciado que puede obtenerse a partir de los axiomas y las reglas de inferencia. El sistema axiomático básico para la lógica modal es el sistema K, descrito más arriba. La relación de deducibilidad en K (es decir, todo aquello que es deducible en K), queda por lo tanto definida por sus axiomas y sus reglas de inferencia.
+</p>
+<p>Como comentamos al inicio de esta sección, la deducibilidad en los distintos sistemas modales caracteriza diversas relaciones de consecuencia lógica. El sistema modal K es considerado básico porque la deducción en K caracteriza (es consistente y completo respecto a) la consecuencia lógica en <i>todas las interpretaciones (normales)</i>. Por tanto:
+</p>
+<p>Recordemos que varios de los sistemas modales se obtienen simplemente añadiendo axiomas a la lista de axiomas del sistema K. Por ejemplo, el sistema T se obtiene añadiendo a K el axioma:
+</p>
+<p>En cada uno de los sistemas, la relación de consecuencia lógica que caracteriza la deducibilidad en el sistema es distinta. Por ejemplo, en el sistema T, la relación de consecuencia lógica (respecto a la cual T es consistente y completo) es la consecuencia lógica en todas las interpretaciones en las que la relación de accesibilidad es <a href="/wiki/Relaci%C3%B3n_reflexiva" title="Relación reflexiva">reflexiva</a>. Es decir, la clase de todas las interpretaciones &lt;<i>W</i>, <i>R</i>, <i>V</i>&gt; en las que <i>R</i> es reflexiva (todo mundo <i>w</i> en <i>W</i> es accesible desde sí mismo: <i>wRw</i>). Por tanto, la adición del axioma T a K da lugar a un sistema que es completo y consistente respecto a todas las interpretaciones en que <i>R</i> es reflexiva:
+</p>
+<p>Otros sistemas modales se obtienen a través de la adición de axiomas y sus respectivas consecuencias lógicas a través de la adición de restricciones sobre <i>R</i>. Algunos de los axiomas más conocidos con sus respectivas restricciones sobre <i>R</i> son:
+</p>
+<p>Atendiendo a los axiomas podemos ver cuál es la relación de consecuencia que caracterizan. Por ejemplo, el sistema S4, que incluye los axiomas T y B, es consistente y completo respecto a las interpretaciones en que <i>R</i> es reflexiva y transitiva. El sistema S5 respecto a las interpretaciones en que <i>R</i> es reflexiva y euclídea.
+</p>
+<p>El método axiomático tiene ciertas ventajas. Por ejemplo, se puede ver fácilmente cuál es la relación entre sistemas modales. Se dice que un sistema modal B es una <i>extensión</i> de otro sistema modal A, cuando todas las deducciones que se pueden realizar en A se pueden realizar en B. Se dice que B es una <i>extensión propia</i> de A cuando B es una extensión de A y A no es una extensión de B (es decir, hay deducciones en B que no hay en A). El método axiomático tiene la ventaja de mostrar de un modo claro algunas relaciones entre sistemas modales. Por ejemplo, es evidente que como el sistema T se obtiene añadiendo un axioma a K, T es una extensión de K. Para ver que T es una extensión propia de K, solo tenemos que comprobar que el axioma T no es deducible en K.
+</p>
+<p>Existen otros métodos a este propósito como los <i>tableaux</i> o tablas analíticas. El método axiomático tiene la desventaja de que resulta difícil para el no-iniciado establecer afirmaciones de deducción mientras que las tablas analíticas aportan un procedimiento algorítmico con el que resulta muy sencillo construir las pruebas. Por otra parte, las pruebas de completud y consistencia con las tablas analíticas son extremadamente sencillas en comparación con las pruebas que emplean sistemas axiomáticos. El libro de Graham Priest (2001) es una buena introducción a las lógicas modales (entre otras lógicas no clásicas) que emplea las tablas analíticas.
+</p>
+<p>Algunos de los sistemas que Lewis propuso para su <a class="mw-redirect" href="/wiki/Implicaci%C3%B3n_estricta" title="Implicación estricta">implicación estricta</a> son más débiles que el sistema modal K. Para obtener una semántica para sistemas modales más débiles que K se introdujo la noción de <i>mundo no-normal</i> (introducido por <a href="/wiki/Saul_Kripke" title="Saul Kripke">Saul Kripke</a> en 1965). Un mundo no-normal es un mundo en el que las condiciones de verdad de los operadores modales son distintas: un enunciado del tipo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Diamond \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◊<!-- ◊ --></mi>
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Diamond \phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Diamond \phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a66fbb65d563e99aa91360d0da21ee6637080ea9" style="vertical-align: -0.671ex; width:2.936ex; height:2.509ex;"/></span> es siempre verdadero en un mundo no-normal, mientras que un enunciado de la forma <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Box \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◻<!-- ◻ --></mi>
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Box \phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Box \phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bac6d8e20bfba09462096d4f815c14b676e4b2f4" style="vertical-align: -0.671ex; width:3.194ex; height:2.509ex;"/></span> es siempre falso. En los mundos no-normales todo es posible y nada es necesario.
+</p>
+<p>Una interpretación no-normal para un lenguaje proposicional modal es una estructura &lt;<i>W</i>, <i>N</i>, <i>R</i>, <i>V</i>&gt; donde <i>W</i>, <i>R</i> y <i>V</i> son como antes y <i>N</i> es un subconjunto de <i>W</i>. <i>N</i> es el conjunto de mundos <i>normales</i> en la interpretación; el resto (si los hay) son los mundos <i>no-normales</i>. Las condiciones de verdad de los operadores lógicos son igual que antes; solo varían las condiciones de los operadores modales en mundos no-normales. Si <i>w</i> es no-normal:
+</p>
+<p>A partir de interpretaciones no-normales podemos obtener semánticas para sistemas modales más débiles que K. Podemos definir, por ejemplo, la relación de consecuencia lógica como preservación de verdad sobre <i>mundos normales</i>:
+</p>
+<p>Definición: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Gamma \models \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Γ<!-- Γ --></mi>
+<mo>⊨<!-- ⊨ --></mo>
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Gamma \models \phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Gamma \models \phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c75af98ced3a0a3238651bbf9e3416ec0dd15561" style="vertical-align: -0.838ex; width:6.143ex; height:2.843ex;"/></span>  si y solo para toda interpretación &lt;<i>W</i>, <i>N</i>, <i>R</i>, <i>V</i>&gt; y todo mundo posible <i>w</i> en <i>N</i>, si  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V(w,\psi )=1\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mi>w</mi>
+<mo>,</mo>
+<mi>ψ<!-- ψ --></mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>1</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V(w,\psi )=1\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V(w,\psi )=1\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a1f4f4add61adf39b7e6eed7dd1938280b972902" style="vertical-align: -0.838ex; width:12.456ex; height:2.843ex;"/></span>  para todo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \psi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ψ<!-- ψ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \psi \,}</annotation>
+</semantics>
+</math></span><img alt="\psi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3c0246f660f8317d29b9b2f21c339b3fe1171740" style="vertical-align: -0.671ex; width:1.9ex; height:2.509ex;"/></span>  en  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Gamma \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Γ<!-- Γ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Gamma \,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Gamma \,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f7eb5039764f13bd45b57a37f374ed22eae752ca" style="vertical-align: -0.338ex; width:1.84ex; height:2.176ex;"/></span>, entonces  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V(w,\phi )=1\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mi>w</mi>
+<mo>,</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>1</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V(w,\phi )=1\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V(w,\phi )=1\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5bb58875ba3d70e1f6f4e543b1165ca78bb4e97e" style="vertical-align: -0.838ex; width:12.328ex; height:2.843ex;"/></span>.
+</p>
+<p>La lógica que obtenemos si permitimos que <i>R</i> sea una relación binaria cualquiera en <i>W</i> es más débil que K. Llamemos a esta lógica N. El hecho más singular de las interpretaciones no-normales es que la regla de <i>Necesitación</i>, que era correcta en K y todas sus extensiones, deja de ser correcta. Las fórmulas lógicamente válidas de la lógica clásica, por ejemplo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p\lor \neg p}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>∨<!-- ∨ --></mo>
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p\lor \neg p}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p\lor \neg p}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8e3bf9be747e7e36aab73fa48705b07ef135c7cc" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:6.561ex; height:2.343ex;"/></span>, son verdaderas en todo mundo posible (normal o no). Por tanto, tenemos que en N, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \models p\lor \neg p}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>⊨<!-- ⊨ --></mo>
+<mi>p</mi>
+<mo>∨<!-- ∨ --></mo>
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \models p\lor \neg p}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \models p\lor \neg p}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2f1c1e365bf0025283264aeaf1c9146fc83b192d" style="vertical-align: -0.838ex; width:9.132ex; height:2.843ex;"/></span>. Más aún, dado que la consecuencia lógica se define sobre mundos normales, tenemos que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \models \Box (p\lor \neg p)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>⊨<!-- ⊨ --></mo>
+<mi>◻<!-- ◻ --></mi>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mo>∨<!-- ∨ --></mo>
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \models \Box (p\lor \neg p)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \models \Box (p\lor \neg p)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/23e56f65ddb50c76358df19af3cb1660feefaf89" style="vertical-align: -0.838ex; width:12.749ex; height:2.843ex;"/></span> ya que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p\lor \neg p}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>∨<!-- ∨ --></mo>
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p\lor \neg p}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p\lor \neg p}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8e3bf9be747e7e36aab73fa48705b07ef135c7cc" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:6.561ex; height:2.343ex;"/></span> será verdadera en todo mundo accesible desde un mundo normal. Sin embargo, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Box \Box (p\lor \neg p)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◻<!-- ◻ --></mi>
+<mi>◻<!-- ◻ --></mi>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mo>∨<!-- ∨ --></mo>
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Box \Box (p\lor \neg p)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Box \Box (p\lor \neg p)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c29a27052fce1d6c54fd0f565b86f28dcd89669" style="vertical-align: -0.838ex; width:11.897ex; height:2.843ex;"/></span> no es verdadera en todo mundo normal, ya que este puede acceder a un mundo no-normal, en donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Box (p\lor \neg p)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◻<!-- ◻ --></mi>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mo>∨<!-- ∨ --></mo>
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Box (p\lor \neg p)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Box (p\lor \neg p)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/601508ae5f7d415a8dca812c68f7c46c9aafde29" style="vertical-align: -0.838ex; width:10.089ex; height:2.843ex;"/></span> será falsa.
+</p>
+<p>La lógica modal es tan antigua como el <a class="mw-redirect" href="/wiki/Organon" title="Organon">Organon</a> de <a href="/wiki/Arist%C3%B3teles" title="Aristóteles">Aristóteles</a>. Hay pasajes en su obra, como el famoso argumento de la batalla naval en <i>Sobre la interpretación</i>, que ahora se ven como anticipaciones de la lógica modal y su conexión con la potencialidad y el tiempo.
+</p>
+<p>El primer sistema formal de lógica modal fue desarrollado por <a href="/wiki/Avicena" title="Avicena">Avicenna</a>, quien finalmente desarrolló una teoría silogística «temporalmente modalizada».
+</p>
+<p>La lógica modal contemporánea, sin embargo, surge a principios del siglo <span style="font-variant:small-caps;text-transform:lowercase">XX</span> como una reacción a la lógica clásica que maduró en las obras de autores como <a href="/wiki/Gottlob_Frege" title="Gottlob Frege">Gottlob Frege</a>, <a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a> y <a href="/wiki/Alfred_North_Whitehead" title="Alfred North Whitehead">Alfred North Whitehead</a>. Los patrones de razonamiento válidos, aquellos que indican una relación de <a href="/wiki/Consecuencia_l%C3%B3gica" title="Consecuencia lógica">consecuencia lógica</a> entre un conjunto de enunciados –las premisas– y otro enunciado –la conclusión– en un argumento, están en parte determinados por cuáles sean las constantes lógicas. En la lógica clásica los siguientes patrones de razonamiento son válidos:
+</p>
+<p>Estos patrones de razonamiento se conocen como las <a href="/wiki/Paradojas_de_la_implicaci%C3%B3n_material" title="Paradojas de la implicación material">paradojas de la implicación material</a>, porque son argumentos válidos que sin embargo parecen poco naturales o incluso absurdos. Por ejemplo, los siguientes argumentos serían válidos:
+</p>
+<p>Del segundo uno no diría que tiene premisas verdaderas y conclusión falsa, pero como mínimo parece extraño que podamos probar la existencia de Dios de un modo tan sencillo a partir de una premisa tan plausible (¡no parece que haya una relación de consecuencia lógica entre la premisa y la conclusión!).
+</p>
+<p>En 1912 <a href="/wiki/Clarence_Irving_Lewis" title="Clarence Irving Lewis">Lewis</a> publica <i>Conditionals and the Algebra of Logic</i>, justo después de los <i><a class="mw-redirect" href="/wiki/Principia_mathematica" title="Principia mathematica">Principia mathematica</a></i> de Russell y Whitehead. En 1918 publica <i>A Survey of Symbolic Logic</i> en donde formula una familia de axiomas y propone un nuevo <a href="/wiki/Condicional_material" title="Condicional material">condicional</a> más adecuado para recoger el significado de la expresión "si... entonces" del lenguaje natural, al que llama <a class="mw-redirect" href="/wiki/Implicaci%C3%B3n_estricta" title="Implicación estricta">implicación estricta</a>. El nuevo condicional requiere, para ser verdadero, una relación más fuerte entre el antecedente y el consecuente que el condicional clásico. Lewis define su condicional estricto en términos del condicional clásico más la noción de necesidad:
+</p>
+<p>De 1918 a 1932 Lewis prepara la segunda edición del <i>Survey</i>. Durante este período surgen multitud de trabajos sobre el tema. <a href="/wiki/Arthur_Prior" title="Arthur Prior">Arthur Prior</a> aplica el mismo lenguaje formal para tratar la lógica temporal. <a href="/wiki/Oskar_Becker" title="Oskar Becker">Oskar Becker</a> desvía la atención del análisis de las conectivas tipo "condicional estricto" a las propias nociones modales: son éstas las que requieren clarificación.
+</p>
+<p>Existen al menos tres factores que hicieron que la lógica modal tuviera "mala prensa" en la primera mitad del siglo <span style="font-variant:small-caps;text-transform:lowercase">XX</span>. En primer lugar, la interpretación clásica de la consecuencia lógica eliminaba las nociones modales en favor de una visión formalista. En segundo lugar, a diferencia del caso de la lógica clásica (que fue axiomatizada de un modo completo por Frege), las nociones modales dieron lugar a distintos sistemas axiomáticos. En tercer lugar, la lógica modal se desarrolló sin un análisis semántico. A esto se suman las críticas de Quine que comienzan en los años treinta.
+</p>
+<p>El trabajo de <a href="/wiki/Saul_Kripke" title="Saul Kripke">Saul Kripke</a> en los años sesenta (1963: <i>Semantical Analysis of Modal Logic, I: Normal Propositional Calculi</i>; 1965: <i>Semantical Analysis of Modal Logic, II: Non-Normal Modal Propositional Calculi</i>; 1965: <i>Semantical Analysis of Intuitionistic Logic I</i>) fue decisivo para el desarrollo del estudio de la lógica modal. Kripke aportó la herramienta básica para el análisis semántico de la lógica modal: la <a class="new" href="/w/index.php?title=Sem%C3%A1ntica_de_mundos_posibles&amp;action=edit&amp;redlink=1" title="Semántica de mundos posibles (aún no redactado)">semántica de mundos posibles</a>. La semántica de mundos posibles es una herramienta para el análisis de una colección importante de expresiones: modales, temporales, doxásticas, epistémicas, deónticas, entre otras. Además, la semántica modal permite interpretar una gran variedad de lógicas no-clásicas como el <a href="/wiki/Intuicionismo" title="Intuicionismo">intuicionismo</a> y ha impulsado muchas aplicaciones en lingüística computacional y lógica informática.
+</p>
+<p><br/>
+</p>

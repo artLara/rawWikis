@@ -1,0 +1,1297 @@
+<p>La <b>trigonometría</b> es una rama de la <a class="mw-redirect" href="/wiki/Matem%C3%A1tica" title="Matemática">matemática</a> cuyo significado etimológico es 'la <a href="/wiki/Medici%C3%B3n" title="Medición">medición</a> de los <a href="/wiki/Tri%C3%A1ngulo" title="Triángulo">triángulos</a>'. Deriva de los términos <a href="/wiki/Idioma_griego" title="Idioma griego">griegos</a> τριγωνοϛ (<i>trigōnos)</i> 'triángulo' y μετρον (<i>metron)</i> 'medida'.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En términos generales, la trigonometría es el estudio de las razones trigonométricas: <a href="/wiki/Seno_(trigonometr%C3%ADa)" title="Seno (trigonometría)">seno</a>, <a href="/wiki/Coseno" title="Coseno">coseno</a>, <a href="/wiki/Tangente_(trigonometr%C3%ADa)" title="Tangente (trigonometría)">tangente</a>, <a href="/wiki/Cotangente" title="Cotangente">cotangente</a>, <a href="/wiki/Secante_(trigonometr%C3%ADa)" title="Secante (trigonometría)">secante</a> y <a href="/wiki/Cosecante" title="Cosecante">cosecante</a>. La trigonometría se aplica a otras ramas de la <a href="/wiki/Geometr%C3%ADa" title="Geometría">geometría</a> o la <a href="/wiki/Geometr%C3%ADa_anal%C3%ADtica" title="Geometría analítica">geometría analítica</a> en particular geometría plana o <a href="/wiki/Geometr%C3%ADa_del_espacio" title="Geometría del espacio">geometría del espacio</a>. En soluciones de ecuaciones diferenciales ordinarias ( y = y´´), <a href="/wiki/Serie_de_Fourier" title="Serie de Fourier">series de Fourier</a> usadas en ecuaciones en derivadas parciales.
+</p>
+<p>Posee numerosas aplicaciones, entre las que se encuentran: las técnicas de <a href="/wiki/Triangulaci%C3%B3n" title="Triangulación">triangulación</a>, por ejemplo, son usadas en <a href="/wiki/Astronom%C3%ADa" title="Astronomía">astronomía</a> para medir <a href="/wiki/Distancia" title="Distancia">distancias</a> a <a href="/wiki/Estrella" title="Estrella">estrellas</a> próximas, en la medición de distancias entre puntos <a href="/wiki/Geograf%C3%ADa" title="Geografía">geográficos</a>, y en <a href="/wiki/Sistema_global_de_navegaci%C3%B3n_por_sat%C3%A9lite" title="Sistema global de navegación por satélite">sistemas globales de navegación por satélites</a>.
+</p>
+<p><br/>
+</p>
+<p>Los antiguos egipcios y los babilonios conocían los teoremas sobre las proporciones de los lados de los triángulos semejantes. Pero las sociedades prehelénicas carecían de la noción de una medida del ángulo y por lo tanto, los lados de los triángulos se estudiaron en su medida, un campo que se podría llamar trilaterometría.
+</p>
+<p>Los astrónomos babilonios llevaron registros sobre la salida y puesta de las estrellas, el movimiento de los planetas y los eclipses solares y lunares, todo lo cual requiere la familiaridad con la distancia angular medida sobre la esfera celeste. Sobre la base de la interpretación de una tablilla cuneiforme <a href="/wiki/Plimpton_322" title="Plimpton 322">Plimpton 322</a> (c. 1900 a. C.), algunos incluso han afirmado que los antiguos babilonios tenían una tabla de secantes. Hoy, sin embargo, hay un gran debate acerca de si se trata de una tabla de ternas pitagóricas, una tabla de soluciones de ecuaciones de segundo grado o una tabla trigonométrica.
+</p>
+<p>Los egipcios, en el segundo milenio antes de Cristo, utilizaban una forma primitiva de la trigonometría, para la construcción de las pirámides. El <i><a href="/wiki/Papiro_de_Ahmes" title="Papiro de Ahmes">Papiro de Ahmes</a></i>, escrito por el escriba egipcio Ahmes (c. 1680-1620 a. C.), contiene el siguiente problema relacionado con la trigonometría:
+</p>
+<p>La solución al problema es la relación entre la mitad del lado de la base de la pirámide y su altura. En otras palabras, la medida que se encuentra para la <i>seked</i> es la <a href="/wiki/Cotangente" title="Cotangente">cotangente</a> del ángulo que forman la base de la pirámide y su respectiva cara.
+</p>
+<p>En la medición de <a href="/wiki/%C3%81ngulo" title="Ángulo">ángulos</a> y, por tanto, en trigonometría,  se emplean tres unidades, si bien la más utilizada en la vida cotidiana es el <a href="/wiki/Grado_sexagesimal" title="Grado sexagesimal">grado sexagesimal</a>, en matemáticas es el <a href="/wiki/Radi%C3%A1n" title="Radián">radián</a> la más utilizada, y se define como la unidad natural para medir ángulos, el grado centesimal se desarrolló como la unidad más próxima al <a href="/wiki/Sistema_de_numeraci%C3%B3n_decimal" title="Sistema de numeración decimal">sistema decimal</a>, se usa en <a href="/wiki/Topograf%C3%ADa" title="Topografía">topografía</a>, arquitectura o en construcción.
+</p>
+<p>La trigonometría es una rama importante de las matemáticas dedicada al estudio de la relación entre los lados y ángulos de un <a href="/wiki/Tri%C3%A1ngulo_rect%C3%A1ngulo" title="Triángulo rectángulo">triángulo rectángulo</a> y una <a href="/wiki/Circunferencia" title="Circunferencia">circunferencia</a>. Con este propósito se definieron una serie de funciones, las que han sobrepasado su fin original para convertirse en elementos matemáticos estudiados en sí mismos y con aplicaciones en los campos más diversos.
+</p>
+<p>El <a href="/wiki/Tri%C3%A1ngulo" title="Triángulo">triángulo</a> ABC es un <a href="/wiki/Tri%C3%A1ngulo_rect%C3%A1ngulo" title="Triángulo rectángulo">triángulo rectángulo</a> en C, con radio unitario (AB = AD = 1); lo usaremos para definir las <a class="mw-redirect" href="/wiki/Raz%C3%B3n_geom%C3%A9trica" title="Razón geométrica">razones</a> seno, coseno y tangente, del ángulo  <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.875ex; height:1.676ex;"/></span></b>, correspondiente al vértice <b>A</b>, situado en el centro de la circunferencia.
+</p>
+<p>En el esquema su representación geométrica es:
+</p>
+<p>En el esquema su representación geométrica es:
+</p>
+<p>En el esquema su representación geométrica es:
+</p>
+<p>Normalmente se emplean las relaciones trigonométricas <b>seno, coseno y tangente</b>, y salvo que haya un interés específico en hablar de ellos o las expresiones matemáticas se simplifiquen mucho, los términos cosecante, secante y cotangente no suelen utilizarse
+</p>
+<p>Además de las funciones anteriores, existen otras funciones trigonométricas. Matemáticamente se pueden definir empleando las ya vistas. Su uso no es muy corriente, pero sí se emplean, dado su sentido geométrico. Veamos:
+</p>
+<p>El <a class="mw-redirect" href="/wiki/Funci%C3%B3n_sinc" title="Función sinc">seno cardinal</a> o función <b>sinc (x)</b> definida:
+</p>
+<p>El <a href="/wiki/Verseno" title="Verseno">verseno</a>, es la distancia que hay entre la cuerda y el arco en una circunferencia, también se denomina sagita o flecha, se define:
+</p>
+<p>El <b>semiverseno</b>, se utiliza en navegación al intervenir en el cálculo esférico:
+</p>
+<p>El <b>coverseno</b>, 
+</p>
+<p>El <b>semicoverseno</b>
+</p>
+<p>La <b><a href="/wiki/Exsecante" title="Exsecante">exsecante</a></b>:
+</p>
+<p>En trigonometría, cuando el ángulo se expresa en <a href="/wiki/Radi%C3%A1n" title="Radián">radianes</a> (dado que un radián es el <a href="/wiki/Arco_(geometr%C3%ADa)" title="Arco (geometría)">arco</a> de <a href="/wiki/Circunferencia" title="Circunferencia">circunferencia</a> de longitud igual al <a href="/wiki/Radio_(geometr%C3%ADa)" title="Radio (geometría)">radio</a>), suele denominarse arco a cualquier cantidad expresada en radianes; por eso las funciones recíprocas se denominan con el prefijo arco, cada razón trigonométrica posee su propia función recíproca:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle y=\sin \,x\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>y</mi>
+<mo>=</mo>
+<mi>sin</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle y=\sin \,x\,}</annotation>
+</semantics>
+</math></span><img alt="y=\sin \,x\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b60e072d5afa03102431736db9d7636ea1ef3a69" style="vertical-align: -0.671ex; width:9.601ex; height:2.509ex;"/></span>
+</p>
+<p><b>y</b> es igual al <b>seno</b> de <b>x</b>, la función recíproca:
+</p>
+<p><b>x</b> es el <b>arco</b> cuyo seno vale <b>y</b>, o también <b>x</b> es el <a href="/wiki/Arcoseno" title="Arcoseno">arcoseno</a> de <b>y</b>.
+</p>
+<p>si:
+</p>
+<p><b>y</b> es igual al <b>coseno</b> de <b>x</b>, la función recíproca:
+</p>
+<p><b>x</b> es el <b>arco</b> cuyo coseno vale <b>y</b>, que se dice: <b>x</b> es el <a href="/wiki/Arcocoseno" title="Arcocoseno">arcocoseno</a> de <b>y</b>.
+</p>
+<p>si:
+</p>
+<p><b>y</b> es igual al <b>tangente</b> de <b>x</b>, la función recíproca:
+</p>
+<p><b>x</b> es el <b>arco</b> cuya tangente vale <b>y</b>, o <b>x</b> es igual al <a href="/wiki/Arcotangente" title="Arcotangente">arcotangente</a> de <b>y</b>.
+</p>
+<p><b>NOTA:</b>
+Es común, que las funciones recíprocas sean escritas de esta manera:
+</p>
+<p>pero se debe tener cuidado de no confundirlas con:
+</p>
+<p>Si aplicamos el criterio para obtener las funciones recíprocas en el sentido estricto, definiendo el arcoseno como la recíproca del seno, el arcocoseno como la recíproca del coseno y el arco tangente como la recíproca de la tangente, lo obtenido es la gráfica de la derecha. Es fácil percatarse que estas representaciones no cumplen la unicidad de la imagen, que forma parte de la definición de función, eso es para un valor de x dado existen un número infinito de valores que son su función, por ejemplo: el arcoseno de 0 es 0, pero también lo son cualquier múltiplo entero de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span>.
+</p>
+<p>Para cualquier <b>n</b> <a href="/wiki/N%C3%BAmero_entero" title="Número entero">número entero</a>.
+</p>
+<p>Dado que la recíproca de una función no tiene que cumplir necesariamente la unicidad de imagen, solo las funciones inyectivas y biyectivas dan funciones recíprocas con esta propiedad, esta situación se repite para el resto de las funciones recíprocas trigonométricas.
+</p>
+<p>A fin de garantizar el cumplimiento de la definición de función, en cuanto a la unicidad de imagen, y que por tanto las funciones trigonométricas recíprocas cumplan los criterios de la definición de función, se suele restringir tanto el dominio como el codominio, esta corrección permite un análisis correcto de la función, a pesar de que no coincida exactamente con la recíproca de la función trigonométrica original. Así tenemos que:
+</p>
+<p>La función arcoseno se define:
+</p>
+<p>La función arcocoseno se define:
+</p>
+<p>La función arcotangente se define:
+</p>
+<p><br/>
+</p>
+<p>Del mismo modo que las funciones trigonométricas directas recíprocas, cuando el ángulo se expresa en radianes, se denomina arco a ese ángulo, y se emplea el prefijo arco para la función trigonométrica recíproca, así tenemos que:
+</p>
+<p><b>y</b> es igual a la <b>cosecante</b> de <b>x</b>, la función recíproca:
+</p>
+<p><b>x</b> es el <b>arco</b> cuya cosecante vale <b>y</b>, o también <b>x</b> es la <a href="/wiki/Arcocosecante" title="Arcocosecante">arcocosecante</a> de <b>y</b>.
+</p>
+<p>si:
+</p>
+<p><b>y</b> es igual al <b>secante</b> de <b>x</b>, la función recíproca:
+</p>
+<p><b>x</b> es el <b>arco</b> cuya secante vale <b>y</b>, que se dice: <b>x</b> es el <a href="/wiki/Arcosecante" title="Arcosecante">arcosecante</a> de <b>y</b>.
+</p>
+<p>si:
+</p>
+<p><b>y</b> es igual al <b>cotangente</b> de <b>x</b>, la función recíproca:
+</p>
+<p><b>x</b> es el <b>arco</b> cuya cotangente vale <b>y</b>, o <b>x</b> es igual al <a href="/wiki/Arcocotangente" title="Arcocotangente">arcocotangente</a> de <b>y</b>.
+</p>
+<p>Al igual que en las funciones directas, si aplicamos el criterio para obtener las funciones recíprocas, dado que las funciones trigonométricas inversas no son inyectivas, lo obtenido es la gráfica de la derecha, que no cumplen la unicidad de la imagen, que forma parte de la definición de función.
+</p>
+<p>Para que se cumpla la definición de función, definimos un dominio y un codominio restringidos. Así tenemos que:
+</p>
+<p>La función arcocosecante se define:
+</p>
+<p>La función arcosecante se define:
+</p>
+<p>La función arcocotangente se define:
+</p>
+<p>Esta restricción garantiza el cumplimiento de la definición de función.
+</p>
+<p>A continuación algunos valores de las funciones que es conveniente recordar:
+</p>
+<p>Para el cálculo del valor de las funciones trigonométricas se confeccionaron <a class="extiw" href="https://es.wikibooks.org/wiki/es:Trigonometr%C3%ADa/Tabla_trigonom%C3%A9trica" title="b:es:Trigonometría/Tabla trigonométrica">tablas trigonométricas</a>. La primera de estas tablas fue desarrollada por <a href="/wiki/Johann_M%C3%BCller_Regiomontano" title="Johann Müller Regiomontano">Johann Müller Regiomontano</a> en 1467, que nos permiten, conocido un ángulo, calcular los valores de sus funciones trigonométricas. En la actualidad dado el desarrollo de la informática, en prácticamente todos los lenguajes de programación existen bibliotecas de funciones que realizan estos cálculos, incorporadas incluso en calculadoras electrónicas de bolsillo, por lo que el empleo actual de las tablas resulta obsoleto.
+</p>
+<p>Dados los ejes de <a href="/wiki/Coordenadas_cartesianas" title="Coordenadas cartesianas">coordenadas cartesianas</a> <b>xy</b>, de centro <b>O</b>, y una circunferencia goniométrica (circunferencia de radio la unidad) con centro en <b>O</b>; el punto de corte de la circunferencia con el lado positivo de las <b>x</b>, lo señalamos como punto <b>E</b>.
+</p>
+<p>Nótese que el punto <b>A</b> es el vértice del triángulo, y <b>O</b> es el centro de coordenada del sistema de referencia:
+</p>
+<p>a todos los efectos.
+</p>
+<p>La recta <b>r</b>, que pasa por <b>O</b> y forma un ángulo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.875ex; height:1.676ex;"/></span> sobre el eje de las <b>x</b>, corta a la circunferencia en el punto <b>B</b>, la vertical que pasa por <b>B</b>, corta al eje <b>x</b> en <b>C</b>, la vertical que pasa por <b>E</b> corta a la recta <b>r</b> en el punto <b>D</b>.
+</p>
+<p>Por <a href="/wiki/Semejanza_(geometr%C3%ADa)" title="Semejanza (geometría)">semejanza</a> de <a href="/wiki/Tri%C3%A1ngulo" title="Triángulo">triángulos</a>:
+</p>
+<p>Los puntos <b>E</b> y <b>B</b> están en la circunferencia de centro <b>O</b>, por eso la <a href="/wiki/Distancia" title="Distancia">distancia</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {OE}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>O</mi>
+<mi>E</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {OE}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {OE}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1eaab63d2d08e1f2bedd794d16289fc8ee85f54f" style="vertical-align: -0.338ex; width:3.703ex; height:3.009ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {OB}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>O</mi>
+<mi>B</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {OB}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {OB}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c47439b833ad02d4373aace062393346f44ecca3" style="vertical-align: -0.338ex; width:3.652ex; height:3.009ex;"/></span> son el radio de la circunferencia, en este caso al ser una <a class="mw-redirect" href="/wiki/Circunferencia_unitaria" title="Circunferencia unitaria">circunferencia de radio = 1</a>, y dadas las definiciones de las funciones trigonométricas:
+</p>
+<p>tenemos:
+</p>
+<p>La tangente es la relación del seno entre el coseno, según la definición ya expuesta.
+</p>
+<p>Para ver la evolución de las funciones trigonométricas según aumenta el ángulo, daremos una vuelta completa a la circunferencia, viéndolo por cuadrantes.Como consecuencia de esta consideración, los segmentos correspondientes a cada función trigonométrica variarán de longitud, siendo esta variación función del ángulo, partiendo en el primer cuadrante de un ángulo cero.
+</p>
+<p>Partiendo de esta representación geométrica de las funciones trigonométricas, podemos ver las variaciones de las funciones a medida que aumenta el ángulo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.875ex; height:1.676ex;"/></span>.
+</p>
+<p>Para <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha =0\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =0\,}</annotation>
+</semantics>
+</math></span><img alt="\alpha =0\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bb8ab306c2368f96faf3582ab713046c2016116b" style="vertical-align: -0.338ex; width:6.136ex; height:2.176ex;"/></span>, tenemos que <b>B</b>, <b>D</b>, y <b>C</b> coinciden en <b>E</b>, por tanto:
+</p>
+<p>Si aumentamos progresivamente el valor de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.875ex; height:1.676ex;"/></span>, las distancias <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {CB}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>C</mi>
+<mi>B</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {CB}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {CB}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/336c1ad696ea9a149d450951c14e36799cd45b31" style="vertical-align: -0.338ex; width:3.645ex; height:3.009ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {ED}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>E</mi>
+<mi>D</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {ED}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {ED}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c45e21211b4c17c19d508de2e7a5d4529b35e8d5" style="vertical-align: -0.338ex; width:3.815ex; height:3.009ex;"/></span> aumentarán progresivamente, mientras que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {OC}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>O</mi>
+<mi>C</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {OC}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {OC}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e6f769f6fc1ef110c05d1175a1c7992529c5fa37" style="vertical-align: -0.338ex; width:3.723ex; height:3.009ex;"/></span> disminuirá.
+</p>
+<p>Vale recordar que el punto <b>B</b> pertenece a la circunferencia y cuando el ángulo aumenta se desplaza sobre ella.
+</p>
+<p>El punto <b>E</b> es la intersección de la circunferencia con el <b>eje x</b> y no varia de posición.
+</p>
+<p>Los segmentos: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {OC}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>O</mi>
+<mi>C</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {OC}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {OC}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e6f769f6fc1ef110c05d1175a1c7992529c5fa37" style="vertical-align: -0.338ex; width:3.723ex; height:3.009ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {CB}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>C</mi>
+<mi>B</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {CB}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {CB}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/336c1ad696ea9a149d450951c14e36799cd45b31" style="vertical-align: -0.338ex; width:3.645ex; height:3.009ex;"/></span> están limitados por la circunferencia y por tanto su máximo valor absoluto será 1, pero <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {ED}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>E</mi>
+<mi>D</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {ED}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {ED}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c45e21211b4c17c19d508de2e7a5d4529b35e8d5" style="vertical-align: -0.338ex; width:3.815ex; height:3.009ex;"/></span> no está limitado, dado que <b>D</b> es el punto de corte de la recta <b>r</b> que pasa por <b>O</b>, y la vertical que pasa por <b>E</b>, en el momento en el que el ángulo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha =0,5\pi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mn>5</mn>
+<mi>π<!-- π --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =0,5\pi \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha =0,5\pi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/df4eff654ec2120f598546c0e31328b57cbe846e" style="vertical-align: -0.671ex; width:9.664ex; height:2.509ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a>, la recta <b>r</b> será la vertical que pasa por <b>O</b>. Dos rectas verticales no se cortan, o lo que es lo mismo la distancia <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {ED}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>E</mi>
+<mi>D</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {ED}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {ED}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c45e21211b4c17c19d508de2e7a5d4529b35e8d5" style="vertical-align: -0.338ex; width:3.815ex; height:3.009ex;"/></span> será infinita.
+</p>
+<p>El punto <b>C</b> coincide con <b>A</b> y el coseno vale cero. El punto <b>B</b> esta en el <b>eje y</b> en el punto más alto de la circunferencia y el seno toma su mayor valor: uno.
+</p>
+<p>Para un ángulo recto las funciones toman los valores:
+</p>
+<p><br/>
+</p>
+<p>Cuando el ángulo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.875ex; height:1.676ex;"/></span> supera el <a href="/wiki/%C3%81ngulo_recto" title="Ángulo recto">ángulo recto</a>, el valor del seno empieza a disminuir según el segmento <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {CB}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>C</mi>
+<mi>B</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {CB}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {CB}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/336c1ad696ea9a149d450951c14e36799cd45b31" style="vertical-align: -0.338ex; width:3.645ex; height:3.009ex;"/></span>, el coseno aumenta según el segmento <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {OC}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>O</mi>
+<mi>C</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {OC}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {OC}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e6f769f6fc1ef110c05d1175a1c7992529c5fa37" style="vertical-align: -0.338ex; width:3.723ex; height:3.009ex;"/></span>, pero en el sentido negativo de las <b>x</b>, el valor del coseno toma sentido negativo, si bien su valor absoluto aumenta cuando el ángulo sigue creciendo.
+</p>
+<p>La tangente para un ángulo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.875ex; height:1.676ex;"/></span> inferior a <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi /2\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi /2\,}</annotation>
+</semantics>
+</math></span><img alt="\pi /2\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5145b1ceeed3ff342b36ddf4c8629fa260edc3b6" style="vertical-align: -0.838ex; width:4.044ex; height:2.843ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a> se hace infinita en el sentido positivo de las <b>y</b>, para el ángulo recto la recta vertical <b>r</b> que pasa por <b>O</b> y la vertical que pasa por <b>E</b> no se cortan, por lo tanto la tangente no toma ningún valor real, cuando el ángulo supera los <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi /2\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi /2\,}</annotation>
+</semantics>
+</math></span><img alt="\pi /2\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5145b1ceeed3ff342b36ddf4c8629fa260edc3b6" style="vertical-align: -0.838ex; width:4.044ex; height:2.843ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a> y pasa al segundo cuadrante la prolongación de <b>r</b> corta a la vertical que pasa por <b>E</b> en el punto <b>D</b> real, en el lado negativo de las <b>y</b>, la tangente <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {ED}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>E</mi>
+<mi>D</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {ED}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {ED}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c45e21211b4c17c19d508de2e7a5d4529b35e8d5" style="vertical-align: -0.338ex; width:3.815ex; height:3.009ex;"/></span> por tanto toma valor negativo en el sentido de las <b>y</b>, y su valor absoluto disminuye a medida que el ángulo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.875ex; height:1.676ex;"/></span> aumenta progresivamente hasta los <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi \,}</annotation>
+</semantics>
+</math></span><img alt="\pi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b64589f24cc8e145d021afa17d6564d55ea5a95c" style="vertical-align: -0.338ex; width:1.719ex; height:1.676ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a>.
+</p>
+<p>Resumiendo: en el segundo cuadrante el seno de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.875ex; height:1.676ex;"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {CB}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>C</mi>
+<mi>B</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {CB}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {CB}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/336c1ad696ea9a149d450951c14e36799cd45b31" style="vertical-align: -0.338ex; width:3.645ex; height:3.009ex;"/></span>, disminuye progresivamente su valor desde 1, que toma para <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha =\pi /2\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =\pi /2\,}</annotation>
+</semantics>
+</math></span><img alt="\alpha =\pi /2\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f776402c656491084e03006c02fee2943a8d352f" style="vertical-align: -0.838ex; width:8.63ex; height:2.843ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a>, hasta que valga 0, para <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha =\pi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mi>π<!-- π --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =\pi \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha =\pi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f1025d0c20c34dcaa3536c4ab601ba1fff6e69fa" style="vertical-align: -0.338ex; width:6.305ex; height:1.676ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a>, el coseno,<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {OC}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>O</mi>
+<mi>C</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {OC}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {OC}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e6f769f6fc1ef110c05d1175a1c7992529c5fa37" style="vertical-align: -0.338ex; width:3.723ex; height:3.009ex;"/></span>, toma valor negativo y su valor varia desde 0 para <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha =\pi /2\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =\pi /2\,}</annotation>
+</semantics>
+</math></span><img alt="\alpha =\pi /2\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f776402c656491084e03006c02fee2943a8d352f" style="vertical-align: -0.838ex; width:8.63ex; height:2.843ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a>, hasta –1, para <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha =\pi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mi>π<!-- π --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =\pi \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha =\pi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f1025d0c20c34dcaa3536c4ab601ba1fff6e69fa" style="vertical-align: -0.338ex; width:6.305ex; height:1.676ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a>.
+</p>
+<p>La tangente conserva la relación:
+</p>
+<p>incluyendo el signo de estos valores.
+</p>
+<p>Para un <a class="mw-redirect" href="/wiki/%C3%81ngulo_llano" title="Ángulo llano">ángulo llano</a> tenemos que el punto <b>D</b> esta en <b>E</b>, y <b>B</b> y <b>C</b> coinciden en el eje de las <b>x</b> en el lado opuesto de <b>E</b>, con lo que tenemos:
+</p>
+<p>En el tercer cuadrante, comprendido entre los valores del ángulo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha =\pi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mi>π<!-- π --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =\pi \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha =\pi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f1025d0c20c34dcaa3536c4ab601ba1fff6e69fa" style="vertical-align: -0.338ex; width:6.305ex; height:1.676ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a> a <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha =3\pi /2\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mn>3</mn>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =3\pi /2\,}</annotation>
+</semantics>
+</math></span><img alt="\alpha =3\pi /2\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cb77120853f8b1a32aaebc98457b7f32de71f592" style="vertical-align: -0.838ex; width:9.793ex; height:2.843ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a>, se produce un cambio de los valores del seno, el coseno y la tangente, desde los que toman para <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi \,}</annotation>
+</semantics>
+</math></span><img alt="\pi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b64589f24cc8e145d021afa17d6564d55ea5a95c" style="vertical-align: -0.338ex; width:1.719ex; height:1.676ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a>:
+</p>
+<p>Cuando el ángulo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.875ex; height:1.676ex;"/></span> aumenta progresivamente, el seno aumenta en valor absoluto en el sentido negativo de las <b>y</b>, el coseno disminuye en valor absoluto en el lado negativo de las <b>x</b>, y la tangente aumenta del mismo modo que lo hacía en el primer cuadrante.
+</p>
+<p>A medida que el ángulo crece el punto <b>C</b> se acerca a <b>O</b>, y el segmento <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {OC}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>O</mi>
+<mi>C</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {OC}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {OC}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e6f769f6fc1ef110c05d1175a1c7992529c5fa37" style="vertical-align: -0.338ex; width:3.723ex; height:3.009ex;"/></span>, el coseno, se hace más pequeño en el lado negativo de las <b>x</b>.
+</p>
+<p>El punto <b>B</b>, intersección de la circunferencia y la vertical que pasa por <b>C</b>, se aleja del eje de las <b>x</b>, en el sentido negativo de las <b>y</b>, el seno, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {CB}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>C</mi>
+<mi>B</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {CB}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {CB}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/336c1ad696ea9a149d450951c14e36799cd45b31" style="vertical-align: -0.338ex; width:3.645ex; height:3.009ex;"/></span>.
+</p>
+<p>Y el punto <b>D</b>, intersección de la prolongación de la recta <b>r</b> y la vertical que pasa por <b>E</b>, se aleja del eje las <b>x</b> en el sentido positivo de las <b>y</b>, con lo que la tangente, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {ED}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>E</mi>
+<mi>D</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {ED}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {ED}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c45e21211b4c17c19d508de2e7a5d4529b35e8d5" style="vertical-align: -0.338ex; width:3.815ex; height:3.009ex;"/></span>, aumenta igual que en el primer cuadrante
+</p>
+<p>Cuando el ángulo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.875ex; height:1.676ex;"/></span> alcance <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 3\pi /2\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>3</mn>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 3\pi /2\,}</annotation>
+</semantics>
+</math></span><img alt="3\pi /2\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3c15cde930d852b06f896c0404f699d75efb805" style="vertical-align: -0.838ex; width:5.206ex; height:2.843ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a>, el punto <b>C</b> coincide con <b>O</b> y el coseno valdrá cero, el segmento <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {CB}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>C</mi>
+<mi>B</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {CB}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {CB}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/336c1ad696ea9a149d450951c14e36799cd45b31" style="vertical-align: -0.338ex; width:3.645ex; height:3.009ex;"/></span> será igual al radio de la circunferencia, en el lado negativo de las <b>y</b>, y el seno valdrá –1, la recta <b>r</b> del ángulo y la vertical que pasa por <b>E</b> serán paralelas y la tangente tomara valor infinito por el lado positivo de las <b>y</b>.
+</p>
+<p>El seno el coseno y la tangente siguen conservando la misma relación:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \operatorname {tg} \alpha ={\frac {\sin \alpha }{\cos \alpha }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>tg</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>α<!-- α --></mi>
+</mrow>
+<mrow>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>α<!-- α --></mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \operatorname {tg} \alpha ={\frac {\sin \alpha }{\cos \alpha }}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \operatorname {tg} \alpha ={\frac {\sin \alpha }{\cos \alpha }}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/11a17adc435a1c5b6cdd795c24fa04d9fd427edb" style="vertical-align: -1.838ex; width:12.862ex; height:5.176ex;"/></span>
+</p>
+<p>que se cumple tanto en valor como en signo, nótese que a medida que el coseno se acerca a valores cercanos a cero, la tangente tiende a infinito.
+</p>
+<p>En el cuarto cuadrante, que comprende los valores del ángulo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.875ex; height:1.676ex;"/></span> entre <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 3\pi /2\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>3</mn>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 3\pi /2\,}</annotation>
+</semantics>
+</math></span><img alt="3\pi /2\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3c15cde930d852b06f896c0404f699d75efb805" style="vertical-align: -0.838ex; width:5.206ex; height:2.843ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2\pi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 2\pi \,}</annotation>
+</semantics>
+</math></span><img alt="2\pi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ff0831f5ce22f8358436ea655ec0d0ef2534e1d9" style="vertical-align: -0.338ex; width:2.882ex; height:2.176ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a>, las variables trigonométricas varían desde los valores que toman para <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 3\pi /2\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>3</mn>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 3\pi /2\,}</annotation>
+</semantics>
+</math></span><img alt="3\pi /2\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3c15cde930d852b06f896c0404f699d75efb805" style="vertical-align: -0.838ex; width:5.206ex; height:2.843ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a>:
+</p>
+<p>hasta los que toman para <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2\pi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 2\pi \,}</annotation>
+</semantics>
+</math></span><img alt="2\pi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ff0831f5ce22f8358436ea655ec0d0ef2534e1d9" style="vertical-align: -0.338ex; width:2.882ex; height:2.176ex;"/></span> <a href="/wiki/Radi%C3%A1n" title="Radián">rad</a> pasando al primer cuadrante, completando una rotación:
+</p>
+<p>como puede verse a medida que el ángulo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.875ex; height:1.676ex;"/></span> aumenta, aumenta el coseno <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {OC}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>O</mi>
+<mi>C</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {OC}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {OC}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e6f769f6fc1ef110c05d1175a1c7992529c5fa37" style="vertical-align: -0.338ex; width:3.723ex; height:3.009ex;"/></span> en el lado positivo de las <b>x</b>, el seno <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {CB}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>C</mi>
+<mi>B</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {CB}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {CB}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/336c1ad696ea9a149d450951c14e36799cd45b31" style="vertical-align: -0.338ex; width:3.645ex; height:3.009ex;"/></span> disminuye en el lado negativo de las <b>y</b>, y la tangente <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overline {ED}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>E</mi>
+<mi>D</mi>
+</mrow>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overline {ED}}}</annotation>
+</semantics>
+</math></span><img alt="\overline {ED}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c45e21211b4c17c19d508de2e7a5d4529b35e8d5" style="vertical-align: -0.338ex; width:3.815ex; height:3.009ex;"/></span> también disminuye en el lado negativo de las <b>y</b>.
+</p>
+<p>Cuando <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.875ex; height:1.676ex;"/></span>, vale <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2\pi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 2\pi \,}</annotation>
+</semantics>
+</math></span><img alt="2\pi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ff0831f5ce22f8358436ea655ec0d0ef2534e1d9" style="vertical-align: -0.338ex; width:2.882ex; height:2.176ex;"/></span> o <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 0\pi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>0</mn>
+<mi>π<!-- π --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 0\pi \,}</annotation>
+</semantics>
+</math></span><img alt="0\pi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68d97e9991b60339ccf988161773a7e770e83b69" style="vertical-align: -0.338ex; width:2.882ex; height:2.176ex;"/></span> al completar una rotación completa los puntos <b>B</b>, <b>C</b> y <b>D</b>, coinciden en <b>E</b>, haciendo que el seno y la tangente valga cero, y el coseno uno, del mismo modo que al comenzarse el primer cuadrante.
+</p>
+<p>Dado el carácter rotativo de las funciones trigonométricas, se puede afirmar en todos los casos:
+</p>
+<p>Que cualquier función trigonométrica toma el mismo valor si se incrementa el ángulo un número <i><b>n</b></i> entero de rotaciones completas.
+</p>
+<p>Partiendo de una circunferencia de radio uno, dividida en cuatro cuadrantes, por dos rectas perpendiculares, que se cortan en el centro de la circunferencia <b>O</b>, estas rectas cortan a la circunferencia en los puntos <b>A</b>, <b>B</b>, <b>C</b> y <b>D</b>, la recta horizonte <b>AC</b> también la podemos llamar <b>eje x</b> y la recta vertical <b>BD</b> <b>eje y</b>. Dada una recta <b>r</b>, que pasa por el centro de la circunferencia y forma un ángulo <b>α</b> con <b>OA</b>, <b>eje x</b>, y corta a la circunferencia en <b>F</b>, tenemos que la vertical que pasa por <b>F</b> corta al <b>eje x</b> en <b>E</b>, la vertical que pasa por <b>A</b> corta a la recta <b>r</b> en <b>G</b>. Con todo esto definimos, como ya se vio anteriormente, las funciones trigonométricas:
+</p>
+<p>para el seno:
+</p>
+<p>dado que:
+</p>
+<p>Para el coseno:
+</p>
+<p>dado que:
+</p>
+<p>Para la tangente:
+</p>
+<p>dado que:
+</p>
+<p>partiendo de estas definiciones, podemos ver algunos caso importantes:
+</p>
+<p>Si a partir del eje vertical <b>OB</b> trazamos la recta <b>r</b> a un ángulo <b>α</b> en el sentido horario, la recta <b>r</b> forma con el <b>eje x</b> un ángulo <b>90-α.</b> Así, el valor de las funciones trigonométricas de este ángulo,conocidas las de <b>α</b>,serán:
+</p>
+<p>El triángulo <b>OEF</b>,rectángulo en <b>E</b>, siendo el ángulo en <b>F</b> <b>α</b>, por lo tanto:
+</p>
+<p>en el mismo triángulo <b>OEF</b>, tenemos que:
+</p>
+<p>viendo el triángulo <b>OAG</b>, rectángulo en <b>A</b>, siendo el ángulo en <b>G</b> igual a <b>α</b>, podemos ver:
+</p>
+<p>Si a partir de eje vertical <b>OB</b> trazamos la recta <b>r</b> a un ángulo <b>α</b>, medido en sentido trigonométrico, el ángulo formado por el eje horizontal <b>OA</b> y la recta <b>r</b> será <b>90+α</b>. La prolongación de la recta <b>r</b> corta a la circunferencia en <b>F</b> y a la vertical que pasa por <b>A</b> en <b>G</b>.
+</p>
+<p>El triángulo <b>OEF</b> es rectángulo en <b>E</b> y su ángulo en <b>F</b> es <b>α</b>, por lo tanto tenemos que:
+</p>
+<p>En el mismo triángulo <b>OEF</b> podemos ver:
+</p>
+<p>En el triángulos <b>OAG</b> rectángulo <b>A</b> y siendo <b>α</b> el ángulo en <b>G</b>, tenemos:
+</p>
+<p>Si sobre el eje horizontal <b>OC</b>, trazamos la recta <b>r</b> a un ángulo <b>α</b>, el ángulo entre el <b>eje OA</b> y la recta <b>r</b> es de  <b>180-α</b>, dado el triángulo <b>OEF</b> rectángulo en <b>E</b> y cuyo ángulo en <b>O</b> es <b>α</b>, tenemos:
+</p>
+<p>en el mismo triángulo <b>OEF</b>:
+</p>
+<p>En el triángulo <b>OAG</b>, rectángulo en <b>A</b> y con ángulo en <b>O</b> igual a <b>α</b>, tenemos:
+</p>
+<p>Sobre la circunferencia de radio uno, a partir del <b>eje OC</b> con un ángulo <b>α</b> trazados la recta <b>r</b>, el ángulo del <b>eje OA</b> y la recta <b>r</b> es de <b>180+α</b>, como se ve en la figura. En el triángulo <b>OEF</b> rectángulo en <b>E</b> se puede deducir:
+</p>
+<p>en el mismo triángulo <b>OEF</b> tenemos:
+</p>
+<p>en el triángulo <b>OAG</b>, rectángulo en <b>A</b>, vemos que:
+</p>
+<p>Sobre el <b>eje OD</b> y con un ángulo <b>α</b> medido en sentido horario trazamos la recta <b>r</b>. El ángulo entre el <b>eje OA</b> y la recta <b>r</b> es de <b>270-α</b>. En el triángulo <b>OEF</b>, rectángulo en <b>E</b>, tenemos:
+</p>
+<p>por otra parte en el mismo triángulo <b>OEF</b>, tenemos:
+</p>
+<p>en el triángulo <b>OAG</b> rectángulo en <b>A</b>, y siendo <b>α</b> el ángulo en <b>G</b>, tenemos;
+</p>
+<p>Sobre el <b>eje OD</b> y con un ángulo <b>α</b> medido en sentido trigonométrico, trazamos la recta <b>r</b>. El ángulo entre el <b>eje OA</b> y la recta <b>r</b> es de <b>270+α</b>. En el triángulo <b>OEF</b>, rectángulo en <b>E</b>, tenemos:
+</p>
+<p>por otra parte en el mismo triángulo <b>OEF</b>, tenemos:
+</p>
+<p>en el triángulo <b>OAG</b> rectángulo en <b>A</b>, y siendo <b>α</b> el ángulo en <b>G</b>, tenemos;
+</p>
+<p>Sobre la circunferencia de radio uno, a partir del <b>eje OA</b> con un ángulo <b>α</b> medido en sentido horario trazados la recta <b>r</b>, el ángulo del <b>eje OA</b> y la recta <b>r</b> es de <b>-α</b>, o lo que es lo mismo <b>360-α</b> como se ve en la figura. En el triángulo <b>OEF</b> rectángulo en <b>E</b> se puede deducir:
+</p>
+<p>en el mismo triángulo <b>OEF</b> tenemos:
+</p>
+<p>en el triángulo <b>OAG</b>, rectángulo en <b>A</b>, vemos que:
+</p>
+<p>Una identidad es una igualdad en que se cumple para todos los valores permisibles de la variable. En trigonometría existen seis identidades fundamentales:
+</p>
+<p>Como en el triángulo rectángulo cumple la función que:
+</p>
+<p>de la figura anterior se tiene que:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \sin(\alpha )={\frac {a}{c}},\qquad \cos(\alpha )={\frac {b}{c}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>α<!-- α --></mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>a</mi>
+<mi>c</mi>
+</mfrac>
+</mrow>
+<mo>,</mo>
+<mspace width="2em"></mspace>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>α<!-- α --></mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>b</mi>
+<mi>c</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sin(\alpha )={\frac {a}{c}},\qquad \cos(\alpha )={\frac {b}{c}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \sin(\alpha )={\frac {a}{c}},\qquad \cos(\alpha )={\frac {b}{c}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e4c70c24375b337dd8bd9ea59c22507c7002c18a" style="vertical-align: -1.838ex; width:28.346ex; height:5.343ex;"/></span>
+</p>
+<p>por tanto:
+</p>
+<p>entonces para todo ángulo α, se cumple la identidad Pitagórica: 
+</p>
+<p>que también puede expresarse:
+</p>
+<p>El seno y coseno se definen en <a class="mw-redirect" href="/wiki/N%C3%BAmeros_complejos" title="Números complejos">matemática compleja</a>, gracias a la <a href="/wiki/F%C3%B3rmula_de_Euler" title="Fórmula de Euler">fórmula de Euler</a> como:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \sin \alpha ={\dfrac {e^{i\alpha }-e^{-i\alpha }}{2i}},\qquad \cos \alpha ={\frac {e^{i\alpha }+e^{-i\alpha }}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>i</mi>
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mi>i</mi>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>,</mo>
+<mspace width="2em"></mspace>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>i</mi>
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sin \alpha ={\dfrac {e^{i\alpha }-e^{-i\alpha }}{2i}},\qquad \cos \alpha ={\frac {e^{i\alpha }+e^{-i\alpha }}{2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \sin \alpha ={\dfrac {e^{i\alpha }-e^{-i\alpha }}{2i}},\qquad \cos \alpha ={\frac {e^{i\alpha }+e^{-i\alpha }}{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c669b38c145393b471455682265f6e10986c321b" style="vertical-align: -1.838ex; width:43.243ex; height:5.676ex;"/></span>
+</p>
+<p>Por lo tanto, la tangente quedará definida como:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \operatorname {tg} \alpha ={\dfrac {1}{i}}{\dfrac {e^{i\alpha }-e^{-i\alpha }}{e^{i\alpha }+e^{-i\alpha }}}=\ {-i}{\dfrac {e^{i\alpha }-e^{-i\alpha }}{e^{i\alpha }+e^{-i\alpha }}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>tg</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mi>i</mi>
+</mfrac>
+</mstyle>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>i</mi>
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>i</mi>
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>=</mo>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>i</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>i</mi>
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>i</mi>
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \operatorname {tg} \alpha ={\dfrac {1}{i}}{\dfrac {e^{i\alpha }-e^{-i\alpha }}{e^{i\alpha }+e^{-i\alpha }}}=\ {-i}{\dfrac {e^{i\alpha }-e^{-i\alpha }}{e^{i\alpha }+e^{-i\alpha }}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \operatorname {tg} \alpha ={\dfrac {1}{i}}{\dfrac {e^{i\alpha }-e^{-i\alpha }}{e^{i\alpha }+e^{-i\alpha }}}=\ {-i}{\dfrac {e^{i\alpha }-e^{-i\alpha }}{e^{i\alpha }+e^{-i\alpha }}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/07727f30d24f23b54acc960e6c9330df063a347c" style="vertical-align: -2.171ex; width:36.979ex; height:6.009ex;"/></span>
+</p>
+<p>Siendo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle i={\sqrt {-1}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>i</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle i={\sqrt {-1}}}</annotation>
+</semantics>
+</math></span><img alt="i={\sqrt  {-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/370c8cebe9634fbfc84c29ea61680b0ad4a1ae0d" style="vertical-align: -0.838ex; width:8.807ex; height:3.009ex;"/></span>.
+</p>

@@ -1,0 +1,56 @@
+<p>La <b>dama</b> es un <a href="/wiki/Juego_de_mesa" title="Juego de mesa">juego de mesa</a> para dos jugadores. El <a href="/wiki/Juego" title="Juego">juego</a> consiste en mover las piezas en diagonal a través de los cuadros negros y los negros hay que matarlos
+</p>
+<p>Existen varias modalidades, con distintos tableros y número de piezas. La versión internacional, también llamada «damas polacas», está reglamentada por la <a class="new" href="/w/index.php?title=F%C3%A9d%C3%A9ration_Mondiale_du_Jeu_de_Dames&amp;action=edit&amp;redlink=1" title="Fédération Mondiale du Jeu de Dames (aún no redactado)">Fédération Mondiale du Jeu de Dames</a> (<a class="extiw" href="https://en.wikipedia.org/wiki/World_Draughts_Federation" title="en:World Draughts Federation">FMJD</a>) y se juega en un tablero de 10×10 cuadros con dos jugadores, que disponen de 20 piezas cada uno (un jugador dispone de piezas negras y el otro de piezas blancas).
+</p>
+<p>Las piezas normales se mueven 1 cuadrado en diagonal, y si alcanzan el borde de la zona del enemigo se convierten en «damas», que se pueden mover en diagonal hacia cualquier lado los cuadros que se desee, luego está al moverse por primera vez en el siguiente turno no podrá moverse, sin embargo las damas pueden ser comidas por el enemigo.
+</p>
+<p>Otras reglas:
+</p>
+<p>Un jugador siempre deberá mover sus fichas y no dejarlas de lado a más de 5 turnos
+¿Cómo hacer empate (tablas)?
+</p>
+<p>Las damas es un juego para dos personas en un tablero de 64 casillas de 8×8 celdas (el mismo que se utiliza para jugar al <a href="/wiki/Ajedrez" title="Ajedrez">ajedrez</a>). El tablero se coloca de manera que cada jugador tenga una casilla blanca en su parte inferior derecha.
+</p>
+<p>Cada jugador dispone de 12 piezas de un mismo color (unas blancas y las otras negras) que al principio de la partida se colocan en las casillas negras de las tres filas más próximas a él. El objetivo del juego de damas es capturar las fichas del oponente o acorralarlas para que los únicos movimientos que puedan realizar sean los que lleven a su captura (excepto las damas rusas, la variante <i>poddavki</i>, en la que gana quién se queda sin fichas o las que tiene están bloqueadas).
+</p>
+<p>Se juega por turnos alternos. Empieza a jugar quien tiene las fichas claras (blancas). En su turno cada jugador mueve una pieza propia.
+</p>
+<p>Las piezas se mueven (cuando no comen) una posición hacia delante hacia atrás en diagonal a la derecha o a la izquierda, a una posición adyacente vacía. 
+</p>
+<p>Al momento de comer piezas del oponente, se pueden comer varias en un mismo turno de forma diagonal hacia la derecha e izquierda, adelante y atrás. Soplar (o comer) no es obligatorio, es una decisión del jugador de turno.
+</p>
+<p>Una partida de damas finaliza cuando se llega a una de estas dos situaciones:
+</p>
+<p>La partida también puede terminar en tablas (empate) si ambos jugadores quedan con un número muy reducido de piezas, tal que por muchos movimientos que se hagan no se resolvería la partida. La dama/reina siempre tiene prioridad para comer antes que cualquiera otra ficha. También la dama solo se mueve un cuadro tras cada captura. Una pieza normal puede capturar a la dama final.
+</p>
+<p>El <a href="/wiki/20_de_julio" title="20 de julio">20 de julio</a> de <a href="/wiki/2007" title="2007">2007</a>, en un artículo publicado en la revista <a href="/wiki/Science" title="Science">Science</a>,<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​ se encontró la resolución matemática para el juego de damas, siendo su resultado el de tablas. Es decir, si ambos contrincantes juegan siempre la partida perfecta en base al análisis completo y perfecto, las tablas están garantizadas.
+</p>
+<p><a href="/wiki/Chinook_(software)" title="Chinook (software)">Chinook</a> es el nombre del software creado por <a class="new" href="/w/index.php?title=Jonathan_Schaeffer&amp;action=edit&amp;redlink=1" title="Jonathan Schaeffer (aún no redactado)">Jonathan Schaeffer</a>, el primer programa que primero jugó a las damas a nivel de torneo, llegando a ganar al campeón del mundo de la época, <a class="new" href="/w/index.php?title=Don_Lafferty&amp;action=edit&amp;redlink=1" title="Don Lafferty (aún no redactado)">Don Lafferty</a>, que finalmente resolvió el desarrollo de la partida hacia el empate ineludiblemente.
+</p>
+<p>Se trataba en este caso del juego de damas de 12+12 fichas. Chinook nunca se usó para el juego de damas internacional de 20+20 fichas que es un juego tan complicado como el <a href="/wiki/Ajedrez" title="Ajedrez">ajedrez</a>.
+</p>
+<p>-Cada vez que una dama mate a un peón se colocará en la casilla posterior a la utilizada por el peón
+</p>
+<p>Las damas rusas son iguales que las <i>pool checkers</i> con la diferencia que si en medio de una captura se llega a la última fila se corona y se sigue la captura como dama y que empiezan las blancas. Se juega en partes de la antigua <a href="/wiki/Uni%C3%B3n_Sovi%C3%A9tica" title="Unión Soviética">Unión Soviética</a> y en <a href="/wiki/Israel" title="Israel">Israel</a> tienen diferente modo de juego.
+</p>
+<p>Variante de las damas rusas en la cual, utilizando las mismas reglas, el objetivo se invierte: vence quien consigue quedarse sin piezas o tener bloqueadas las que tiene.Generalmente estas versiones pierde/gana son practicadas en casi todos los juegos de damas, pero no se consideran más que un simple divertimento. Sin embargo en Rusia esta variante no solo tiene su propia denominación, sino que goza de prestigio y se celebran campeonatos del mismo modo que con la variante Shashki.
+</p>
+<p>El juego de las damas de columna (torres, postes, damas de varios pisos, tours, "columnas", "damas de columna" e incluso "damas chinas", inglés: <i>column draughts, Russian towers</i> o torres rusas) es una variante de las damas, conocida en <a href="/wiki/Rusia" title="Rusia">Rusia</a> desde el siglo <span style="font-variant:small-caps;text-transform:lowercase">XIX</span>, en la que el juego se lleva a cabo de acuerdo con las reglas habituales de las damas, pero con la diferencia de que la ficha golpeada no se retira del campo de juego, y se recoge debajo de la figura que golpea (una dama o una torre).
+Las torres se mueven a lo largo de la tabla, "obedeciendo" a la tabla superior. Al tomar la torre de ella, solo se quita la parte superior de la pantalla. Si debajo de la parte superior se encuentra un cheque de otro color que el disparo como resultado de la batalla, la torre se convierte en la torre del oponente. Las reglas de los movimientos de las damas simples y damas corresponden a las reglas de las damas rusas.
+Sobre la base de las damas rusas, pero de acuerdo con las reglas de las damas inglesas, el campeón del mundo de ajedrez <a href="/wiki/Emanuel_Lasker" title="Emanuel Lasker">Emanuel Lasker</a> desarrolló el juego de damas "Laska" y en <a href="/wiki/1911" title="1911">1911</a> publicó su descripción. <a class="mw-redirect" href="/wiki/Lasker" title="Lasker">Lasker</a> mostró que las torres solo pueden ser "de doble capa": es decir, no puede haber alternancia de colores. También mostró que durante el juego, el número de figuras de juego se mantiene constante o disminuye. Las damas de columna son un objeto curioso para las Ciencias matemáticas: combinadores, teorías de juegos de parejas con suma cero, etc.
+El interés analítico y de juego también son las bandejas de columna y las damas de dos vías de columna.
+</p>
+<p>Las «damas turcas», de nombre original «dama», se juegan en las mismas zonas que las damas rusas y en <a href="/wiki/Turqu%C3%ADa" title="Turquía">Turquía</a>. Es la más diferente de todas las variantes.
+</p>
+<p>El tablero es de ocho por ocho casillas. Cada jugador tiene dieciséis piezas, que al principio están colocadas en la segunda y la tercera fila más próximas a cada uno.
+</p>
+<p>Esta es una variante peculiar de las damas. Se juega entre 2, 4 o 6 jugadores, cada uno con un color diferente. El tablero también es cuadriculado (en el caso de ser 6 jugadores, el tablero es hexagonal), pero con muchas más casillas.
+</p>
+<p>Cada jugador comienza la partida con sus piezas en la región de uno de los vértices del tablero y su objetivo es trasladar todas sus piezas a la región del vértice opuesto.
+</p>
+<p>El movimiento de las piezas es el siguiente: en cada turno el jugador mueve una sola pieza, bien desplazando la pieza hacia una casilla adyacente vacía, o bien saltando sobre otras piezas, bien sean suyas o de otro jugador. El salto se podrá realizar siempre que la casilla final a donde va la pieza esté vacía, y al igual que las damas convencionales se pueden realizar múltiples saltos. En este juego no se comen piezas, simplemente se mueven saltando unas sobre otras. Es interesante realizar movimientos de varios saltos, pues así las piezas llegan antes al vértice opuesto.
+</p>
+<p>Gana el jugador que coloca todas sus piezas en la región del vértice opuesto en primer lugar.
+</p>
+<p>Ningún jugador puede situar piezas definitivamente en la región opuesta hasta no haber sacado todas sus piezas de su propia región.
+</p>

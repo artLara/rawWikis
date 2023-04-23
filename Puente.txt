@@ -1,0 +1,152 @@
+<p>Un <b>puente</b> es una construcción que permite salvar un accidente geográfico como un <a href="/wiki/R%C3%ADo" title="Río">río</a>, un <a href="/wiki/Ca%C3%B1%C3%B3n_(geomorfolog%C3%ADa)" title="Cañón (geomorfología)">cañón</a>, un <a href="/wiki/Valle" title="Valle">valle</a> o un <a href="/wiki/Cuerpo_de_agua" title="Cuerpo de agua">cuerpo de agua</a>, o cualquier otro obstáculo físico, como  una <a href="/wiki/Carretera" title="Carretera">carretera</a>, un <a href="/wiki/Camino_(v%C3%ADa)" title="Camino (vía)">camino</a>, o una <a href="/wiki/Ferrocarril" title="Ferrocarril">vía férrea</a>.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ El diseño de cada puente varía dependiendo de su función y de la naturaleza del terreno sobre el que se construye.
+</p>
+<p>Su proyecto y su cálculo pertenecen a la <a href="/wiki/Ingenier%C3%ADa_estructural" title="Ingeniería estructural">ingeniería estructural</a>,<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ siendo muchos los tipos de diseños que se han aplicado a lo largo de la historia, influidos por los materiales disponibles, las técnicas desarrolladas y las consideraciones económicas, entre otros factores. Al momento de analizar el diseño de un puente, la calidad del suelo o roca donde habrá de apoyarse y el régimen del río por encima del que cruza son de suma importancia para garantizar la vida del mismo.
+</p>
+<p>La necesidad humana de cruzar pequeños arroyos y ríos fue el comienzo de la historia de los puentes. Hasta el día de hoy, la técnica ha pasado desde una simple losa hasta grandes puentes colgantes que miden varios kilómetros y que cruzan bahías. Los puentes se han convertido a lo largo de la historia no solo en un elemento muy básico para una sociedad, sino en símbolo de su capacidad tecnológica.
+</p>
+<p>Los puentes tienen su origen en la misma prehistoria. Posiblemente el primer puente de la historia fue un árbol que usó un ser prehistórico para conectar las dos orillas de un río. También utilizaron losas de piedra para arroyos pequeños cuando no había árboles cerca. Los siguientes puentes fueron arcos hechos con troncos o tablones y ocasionalmente con piedras, empleando un soporte simple y colocando vigas transversales. La mayoría de estos primeros puentes eran muy pobremente construidos y raramente soportaban cargas muy pesadas. Fue esta insuficiencia la que llevó al desarrollo de mejores puentes.
+</p>
+<p>Un <a href="/wiki/Puente_en_arco" title="Puente en arco">puente en arco</a> es un puente con apoyos situados en los extremos de la luz a salvar, entre los cuales se dispone una estructura con forma de <a href="/wiki/Arco_(arquitectura)" title="Arco (arquitectura)">arco</a> con la que se transmiten las cargas. El <a class="mw-redirect" href="/wiki/Tablero_(arquitectura)" title="Tablero (arquitectura)">tablero</a> puede estar apoyado o colgado de esta estructura principal, dando origen a distintos tipos de puentes arco en función de la posición relativa del tablero respecto al arco.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El <a href="/wiki/Arco_(arquitectura)" title="Arco (arquitectura)">arco</a> fue usado por primera vez por el <a href="/wiki/Imperio_romano" title="Imperio romano">Imperio romano</a> para puentes y <a href="/wiki/Acueducto" title="Acueducto">acueductos</a>, algunos de los cuales todavía se mantienen en pie. Los puentes basados en arcos podían soportar condiciones que antes habrían destruido a cualquier puente.
+</p>
+<p>Un ejemplo de esto es el <a href="/wiki/Puente_de_Alc%C3%A1ntara" title="Puente de Alcántara">Puente de Alcántara</a>, construido sobre el <a href="/wiki/Tajo" title="Tajo">Río Tajo</a>, cerca de <a href="/wiki/Portugal" title="Portugal">Portugal</a>. La mayoría de los puentes anteriores habrían sido barridos por la fuerte corriente. Los romanos también usaban <a href="/wiki/Cemento" title="Cemento">cemento</a>, que reducía la variación de la fuerza que tenía la piedra natural. Un tipo de cemento, llamado <a href="/wiki/Puzolana" title="Puzolana">puzolana</a>, consistía en agua, limo, arena y roca volcánica. Los puentes de <a href="/wiki/Ladrillo" title="Ladrillo">ladrillo</a> y <a href="/wiki/Mortero_(construcci%C3%B3n)" title="Mortero (construcción)">mortero</a> fueron retomados después de la era romana, ya que la tecnología del cemento se perdió y más tarde fue redescubierta.
+</p>
+<p>Los puentes de cuerdas, un tipo sencillo de puentes suspendidos, fueron usados por la civilización <a class="mw-redirect" href="/wiki/Imperio_inca" title="Imperio inca">Inca</a> en los <a href="/wiki/Cordillera_de_los_Andes" title="Cordillera de los Andes">Andes</a> de <a class="mw-redirect" href="/wiki/Sudam%C3%A9rica" title="Sudamérica">Sudamérica</a>, justo antes de la colonización europea en el siglo <span style="font-variant:small-caps;text-transform:lowercase">XVI</span>.
+</p>
+<p>Después de esto, la construcción de puentes no sufrió cambios sustanciales durante mucho tiempo. La piedra y la madera se utilizaban prácticamente de la misma manera durante la época napoleónica que durante el reinado de Julio César, incluso mucho tiempo antes. La construcción de los puentes fue evolucionando conforme la necesidad que de ellos se sentía. Cuando Roma empezó a conquistar la mayor parte del mundo conocido, iban levantando puentes de madera más o menos permanentes; cuando construyeron calzadas pavimentadas, alzaron puentes de piedra labrada.
+</p>
+<p>A la caída del <a href="/wiki/Imperio_romano" title="Imperio romano">Imperio romano</a>, el arte sufrió un gran retroceso durante más de seis siglos. El hombre medieval veía en los ríos una defensa natural contra las invasiones, por lo que no consideraba necesario la construcción de los medios para salvarlos. El puente era un punto débil en el sistema defensivo feudal. Por lo tanto muchos de los que estaban construidos fueron desmantelados, y los pocos que quedaron estaban protegidos con fortificaciones.
+</p>
+<p>Un tipo fue muy habitual en Europa, el de los <a href="/wiki/Puente_habitado" title="Puente habitado">puentes habitados</a>, con viviendas y tiendas. Su origen tuvo una única motivación, la fiscalidad: en esos puentes vivían los pobres y los comerciantes que buscaban evadir el <a href="/wiki/Contrato_de_censo" title="Contrato de censo">contrato de censo</a> (pagable al propietario del suelo) y el <i><a href="/wiki/Peaje" title="Peaje">peaje</a></i> (concesión, pagable al señor feudal). Prácticamente han desaparecido todos.
+</p>
+<p>Durante el siglo <span style="font-variant:small-caps;text-transform:lowercase">XVIII</span> hubo muchas innovaciones en el diseño de puentes con vigas por parte de <a class="new" href="/w/index.php?title=Hans_Ulrich&amp;action=edit&amp;redlink=1" title="Hans Ulrich (aún no redactado)">Hans Ulrich</a>, <a class="new" href="/w/index.php?title=Johannes_Grubenmann&amp;action=edit&amp;redlink=1" title="Johannes Grubenmann (aún no redactado)">Johannes Grubenmann</a> y otros. El primer libro de ingeniería para la construcción de puentes fue escrito por <a href="/wiki/Hubert_Gautier" title="Hubert Gautier">Hubert Gautier</a> en <a href="/wiki/1716" title="1716">1716</a>.
+</p>
+<p>Con la <a class="mw-redirect" href="/wiki/Revoluci%C3%B3n_industrial" title="Revolución industrial">Revolución industrial</a> en el siglo <span style="font-variant:small-caps;text-transform:lowercase">XIX</span>, los sistemas de <a class="mw-redirect" href="/wiki/Celos%C3%ADa_(estructura)" title="Celosía (estructura)">celosía</a> de <a href="/wiki/Hierro_forjado" title="Hierro forjado">hierro forjado</a> fueron desarrollados para puentes más grandes, pero el <a href="/wiki/Hierro" title="Hierro">hierro</a> no tenía la <a href="/wiki/L%C3%ADmite_el%C3%A1stico" title="Límite elástico">fuerza elástica</a> necesaria para soportar grandes cargas. Con la llegada del <a href="/wiki/Acero" title="Acero">acero</a>, que tiene un alto <a href="/wiki/L%C3%ADmite_el%C3%A1stico" title="Límite elástico">límite elástico</a>, fueron construidos puentes mucho más largos, en muchos casos utilizando las ideas de <a href="/wiki/Gustave_Eiffel" title="Gustave Eiffel">Gustave Eiffel</a>.
+</p>
+<p>En su aspecto técnico, la <a href="/wiki/Ingenier%C3%ADa" title="Ingeniería">ingeniería</a> de un puente tradicional diferencia, además de los cimientos, dos partes esenciales: la superestructura y la infraestructura, y en ellas, pueden desglosarse los siguientes componentes básicos:
+</p>
+<p>En cuanto a la estructura <a href="/wiki/Arquitectura" title="Arquitectura">arquitectónica</a>, en un puente se pueden distinguir:
+</p>
+<p>A diferencia de los edificios, cuyo diseño está dirigido por los arquitectos, los puentes suelen ser diseñados por ingenieros. Esto se debe a la importancia de los requisitos de ingeniería, es decir, salvar el obstáculo y tener la durabilidad necesaria para sobrevivir, con un mantenimiento mínimo, en un entorno exterior agresivo.<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​ Los puentes se analizan primero; se calculan las distribuciones del momento de flexión y de la fuerza cortante debido a las cargas aplicadas. Para ello, el <a class="mw-redirect" href="/wiki/M%C3%A9todo_de_elementos_finitos" title="Método de elementos finitos">método de elementos finitos</a> es el más popular. El análisis puede ser <a class="mw-redirect" href="/wiki/Unidimensional" title="Unidimensional">unidimensional</a>, <a href="/wiki/Bidimensional" title="Bidimensional">bidimensional</a> o <a href="/wiki/Tridimensional" title="Tridimensional">tridimensional</a>. Para la mayoría de los puentes, basta con un modelo de placa bidimensional (a menudo con vigas de refuerzo) o un modelo de elementos finitos ascendente.<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​ Una vez completado el análisis, el puente se diseña para resistir los <a href="/wiki/Momento_flector" title="Momento flector"> momentos flectores</a> y las fuerzas de corte aplicadas, y se seleccionan los tamaños de las secciones con capacidad suficiente para resistir las tensiones. Muchos puentes se construyen con <a href="/wiki/Hormig%C3%B3n_pretensado" title="Hormigón pretensado">hormigón pretensado</a>, que tiene buenas propiedades de durabilidad, ya sea mediante el pretensado de las vigas antes de su instalación o el postensado <i>in situ</i>.
+</p>
+<p>En la mayoría de los países, los puentes, al igual que otras estructuras, se diseñan de acuerdo con los principios del <a href="/wiki/M%C3%A9todo_de_los_estados_l%C3%ADmites" title="Método de los estados límites"> Diseño del Factor de Carga y Resistencia</a> (LRFD). En términos sencillos, esto significa que la carga se factoriza por un factor superior a la unidad, mientras que la resistencia o capacidad de la estructura se multiplica por un factor inferior a la unidad. El efecto de la carga factorizada (tensión, momento de flexión) debe ser menor que la resistencia factorizada a ese efecto. Ambos factores tienen en cuenta la incertidumbre y son mayores cuando ésta es mayor.
+</p>
+<p>La eficiencia estructural de un puente puede ser considerada como el ratio (cociente) entre la carga que puede soportar el puente y el peso del propio puente, dado un determinado conjunto de materiales. En un desafío común, algunos estudiantes son divididos en grupos y reciben cierta cantidad de palos de madera, una distancia para construir y pegamento, y después les piden que construyan un puente que será puesto a prueba hasta destruirlo, agregando progresivamente carga en su centro. El puente que resista la mayor carga es el más eficiente. Una medición más formal de este ejercicio es pesar el puente completado en lugar de medir una cantidad arreglada de materiales proporcionados y determinar el múltiplo de este peso que el puente puede soportar, una prueba que enfatiza la economía de los materiales y la eficiencia de las ensambladuras con pegamento.
+</p>
+<p>La eficiencia económica de un puente depende de su ubicación, del tráfico potencial que pueda captar y del importe de los ahorros que conlleva la construcción del puente (en lugar de, por ejemplo, un <a href="/wiki/Transbordador" title="Transbordador">transbordador</a>, o una ruta más larga) comparado con su coste. El costo de su vida útil está compuesto de materiales, mano de obra, maquinaria, ingeniería, costo del dinero, seguros, mantenimiento, renovación y, finalmente, demolición y eliminación de sus asociados, reciclado y reemplazamiento, menos el valor de chatarra y reutilización de sus componentes. Los puentes que emplean solo compresión, son relativamente ineficientes estructuralmente, pero pueden ser altamente eficientes económicamente donde los materiales necesarios están disponibles cerca de su emplazamiento y el costo de la mano de obra es bajo. Para puentes de tamaño medio, los apuntalados o de vigas suelen ser los más económicos, mientras que en algunos casos, la apariencia del puente puede ser más importante que su eficiencia de costo. Los puentes más grandes generalmente deben construirse suspendidos.
+</p>
+<p>La mayoría de los puentes tienen un aspecto utilitario, pero en algunos casos, la apariencia del puente puede tener gran importancia.<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ A menudo, este es el caso de un gran puente que sirve de entrada a una ciudad, o que cruza sobre la entrada principal de un puerto. A veces se conocen como puentes emblemáticos. Los diseñadores de puentes en parques y a lo largo de vías verdes también suelen dar más importancia a la estética. Algunos ejemplos son los puentes de piedra de la Taconic State Parkway de Nueva York.
+</p>
+<p>Para crear una imagen bella, algunos puentes se construyen mucho más altos de lo necesario. Este tipo, que se encuentra a menudo en los jardines de estilo oriental, se llama puente de la Luna, que evoca una luna llena creciente. Otros puentes de jardín pueden cruzar sólo un lecho seco de guijarros lavados por el arroyo, con la única intención de transmitir la impresión de un arroyo. A menudo, en los palacios, se construye un puente sobre una vía de agua artificial como símbolo del paso a un lugar o estado de ánimo importante. Un conjunto de cinco puentes cruza una vía de agua sinuosa en un importante patio de la Ciudad Prohibida de Pekín (China). El puente central estaba reservado exclusivamente para el uso del Emperador y la Emperatriz, con sus asistentes.
+</p>
+<p>Existen cinco tipos principales de puentes: <a href="/wiki/Puente_viga" title="Puente viga">puentes viga</a>, <a href="/wiki/Puente_en_m%C3%A9nsula" title="Puente en ménsula">en ménsula</a>, <a href="/wiki/Puente_en_arco" title="Puente en arco">en arco</a>, <a href="/wiki/Puente_colgante" title="Puente colgante">colgantes</a> y <a href="/wiki/Puente_atirantado" title="Puente atirantado">atirantados</a>. El resto son derivados de estos.
+</p>
+<p>En viga (viaducto ferroviario en Stuttgart Cannstatt), trabaja a tracción en la zona inferior de la estructura y compresión en la superior, es decir, soporta un esfuerzo de flexión. No todos los viaductos son puentes viga; muchos son en ménsula.
+</p>
+<p>En ménsula (<a href="/wiki/Puente_Rosario-Victoria" title="Puente Rosario-Victoria">puente Rosario-Victoria</a>), trabaja a tracción en la zona superior de la estructura y compresión en la inferior. Los puentes atirantados (foto) son una derivación de este estilo.
+</p>
+<p>En arco (<a href="/wiki/Puente_de_Alc%C3%A1ntara" title="Puente de Alcántara">puente de Alcántara</a>), trabaja a compresión en la mayor parte de la estructura. Usado desde la Antigüedad.
+</p>
+<p>Colgante (<a href="/wiki/Puente_Golden_Gate" title="Puente Golden Gate">puente Golden Gate</a>), trabaja a tracción en la mayor parte de la estructura.
+</p>
+<p>Apuntalado (puente del General Hertzog) compuesto de elementos conectados con tensión, compresión o ambos.
+</p>
+<p>Atirantado (puente del Amor, <a class="mw-redirect" href="/wiki/Taiw%C3%A1n" title="Taiwán">Taiwán</a>). Su tablero está suspendido de uno o varios pilones centrales mediante obenques.
+</p>
+<p>Un puente es diseñado para <a href="/wiki/Ferrocarril" title="Ferrocarril">ferrocarriles</a>, <a href="/wiki/Puente_de_carretera" title="Puente de carretera">tráfico automovilístico</a> o <a href="/wiki/Puente_peatonal" title="Puente peatonal">peatonal</a>, <a class="new" href="/w/index.php?title=Puente_de_tuber%C3%ADas&amp;action=edit&amp;redlink=1" title="Puente de tuberías (aún no redactado)">tuberías</a> de transporte de gas o agua, o para el tráfico marítimo. En algunos casos puede haber restricciones en su uso. Por ejemplo, puede ser un puente en una autopista y estar prohibido para peatones y bicicletas, o un puente peatonal, posiblemente también para bicicletas.
+</p>
+<p>Las partes inferiores de los puentes alrededor de todo el mundo son puntos frecuentes de <a href="/wiki/Grafiti" title="Grafiti">grafiti</a>.
+</p>
+<p>Un <a href="/wiki/Acueducto" title="Acueducto">acueducto</a> es un puente que transporta agua. Semejante a un <a href="/wiki/Viaducto" title="Viaducto">viaducto</a>, conecta puntos de altura semejante.
+</p>
+<p>Los puentes pueden ser clasificados por la forma en que las cuatro fuerzas de <a href="/wiki/Tensi%C3%B3n_mec%C3%A1nica" title="Tensión mecánica">tensión</a>, <a href="/wiki/Esfuerzo_de_compresi%C3%B3n" title="Esfuerzo de compresión">compresión</a>, <a href="/wiki/Flexi%C3%B3n_mec%C3%A1nica" title="Flexión mecánica">flexión</a> y <a href="/wiki/Tensi%C3%B3n_cortante" title="Tensión cortante">tensión cortante</a> o cizalladura están distribuidas en toda su estructura. La mayor parte de los puentes emplea todas las fuerzas principales en cierto grado, pero solo unas pocas predominan. La separación de fuerzas puede estar bastante clara. En un <a href="/wiki/Puente_colgante" title="Puente colgante">puente suspendido</a>, los elementos en tensión son distintos en forma y disposición. En otros casos las fuerzas pueden estar distribuidas entre un gran número de miembros, tal como en uno apuntalado, o no muy perceptibles a simple vista como en una caja de vigas. Los puentes también pueden ser clasificados por su linaje.
+</p>
+<p>Para crear una imagen bella, algunos puentes son construidos mucho más altos de lo necesario. Este tipo, frecuentemente encontrado en jardines con estilo asiático oriental, es llamado «puente luna», evocando a la luna llena en ascenso.
+</p>
+<p>Otros puentes de jardín pueden cruzar solo un arroyo seco de guijarros lavados, intentando únicamente transmitir la sensación de un verdadero arroyo.
+</p>
+<p>Comúnmente en palacios un puente será construido sobre una corriente artificial de agua simbólicamente como un paso a un lugar o estado mental importante. Un conjunto de cinco puentes cruzan un sinuoso arroyo en un importante jardín de la <a href="/wiki/Ciudad_Prohibida" title="Ciudad Prohibida">Ciudad Prohibida</a> en <a href="/wiki/Pek%C3%ADn" title="Pekín">Pekín</a>, <a href="/wiki/Rep%C3%BAblica_Popular_China" title="República Popular China">China</a>. El puente central fue reservado exclusivamente para el uso del emperador, la emperatriz y sus sirvientes.
+</p>
+<p>A continuación se muestran algunas de las construcciones de puentes móviles:
+</p>
+<p><a href="/wiki/Puente_levadizo" title="Puente levadizo">Puente levadizo</a>
+</p>
+<p><a href="/wiki/Puente_basculante" title="Puente basculante">Puente basculante</a>
+</p>
+<p><a href="/wiki/Puente_plegable" title="Puente plegable">Puente plegable</a>
+</p>
+<p><a href="/wiki/Puente_rodante" title="Puente rodante">Puente rodante</a>
+</p>
+<p><a href="/wiki/Puente_retr%C3%A1ctil" title="Puente retráctil">Puente retráctil, deslizante o de desplazamiento horizontal</a>
+</p>
+<p><a href="/wiki/Puente_de_mesa" title="Puente de mesa">Puente de mesa</a>
+</p>
+<p><a href="/wiki/Puente_de_elevaci%C3%B3n_vertical" title="Puente de elevación vertical">Puente de elevación vertical o de levante</a>
+</p>
+<p><a href="/wiki/Puente_sumergible" title="Puente sumergible">Puente sumergible</a>
+</p>
+<p><a href="/wiki/Puente_balanceador" title="Puente balanceador">Puente balanceador</a>
+</p>
+<p><a href="/wiki/Puente_de_inclinaci%C3%B3n" title="Puente de inclinación">Puente de inclinación</a>
+</p>
+<p><a href="/wiki/Puente_giratorio" title="Puente giratorio">Puente giratorio o de oscilación</a>
+</p>
+<p><a href="/wiki/Puente_transbordador" title="Puente transbordador">Puente transbordador</a>
+</p>
+<p>En una estadística realizada en 1976, sobre las causas de fallo o rotura de 143 puentes en todo el mundo, resultó:
+</p>
+<p>Esto muestra que los aspectos hidráulicos son fundamentales en los puentes; un buen conocimiento de estos aspectos hará el puente más seguro y barato.<sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Existen varios métodos para controlar el estado de grandes estructuras como los puentes. En la actualidad, muchos puentes de gran envergadura se monitorizan de forma rutinaria con una serie de sensores. Se utilizan muchos tipos de sensores, como transductores de tensión, <a class="mw-redirect" href="/wiki/Aceler%C3%B3metros" title="Acelerómetros">acelerómetros</a>,<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​<a class="new" href="/w/index.php?title=Inclin%C3%B3metros&amp;action=edit&amp;redlink=1" title="Inclinómetros (aún no redactado)">inclinómetros</a> y <a href="/wiki/GPS" title="GPS">GPS</a>. Los acelerómetros tienen la ventaja de ser inerciales, es decir, no necesitan un punto de referencia para medir. Esto suele ser un problema para la medición de distancias o desviaciones, especialmente si el puente está sobre el agua.
+</p>
+<p>Una opción para la supervisión de la integridad estructural es la "supervisión sin contacto", que utiliza el <a href="/wiki/Efecto_Doppler" title="Efecto Doppler">efecto Doppler</a> (desplazamiento Doppler). Un rayo láser de un vibrómetro Doppler láser se dirige al punto de interés, y la amplitud y la frecuencia de la vibración se extraen del desplazamiento Doppler de la frecuencia del rayo láser debido al movimiento de la superficie.<sup class="reference separada" id="cite_ref-12"><a href="#cite_note-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​ La ventaja de este método es que el tiempo de preparación del equipo es más rápido y, a diferencia de un acelerómetro, esto permite realizar mediciones en múltiples estructuras en el menor tiempo posible. Además, este método puede medir puntos específicos de un puente a los que podría ser difícil acceder. Sin embargo, los <a class="new" href="/w/index.php?title=Vibr%C3%B3metros&amp;action=edit&amp;redlink=1" title="Vibrómetros (aún no redactado)">vibrómetros</a> son relativamente caros y tienen la desventaja de que se necesita un punto de referencia para medir.
+</p>
+<p>Para ayudar a la inspección de puentes, se pueden registrar instantáneas en el tiempo del estado exterior de un puente mediante <a class="mw-redirect" href="/wiki/Lidar" title="Lidar">lidar</a>,<sup class="reference separada" id="cite_ref-omer_13-0"><a href="#cite_note-omer-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​ que puede proporcionar mediciones de la geometría del puente (para facilitar la construcción de un modelo informático), pero la precisión suele ser insuficiente para medir las deflexiones del puente bajo carga.
+</p>
+<p>Mientras que los puentes modernos de mayor tamaño se controlan de forma rutinaria electrónicamente, los puentes más pequeños suelen ser inspeccionados visualmente por inspectores formados. Existe un gran interés en la investigación sobre el reto que suponen los puentes más pequeños, ya que a menudo se encuentran en lugares remotos y no disponen de energía eléctrica in situ. Las posibles soluciones son la instalación de sensores en un vehículo de inspección especializado y el uso de sus mediciones mientras pasa por el puente para inferir información sobre el estado del mismo.<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-15"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-16"><a href="#cite_note-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​ Estos vehículos pueden estar equipados con acelerómetros, girómetros, vibrómetros láser Doppler<sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​ y algunos incluso tienen la capacidad de aplicar una fuerza resonante a la superficie de la carretera para excitar dinámicamente el puente a su frecuencia de resonancia.
+</p>
+<p>Algunos puentes pueden tener instalaciones especiales, como la torre del puente <a class="mw-redirect" href="/wiki/Nov%C3%BD_Most" title="Nový Most">Nový Most</a> en <a href="/wiki/Bratislava" title="Bratislava">Bratislava</a>, que contiene un restaurante. En otros puentes suspendidos, pueden instalarse antenas de transmisión. Un puente sobre el Arno en Florencia (Italia) tiene tiendas comerciales a ambos lados del mismo. 
+</p>
+<p>Un puente puede contener líneas eléctricas, como el Puente Storstrøm. Además los puentes también soportan tuberías, líneas de distribución de energía o de agua mediante una carretera o una línea férrea.
+</p>
+<p>Se usan diversos materiales en la construcción de puentes. En la antigüedad, se utilizaba principalmente madera y posteriormente roca. Más recientemente se han construido los puentes metálicos, material que les da mucha mayor fuerza. Los principales materiales que se emplean para la edificación de los puentes son:
+</p>
+<p><br/>
+</p>
+<p><br/></p>
+<p><a href="/wiki/Puente_en_arco" title="Puente en arco">Puente en arco</a>
+</p>
+<p><a href="/wiki/Puente_viga" title="Puente viga">Puente viga</a>
+</p>
+<p><a href="/wiki/Puente_en_m%C3%A9nsula" title="Puente en ménsula">Puente en ménsula</a>
+</p>
+<p><a href="/wiki/Puente_atirantado_de_pil%C3%B3n_contrapeso" title="Puente atirantado de pilón contrapeso">Puente atirantado de pilón contrapeso</a>
+</p>
+<p><a href="/wiki/Puente_levadizo" title="Puente levadizo">Puente levadizo</a>
+</p>
+<p><a class="new" href="/w/index.php?title=Puente_de_viga_met%C3%A1lica&amp;action=edit&amp;redlink=1" title="Puente de viga metálica (aún no redactado)">Puente de viga metálica</a>
+</p>
+<p><a class="new" href="/w/index.php?title=Puente_de_troncos&amp;action=edit&amp;redlink=1" title="Puente de troncos (aún no redactado)">Puente de troncos</a>
+</p>
+<p><a class="new" href="/w/index.php?title=Puente_suspendido&amp;action=edit&amp;redlink=1" title="Puente suspendido (aún no redactado)">Puente suspendido</a>
+</p>
+<p><a href="/wiki/Puente_transbordador" title="Puente transbordador">Puente transbordador</a>
+</p>
+<p><a href="/wiki/Puente_colgante" title="Puente colgante">Puente colgante</a>
+</p>
+<p><br/></p>
+<p><a href="/wiki/Puente_Bailey" title="Puente Bailey">Puente Bailey</a>
+</p>
+<p><a href="/wiki/Pozo_de_cimentaci%C3%B3n" title="Pozo de cimentación">Pozo de cimentación</a>
+</p>
+<p><a href="/wiki/Pasarela_de_acceso_a_aeronaves" title="Pasarela de acceso a aeronaves">Pasarela de acceso a aeronaves</a>
+</p>
+<p><a class="mw-redirect" href="/wiki/Puente_canal" title="Puente canal">Puente canal</a>
+</p>
+<p><a href="/wiki/Viaducto" title="Viaducto">Viaducto</a>
+</p>
+<p>Muelle flotante
+</p>
+<p>Puente de madera que une Punta del Caimán con la playa de la Gaviota, en <a href="/wiki/Isla_Cristina" title="Isla Cristina">Isla Cristina</a>, provincia de <a href="/wiki/Huelva" title="Huelva">Huelva</a>.
+</p>

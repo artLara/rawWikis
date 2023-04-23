@@ -1,0 +1,134 @@
+<p>El <b>amarillo</b> es el <a href="/wiki/Color" title="Color">color</a> que se percibe ante la <a href="/wiki/Fotorreceptor" title="Fotorreceptor">fotorrecepción</a> de una <a href="/wiki/Luz" title="Luz">luz</a> cuya <a href="/wiki/Longitud_de_onda" title="Longitud de onda">longitud de onda</a> dominante mide entre 574 y 582 <a href="/wiki/Nan%C3%B3metro" title="Nanómetro">nm</a>. Se encuentra a la coloración característica de la piel del <a href="/wiki/Lim%C3%B3n" title="Limón">limón</a> maduro, de la flor del <a href="/wiki/Taraxacum_officinale" title="Taraxacum officinale">diente de león</a>, de las <a class="mw-redirect" href="/wiki/Abejas" title="Abejas">abejas</a> o del <a href="/wiki/Oro" title="Oro">oro</a>.<sup class="reference separada" id="cite_ref-DicColor_1-0"><a href="#cite_note-DicColor-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Se encuentra normalizado en catálogos de colores e inventarios cromáticos, sirviendo este amarillo «estándar» como modelo y referente para el color amarillo. El amarillo estándar puede verse en el recuadro de la derecha, arriba; los valores que se dan debajo corresponden al mismo.
+</p>
+<p>La denominación de color «amarillo» abarca un conjunto de coloraciones o variantes semejantes al color estándar, llamadas <b>amarillentas</b>.<sup class="reference separada" id="cite_ref-GuiaCol_2-0"><a href="#cite_note-GuiaCol-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La palabra <b>amarillo</b> deriva del <a class="mw-redirect" href="/wiki/Bajo_lat%C3%ADn" title="Bajo latín">bajo latín</a> hispánico <i>amarēllus</i>, ‘amarillento, pálido’, diminutivo del <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a> <i>amārus</i>, ‘amargo’. Para el <a class="mw-redirect" href="/wiki/Fil%C3%B3logo" title="Filólogo">filólogo</a> <a class="mw-redirect" href="/wiki/Joan_Corominas" title="Joan Corominas">Joan Corominas</a>, esta asociación de conceptos puede haberse debido a la palidez de los aquejados de <a href="/wiki/Ictericia" title="Ictericia">ictericia</a>, por ser esta enfermedad un trastorno de la <a href="/wiki/Bilis" title="Bilis">bilis</a> o humor amargo.<sup class="reference separada" id="cite_ref-Corominas_3-0"><a href="#cite_note-Corominas-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El amarillo es uno de los cuatro <a class="new" href="/w/index.php?title=Color_psicol%C3%B3gico&amp;action=edit&amp;redlink=1" title="Color psicológico (aún no redactado)">colores psicológicos</a> <a href="/wiki/Color_primario" title="Color primario">primarios</a>, junto con el <a href="/wiki/Rojo" title="Rojo">rojo</a>, el <a href="/wiki/Verde" title="Verde">verde</a> y el <a href="/wiki/Azul" title="Azul">azul</a>. Además, es considerado un color cálido, junto con el <a href="/wiki/Rojo" title="Rojo">rojo</a>, el <a href="/wiki/Naranja_(color)" title="Naranja (color)">naranja</a> y todas las coloraciones que tienden a estos.<sup class="reference separada" id="cite_ref-DicColor_1-1"><a href="#cite_note-DicColor-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El amarillo, junto con el <a href="/wiki/Magenta" title="Magenta">magenta</a> y el <a class="mw-redirect" href="/wiki/Cian_(color)" title="Cian (color)">cian</a>, es un <a class="mw-redirect" href="/wiki/Colores_primarios" title="Colores primarios">color primario</a> <a href="/wiki/S%C3%ADntesis_sustractiva_de_color" title="Síntesis sustractiva de color">sustractivo</a>. Esto significa que cuando se trabaja con <a href="/wiki/Pigmento" title="Pigmento">pigmentos</a> o <a href="/wiki/Tinte" title="Tinte">tintes</a> de cualquier clase (pinturas, colorantes, tintas) basta con mezclar esos tres colores en diferentes proporciones para obtener todos los demás, con el agregado de negro y ocasionalmente de blanco para lograr una tonalidad más clara o más oscura.
+</p>
+<p>En el procedimiento de impresión por <a class="mw-redirect" href="/wiki/Cuatricrom%C3%ADa" title="Cuatricromía">cuatricromía</a> (que se usa para imprimir, por ejemplo, libros y revistas en color) también juega un papel fundamental el amarillo, ya que esta técnica también emplea los colores primarios sustractivos con el agregado de negro. De allí que un color para cuatricromía se describa mediante el porcentaje de cada uno de estos cuatro colores que entra en su composición. Así, un área impresa en color amarillo puro estará compuesta por C=0 (0 % de cian), M=0 (0 % de magenta), Y=100 (100 % de amarillo) y K=0 (0 % de negro). <i>Véase <a class="mw-redirect" href="/wiki/CMYK" title="CMYK">CMYK</a>.</i>
+</p>
+<p>En este sistema de cromosíntesis, el <a href="/wiki/Colores_complementarios" title="Colores complementarios">color complementario</a> del amarillo es el azul purpúreo. En artes plásticas se considera tradicionalmente que el complementario del amarillo es el <a href="/wiki/Violeta_(color)" title="Violeta (color)">violeta</a>.
+</p>
+<p>En el <a href="/wiki/S%C3%ADntesis_aditiva_de_color" title="Síntesis aditiva de color">sistema aditivo de síntesis de color</a>, en el cual los colores se obtienen mezclando luz de color en lugar de pigmentos, el amarillo es un <a class="mw-redirect" href="/wiki/Colores_secundarios" title="Colores secundarios">color secundario</a>. Los colores primarios de este sistema son el <a href="/wiki/Rojo" title="Rojo">rojo</a>, el <a href="/wiki/Verde" title="Verde">verde</a> y el <a href="/wiki/Azul" title="Azul">azul</a>; para obtener amarillo hay que superponer luz roja y luz verde. Opcionalmente, podemos partir de la luz blanca, que contiene a todos los otros colores, y filtrar el azul, tras lo cual quedará solo la combinación de rojo y verde: amarillo.
+</p>
+<p>Este sistema aditivo de colores luz es el que utilizan los monitores y televisores para producir colores. En este sistema, un color se describe con valores numéricos para cada uno de sus componentes (rojo, verde y azul), indicando al rojo con «R», al verde con «G» y al azul con «B». En una escala de valores de 0 a 255, el amarillo aditivo puro se expresa como R=255 (rojo al valor máximo), G=255 (verde al valor máximo) y B=0 (nada de azul). <i>Véase <a class="mw-redirect" href="/wiki/Modelo_de_color_RGB" title="Modelo de color RGB">RGB</a>.</i>
+</p>
+<p>Este amarillo fue uno de los primeros colores que pudieron reproducir los <a href="/wiki/Computadora_personal" title="Computadora personal">ordenadores personales</a> al abandonar la monocromía, a principios de los años 1980.
+</p>
+<p>En este sistema de cromosíntesis, el <a href="/wiki/Colores_complementarios" title="Colores complementarios">color complementario</a> del amarillo es el <a href="/wiki/Azul" title="Azul">azul</a>.<sup class="reference separada" id="cite_ref-DicColor_1-2"><a href="#cite_note-DicColor-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><b>Amarillo espectral</b> es, simplemente, el color amarillo de la región del <a href="/wiki/Espectro_electromagn%C3%A9tico" title="Espectro electromagnético">espectro electromagnético</a> que el ojo humano es capaz de percibir. Las <a href="/wiki/Frecuencia" title="Frecuencia">frecuencias</a> más altas que el amarillo se perciben como verde, y las más bajas como naranja. La <a href="/wiki/Longitud_de_onda" title="Longitud de onda">longitud de onda</a> de la luz amarilla se sitúa entre 570 y 590 <a href="/wiki/Nan%C3%B3metro" title="Nanómetro">nm</a><sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​ y el amarillo puro (según diversos autores) es de 578,<sup class="reference separada" id="cite_ref-DicColor_1-3"><a href="#cite_note-DicColor-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ 580<sup class="reference separada" id="cite_ref-Spectra_8-0"><a href="#cite_note-Spectra-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ o 582<sup class="reference separada" id="cite_ref-ffff00_9-0"><a href="#cite_note-ffff00-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ nm. 
+</p>
+<p>En Occidente, la interpretación tradicional del cromatismo del <a href="/wiki/Arco%C3%ADris" title="Arcoíris">arcoíris</a> sostiene que este contiene siete colores, que corresponden a los siete colores en que <a href="/wiki/Isaac_Newton" title="Isaac Newton">Newton</a> dividió el espectro de luz visible. En este contexto, el amárillo es considerado el tercer color, tanto del <a href="/wiki/Isaac_Newton#Trabajos_sobre_la_luz" title="Isaac Newton">espectro newtoniano</a> como del arcoíris.<sup class="reference separada" id="cite_ref-DicColor_1-4"><a href="#cite_note-DicColor-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Es el amarillo aditivo puro o vivo con la máxima brillantez. Algunos pigmentos alcanzan su tonalidad, lo que los convierte en colores primarios sustractivos ideales. Es un <a class="mw-redirect" href="/wiki/Color_HTML" title="Color HTML">color HTML</a> establecido por <a class="mw-redirect" href="/wiki/Protocolo_(inform%C3%A1tica)" title="Protocolo (informática)">protocolos informáticos</a> para su uso en <a href="/wiki/P%C3%A1gina_web" title="Página web">páginas web</a> y en programación puede invocárselo con el nombre <i>yellow</i> (amarillo).  
+</p>
+<p>Entre los pigmentos que alcanzan su brillantez está el <a href="/wiki/Amarillo_Hansa" title="Amarillo Hansa">amarillo Hansa claro</a> o <a href="/wiki/Amarillo_monoazo" title="Amarillo monoazo">amarillo monoazo</a>, el amarillo <a class="mw-redirect" href="/wiki/Ford" title="Ford">Ford</a>, amarillo <a href="/wiki/Chrysler" title="Chrysler">Chrysler</a>, amarillo Humbrol, etc. <a href="/wiki/Crayola" title="Crayola">Crayola</a> y <a href="/wiki/RAL" title="RAL">RAL</a> lo  denominan <b>amarillo brillante</b>,<sup class="reference separada" id="cite_ref-ffff00_9-1"><a href="#cite_note-ffff00-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ ColorHexa lo llama <b>amarillo eléctrico</b>. Una comparación entre este amarillo y otros amarillos espectrales:
+</p>
+<p>Es antiguo, su uso se remonta a más de 300 años, es el color primario del <a href="/wiki/Modelo_tradicional_de_coloraci%C3%B3n" title="Modelo tradicional de coloración">modelo tradicional de coloración</a> y un ejemplo de su uso es el pigmento <a href="/wiki/Amarillo_cadmio" title="Amarillo cadmio">amarillo cadmio</a>. Actualmente es muy común en la impresión <a class="mw-redirect" href="/wiki/CMYK" title="CMYK">CMYK</a> (coordenada 0,0,100,0) y también se le denomina <b>amarillo canario</b> o <i>process yellow</i> (<a href="/wiki/Pantone" title="Pantone">Pantone</a>).
+</p>
+<p>Desde la más remota antigüedad se ha buscado producir sustancias coloreadas para pintar o teñir que tuviesen buen color, poder de tinción y permanencia; que fuesen estables ante la luz, que secasen razonablemente rápido, que tuviesen la densidad necesaria y que pudiesen mezclarse sin problemas con otros colores. Debajo se listan algunos <a href="/wiki/Pigmento" title="Pigmento">pigmentos</a> amarillos que se han destacado en la historia de la pintura.
+</p>
+<p>{{Colort|name=<a class="new" href="/w/index.php?title=Topacio_(color)&amp;action=edit&amp;redlink=1" title="Topacio (color) (aún no redactado)">Topacio</a><sup class="reference separada" id="cite_ref-GuiaCol_2-9"><a href="#cite_note-GuiaCol-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​|hex=d4bc0c
+</p>
+<p><br/>
+</p>
+<p>Los <a href="/wiki/Colores_web" title="Colores web">colores web</a> establecidos por <a class="mw-redirect" href="/wiki/Protocolo_(inform%C3%A1tica)" title="Protocolo (informática)">protocolos informáticos</a> para su uso en <a href="/wiki/P%C3%A1gina_web" title="Página web">páginas web</a> incluyen el amarillo que se muestra debajo. Como se ve, coincide con el amarillo aditivo puro y en programación puede invocárselo con el nombre <i>yellow</i> (amarillo). 
+</p>
+<p>Para los demás amarillos HTML que se encuentran definidos por nombre, ver la siguiente tabla de colores:
+</p>
+<p>En la naturaleza, el color amarillo cumple un papel importante en la coloración de advertencia, también llamada aposemática, de los animales. Ciertas especies utilizan este color —generalmente en combinación con <a href="/wiki/Negro_(color)" title="Negro (color)">negro</a> u otros colores contrastantes— para advertir a los depredadores de su toxicidad y/o mal sabor.<sup class="reference separada" id="cite_ref-36"><a href="#cite_note-36"><span class="corchete-llamada">[</span>36<span class="corchete-llamada">]</span></a></sup>​ El amarillo usado en estos casos es intenso, apropiado para distinguirse en el entorno natural, donde son más frecuentes los verdes, azules y marrones.
+</p>
+<p>Se conoce como <a href="/wiki/Xantismo_(biolog%C3%ADa)" title="Xantismo (biología)">xantismo</a> a una anormalidad fenotípica en el patrón cromático habitual de una especie, la cual se expresa en la exhibición total o parcial de escamas, piel, pelaje o plumaje de color amarillo. Dichos ejemplares suelen ser denominados también <i>variedad amarilla</i>, <i>mutación amarilla</i> o <i>lutino</i>, este último término es especialmente característico en <a href="/wiki/Avicultura" title="Avicultura">avicultura ornamental</a>.<sup class="reference separada" id="cite_ref-37"><a href="#cite_note-37"><span class="corchete-llamada">[</span>37<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><a href="/wiki/Lim%C3%B3n" title="Limón">Limón</a>
+</p>
+<p>Un <a class="mw-redirect" href="/wiki/%C3%81lamo" title="Álamo">álamo</a> en otoño
+</p>
+<p><a href="/wiki/Phyllobates_terribilis" title="Phyllobates terribilis">Rana dorada venenosa</a>
+</p>
+<p><a class="mw-redirect" href="/wiki/Canario_dom%C3%A9stico" title="Canario doméstico">Canario doméstico</a>
+</p>
+<p>Se considera que el <a href="/wiki/Sol" title="Sol">Sol</a> es una <a href="/wiki/Estrella#Tipos_espectrales" title="Estrella">estrella amarilla</a>
+</p>
+<p>Hongo <i><a class="new" href="/w/index.php?title=Calocera&amp;action=edit&amp;redlink=1" title="Calocera (aún no redactado)">Calocera</a></i>
+</p>
+<p>Ladera de <a href="/wiki/Ocre" title="Ocre">ocre</a> amarillo
+</p>
+<p><a href="/wiki/Azufre" title="Azufre">Azufre</a> cristalizado
+</p>
+<p>Color cetrino de un <a href="/wiki/Cuarzo_citrino" title="Cuarzo citrino">cuarzo citrino</a>
+</p>
+<p>El amarillo no es un color <a class="mw-redirect" href="/wiki/Her%C3%A1ldico" title="Heráldico">heráldico</a>. Cuando aparece en un <a class="mw-redirect" href="/wiki/Blas%C3%B3n" title="Blasón">blasón</a>, generalmente representa al metal <b><a href="/wiki/Oro_(her%C3%A1ldica)" title="Oro (heráldica)">oro</a></b>. Sin embargo, puede aparecer específicamente como amarillo si la descripción de las armas requiere la representación de alguna figura amarilla «al natural» (por ejemplo, una flor).
+</p>
+<p>En <a href="/wiki/Vexilolog%C3%ADa" title="Vexilología">vexilología</a>, el color amarillo deriva del oro heráldico<sup class="reference separada" id="cite_ref-48"><a href="#cite_note-48"><span class="corchete-llamada">[</span>48<span class="corchete-llamada">]</span></a></sup>​ y es relativamente frecuente. La superficie amarilla en algunas banderas es considerable, y otras incluso emplean al amarillo como color de fondo, aunque esto no suele verse en banderas nacionales.
+</p>
+<p>En los ejemplos bajo estas líneas: el <a href="/wiki/Rombo" title="Rombo">rombo</a> amarillo de la <a class="mw-redirect" href="/wiki/Bandera_del_Brasil" title="Bandera del Brasil">bandera del Brasil</a> deriva del <a href="/wiki/Oro_(her%C3%A1ldica)" title="Oro (heráldica)">oro heráldico</a> de la <a href="/wiki/Casa_de_Habsburgo" title="Casa de Habsburgo">Casa de Habsburgo</a>, familia de <a href="/wiki/Mar%C3%ADa_Leopoldina_de_Austria" title="María Leopoldina de Austria">María Leopoldina de Austria</a>, quien fuera emperatriz del <a href="/wiki/Reino_del_Brasil" title="Reino del Brasil">Reino del Brasil</a> entre <a href="/wiki/1822" title="1822">1822</a> y <a href="/wiki/1826" title="1826">1826</a>; en la <a href="/wiki/Bandera_de_Colombia" title="Bandera de Colombia">bandera de Colombia</a>,<sup class="reference separada" id="cite_ref-49"><a href="#cite_note-49"><span class="corchete-llamada">[</span>49<span class="corchete-llamada">]</span></a></sup>​ <a href="/wiki/Bandera_de_Ecuador" title="Bandera de Ecuador">Ecuador</a> y <a href="/wiki/Bandera_de_Venezuela" title="Bandera de Venezuela">Venezuela</a> el amarillo representa la riqueza del suelo, así como el sol y la soberanía; en las banderas de <a class="mw-redirect" href="/wiki/Bandera_de_Argentina" title="Bandera de Argentina">Argentina</a> y <a href="/wiki/Bandera_de_Uruguay" title="Bandera de Uruguay">Uruguay</a> el <a href="/wiki/Sol" title="Sol">sol</a> amarillo representa al <a href="/wiki/Sol_de_Mayo" title="Sol de Mayo">sol de Mayo</a>, el sol que salió en la <a class="mw-redirect" href="/wiki/Revoluci%C3%B3n_del_25_de_Mayo" title="Revolución del 25 de Mayo">revolución del 25 de Mayo</a>; en la <a href="/wiki/Bandera_de_Ucrania" title="Bandera de Ucrania">bandera de Ucrania</a>, el amarillo representa los campos de trigo del país.<sup class="reference separada" id="cite_ref-50"><a href="#cite_note-50"><span class="corchete-llamada">[</span>50<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Bandera de Colombia
+</p>
+<p>Bandera de Ecuador
+</p>
+<p>Bandera de Venezuela
+</p>
+<p>Bandera del Brasil
+</p>
+<p>Bandera de Argentina
+</p>
+<p>Bandera de Uruguay
+</p>
+<p>Bandera de Ucrania
+</p>
+<p>Bandera de España
+</p>
+<p>Bandera de Brunéi
+</p>
+<p>Bandera de la Ciudad del Vaticano
+</p>
+<p>Bandera de Macedonia del Norte
+</p>
+<p>Bandera de Andorra
+</p>
+<p>Bandera de Suecia
+</p>
+<p>Bandera de Sri Lanka
+</p>
+<p>Bandera de Palaos
+</p>
+<p>Bandera de Antigua y Barbuda
+</p>
+<p>Bandera de Bahamas
+</p>
+<p>Bandera de Barbados
+</p>
+<p>Bandera de Granada
+</p>
+<p>Bandera de Dominica
+</p>
+<p>Bandera de Guyana
+</p>
+<p>Bandera de Jamaica
+</p>
+<p>Bandera de San Vicente y las Granadinas
+</p>
+<p>Bandera de Suriname
+</p>
+<p>Bandera de Santa Lucía
+</p>
+<p>Bandera de Kiribati
+</p>
+<p>Bandera de México (Partes del escudo tienen el color amarillo)
+</p>
+<p>En la mayoría de los países europeos el <b>amarillo</b> se asocia a los <a href="/wiki/Liberalismo" title="Liberalismo">partidos liberales</a> y a los <a class="mw-redirect" href="/wiki/Liberalismo_libertario" title="Liberalismo libertario">liberales libertarios</a> incluyendo <a href="/wiki/Renovar_Europa" title="Renovar Europa">Renovar Europa</a> y a los <a class="mw-redirect" href="/wiki/Partido_Liberal_Dem%C3%B3crata_(Reino_Unido)" title="Partido Liberal Demócrata (Reino Unido)">liberaldemócratas</a>. Los partidos liberales se caracterizan por ser partidos <a class="mw-redirect" href="/wiki/Transversalismo" title="Transversalismo">transversales</a> (que no se encuadran en el <a href="/wiki/Espectro_pol%C3%ADtico" title="Espectro político">espectro</a> izquierda-centro-derecha) sino que tienen una ideología política liberal en política económica y, al mismo tiempo, tienen una política ligada a la defensa de los <a href="/wiki/Derecho_civil" title="Derecho civil">derechos civiles</a>.
+</p>
+<p>También existe la expresión «hacer amarillismo» para los <a href="/wiki/Partido_pol%C3%ADtico" title="Partido político">partidos</a> que apoyaban al <a href="/wiki/Empleador" title="Empleador">patrono</a> en las huelgas.<sup class="reference separada" id="cite_ref-51"><a href="#cite_note-51"><span class="corchete-llamada">[</span>51<span class="corchete-llamada">]</span></a></sup>​ El <a href="/wiki/Sindicato_amarillo" title="Sindicato amarillo">sindicalismo amarillo</a> surgiría en <a href="/wiki/Francia" title="Francia">Francia</a> en <a href="/wiki/1899" title="1899">1899</a>. Sería fundado el primer sindicato de este tipo por un grupo de obreros contrarios a las huelgas y elegirían el color amarillo en contraposición al rojo de los sindicatos socialistas. Por la razón anterior, en algunos países «amarillo» puede ser un adjetivo calificativo de connotaciones despectivas para referirse a aquellos que sostienen posturas políticas moderadas, indefinidas o vacilantes, o que constituyen una «<a href="/wiki/Quinta_columna" title="Quinta columna">quinta columna</a>» contra las ideologías defendidas, especialmente las de <a class="mw-redirect" href="/wiki/Izquierda" title="Izquierda">izquierda</a>.<sup class="reference separada" id="cite_ref-52"><a href="#cite_note-52"><span class="corchete-llamada">[</span>52<span class="corchete-llamada">]</span></a></sup>​ 
+</p>
+<p><i>Véase <a href="/wiki/Colores_pol%C3%ADticos#Amarillo" title="Colores políticos">colores políticos: amarillo político</a>.</i>
+</p>
+<p>La historieta de <a href="/wiki/El_Chico_Amarillo" title="El Chico Amarillo">El Chico Amarillo</a> popularizó el término «<a href="/wiki/Prensa_amarilla" title="Prensa amarilla">prensa amarilla</a>»
+</p>

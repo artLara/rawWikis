@@ -1,0 +1,20 @@
+<p>En esta página se explica la <a href="/wiki/Interfaz" title="Interfaz">interfaz</a> de la <a href="/wiki/Enciclopedia" title="Enciclopedia">enciclopedia</a> <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>.
+</p>
+<p>En la parte superior, puedes ver las pestañas:
+</p>
+<p>Si has entrado como usuario registrado, te aparecerá en primer lugar un cuadro con tus propios enlaces:
+</p>
+<p>Introduce una palabra para realizar una búsqueda. Véase <a href="/wiki/Ayuda:B%C3%BAsqueda" title="Ayuda:Búsqueda">Ayuda:Búsqueda</a>.
+</p>
+<p>Finalmente, al pie de la página, aparecen enlaces a:
+</p>
+<p>En esta página se explica la <a href="/wiki/Interfaz" title="Interfaz">interfaz</a> de la <a href="/wiki/Enciclopedia" title="Enciclopedia">enciclopedia</a> <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>.
+</p>
+<p>En la parte superior, puedes ver las pestañas:
+</p>
+<p>Si has entrado como usuario registrado, te aparecerá en primer lugar un cuadro con tus propios enlaces:
+</p>
+<p>Introduce una palabra para realizar una búsqueda. Véase <a href="/wiki/Ayuda:B%C3%BAsqueda" title="Ayuda:Búsqueda">Ayuda:Búsqueda</a>.
+</p>
+<p>Finalmente, al pie de la página, aparecen enlaces a:
+</p>

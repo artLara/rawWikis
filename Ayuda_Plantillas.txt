@@ -1,0 +1,280 @@
+<p>Una <b>plantilla</b> es una página especial de Wikipedia, y en el software libre denominado <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> que la misma utiliza, que contiene un fragmento de código diseñado para ser insertado en otras páginas de Wikipedia. Las plantillas utilizan el <a href="/wiki/Ayuda:Espacio_de_nombres" title="Ayuda:Espacio de nombres">espacio de nombres</a> <i>Plantilla</i> y se incluyen en el <a href="/wiki/Wikitexto" title="Wikitexto">wikitexto</a> utilizando un par de <a href="/wiki/Llave_(signo_gr%C3%A1fico)" title="Llave (signo gráfico)">llaves</a> dobles <b><code>{{  }}</code></b>
+</p>
+<p>Antes de crear una <a href="/wiki/Plantilla" title="Plantilla">plantilla</a>, asegúrate de leer y entender esta guía, en particular la sección <a href="#Sugerencias">Sugerencias</a>.
+</p>
+<p>El <i>nombre</i> de una plantilla es el título de la página dentro del espacio de nombres «Plantilla». Como todos los títulos, distingue entre mayúsculas y minúsculas (excepto la primera letra): <tt>Plantilla de ejemplo</tt> y <tt>Plantilla de Ejemplo</tt> son plantillas diferentes, pero <tt>Plantilla de ejemplo</tt> y <tt>plantilla de ejemplo</tt> son la misma plantilla.
+</p>
+<p>Supongamos que se quiere utilizar una plantilla llamada <tt>Plantilla:nombre de plantilla</tt> en una página llamada <tt>Página de ejemplo</tt>. Se puede hacer de dos maneras:
+</p>
+<p>Se escribe <code>{{subst:Nombre de plantilla}}</code> en <tt>Página de ejemplo</tt>, con lo cual el contenido de la plantilla se agrega permanentemente a la <tt>Página de ejemplo</tt>.
+</p>
+<p>La sustitución se realiza una sola vez, al momento de grabar la página. No quedan rastros de que se hubiera usado una plantilla, y el resultado es el mismo que si se hubiera escrito manualmente el texto generado por la plantilla. Cualquier cambio posterior hecho al código de la plantilla no tiene ningún efecto sobre la página. La sustitución se utiliza cuando queremos que el contenido incorporado por la plantilla pueda editarse posteriormente desde la página marcada, o cuando no es conveniente que futuros cambios en la plantilla modifiquen la página (ej.: los avisos por vandalismo en una página de discusión de usuario).
+</p>
+<p>Se escribe <code>{{Nombre de plantilla}}</code> en <tt>Página de ejemplo</tt>. Es la forma más común de usar una plantilla. Cada vez que se carga la página, también se procesa la plantilla, y el resultado se incluye dentro de la primera. 
+</p>
+<p>La transclusión ralentiza un poco la carga de las páginas, pero como se mantiene la dependencia con la plantilla, cualquier cambio o mejora que se haga a esta impactará automáticamente en todas las páginas que la usen (o transcluyan). Además, como el código de la plantilla no se guarda en la página que la utiliza, el código de esta última no se «ensucia», haciéndose más fácil de entender y de editar. También permite encontrar qué páginas utilizan cierta plantilla (usando el enlace "<a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD" title="Especial:LoQueEnlazaAquí">Lo que enlaza aquí</a>" del menú Herramientas).
+</p>
+<p>Excepto algunas situaciones específicas, lo normal es incluir las plantillas por transclusión.
+</p>
+<p>En realidad, cualquier página puede usarse como plantilla, por substitución o transclusión. La sintaxis es la misma, solo que no se puede omitir el <a href="/wiki/Ayuda:Espacio_de_nombres" title="Ayuda:Espacio de nombres">espacio de nombres</a> al usarlas, como se omite el "Plantilla:" en las plantillas normales. El ejemplo por antonomasia de pseudoplantillas son las <a href="#Userboxes">userboxes</a>.
+</p>
+<p>Cuando se desea mencionar y enlazar a una plantilla (por ejemplo, dentro de las páginas de discusión o de ayuda) se utiliza la plantilla <b><code>{{<a href="/wiki/Plantilla:Ep" title="Plantilla:Ep">ep</a>}}</code></b>. Por ejemplo <code>{{ep|Ficha de persona}}</code> muestra <code>{{<a href="/wiki/Plantilla:Ficha_de_persona" title="Plantilla:Ficha de persona">Ficha de persona</a>}}</code>.
+</p>
+<p>Las plantillas aceptan <b>parámetros</b> o <b><a class="mw-redirect" href="/wiki/Argumento_(Ciencias_de_la_computaci%C3%B3n)" title="Argumento (Ciencias de la computación)">argumentos</a></b>, que permiten aumentar sus funcionalidades, adecuándose a las necesidades de cada página que las utiliza. Cada aparición de un parámetro dentro del código de la plantilla se sustituye por el valor que se le haya dado a ese parámetro en el momento de usar la plantilla. Así, el texto generado por una misma plantilla puede variar en función de los valores que toman sus parámetros.
+</p>
+<p>Es conveniente que los parámetros tengan nombre. A diferencia de los nombres de página, "un nombre", "Un nombre" y "Un_nombre" son todos nombres de parámetros distintos.
+</p>
+<p>Supongamos que la <tt>plantilla:Nombre de plantilla</tt> tiene dos parámetros: <code>fecha</code> y <code>clave</code>. Para incluir la plantilla (mediante transclusión) dentro de un artículo, se deberá escribir:
+</p>
+<p>Dentro de la plantilla, se usará <code>{{{fecha}}}</code> y <code>{{{clave}}}</code>. Cada aparición de <code>{{{fecha}}}</code> será sustituida por <code>28 de marzo de 2023</code>, y cada aparición de <code>{{{clave}}}</code> será sustituida por <code>paparulo</code>, al momento de usar la plantilla.
+</p>
+<p><code>{{Ejemplo de plantilla|<b>fecha=28 de marzo de 2023</b>|<b>clave=paparulo</b>}}</code><br/>
+<code>{{Ejemplo de plantilla}}</code>
+</p>
+<p>La fecha es 28 de marzo de 2023 y la contraseña es paparulo.<br/>
+La fecha es {{{fecha}}} y la contraseña es {{{clave}}}
+</p>
+<p>Nótese cómo en la segunda inclusión, al no asignársele valores a los parámetros <i>fecha</i> y <i>clave</i>, los textos <code>{{{fecha}}}</code> y <code>{{{clave}}}</code> no se reemplazaron y quedaron tal cual. Cómo evitarlo se verá en la sección <a href="#Valores_por_defecto">Valores por defecto</a>.
+</p>
+<p>Si se le asigna más de un valor al mismo parámetro, solo la última asignación se tomará en cuenta. Por ejemplo,
+</p>
+<p>es equivalente a
+</p>
+<p>Los espacios en blanco (incluyendo tabulaciones y saltos de línea) que aparecen al principio y al final del valor de un parámetro por nombre, se eliminan; los que están en el interior, se mantienen:
+</p>
+<p><code>Domicilio: {{{domicilio}}}</code>
+</p>
+<p>Domicilio: Basavilbaso 1234
+</p>
+<p>También es posible omitir el nombre de un parámetro, y en ese caso se identifica por su posición. Dentro del código de una plantilla, <code>{{{3}}}</code> hace referencia al tercero de los parámetros sin nombre usados al invocar la plantilla. Es decir, al usar una plantilla de esta forma: 
+</p>
+<p>{{{2}}} será reemplazado por <code>más texto</code> (el segundo de los parámetros sin nombre). 
+</p>
+<p><code>{{Ejemplo de plantilla|<b>28 de marzo de 2023</b>|<b>paparulo</b>}}</code>
+</p>
+<p>La fecha es 28 de marzo de 2023 y la contraseña es paparulo.
+</p>
+<p>Otro ejemplo (incorrecto):
+</p>
+<p><code>{{Muestra ecuación|<b>2x - y = 0</b>}}</code>
+</p>
+<p>La ecuación es {{{1}}}
+</p>
+<p>Note que este ejemplo falla. El problema está en que el texto que estamos pasando como primer parámetro («2x - y = 0») tiene un signo igual. El signo igual se utiliza en la sintaxis de los parámetros nombrados, por lo que el sistema cree que le estamos pasando un parámetro de nombre «2x - y» con valor «0». Hay dos formas de solucionar esto:
+</p>
+<p><code>{{Muestra ecuación|<b>1=2x - y = 0</b>}}<br/>
+{{Muestra ecuación|<b>2x - y {{=}} 0</b>}}</code>
+</p>
+<p>La ecuación es: 2x - y = 0<br/>
+La ecuación es: 2x - y = 0
+</p>
+<p>Este problema suele suceder a menudo cuando se pasan <a class="mw-redirect" href="/wiki/URL" title="URL">URL</a> como parámetros posicionales. Muchas veces, las URL (como <a class="external free" href="https://es.wikipedia.org/w/index.php?title=Ayuda:Plantillas">http://es.wikipedia.org/w/index.php?title=Ayuda:Plantillas</a>) suelen tener signos de igual, y el sistema toma como nombre del parámetro todo lo que esté delante del primero (con la URL de ejemplo, interpretaría que hay un parámetro llamado «<i>http://es.wikipedia.org/w/index.php?title</i>» con valor «<i>Ayuda:Plantillas</i>»). Por eso, siempre es conveniente nombrar el parámetro explícitamente cuando se le quiera pasar una URL a una plantilla.
+</p>
+<p>A diferencia de los parámetros por nombre, los espacios en blanco (incluyendo tabulaciones y saltos de línea) que aparecen al principio y al final del valor de un parámetro posicional sí se preservan, tal como los que están en el interior. Se puede usar la plantilla <code>{{<a href="/wiki/Plantilla:Trim" title="Plantilla:Trim">trim</a>}}</code> para eliminarlos.
+</p>
+<p>Los parámetros nombrados y posicionales se pueden combinar sin problema. El sistema le asignará un número secuencial a cada uno de los parámetros sin nombre, y luego aplicará las reglas de los parámetros nombrados. Por ejemplo,
+</p>
+<p>es equivalente a
+</p>
+<p>que, como el parámetro «2» aparece dos veces, es lo mismo que
+</p>
+<p>Como ya se mencionó, el signo igual '<b>='</b> debe reemplazarse por <code><code>{{<a href="/wiki/Plantilla:%3D" title="Plantilla:=">=</a>}}</code></code> cuando se usa dentro del valor de un parámetro sin nombre.
+</p>
+<p>También, como la barra vertical '<b>|'</b> se usa como separador, para incluirla dentro del valor de un parámetro se la debe reemplazar por <code>{{!}}</code> o bien por <code>&amp;#124;</code>.
+</p>
+<p>Para incluir llaves '<b>{{'</b> o '<b>}}'</b> como valor de un parámetro, se pueden usar las plantillas <code>{{<a href="/wiki/Plantilla:((" title="Plantilla:((">((</a>}}</code> o <code>{{<a href="/wiki/Plantilla:))" title="Plantilla:))">))</a>}}</code>. Para otras sustituciones necesarias, véase la <a href="/wiki/Categor%C3%ADa:Wikipedia:Plantillas_para_evitar_la_evaluaci%C3%B3n_por_MediaWiki" title="Categoría:Wikipedia:Plantillas para evitar la evaluación por MediaWiki">Categoría:Wikipedia:Plantillas para evitar la evaluación por MediaWiki</a>.
+</p>
+<p>La expresión <code>{{{nombre|por defecto}}}</code> es equivalente a <code>{{{nombre}}}</code> excepto cuando no se le ha dado valor al parámetro, en cuyo caso la primera devuelve el texto <code>por defecto</code> mientras que la segunda devuelve <code>{{{nombre}}}</code>.
+</p>
+<p><code>{{Mostrar fecha|fecha=28 de marzo de 2023}}<br/>
+{{Mostrar fecha}}</code>
+</p>
+<p>La fecha es: 28 de marzo de 2023<br/>
+La fecha es: hoy
+</p>
+<p>Como se ve, en la segunda inclusión de la plantilla no se le asignó valor al parámetro <i>fecha</i>, por lo que se incluyó el valor por defecto, <i>hoy</i>.
+</p>
+<p>Las <a href="/wiki/Ayuda:Palabras_m%C3%A1gicas" title="Ayuda:Palabras mágicas">variables</a> que provee MediaWiki <i>parecen</i> ser plantillas pero no lo son: <code>{{PAGENAME}}</code>, <code>{{SITENAME}}</code>, etc. Las <a href="/wiki/Ayuda:Palabras_m%C3%A1gicas" title="Ayuda:Palabras mágicas"><i>parser functions</i></a> también usan una sintaxis parecida: {{#ifexpr: 1 &gt; 0 | sí | no}}, pero tampoco son plantillas.
+</p>
+<p>Tanto las variables como las <i>parser functions</i> pueden aparecer dentro del contenido de una plantilla, o como argumentos.
+</p>
+<p>En general, todo el contenido de la plantilla se muestra al visitar la página de la plantilla, y también, todo su contenido se incluye dentro de las páginas que la usan. Como esas dos situaciones son diferentes, se puede controlar qué partes de la plantilla se aplican a una y otra.
+</p>
+<p>Corresponde al código que <b>no</b> se desea que sea incluido dentro de las páginas que utilicen la plantilla. Son las secciones que están entre las etiquetas <code>&lt;noinclude&gt;</code> y <code>&lt;/noinclude&gt;</code>; puede no existir, puede haber una sola sección, o pueden ser varias. Se utiliza sobre todo para <a class="mw-redirect" href="/wiki/A:CAT" title="A:CAT">categorizar</a> la plantilla, añadirle <a class="mw-redirect" href="/wiki/A:IW" title="A:IW">interwikis</a> y <a href="/wiki/Plantilla:Documentaci%C3%B3n" title="Plantilla:Documentación">documentar</a> su uso. Es el contenido que solo se ve al visitar la página de la plantilla.
+</p>
+<p>Corresponde al código que <b>solo</b> se incluirá en las páginas que utilicen la plantilla (y no al visualizar la página de la propia plantilla). Son las secciones que están dentro de las etiquetas <code>&lt;includeonly&gt;</code> e <code>&lt;/includeonly&gt;</code>; puede no existir, puede haber una sola sección, o pueden ser varias. Se utiliza sobre todo para agregar <a class="mw-redirect" href="/wiki/A:CAT" title="A:CAT">categorías</a> a las páginas marcadas con la plantilla (no para categorizar la plantilla en sí).
+</p>
+<p>Todo el código de la plantilla que esté fuera de esas etiquetas, se incluye siempre.
+</p>
+<p><b>&lt;noinclude&gt;</b>Este texto solo se ve al visualizar la plantilla. Normalmente contiene la documentación de la misma.<b>&lt;/noinclude&gt;</b><br/>
+<b>&lt;includeonly&gt;</b>Este texto solo se verá en las páginas que usen la plantilla.<b>&lt;/includeonly&gt;</b>
+</p>
+<p><code>{{Ejemplo de plantilla}}</code>
+</p>
+<p>Este texto solo se ve al visualizar la plantilla. Normalmente contiene la documentación de la misma.
+</p>
+<p>Este texto forma parte de la plantilla.<br/>
+Este texto solo se verá en las páginas que usen la plantilla.
+</p>
+<p>Ten en cuenta que existen muchísimas plantillas para los más diversos temas, y que es muy posible que alguien ya haya creado una plantilla para lo que deseas. Por eso, <i>evita la creación de plantillas redundantes o innecesarias</i>.
+</p>
+<p>A pesar que la política de <a class="mw-redirect" href="/wiki/Wikipedia:CT" title="Wikipedia:CT">convenciones de títulos</a> no está orientada a las plantillas, sí es muy deseable que los títulos que elijas sean en español e intuitivos. Lo mismo pasa con los nombres de los parámetros: prefiere aquellos explicativos en lugar a las abreviaciones, pero también evita que sean demasiado largos, para facilidad de uso.
+</p>
+<p>Recuerda que también se pueden crear redirecciones a plantillas. Usar la redirección es lo mismo que usar la plantilla a la cual redirige, por ejemplo escribir <code>{{<a class="mw-redirect" href="/wiki/Plantilla:Bandera1" title="Plantilla:Bandera1">bandera1</a>}}</code> es lo mismo que escribir <code>{{<a href="/wiki/Plantilla:Bandera" title="Plantilla:Bandera">bandera</a>}}</code>.
+</p>
+<p>Nunca olvides <a class="mw-redirect" href="/wiki/A:CAT" title="A:CAT">categorizar</a> y <a href="/wiki/Plantilla:Documentaci%C3%B3n" title="Plantilla:Documentación">documentar</a> las plantillas, mediante la etiqueta «noinclude» explicada inicialmente.
+</p>
+<p>Las <b><a class="mw-disambig" href="/wiki/Wikipedia:Plantillas_de_mantenimiento" title="Wikipedia:Plantillas de mantenimiento">plantillas de mantenimiento</a></b> son las utilizadas, como su nombre lo indica, para apoyar el <a href="/wiki/Wikipedia:Mantenimiento" title="Wikipedia:Mantenimiento">mantenimiento</a> de los artículos de Wikipedia. Normalmente después de ser colocadas en los artículos se avisa al usuario responsable de la edición que ocasionó el problema o deficiencia con el uso de alguna <a href="/wiki/Wikipedia:Plantillas_de_aviso_a_usuario" title="Wikipedia:Plantillas de aviso a usuario">plantilla de aviso</a> en su página de discusión.
+</p>
+<p>Una <b>ficha</b> (en inglés llamada <i><b>infobox</b></i>) es una plantilla utilizada en <a href="/wiki/Ayuda:Art%C3%ADculo" title="Ayuda:Artículo">artículos</a>, y excepcionalmente en <a class="mw-redirect" href="/wiki/Wikipedia:P%C3%A1ginas_de_usuario" title="Wikipedia:Páginas de usuario">páginas de usuario</a> —véase la <a href="/wiki/Plantilla:Ficha_de_usuario" title="Plantilla:Ficha de usuario">ficha correspondiente</a>— que sirve para resumir y sistematizar por medio de una <a href="/wiki/Ayuda:Tablas" title="Ayuda:Tablas">tabla</a> la información medular presente en cada página que la contiene. Se categorizan en la <a href="/wiki/Categor%C3%ADa:Wikipedia:Fichas" title="Categoría:Wikipedia:Fichas">Categoría:Wikipedia:Fichas</a>, y se basan en la ficha genérica <code>{{<a href="/wiki/Plantilla:Ficha" title="Plantilla:Ficha">Ficha</a>}}</code>. Un ejemplo de ellas es la plantilla <code>{{<a href="/wiki/Plantilla:Ficha_de_v%C3%ADa_de_transporte" title="Plantilla:Ficha de vía de transporte">Ficha de vía de transporte</a>}}</code>.
+</p>
+<p>Existe una <a class="mw-redirect" href="/wiki/Wikipedia:CT" title="Wikipedia:CT">convención de títulos</a> para las fichas, que puede verse <a href="/wiki/Wikipedia:Convenciones_de_t%C3%ADtulos#Plantillas" title="Wikipedia:Convenciones de títulos">aquí</a>.
+</p>
+<p>Una <b>plantilla de navegación</b> es una plantilla diseñada para agrupar artículos de un modo distinto al orden alfabético proporcionado por las categorías, y de forma tal que proporciona información adicional sobre la relación entre dichos artículos.
+</p>
+<p>En otras wikipedias este tipo de plantillas coexiste y muchas veces es redundante con el uso de las categorías. En la Wikipedia en español, sin embargo, debe restringirse su uso a lo especificado en la <a href="/wiki/Wikipedia:Plantillas_de_navegaci%C3%B3n" title="Wikipedia:Plantillas de navegación">política correspondiente</a>.
+</p>
+<p>Las plantillas de navegación específicas se basan en la metaplantilla <code>{{<a href="/wiki/Plantilla:Navegaci%C3%B3n" title="Plantilla:Navegación">Navegación</a>}}</code> y se sitúan en <a href="/wiki/Categor%C3%ADa:Wikipedia:Plantillas_de_navegaci%C3%B3n" title="Categoría:Wikipedia:Plantillas de navegación">Categoría:Wikipedia:Plantillas de navegación</a>. Las plantillas de navegación de propósito general se sitúan en la <a href="/wiki/Categor%C3%ADa:Wikipedia:Plantillas_generales_de_navegaci%C3%B3n" title="Categoría:Wikipedia:Plantillas generales de navegación">Categoría:Wikipedia:Plantillas generales de navegación</a>.
+</p>
+<p>Una <b>etiqueta de usuario</b> (del inglés Userbox) es una <a href="#Pseudoplantillas">pseudoplantilla</a> utilizada exclusivamente en <a class="mw-redirect" href="/wiki/Wikipedia:Espacio_de_nombres_de_usuario" title="Wikipedia:Espacio de nombres de usuario">páginas de usuario</a> y en algunos <a href="/wiki/Wikipedia:Wikiproyectos" title="Wikipedia:Wikiproyectos">wikiproyectos</a>, cuyo <a href="/wiki/Ayuda:Espacio_de_nombres" title="Ayuda:Espacio de nombres">espacio de nombres</a> es <i>Usuario:</i>, y que sirve para mostrar características del usuario que la utiliza. Se categorizan en la <a href="/wiki/Categor%C3%ADa:Wikipedia:Plantillas_de_usuario" title="Categoría:Wikipedia:Plantillas de usuario">Categoría:Wikipedia:Plantillas de usuario</a>, y un ejemplo de ellas es la pseudo-plantilla {{<a class="mw-redirect" href="/wiki/Usuario:Userbox/Astronom%C3%ADa" title="Usuario:Userbox/Astronomía">Usuario:Userbox/Astronomía</a>}}.
+</p>
+<p>Una <b>plantilla</b> es una página especial de Wikipedia, y en el software libre denominado <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> que la misma utiliza, que contiene un fragmento de código diseñado para ser insertado en otras páginas de Wikipedia. Las plantillas utilizan el <a href="/wiki/Ayuda:Espacio_de_nombres" title="Ayuda:Espacio de nombres">espacio de nombres</a> <i>Plantilla</i> y se incluyen en el <a href="/wiki/Wikitexto" title="Wikitexto">wikitexto</a> utilizando un par de <a href="/wiki/Llave_(signo_gr%C3%A1fico)" title="Llave (signo gráfico)">llaves</a> dobles <b><code>{{  }}</code></b>
+</p>
+<p>Antes de crear una <a href="/wiki/Plantilla" title="Plantilla">plantilla</a>, asegúrate de leer y entender esta guía, en particular la sección <a href="#Sugerencias">Sugerencias</a>.
+</p>
+<p>El <i>nombre</i> de una plantilla es el título de la página dentro del espacio de nombres «Plantilla». Como todos los títulos, distingue entre mayúsculas y minúsculas (excepto la primera letra): <tt>Plantilla de ejemplo</tt> y <tt>Plantilla de Ejemplo</tt> son plantillas diferentes, pero <tt>Plantilla de ejemplo</tt> y <tt>plantilla de ejemplo</tt> son la misma plantilla.
+</p>
+<p>Supongamos que se quiere utilizar una plantilla llamada <tt>Plantilla:nombre de plantilla</tt> en una página llamada <tt>Página de ejemplo</tt>. Se puede hacer de dos maneras:
+</p>
+<p>Se escribe <code>{{subst:Nombre de plantilla}}</code> en <tt>Página de ejemplo</tt>, con lo cual el contenido de la plantilla se agrega permanentemente a la <tt>Página de ejemplo</tt>.
+</p>
+<p>La sustitución se realiza una sola vez, al momento de grabar la página. No quedan rastros de que se hubiera usado una plantilla, y el resultado es el mismo que si se hubiera escrito manualmente el texto generado por la plantilla. Cualquier cambio posterior hecho al código de la plantilla no tiene ningún efecto sobre la página. La sustitución se utiliza cuando queremos que el contenido incorporado por la plantilla pueda editarse posteriormente desde la página marcada, o cuando no es conveniente que futuros cambios en la plantilla modifiquen la página (ej.: los avisos por vandalismo en una página de discusión de usuario).
+</p>
+<p>Se escribe <code>{{Nombre de plantilla}}</code> en <tt>Página de ejemplo</tt>. Es la forma más común de usar una plantilla. Cada vez que se carga la página, también se procesa la plantilla, y el resultado se incluye dentro de la primera. 
+</p>
+<p>La transclusión ralentiza un poco la carga de las páginas, pero como se mantiene la dependencia con la plantilla, cualquier cambio o mejora que se haga a esta impactará automáticamente en todas las páginas que la usen (o transcluyan). Además, como el código de la plantilla no se guarda en la página que la utiliza, el código de esta última no se «ensucia», haciéndose más fácil de entender y de editar. También permite encontrar qué páginas utilizan cierta plantilla (usando el enlace "<a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD" title="Especial:LoQueEnlazaAquí">Lo que enlaza aquí</a>" del menú Herramientas).
+</p>
+<p>Excepto algunas situaciones específicas, lo normal es incluir las plantillas por transclusión.
+</p>
+<p>En realidad, cualquier página puede usarse como plantilla, por substitución o transclusión. La sintaxis es la misma, solo que no se puede omitir el <a href="/wiki/Ayuda:Espacio_de_nombres" title="Ayuda:Espacio de nombres">espacio de nombres</a> al usarlas, como se omite el "Plantilla:" en las plantillas normales. El ejemplo por antonomasia de pseudoplantillas son las <a href="#Userboxes">userboxes</a>.
+</p>
+<p>Cuando se desea mencionar y enlazar a una plantilla (por ejemplo, dentro de las páginas de discusión o de ayuda) se utiliza la plantilla <b><code>{{<a href="/wiki/Plantilla:Ep" title="Plantilla:Ep">ep</a>}}</code></b>. Por ejemplo <code>{{ep|Ficha de persona}}</code> muestra <code>{{<a href="/wiki/Plantilla:Ficha_de_persona" title="Plantilla:Ficha de persona">Ficha de persona</a>}}</code>.
+</p>
+<p>Las plantillas aceptan <b>parámetros</b> o <b><a class="mw-redirect" href="/wiki/Argumento_(Ciencias_de_la_computaci%C3%B3n)" title="Argumento (Ciencias de la computación)">argumentos</a></b>, que permiten aumentar sus funcionalidades, adecuándose a las necesidades de cada página que las utiliza. Cada aparición de un parámetro dentro del código de la plantilla se sustituye por el valor que se le haya dado a ese parámetro en el momento de usar la plantilla. Así, el texto generado por una misma plantilla puede variar en función de los valores que toman sus parámetros.
+</p>
+<p>Es conveniente que los parámetros tengan nombre. A diferencia de los nombres de página, "un nombre", "Un nombre" y "Un_nombre" son todos nombres de parámetros distintos.
+</p>
+<p>Supongamos que la <tt>plantilla:Nombre de plantilla</tt> tiene dos parámetros: <code>fecha</code> y <code>clave</code>. Para incluir la plantilla (mediante transclusión) dentro de un artículo, se deberá escribir:
+</p>
+<p>Dentro de la plantilla, se usará <code>{{{fecha}}}</code> y <code>{{{clave}}}</code>. Cada aparición de <code>{{{fecha}}}</code> será sustituida por <code>28 de marzo de 2023</code>, y cada aparición de <code>{{{clave}}}</code> será sustituida por <code>paparulo</code>, al momento de usar la plantilla.
+</p>
+<p><code>{{Ejemplo de plantilla|<b>fecha=28 de marzo de 2023</b>|<b>clave=paparulo</b>}}</code><br/>
+<code>{{Ejemplo de plantilla}}</code>
+</p>
+<p>La fecha es 28 de marzo de 2023 y la contraseña es paparulo.<br/>
+La fecha es {{{fecha}}} y la contraseña es {{{clave}}}
+</p>
+<p>Nótese cómo en la segunda inclusión, al no asignársele valores a los parámetros <i>fecha</i> y <i>clave</i>, los textos <code>{{{fecha}}}</code> y <code>{{{clave}}}</code> no se reemplazaron y quedaron tal cual. Cómo evitarlo se verá en la sección <a href="#Valores_por_defecto">Valores por defecto</a>.
+</p>
+<p>Si se le asigna más de un valor al mismo parámetro, solo la última asignación se tomará en cuenta. Por ejemplo,
+</p>
+<p>es equivalente a
+</p>
+<p>Los espacios en blanco (incluyendo tabulaciones y saltos de línea) que aparecen al principio y al final del valor de un parámetro por nombre, se eliminan; los que están en el interior, se mantienen:
+</p>
+<p><code>Domicilio: {{{domicilio}}}</code>
+</p>
+<p>Domicilio: Basavilbaso 1234
+</p>
+<p>También es posible omitir el nombre de un parámetro, y en ese caso se identifica por su posición. Dentro del código de una plantilla, <code>{{{3}}}</code> hace referencia al tercero de los parámetros sin nombre usados al invocar la plantilla. Es decir, al usar una plantilla de esta forma: 
+</p>
+<p>{{{2}}} será reemplazado por <code>más texto</code> (el segundo de los parámetros sin nombre). 
+</p>
+<p><code>{{Ejemplo de plantilla|<b>28 de marzo de 2023</b>|<b>paparulo</b>}}</code>
+</p>
+<p>La fecha es 28 de marzo de 2023 y la contraseña es paparulo.
+</p>
+<p>Otro ejemplo (incorrecto):
+</p>
+<p><code>{{Muestra ecuación|<b>2x - y = 0</b>}}</code>
+</p>
+<p>La ecuación es {{{1}}}
+</p>
+<p>Note que este ejemplo falla. El problema está en que el texto que estamos pasando como primer parámetro («2x - y = 0») tiene un signo igual. El signo igual se utiliza en la sintaxis de los parámetros nombrados, por lo que el sistema cree que le estamos pasando un parámetro de nombre «2x - y» con valor «0». Hay dos formas de solucionar esto:
+</p>
+<p><code>{{Muestra ecuación|<b>1=2x - y = 0</b>}}<br/>
+{{Muestra ecuación|<b>2x - y {{=}} 0</b>}}</code>
+</p>
+<p>La ecuación es: 2x - y = 0<br/>
+La ecuación es: 2x - y = 0
+</p>
+<p>Este problema suele suceder a menudo cuando se pasan <a class="mw-redirect" href="/wiki/URL" title="URL">URL</a> como parámetros posicionales. Muchas veces, las URL (como <a class="external free" href="https://es.wikipedia.org/w/index.php?title=Ayuda:Plantillas">http://es.wikipedia.org/w/index.php?title=Ayuda:Plantillas</a>) suelen tener signos de igual, y el sistema toma como nombre del parámetro todo lo que esté delante del primero (con la URL de ejemplo, interpretaría que hay un parámetro llamado «<i>http://es.wikipedia.org/w/index.php?title</i>» con valor «<i>Ayuda:Plantillas</i>»). Por eso, siempre es conveniente nombrar el parámetro explícitamente cuando se le quiera pasar una URL a una plantilla.
+</p>
+<p>A diferencia de los parámetros por nombre, los espacios en blanco (incluyendo tabulaciones y saltos de línea) que aparecen al principio y al final del valor de un parámetro posicional sí se preservan, tal como los que están en el interior. Se puede usar la plantilla <code>{{<a href="/wiki/Plantilla:Trim" title="Plantilla:Trim">trim</a>}}</code> para eliminarlos.
+</p>
+<p>Los parámetros nombrados y posicionales se pueden combinar sin problema. El sistema le asignará un número secuencial a cada uno de los parámetros sin nombre, y luego aplicará las reglas de los parámetros nombrados. Por ejemplo,
+</p>
+<p>es equivalente a
+</p>
+<p>que, como el parámetro «2» aparece dos veces, es lo mismo que
+</p>
+<p>Como ya se mencionó, el signo igual '<b>='</b> debe reemplazarse por <code><code>{{<a href="/wiki/Plantilla:%3D" title="Plantilla:=">=</a>}}</code></code> cuando se usa dentro del valor de un parámetro sin nombre.
+</p>
+<p>También, como la barra vertical '<b>|'</b> se usa como separador, para incluirla dentro del valor de un parámetro se la debe reemplazar por <code>{{!}}</code> o bien por <code>&amp;#124;</code>.
+</p>
+<p>Para incluir llaves '<b>{{'</b> o '<b>}}'</b> como valor de un parámetro, se pueden usar las plantillas <code>{{<a href="/wiki/Plantilla:((" title="Plantilla:((">((</a>}}</code> o <code>{{<a href="/wiki/Plantilla:))" title="Plantilla:))">))</a>}}</code>. Para otras sustituciones necesarias, véase la <a href="/wiki/Categor%C3%ADa:Wikipedia:Plantillas_para_evitar_la_evaluaci%C3%B3n_por_MediaWiki" title="Categoría:Wikipedia:Plantillas para evitar la evaluación por MediaWiki">Categoría:Wikipedia:Plantillas para evitar la evaluación por MediaWiki</a>.
+</p>
+<p>La expresión <code>{{{nombre|por defecto}}}</code> es equivalente a <code>{{{nombre}}}</code> excepto cuando no se le ha dado valor al parámetro, en cuyo caso la primera devuelve el texto <code>por defecto</code> mientras que la segunda devuelve <code>{{{nombre}}}</code>.
+</p>
+<p><code>{{Mostrar fecha|fecha=28 de marzo de 2023}}<br/>
+{{Mostrar fecha}}</code>
+</p>
+<p>La fecha es: 28 de marzo de 2023<br/>
+La fecha es: hoy
+</p>
+<p>Como se ve, en la segunda inclusión de la plantilla no se le asignó valor al parámetro <i>fecha</i>, por lo que se incluyó el valor por defecto, <i>hoy</i>.
+</p>
+<p>Las <a href="/wiki/Ayuda:Palabras_m%C3%A1gicas" title="Ayuda:Palabras mágicas">variables</a> que provee MediaWiki <i>parecen</i> ser plantillas pero no lo son: <code>{{PAGENAME}}</code>, <code>{{SITENAME}}</code>, etc. Las <a href="/wiki/Ayuda:Palabras_m%C3%A1gicas" title="Ayuda:Palabras mágicas"><i>parser functions</i></a> también usan una sintaxis parecida: {{#ifexpr: 1 &gt; 0 | sí | no}}, pero tampoco son plantillas.
+</p>
+<p>Tanto las variables como las <i>parser functions</i> pueden aparecer dentro del contenido de una plantilla, o como argumentos.
+</p>
+<p>En general, todo el contenido de la plantilla se muestra al visitar la página de la plantilla, y también, todo su contenido se incluye dentro de las páginas que la usan. Como esas dos situaciones son diferentes, se puede controlar qué partes de la plantilla se aplican a una y otra.
+</p>
+<p>Corresponde al código que <b>no</b> se desea que sea incluido dentro de las páginas que utilicen la plantilla. Son las secciones que están entre las etiquetas <code>&lt;noinclude&gt;</code> y <code>&lt;/noinclude&gt;</code>; puede no existir, puede haber una sola sección, o pueden ser varias. Se utiliza sobre todo para <a class="mw-redirect" href="/wiki/A:CAT" title="A:CAT">categorizar</a> la plantilla, añadirle <a class="mw-redirect" href="/wiki/A:IW" title="A:IW">interwikis</a> y <a href="/wiki/Plantilla:Documentaci%C3%B3n" title="Plantilla:Documentación">documentar</a> su uso. Es el contenido que solo se ve al visitar la página de la plantilla.
+</p>
+<p>Corresponde al código que <b>solo</b> se incluirá en las páginas que utilicen la plantilla (y no al visualizar la página de la propia plantilla). Son las secciones que están dentro de las etiquetas <code>&lt;includeonly&gt;</code> e <code>&lt;/includeonly&gt;</code>; puede no existir, puede haber una sola sección, o pueden ser varias. Se utiliza sobre todo para agregar <a class="mw-redirect" href="/wiki/A:CAT" title="A:CAT">categorías</a> a las páginas marcadas con la plantilla (no para categorizar la plantilla en sí).
+</p>
+<p>Todo el código de la plantilla que esté fuera de esas etiquetas, se incluye siempre.
+</p>
+<p><b>&lt;noinclude&gt;</b>Este texto solo se ve al visualizar la plantilla. Normalmente contiene la documentación de la misma.<b>&lt;/noinclude&gt;</b><br/>
+<b>&lt;includeonly&gt;</b>Este texto solo se verá en las páginas que usen la plantilla.<b>&lt;/includeonly&gt;</b>
+</p>
+<p><code>{{Ejemplo de plantilla}}</code>
+</p>
+<p>Este texto solo se ve al visualizar la plantilla. Normalmente contiene la documentación de la misma.
+</p>
+<p>Este texto forma parte de la plantilla.<br/>
+Este texto solo se verá en las páginas que usen la plantilla.
+</p>
+<p>Ten en cuenta que existen muchísimas plantillas para los más diversos temas, y que es muy posible que alguien ya haya creado una plantilla para lo que deseas. Por eso, <i>evita la creación de plantillas redundantes o innecesarias</i>.
+</p>
+<p>A pesar que la política de <a class="mw-redirect" href="/wiki/Wikipedia:CT" title="Wikipedia:CT">convenciones de títulos</a> no está orientada a las plantillas, sí es muy deseable que los títulos que elijas sean en español e intuitivos. Lo mismo pasa con los nombres de los parámetros: prefiere aquellos explicativos en lugar a las abreviaciones, pero también evita que sean demasiado largos, para facilidad de uso.
+</p>
+<p>Recuerda que también se pueden crear redirecciones a plantillas. Usar la redirección es lo mismo que usar la plantilla a la cual redirige, por ejemplo escribir <code>{{<a class="mw-redirect" href="/wiki/Plantilla:Bandera1" title="Plantilla:Bandera1">bandera1</a>}}</code> es lo mismo que escribir <code>{{<a href="/wiki/Plantilla:Bandera" title="Plantilla:Bandera">bandera</a>}}</code>.
+</p>
+<p>Nunca olvides <a class="mw-redirect" href="/wiki/A:CAT" title="A:CAT">categorizar</a> y <a href="/wiki/Plantilla:Documentaci%C3%B3n" title="Plantilla:Documentación">documentar</a> las plantillas, mediante la etiqueta «noinclude» explicada inicialmente.
+</p>
+<p>Las <b><a class="mw-disambig" href="/wiki/Wikipedia:Plantillas_de_mantenimiento" title="Wikipedia:Plantillas de mantenimiento">plantillas de mantenimiento</a></b> son las utilizadas, como su nombre lo indica, para apoyar el <a href="/wiki/Wikipedia:Mantenimiento" title="Wikipedia:Mantenimiento">mantenimiento</a> de los artículos de Wikipedia. Normalmente después de ser colocadas en los artículos se avisa al usuario responsable de la edición que ocasionó el problema o deficiencia con el uso de alguna <a href="/wiki/Wikipedia:Plantillas_de_aviso_a_usuario" title="Wikipedia:Plantillas de aviso a usuario">plantilla de aviso</a> en su página de discusión.
+</p>
+<p>Una <b>ficha</b> (en inglés llamada <i><b>infobox</b></i>) es una plantilla utilizada en <a href="/wiki/Ayuda:Art%C3%ADculo" title="Ayuda:Artículo">artículos</a>, y excepcionalmente en <a class="mw-redirect" href="/wiki/Wikipedia:P%C3%A1ginas_de_usuario" title="Wikipedia:Páginas de usuario">páginas de usuario</a> —véase la <a href="/wiki/Plantilla:Ficha_de_usuario" title="Plantilla:Ficha de usuario">ficha correspondiente</a>— que sirve para resumir y sistematizar por medio de una <a href="/wiki/Ayuda:Tablas" title="Ayuda:Tablas">tabla</a> la información medular presente en cada página que la contiene. Se categorizan en la <a href="/wiki/Categor%C3%ADa:Wikipedia:Fichas" title="Categoría:Wikipedia:Fichas">Categoría:Wikipedia:Fichas</a>, y se basan en la ficha genérica <code>{{<a href="/wiki/Plantilla:Ficha" title="Plantilla:Ficha">Ficha</a>}}</code>. Un ejemplo de ellas es la plantilla <code>{{<a href="/wiki/Plantilla:Ficha_de_v%C3%ADa_de_transporte" title="Plantilla:Ficha de vía de transporte">Ficha de vía de transporte</a>}}</code>.
+</p>
+<p>Existe una <a class="mw-redirect" href="/wiki/Wikipedia:CT" title="Wikipedia:CT">convención de títulos</a> para las fichas, que puede verse <a href="/wiki/Wikipedia:Convenciones_de_t%C3%ADtulos#Plantillas" title="Wikipedia:Convenciones de títulos">aquí</a>.
+</p>
+<p>Una <b>plantilla de navegación</b> es una plantilla diseñada para agrupar artículos de un modo distinto al orden alfabético proporcionado por las categorías, y de forma tal que proporciona información adicional sobre la relación entre dichos artículos.
+</p>
+<p>En otras wikipedias este tipo de plantillas coexiste y muchas veces es redundante con el uso de las categorías. En la Wikipedia en español, sin embargo, debe restringirse su uso a lo especificado en la <a href="/wiki/Wikipedia:Plantillas_de_navegaci%C3%B3n" title="Wikipedia:Plantillas de navegación">política correspondiente</a>.
+</p>
+<p>Las plantillas de navegación específicas se basan en la metaplantilla <code>{{<a href="/wiki/Plantilla:Navegaci%C3%B3n" title="Plantilla:Navegación">Navegación</a>}}</code> y se sitúan en <a href="/wiki/Categor%C3%ADa:Wikipedia:Plantillas_de_navegaci%C3%B3n" title="Categoría:Wikipedia:Plantillas de navegación">Categoría:Wikipedia:Plantillas de navegación</a>. Las plantillas de navegación de propósito general se sitúan en la <a href="/wiki/Categor%C3%ADa:Wikipedia:Plantillas_generales_de_navegaci%C3%B3n" title="Categoría:Wikipedia:Plantillas generales de navegación">Categoría:Wikipedia:Plantillas generales de navegación</a>.
+</p>
+<p>Una <b>etiqueta de usuario</b> (del inglés Userbox) es una <a href="#Pseudoplantillas">pseudoplantilla</a> utilizada exclusivamente en <a class="mw-redirect" href="/wiki/Wikipedia:Espacio_de_nombres_de_usuario" title="Wikipedia:Espacio de nombres de usuario">páginas de usuario</a> y en algunos <a href="/wiki/Wikipedia:Wikiproyectos" title="Wikipedia:Wikiproyectos">wikiproyectos</a>, cuyo <a href="/wiki/Ayuda:Espacio_de_nombres" title="Ayuda:Espacio de nombres">espacio de nombres</a> es <i>Usuario:</i>, y que sirve para mostrar características del usuario que la utiliza. Se categorizan en la <a href="/wiki/Categor%C3%ADa:Wikipedia:Plantillas_de_usuario" title="Categoría:Wikipedia:Plantillas de usuario">Categoría:Wikipedia:Plantillas de usuario</a>, y un ejemplo de ellas es la pseudo-plantilla {{<a class="mw-redirect" href="/wiki/Usuario:Userbox/Astronom%C3%ADa" title="Usuario:Userbox/Astronomía">Usuario:Userbox/Astronomía</a>}}.
+</p>

@@ -1,0 +1,40 @@
+<p>Un <b>cuadrado</b> en <a href="/wiki/Geometr%C3%ADa_del_espacio" title="Geometría del espacio">geometría</a> es un <a href="/wiki/Cuadril%C3%A1tero" title="Cuadrilátero">cuadrilátero</a> regular, es decir, una <a class="mw-redirect" href="/wiki/Figura_plana" title="Figura plana">figura plana</a> de cuatro lados congruentes y paralelos dos a dos, y cuatro ángulos interiores rectos (90°), por lo que también cumple con la definición de <a href="/wiki/Rect%C3%A1ngulo" title="Rectángulo">rectángulo</a> y <a href="/wiki/Paralelogramo" title="Paralelogramo">paralelogramo</a><sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Un cuadrado es una figura geométrica plana que consiste en cuatro puntos unidos por segmentos de igual medida, que encierran una región del plano, formando ángulos rectos
+</p>
+<p>Por ser cuadrilátero, hereda las siguientes propiedades:
+</p>
+<p>A partir de la definición euclidiana reducida y aplicando deducción se pueden demostrar las siguientes propiedades del cuadrado:
+</p>
+<p>Fórmulas en función del lado <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+</semantics>
+</math></span><img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/></span> del cuadrado:
+</p>
+<p>Fórmulas en función de la diagonal <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle d}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+</semantics>
+</math></span><img alt="d" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e85ff03cbe0c7341af6b982e47e9f90d235c66ab" style="vertical-align: -0.338ex; width:1.216ex; height:2.176ex;"/></span> del cuadrado:
+</p>
+<p>Según <a href="/wiki/S%C3%ADmbolo_de_Schl%C3%A4fli" title="Símbolo de Schläfli">Símbolo de Schläfli</a> se pueden obtener:
+</p>
+<p>En <a href="/wiki/Geometr%C3%ADa_no_euclidiana" title="Geometría no euclidiana">geometría no euclidiana</a>, los cuadrados son más generalmente <a href="/wiki/Pol%C3%ADgono" title="Polígono">polígonos</a> con 4 lados iguales y ángulos iguales.
+</p>
+<p>En <a href="/wiki/Geometr%C3%ADa_esf%C3%A9rica" title="Geometría esférica">geometría esférica</a>, un cuadrado es un polígono cuyos bordes son grandes <a class="new" href="/w/index.php?title=Arcos_de_c%C3%ADrculo&amp;action=edit&amp;redlink=1" title="Arcos de círculo (aún no redactado)">arcos de círculo</a> de igual distancia, que se encuentran en ángulos iguales. A diferencia del cuadrado de la <a class="mw-redirect" href="/wiki/Geometr%C3%ADa_plana" title="Geometría plana">geometría plana</a>, los <a href="/wiki/%C3%81ngulo" title="Ángulo">ángulos</a> de dicho cuadrado son mayores que un ángulo recto. Los cuadrados esféricos más grandes tienen ángulos más grandes.
+</p>
+<p>En <a href="/wiki/Geometr%C3%ADa_hiperb%C3%B3lica" title="Geometría hiperbólica">geometría hiperbólica</a> no existen cuadrados con ángulos rectos. Más bien, los cuadrados en geometría hiperbólica tienen ángulos menores que los ángulos rectos. Los cuadrados hiperbólicos más grandes tienen ángulos más pequeños.
+</p>
+<p><b>Ejemplos:</b>
+</p>

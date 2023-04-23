@@ -1,0 +1,78 @@
+<p>establece el final de la lista.
+Por supuesto, 
+</p>
+<p>Podemos romper la lista y recomenzarla 
+</p>
+<p>ó
+</p>
+<p><i>En esta y en la próxima sección, las listas numeradas se usarán como ejemplos; las listas no numeradas darán el resultado correspondiente. La única diferencia es el posible problema de que una lista numerada recomience con el número 1 si se ve interrumpida por una línea que no es elemento de la misma.</i>
+</p>
+<p>Un elemento de una lista no puede ser más largo que un párrafo, a menos que se utilicen las etiquetas <a href="/wiki/HTML" title="HTML">HTML</a> <code>&lt;br/&gt; &lt;br/&gt;</code> (de salto de línea) o las etiquetas <code>&lt;p&gt; ... &lt;/p&gt;</code> (de párrafo) dentro del elemento de la lista para añadir espacio. Un párrafo que no comienza con el mismo símbolo, definitorio de listas, que las líneas que lo preceden ("#" para listas numeradas, "*" para listas no numeradas) cerrará la lista. Si la lista es de tipo no numerada, comenzar un nuevo párrafo a continuación con el asterisco ("*") hará recomenzar la lista sin causar mayor percance, pero si la lista es numerada, el próximo párrafo que comience por "#" hará que la lista vuelva a numerarse desde el 1.
+</p>
+<p>Para una lista con elementos que abarcan varios párrafos, es necesario añadir espacios en blanco (sangrías) entre los elementos para evitar esta clase de percances indicados más arriba.
+</p>
+<p>En HTML, un elemento de una lista puede contener varias sublistas, no necesariamente adyacentes; por esto puede ocurrir que haya partes de cierto elemento que no solo estén antes de la primera sublista, si no incluso entre sublistas, y después de la última. Sin embargo, con la <a href="/wiki/Sintaxis" title="Sintaxis">sintaxis</a> wiki, las sublistas siguen las mismas reglas que las secciones de una página: la única parte posible del elemento de una lista que no esté en las sublistas está antes de la primera sublista, es decir, no se puede entremezclar el contenido de un elemento con sus propias sublistas, todo debe ir escalonado.
+</p>
+<p>El caso de una lista no numerada de primer nivel utilizando código wiki, esta limitación puede superarse si dividimos la lista en múltiples listas; la sangría del texto entre listas parciales puede servir visualmente como parte de un elemento de una lista después de una sublista; sin embargo, esto depende del uso de <a class="mw-redirect" href="/wiki/Hojas_de_estilo_en_cascada" title="Hojas de estilo en cascada">CSS</a>, una línea en blanco antes y después de cada lista, en cuyo caso, por uniformidad, cada elemento de primer nivel puede representarse como una lista separada.
+</p>
+<p>Las listas numeradas ilustran que lo que podría parecerse como una lista puede, para el <a href="/wiki/Software" title="Software">software</a>, consistir en múltipes listas; las listas no numeradas proporcionan el resultado correspondiente, exceptuando el problema existente al recomenzar listas numeradas el cual no es aplicable. Veamoslo en la siguiente tabla de confrontación:
+</p>
+<p>Continuamos con el elemento A1
+</p>
+<p>Nótese que utilizando las etiquetas HTML, al retomar el elemento A1, el nuevo texto, en este caso <b>Continuamos con el elemento A1</b>, se sitúa en línea vértical con el elemento al que pertenece, éste es <b>Elemento de lista A1</b>. Por el contrario, usando código wiki, conseguimos no romper la numeración, pero el elemento <b>Continuando a A1</b> (que pertenece a <b>Elemento A1</b>) está alineado verticalmente con el <b>2</b>. Eso se debe a la utilización de <b>:</b> para poder escribir en el mismo nivel del elemento, lo cual permite escribir sin romper la secuencia, pero establece un espacio de sangría adicional.
+</p>
+<p>En un nivel más profundo, con un elemento de sublista después de una sublista de otra sublista, se consiguen incluso más espacios en blanco; sin embargo, la continuación de la lista de primer nivel no se ve afectada:
+</p>
+<p><b>Véase también:</b> <a class="extiw" href="https://meta.wikimedia.org/wiki/Template:List_demo" title="m:Template:List demo">m:Template:List_demo</a> y <a class="new" href="/w/index.php?title=Ayuda:Secciones&amp;action=edit&amp;redlink=1" title="Ayuda:Secciones (aún no redactado)">subdivisiones</a>.
+</p>
+<p>En una lista numerada que utilice una <a class="mw-redirect" href="/wiki/Fuente_tipogr%C3%A1fica" title="Fuente tipográfica">fuente</a> grande, puede provocar que algunos <a href="/wiki/Navegador_web" title="Navegador web">navegadores</a> no muestren más de dos dígitos, a menos que se aplique una sangría extra (si existen múltiples columnas, se deberá aplicar por cada una de ellas). Ejemplo:
+</p>
+<p>Esto no funciona directamente para listas ordenadas en <a href="/wiki/XHTML" title="XHTML">XHTML</a> (&lt;ol&gt;) en lugar de <b>#</b>, para listas no numeradas (&lt;ul&gt;), el símbolo <b>*</b> es más flexible.
+</p>
+<p>Resultado:
+</p>
+<p>Especificar un valor de comienzo es útil para las listas numeradas con múltiples columnas, para evitar que se reinicie su valor en 1 para cada columna. Esto solo es posible usando etiquetas HTML (para la primera columna se puede usar indistintamente wikicódigo o HTML).
+</p>
+<p>Veamos un ejemplo en combinación con la sangría extra explicada en la sección anterior:
+</p>
+<p>Sin embargo, esto perturba la numeración de las secciones dentro y después de la lista; el elemento "secciones" producido por la etiqueta HTML &lt;H3&gt; tiene un enlace para su edición (siempre que esté disponible) y enlaza correctamente con las secciones numeradas, pero la aplicación de "sección = <i>n</i> " está basada en las secciones definadas por los símbolos <i>igual</i> (=) exclusivamente.
+</p>
+<p>establece el final de la lista.
+Por supuesto, 
+</p>
+<p>Podemos romper la lista y recomenzarla 
+</p>
+<p>ó
+</p>
+<p><i>En esta y en la próxima sección, las listas numeradas se usarán como ejemplos; las listas no numeradas darán el resultado correspondiente. La única diferencia es el posible problema de que una lista numerada recomience con el número 1 si se ve interrumpida por una línea que no es elemento de la misma.</i>
+</p>
+<p>Un elemento de una lista no puede ser más largo que un párrafo, a menos que se utilicen las etiquetas <a href="/wiki/HTML" title="HTML">HTML</a> <code>&lt;br/&gt; &lt;br/&gt;</code> (de salto de línea) o las etiquetas <code>&lt;p&gt; ... &lt;/p&gt;</code> (de párrafo) dentro del elemento de la lista para añadir espacio. Un párrafo que no comienza con el mismo símbolo, definitorio de listas, que las líneas que lo preceden ("#" para listas numeradas, "*" para listas no numeradas) cerrará la lista. Si la lista es de tipo no numerada, comenzar un nuevo párrafo a continuación con el asterisco ("*") hará recomenzar la lista sin causar mayor percance, pero si la lista es numerada, el próximo párrafo que comience por "#" hará que la lista vuelva a numerarse desde el 1.
+</p>
+<p>Para una lista con elementos que abarcan varios párrafos, es necesario añadir espacios en blanco (sangrías) entre los elementos para evitar esta clase de percances indicados más arriba.
+</p>
+<p>En HTML, un elemento de una lista puede contener varias sublistas, no necesariamente adyacentes; por esto puede ocurrir que haya partes de cierto elemento que no solo estén antes de la primera sublista, si no incluso entre sublistas, y después de la última. Sin embargo, con la <a href="/wiki/Sintaxis" title="Sintaxis">sintaxis</a> wiki, las sublistas siguen las mismas reglas que las secciones de una página: la única parte posible del elemento de una lista que no esté en las sublistas está antes de la primera sublista, es decir, no se puede entremezclar el contenido de un elemento con sus propias sublistas, todo debe ir escalonado.
+</p>
+<p>El caso de una lista no numerada de primer nivel utilizando código wiki, esta limitación puede superarse si dividimos la lista en múltiples listas; la sangría del texto entre listas parciales puede servir visualmente como parte de un elemento de una lista después de una sublista; sin embargo, esto depende del uso de <a class="mw-redirect" href="/wiki/Hojas_de_estilo_en_cascada" title="Hojas de estilo en cascada">CSS</a>, una línea en blanco antes y después de cada lista, en cuyo caso, por uniformidad, cada elemento de primer nivel puede representarse como una lista separada.
+</p>
+<p>Las listas numeradas ilustran que lo que podría parecerse como una lista puede, para el <a href="/wiki/Software" title="Software">software</a>, consistir en múltipes listas; las listas no numeradas proporcionan el resultado correspondiente, exceptuando el problema existente al recomenzar listas numeradas el cual no es aplicable. Veamoslo en la siguiente tabla de confrontación:
+</p>
+<p>Continuamos con el elemento A1
+</p>
+<p>Nótese que utilizando las etiquetas HTML, al retomar el elemento A1, el nuevo texto, en este caso <b>Continuamos con el elemento A1</b>, se sitúa en línea vértical con el elemento al que pertenece, éste es <b>Elemento de lista A1</b>. Por el contrario, usando código wiki, conseguimos no romper la numeración, pero el elemento <b>Continuando a A1</b> (que pertenece a <b>Elemento A1</b>) está alineado verticalmente con el <b>2</b>. Eso se debe a la utilización de <b>:</b> para poder escribir en el mismo nivel del elemento, lo cual permite escribir sin romper la secuencia, pero establece un espacio de sangría adicional.
+</p>
+<p>En un nivel más profundo, con un elemento de sublista después de una sublista de otra sublista, se consiguen incluso más espacios en blanco; sin embargo, la continuación de la lista de primer nivel no se ve afectada:
+</p>
+<p><b>Véase también:</b> <a class="extiw" href="https://meta.wikimedia.org/wiki/Template:List_demo" title="m:Template:List demo">m:Template:List_demo</a> y <a class="new" href="/w/index.php?title=Ayuda:Secciones&amp;action=edit&amp;redlink=1" title="Ayuda:Secciones (aún no redactado)">subdivisiones</a>.
+</p>
+<p>En una lista numerada que utilice una <a class="mw-redirect" href="/wiki/Fuente_tipogr%C3%A1fica" title="Fuente tipográfica">fuente</a> grande, puede provocar que algunos <a href="/wiki/Navegador_web" title="Navegador web">navegadores</a> no muestren más de dos dígitos, a menos que se aplique una sangría extra (si existen múltiples columnas, se deberá aplicar por cada una de ellas). Ejemplo:
+</p>
+<p>Esto no funciona directamente para listas ordenadas en <a href="/wiki/XHTML" title="XHTML">XHTML</a> (&lt;ol&gt;) en lugar de <b>#</b>, para listas no numeradas (&lt;ul&gt;), el símbolo <b>*</b> es más flexible.
+</p>
+<p>Resultado:
+</p>
+<p>Especificar un valor de comienzo es útil para las listas numeradas con múltiples columnas, para evitar que se reinicie su valor en 1 para cada columna. Esto solo es posible usando etiquetas HTML (para la primera columna se puede usar indistintamente wikicódigo o HTML).
+</p>
+<p>Veamos un ejemplo en combinación con la sangría extra explicada en la sección anterior:
+</p>
+<p>Sin embargo, esto perturba la numeración de las secciones dentro y después de la lista; el elemento "secciones" producido por la etiqueta HTML &lt;H3&gt; tiene un enlace para su edición (siempre que esté disponible) y enlaza correctamente con las secciones numeradas, pero la aplicación de "sección = <i>n</i> " está basada en las secciones definadas por los símbolos <i>igual</i> (=) exclusivamente.
+</p>

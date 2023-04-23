@@ -1,0 +1,1040 @@
+<p>Una <b>ecuación</b> es una <a href="/wiki/Igualdad_matem%C3%A1tica" title="Igualdad matemática">igualdad matemática</a> entre dos <a class="mw-redirect" href="/wiki/Expresi%C3%B3n_matem%C3%A1tica" title="Expresión matemática">expresiones</a>, denominadas <i>miembros</i> y separadas por el <a href="/wiki/Signo_igual" title="Signo igual">signo igual</a>, en las que aparecen elementos conocidos y <i><a href="/wiki/Dato" title="Dato">datos</a></i> desconocidos o <i><a href="/wiki/Inc%C3%B3gnita" title="Incógnita">incógnitas</a></i>, relacionados mediante <a class="mw-redirect" href="/wiki/Operaci%C3%B3n_matem%C3%A1tica" title="Operación matemática">operaciones matemáticas</a>. Los valores conocidos pueden ser <a href="/wiki/N%C3%BAmero" title="Número">números</a>, <a class="mw-redirect" href="/wiki/Coeficiente_matem%C3%A1tico" title="Coeficiente matemático">coeficientes</a> o <a class="mw-redirect" href="/wiki/Constante_(matem%C3%A1ticas)" title="Constante (matemáticas)">constantes</a>, también <a class="mw-redirect" href="/wiki/Variable_(matem%C3%A1ticas)" title="Variable (matemáticas)">variables</a> o incluso objetos complejos como funciones o vectores; los elementos desconocidos pueden ser establecidos mediante otras ecuaciones de un <i><a class="mw-redirect" href="/wiki/Sistema_de_ecuaciones" title="Sistema de ecuaciones">sistema</a></i> o algún otro procedimiento de resolución de ecuaciones.<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>nota 1<span class="corchete-llamada">]</span></a></sup>​ 
+Las incógnitas, representadas generalmente por letras, constituyen los valores que se pretende hallar (en ecuaciones complejas en lugar de valores numéricos podría tratarse de elementos de un cierto conjunto abstracto, como sucede en las <a href="/wiki/Ecuaci%C3%B3n_diferencial" title="Ecuación diferencial">ecuaciones diferenciales</a>). Por ejemplo, en la <a href="/wiki/Ecuaci%C3%B3n_algebraica" title="Ecuación algebraica">ecuación algebraica</a> siguiente:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \overbrace {3x-1} ^{\text{primer miembro}}=\overbrace {9+x} ^{\text{segundo miembro}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<mover>
+<mrow>
+<mn>3</mn>
+<mi>x</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+<mo>⏞<!-- ⏞ --></mo>
+</mover>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>primer miembro</mtext>
+</mrow>
+</mover>
+<mo>=</mo>
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<mover>
+<mrow>
+<mn>9</mn>
+<mo>+</mo>
+<mi>x</mi>
+</mrow>
+<mo>⏞<!-- ⏞ --></mo>
+</mover>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>segundo miembro</mtext>
+</mrow>
+</mover>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \overbrace {3x-1} ^{\text{primer miembro}}=\overbrace {9+x} ^{\text{segundo miembro}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \overbrace {3x-1} ^{\text{primer miembro}}=\overbrace {9+x} ^{\text{segundo miembro}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3e93ebacc663460db63595bf70be7d093bcd9311" style="vertical-align: -0.505ex; width:27.394ex; height:5.843ex;"/></span>
+</p>
+<p>la variable <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+</semantics>
+</math></span><img alt="x" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;"/></span> representa la incógnita, mientras que el coeficiente 3 y los números 1 y 9 son constantes conocidas. La igualdad planteada por una ecuación será cierta o falsa dependiendo de los valores numéricos que tomen las incógnitas; se puede afirmar entonces que una ecuación es una <i>igualdad condicional</i>, en la que solo ciertos valores de las variables (incógnitas) la hacen cierta.
+</p>
+<p>Se llama <i>solución</i> de una ecuación a cualquier valor individual de dichas variables que la satisface. Para el caso dado, la solución es:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x=5}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mo>=</mo>
+<mn>5</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x=5}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x=5}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e0f8441cf157c3f0ed6b88edd716956517c9d66c" style="vertical-align: -0.338ex; width:5.591ex; height:2.176ex;"/></span>
+</p>
+<p>En el caso de que todo valor posible de la incógnita haga cumplir la igualdad, la expresión se llama <a class="mw-redirect" href="/wiki/Identidad_(%C3%A1lgebra)" title="Identidad (álgebra)">identidad</a>. Si en lugar de una igualdad se trata de una desigualdad entre dos expresiones matemáticas, se denominará <a href="/wiki/Inecuaci%C3%B3n" title="Inecuación">inecuación</a>.
+</p>
+<p>El símbolo «=», que aparece en cada ecuación, fue inventado en 1557 por <a href="/wiki/Robert_Recorde" title="Robert Recorde">Robert Recorde</a>, quien consideró que no había nada más igual que dos líneas rectas paralelas de la misma longitud.<sup class="reference separada" id="cite_ref-recorde_1-1"><a href="#cite_note-recorde-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Una ecuación se escribe como dos <a href="/wiki/F%C3%B3rmula_(expresi%C3%B3n)" title="Fórmula (expresión)">expresiones</a>, conectadas por un <a href="/wiki/Signo_igual" title="Signo igual">signo igual</a> ("=").<sup class="reference separada" id="cite_ref-:0_3-0"><a href="#cite_note-:0-3"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-:1_4-0"><a href="#cite_note-:1-4"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ Las expresiones en los dos lados del signo igual se denominan "lado izquierdo" y "lado derecho" de la ecuación. Muy a menudo se supone que el lado derecho de una ecuación es cero. Suponiendo que esto no reduce la generalidad, ya que esto se puede realizar restando el lado derecho de ambos lados.
+</p>
+<p>El tipo más común de ecuación es una ecuación polinomial (comúnmente llamada también ecuación algebraica ) en la que los dos lados son polinomios. Los lados de una ecuación polinomial contienen uno o más términos . Por ejemplo, la ecuación
+</p>
+<p>tiene el lado izquierdo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Ax^{2}+Bx+C-y}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>B</mi>
+<mi>x</mi>
+<mo>+</mo>
+<mi>C</mi>
+<mo>−<!-- − --></mo>
+<mi>y</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Ax^{2}+Bx+C-y}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Ax^{2}+Bx+C-y}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dba4508f349e30d6fe1032237df53d03b7d5953e" style="vertical-align: -0.671ex; width:18.664ex; height:3.009ex;"/></span>, que tiene cuatro términos, y el lado derecho <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 0}</annotation>
+</semantics>
+</math></span><img alt=" 0 " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2aae8864a3c1fec9585261791a809ddec1489950" style="vertical-align: -0.338ex; width:1.162ex; height:2.176ex;"/></span>, que consta de un solo término. Los nombres de las <a class="mw-redirect" href="/wiki/Variable_(matem%C3%A1ticas)" title="Variable (matemáticas)">variables</a> sugieren que <span class="texhtml"><i>x</i></span> ∧ <span class="texhtml"><i>y</i></span> son incógnitas, y que <span class="texhtml"><i>A</i></span>, <span class="texhtml"><i>B</i></span>, y <span class="texhtml"><i>C</i></span> son <a class="mw-redirect" href="/wiki/Par%C3%A1metros" title="Parámetros">parámetros</a>, pero esto es normalmente fijado por el contexto (en algunos contextos, <span class="texhtml mvar" style="font-style:italic;">y</span> puede ser un parámetro, o <span class="texhtml"><i>A</i></span>, <span class="texhtml"><i>B</i></span>, y <span class="texhtml"><i>C</i></span> pueden ser variables ordinarias).
+</p>
+<p>Una ecuación es análoga a una balanza en la que se colocan pesos. Cuando se colocan pesos iguales de algo (por ejemplo, grano) en los dos platillos, los dos pesos hacen que la balanza esté en equilibrio y se dice que son iguales. Si se retira una cantidad de grano de uno de los platillos de la balanza, debe retirarse una cantidad igual de grano del otro platillo para que la balanza siga en equilibrio. Más generalmente, una ecuación permanece en equilibrio si se realiza la misma operación en sus dos lados.
+</p>
+<p>En <a class="mw-redirect" href="/wiki/Geometr%C3%ADa_cartesiana" title="Geometría cartesiana">geometría cartesiana</a> las ecuaciones se utilizan para describir <a class="mw-redirect" href="/wiki/Figuras_geom%C3%A9tricas" title="Figuras geométricas">figuras geométricas</a>. Puesto que las ecuaciones que se plantean, como las <a href="/wiki/Funci%C3%B3n_impl%C3%ADcita" title="Función implícita">ecuaciones implícitas</a> o las <a href="/wiki/Ecuaci%C3%B3n_param%C3%A9trica" title="Ecuación paramétrica">ecuaciones paramétricas</a>, tienen infinitas soluciones, el objetivo es ahora diferente: en lugar de dar las soluciones explícitamente o contarlas, lo que es imposible, se utilizan las ecuaciones para estudiar las propiedades de las figuras. Esta es la idea de partida de la <a href="/wiki/Geometr%C3%ADa_algebraica" title="Geometría algebraica">geometría algebraica</a>, una importante área de las matemáticas.
+</p>
+<p>El <a href="/wiki/%C3%81lgebra" title="Álgebra">Álgebra</a> estudia dos grandes familias de ecuaciones: <a href="/wiki/Ecuaci%C3%B3n_algebraica" title="Ecuación algebraica">ecuaciones polinómicas</a> y, entre ellas, el caso especial de las <a class="mw-redirect" href="/wiki/Ecuaciones_lineales" title="Ecuaciones lineales">ecuaciones lineales</a>. Cuando hay una sola variable, las ecuaciones polinómicas tienen la forma <i>P</i>(<i>x</i>) = 0, donde <i>P</i> es un <a href="/wiki/Polinomio" title="Polinomio">polinomio</a>, y las ecuaciones lineales tienen la forma <i>ax</i> + <i>b</i> = 0, donde <i>a</i> y <i>b</i> son <a href="/wiki/Par%C3%A1metro#Funciones_matemáticas" title="Parámetro">parámetros</a>. Para resolver ecuaciones de cualquiera de las dos familias, se utilizan técnicas algorítmicas o geométricas que provienen del <a href="/wiki/%C3%81lgebra_lineal" title="Álgebra lineal">álgebra lineal</a> o del <a href="/wiki/An%C3%A1lisis_matem%C3%A1tico" title="Análisis matemático">análisis matemático</a>. El álgebra también estudia las <a href="/wiki/Ecuaci%C3%B3n_diof%C3%A1ntica" title="Ecuación diofántica">ecuaciones diofantinas</a> en las que los coeficientes y las soluciones son números <a class="mw-redirect" href="/wiki/Enteros" title="Enteros">enteros</a>. Las técnicas utilizadas son diferentes y provienen de la <a class="mw-redirect" href="/wiki/Teor%C3%ADa_de_los_n%C3%BAmeros" title="Teoría de los números">teoría de números</a>. Estas ecuaciones son difíciles en general; a menudo se busca sólo encontrar la existencia o ausencia de una solución y, si existe una o varias, hallar el número de soluciones.
+</p>
+<p>Las <a class="mw-redirect" href="/wiki/Ecuaciones_diferenciales" title="Ecuaciones diferenciales">ecuaciones diferenciales</a> son ecuaciones que involucran una o más funciones y sus derivadas. Se <i>resuelven</i> encontrando una expresión para la función que no implique derivadas. Las ecuaciones diferenciales se utilizan para modelar procesos que implican las tasas de cambio de la variable,y se utilizan en áreas como la física, la química, la biología y la economía.
+</p>
+<p>Cada lado de la ecuación corresponde a un lado de una balanza. En cada lado se pueden colocar cantidades diferentes: si los pesos de los dos lados son iguales, la balanza se equilibra, y por analogía, la igualdad que representa la balanza también se equilibra (si no, la falta de equilibrio corresponde a una <a href="/wiki/Desigualdad_matem%C3%A1tica" title="Desigualdad matemática">desigualdad</a> representada por una <a href="/wiki/Inecuaci%C3%B3n" title="Inecuación">inecuación</a>).
+</p>
+<p>En la ilustración, <i>x</i>, <i>y</i> y <i>z</i> son cantidades diferentes (en este caso <a class="mw-redirect" href="/wiki/N%C3%BAmeros_reales" title="Números reales">números reales</a>) representadas como pesos circulares, y cada una de <i>x</i>, <i>y</i> y <i>z</i> tiene un peso diferente. La suma corresponde a añadir peso, mientras que la resta corresponde a quitar peso del que ya hay. Cuando la igualdad se mantiene, el peso total de cada lado es el mismo.
+</p>
+<p>Las ecuaciones a menudo contienen términos distintos de las incógnitas. Estos otros términos, que se suponen <i>conocidos</i>, suelen llamarse <i>constantes</i>, <i>coeficientes</i> o <i>parámetros</i>.
+</p>
+<p>Un ejemplo de una ecuación que implica <i>x</i> e <i>y</i> como incógnitas y el parámetro <i>R</i> es
+</p>
+<p>Cuando se elige que <i>R</i> tenga el valor de 2 (<i>R</i> = 2), esta ecuación se reconocería en <a href="/wiki/Coordenadas_cartesianas" title="Coordenadas cartesianas">coordenadas cartesianas</a> como la ecuación del círculo de radio 2 alrededor del origen. Por lo tanto, la ecuación con <i>R</i> sin especificar es la ecuación general del círculo.
+</p>
+<p>Normalmente, las incógnitas se denotan con letras del final del alfabeto, <i>x</i>, <i>y</i>, <i>z</i>, <i>w</i>, ...,<sup class="reference separada" id="cite_ref-:0_3-1"><a href="#cite_note-:0-3"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ mientras que los coeficientes (parámetros) se denotan con letras del principio, <i>a</i>, <i>b</i>, <i>c</i>, <i>d</i>, ... . Por ejemplo, la <a class="mw-redirect" href="/wiki/Ecuaci%C3%B3n_cuadr%C3%A1tica" title="Ecuación cuadrática">ecuación cuadrática</a> general se suele escribir <i>ax</i><sup>2</sup> + <i>bx</i> + <i>c</i> = 0.
+</p>
+<p>El proceso de encontrar las soluciones o, en el caso de los parámetros, de expresar las incógnitas en términos de los parámetros, se llama <a href="/wiki/Resoluci%C3%B3n_de_ecuaciones" title="Resolución de ecuaciones">resolución de la ecuación</a>. Tales expresiones de las soluciones en términos de los parámetros también se llaman <i>soluciones</i>.
+</p>
+<p>Un <a class="mw-redirect" href="/wiki/Sistema_de_ecuaciones" title="Sistema de ecuaciones">sistema de ecuaciones</a> es un conjunto de <i>ecuaciones simultáneas</i>, normalmente en varias incógnitas, para las que se buscan las soluciones comunes. Así, una <i>solución del sistema</i> es un conjunto de valores para cada una de las incógnitas que juntos forman una solución para cada ecuación del sistema. Por ejemplo, el sistema
+</p>
+<p>tiene como única solución <i>x</i> = -1, <i>y</i> = 1.
+</p>
+<p>La ciencia utiliza ecuaciones para enunciar leyes de forma precisa; estas ecuaciones expresan relaciones entre variables. Así, en física, la <a class="mw-redirect" href="/wiki/Segunda_ley_de_Newton" title="Segunda ley de Newton">ecuación de la dinámica de Newton</a> relaciona las variables fuerza <i>F</i>, aceleración <i>a</i> y masa <i>m</i>: <i>F</i> = <i>ma</i>. Los valores que son solución de la ecuación anterior cumplen la primera ley de la mecánica de Newton. Por ejemplo, si se considera una masa <i>m</i> = 1 kg y una aceleración <i>a</i> = 1 m/s^2, la única solución de la ecuación es <i>F</i> = 1 kg·m/s^2 = 1 <a href="/wiki/Newton_(unidad)" title="Newton (unidad)">newton</a>, que es el único valor para la fuerza permitida por esta ley.
+</p>
+<p>Ejemplos:
+</p>
+<p>El campo de aplicación de las ecuaciones es inmenso, y por ello hay una gran cantidad de investigadores dedicados a su estudio.
+</p>
+<p>Según autores como <a href="/wiki/Ian_Stewart_(matem%C3%A1tico)" title="Ian Stewart (matemático)">Ian Stewart</a>, "el poder de las ecuaciones (...) recae en la correspondencia filosóficamente difícil entre las <a href="/wiki/Matem%C3%A1ticas" title="Matemáticas">matemáticas</a> —una creación colectiva de mentes humanas— y una realidad física externa."<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Una <b>identidad</b> es una expresión matemática que es verdadera para todos los valores posibles de la(s) variable(s) que contiene. Se conocen muchas identidades en álgebra y cálculo. En el proceso de resolver una ecuación, una identidad se utiliza a menudo para simplificar una ecuación, haciéndola más fácil de resolver.
+</p>
+<p>En álgebra, un ejemplo de identidad es la <a href="/wiki/Diferencia_de_dos_cuadrados" title="Diferencia de dos cuadrados">diferencia de dos cuadrados</a>:
+</p>
+<p>que es verdadera para todas las <i>x</i> e <i>y</i>.
+</p>
+<p>La <a href="/wiki/Trigonometr%C3%ADa" title="Trigonometría">Trigonometría</a> es un área donde existen muchas identidades; éstas son útiles para manipular o resolver <a class="mw-redirect" href="/wiki/Identidades_y_f%C3%B3rmulas_de_trigonometr%C3%ADa" title="Identidades y fórmulas de trigonometría">ecuaciones trigonométricas</a>. Dos de las muchas que involucran las funciones <a href="/wiki/Seno_(trigonometr%C3%ADa)" title="Seno (trigonometría)">seno</a> y <a href="/wiki/Coseno" title="Coseno">coseno</a> son:
+</p>
+<p>y
+</p>
+<p>que son ambas verdaderas para todos los valores de <i>θ</i>.
+</p>
+<p>Por ejemplo, para resolver el valor de <i>θ</i> que satisface la ecuación:
+</p>
+<p>donde <i>θ</i> se limita a entre 0 y 45 grados, se puede utilizar la identidad anterior para el producto para dar:
+</p>
+<p>dando la siguiente solución para '<i>θ:</i>
+</p>
+<p>Como la función seno es una <a href="/wiki/Funci%C3%B3n_peri%C3%B3dica" title="Función periódica">función periódica</a>, hay infinitas soluciones si no hay restricciones en <i>θ</i>. En este ejemplo, restringir <i>θ</i> para que esté entre 0 y 45 grados restringiría la solución a un solo número.
+</p>
+<p>Ya en el siglo <span style="font-variant:small-caps;text-transform:lowercase">XVI</span> a. C., los <a class="mw-redirect" href="/wiki/Matem%C3%A1ticas_en_el_Antiguo_Egipto" title="Matemáticas en el Antiguo Egipto">egipcios</a> resolvían problemas cotidianos que tenían que ver con la repartición de víveres, de cosechas y de materiales que equivalían a resolver ecuaciones algebraicas simples de primer grado; como la <a href="/wiki/Notaci%C3%B3n_algebraica" title="Notación algebraica">notación algebraica</a> no existía, usaban un método iterativo aproximado, llamado «<a class="mw-redirect" href="/wiki/M%C3%A9todo_de_la_falsa_posici%C3%B3n" title="Método de la falsa posición">método de la falsa posición</a>».
+</p>
+<p>Los matemáticos chinos de principios de nuestra era escribieron el libro <i><a class="mw-redirect" href="/wiki/Los_nueve_cap%C3%ADtulos_sobre_el_arte_matem%C3%A1tico" title="Los nueve capítulos sobre el arte matemático">Los nueve capítulos sobre el arte matemático</a></i>, en el que plantearon diversos métodos para resolver ecuaciones algebraicas de primero y segundo grado, así como sistemas de dos ecuaciones con dos incógnitas.
+</p>
+<p>El matemático griego <a href="/wiki/Diofanto_de_Alejandr%C3%ADa" title="Diofanto de Alejandría">Diofanto de Alejandría</a> publicó su <i><a href="/wiki/Arithmetica" title="Arithmetica">Arithmetica</a></i> en el siglo <span style="font-variant:small-caps;text-transform:lowercase">III</span> tratando las <a href="/wiki/Ecuaci%C3%B3n_de_primer_grado" title="Ecuación de primer grado">ecuaciones de primer</a> y <a href="/wiki/Ecuaci%C3%B3n_de_segundo_grado" title="Ecuación de segundo grado">segundo grado</a>; fue uno de los primeros en utilizar símbolos para representar las ecuaciones. También planteó las ecuaciones con soluciones enteras, llamadas en su honor <a class="mw-redirect" href="/wiki/Ecuaciones_diof%C3%A1nticas" title="Ecuaciones diofánticas">ecuaciones diofánticas</a>.<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En la <a href="/wiki/Edad_Moderna" title="Edad Moderna">Edad Moderna</a>, el estudio de las ecuaciones algebraicas experimenta un gran impulso. En el siglo <span style="font-variant:small-caps;text-transform:lowercase">XV</span> estaban a la orden del día los desafíos matemáticos públicos, con premios al vencedor; así, un desafío famoso enfrentó a dos matemáticos a resolver ecuaciones de tercer grado, el vencedor fue <a href="/wiki/Niccol%C3%B2_Fontana_Tartaglia" title="Niccolò Fontana Tartaglia">Niccolò Fontana Tartaglia</a>, experto <a href="/wiki/Matem%C3%A1tico" title="Matemático">algebrista</a>.
+</p>
+<p>Hacia mediados del siglo <span style="font-variant:small-caps;text-transform:lowercase">XVI</span> los matemáticos italianos <a class="mw-redirect" href="/wiki/Girolamo_Cardano" title="Girolamo Cardano">Girolamo Cardano</a> y <a href="/wiki/Rafael_Bombelli" title="Rafael Bombelli">Rafael Bombelli</a> descubrieron que para poder resolver todas las ecuaciones de segundo, tercero y cuarto grado, el uso de los <a class="mw-redirect" href="/wiki/N%C3%BAmeros_imaginarios" title="Números imaginarios">números imaginarios</a> era indispensable. Cardano, enemigo acérrimo de Tartaglia, también halló métodos de resolución de ecuaciones de cuarto grado.
+</p>
+<p>En el mismo siglo, el matemático francés <a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">René Descartes</a> popularizó la <a href="/wiki/Historia_de_la_notaci%C3%B3n_matem%C3%A1tica" title="Historia de la notación matemática">notación algebraica moderna</a>, en la cual las constantes están representadas por las primeras letras del alfabeto, <span class="texhtml"><i>a</i></span>, <span class="texhtml"><i>b</i></span>, <span class="texhtml"><i>c</i></span>, … y las variables o incógnitas por las últimas, <span class="texhtml"><i>x</i></span>, <span class="texhtml"><i>y</i></span>, <span class="texhtml"><i>z</i></span><i>.</i>
+</p>
+<p>En esta época se enuncian problemas de ecuaciones que solo han sido resueltos actualmente, algunos recientemente; entre ellos el <a href="/wiki/%C3%9Altimo_teorema_de_Fermat" title="Último teorema de Fermat">último teorema de Fermat</a>, uno de los teoremas más famosos de la matemática, que no fue demostrado hasta 1995 por <a href="/wiki/Andrew_Wiles" title="Andrew Wiles">Andrew Wiles</a> y <a href="/wiki/Richard_Lawrence_Taylor" title="Richard Lawrence Taylor">Richard Taylor</a>.
+</p>
+<p>En el siglo <span style="font-variant:small-caps;text-transform:lowercase">XVII</span>, <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> y <a href="/wiki/Gottfried_Leibniz" title="Gottfried Leibniz">Gottfried Leibniz</a> publicaron los primeros métodos de resolución de las <a class="mw-redirect" href="/wiki/Ecuaciones_diferenciales" title="Ecuaciones diferenciales">ecuaciones diferenciales</a> que aparecen en los problemas de la <a href="/wiki/Din%C3%A1mica" title="Dinámica">dinámica</a>. Probablemente el primer libro sobre estas ecuaciones fue <i>Sobre las construcciones de ecuaciones diferenciales de primer grado</i>, de <a class="new" href="/w/index.php?title=Gabriele_Manfredi&amp;action=edit&amp;redlink=1" title="Gabriele Manfredi (aún no redactado)">Gabriele Manfredi</a> (1707). Durante el siglo <span style="font-variant:small-caps;text-transform:lowercase">XVIII</span>, matemáticos ilustres como <a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Leonhard Euler</a>, <a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">Daniel Bernoulli</a>, <a href="/wiki/Joseph-Louis_Lagrange" title="Joseph-Louis Lagrange">Joseph-Louis Lagrange</a> y <a class="mw-redirect" href="/wiki/Pierre_Simon_Laplace" title="Pierre Simon Laplace">Pierre Simon Laplace</a> publicaron resultados sobre <a class="mw-redirect" href="/wiki/Ecuaciones_diferenciales_ordinarias" title="Ecuaciones diferenciales ordinarias">ecuaciones diferenciales ordinarias</a> y <a class="mw-redirect" href="/wiki/Ecuaciones_en_derivadas_parciales" title="Ecuaciones en derivadas parciales">ecuaciones en derivadas parciales</a>.
+</p>
+<p>A pesar de todos los esfuerzos de las épocas anteriores, las ecuaciones algebraicas de quinto grado y superiores se resistieron a ser resueltas; solo se consiguió en casos particulares, pero no se encontraba una solución general. A principios del siglo <span style="font-variant:small-caps;text-transform:lowercase">XIX</span>, <a href="/wiki/Niels_Henrik_Abel" title="Niels Henrik Abel">Niels Henrik Abel</a> demostró que hay ecuaciones no resolubles; en particular, mostró que no existe una fórmula general para resolver la <a href="/wiki/Ecuaci%C3%B3n_de_quinto_grado" title="Ecuación de quinto grado">ecuación de quinto grado</a>; acto seguido <a href="/wiki/%C3%89variste_Galois" title="Évariste Galois">Évariste Galois</a> demostró, utilizando su <a href="/wiki/Teor%C3%ADa_de_grupos" title="Teoría de grupos">teoría de grupos</a>, que lo mismo puede afirmarse de toda ecuación de grado igual o superior a cinco.
+</p>
+<p>Durante el siglo <span style="font-variant:small-caps;text-transform:lowercase">XIX</span>, las ciencias físicas utilizaron, en su formulación, ecuaciones diferenciales en <a class="mw-redirect" href="/wiki/Derivadas_parciales" title="Derivadas parciales">derivadas parciales</a> y/o <a class="mw-redirect" href="/wiki/Ecuaciones_integrales" title="Ecuaciones integrales">ecuaciones integrales</a>, como es el caso de la <a href="/wiki/Electrodin%C3%A1mica" title="Electrodinámica">electrodinámica</a> de <a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">James Clerk Maxwell</a>, la <a href="/wiki/Mec%C3%A1nica_hamiltoniana" title="Mecánica hamiltoniana">mecánica hamiltoniana</a> o la <a href="/wiki/Mec%C3%A1nica_de_fluidos" title="Mecánica de fluidos">mecánica de fluidos</a>. El uso habitual de estas ecuaciones y de los métodos de solución llevó a la creación de una nueva especialidad, la <a href="/wiki/F%C3%ADsica_matem%C3%A1tica" title="Física matemática">física matemática</a>.
+</p>
+<p>Ya en el siglo <span style="font-variant:small-caps;text-transform:lowercase">XX</span>, la física matemática siguió ampliando su campo de acción; <a href="/wiki/Erwin_Schr%C3%B6dinger" title="Erwin Schrödinger">Erwin Schrödinger</a>, <a class="mw-redirect" href="/wiki/Wolfgang_Ernst_Pauli" title="Wolfgang Ernst Pauli">Wolfgang Ernst Pauli</a> y <a href="/wiki/Paul_Dirac" title="Paul Dirac">Paul Dirac</a> formularon ecuaciones diferenciales con funciones complejas para la <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a>. <a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a> utilizó <a href="/wiki/C%C3%A1lculo_tensorial" title="Cálculo tensorial">ecuaciones tensoriales</a> para su <a class="mw-redirect" href="/wiki/Relatividad_General" title="Relatividad General">Relatividad General</a>. Las ecuaciones diferenciales tienen también un amplio campo de aplicación en <a href="/wiki/Teor%C3%ADa_econ%C3%B3mica" title="Teoría económica">teoría económica</a>.
+</p>
+<p>Debido a que la mayoría de ecuaciones que se presentan en la práctica son muy difíciles o incluso imposibles de resolver analíticamente, es habitual utilizar <a class="mw-redirect" href="/wiki/M%C3%A9todos_num%C3%A9ricos" title="Métodos numéricos">métodos numéricos</a> para encontrar raíces aproximadas. El desarrollo de la informática posibilita actualmente resolver en tiempos razonables ecuaciones de miles e incluso millones de variables usando <a class="mw-redirect" href="/wiki/Algoritmo_num%C3%A9rico" title="Algoritmo numérico">algoritmos numéricos</a>.
+</p>
+<p>Dada una función <i>f</i> : <i>A</i> → <i>B</i> y un <i>b</i> en <i>B</i>, es decir, un elemento del <a href="/wiki/Codominio" title="Codominio">codominio</a> de <i>f</i>.
+</p>
+<p><b>La <a href="/wiki/Igualdad_matem%C3%A1tica" title="Igualdad matemática">igualdad</a></b></p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f(x)=b\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>b</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f(x)=b\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle f(x)=b\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/63394efe7364e34b15d6532b927b11f140723dcb" style="vertical-align: -0.838ex; width:8.901ex; height:2.843ex;"/></span> es una <b>ecuación</b>.
+</p>
+<p>Un ejemplo de ecuación es el siguiente, tomando
+</p>
+<p>se tiene la ecuación con variable <a href="/wiki/N%C3%BAmero_natural" title="Número natural">natural</a>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 3x-2=1.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>3</mn>
+<mi>x</mi>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<mo>=</mo>
+<mn>1.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 3x-2=1.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 3x-2=1.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0274878d11fd7d9a51940ee15eada066b3da9d39" style="vertical-align: -0.505ex; width:11.403ex; height:2.343ex;"/></span>
+</p>
+<p>El estudio de las ecuaciones depende de las características de los conjuntos y la aplicación; por ejemplo, en el caso de las ecuaciones diferenciales, los elementos del conjunto <span class="texhtml">A</span> son funciones y la aplicación <span class="texhtml"><i>f</i></span> debe incluir alguna de las derivadas del argumento. En las ecuaciones matriciales, la incógnita es una matriz.
+</p>
+<p>La definición que se ha dado incluye las igualdades de la forma <span class="texhtml"><i>g</i>(<i>x</i>) = <i>h</i>(<i>x</i>)</span>. Si «<span class="texhtml">+</span>» denota la suma de funciones, entonces <span class="texhtml">(B, +)</span> es un <a href="/wiki/Grupo_(matem%C3%A1tica)" title="Grupo (matemática)">grupo</a>. Basta definir la aplicación <span class="texhtml"><i>f</i>(<i>x</i>) = <i>g</i>(<i>x</i>) + ( – <i>h</i>(<i>x</i>) )</span>, con <span class="texhtml">–<i>h</i></span> el inverso de <span class="texhtml"><i>h</i></span> con respecto a la suma, para transformar la igualdad en una ecuación <span class="texhtml"><i>f</i>(<i>x</i>) = 0</span> con <i>b</i> = 0.
+</p>
+<p>Dada la ecuación <span class="texhtml"><i>f</i>(<i>x</i>) = <i>b</i></span>, el conjunto de soluciones de la ecuación viene dado por <span class="texhtml">S = <i>f</i><sup>–1</sup>(<i>b</i>)</span>, donde <span class="texhtml"><i>f</i><sup>–1</sup></span> es la <a href="/wiki/Imagen_inversa" title="Imagen inversa">imagen inversa</a> de <span class="texhtml"><i>f</i></span>. Si <span class="texhtml">S</span> es el conjunto vacío, la ecuación no es soluble; si tiene solo un elemento, la ecuación tendrá solución única; y si <span class="texhtml">S</span> posee más de un elemento, todos ellos serán soluciones de la ecuación.
+</p>
+<p>En la teoría de <a class="mw-redirect" href="/wiki/Ecuaciones_diferenciales" title="Ecuaciones diferenciales">ecuaciones diferenciales</a>, no se trata solo de averiguar la expresión explícita de las soluciones, sino determinar si una ecuación determinada tiene solución y si esta es única. Uno de los métodos más corrientes para probar que existe una solución, consiste en aprovechar que el conjunto <span class="texhtml">A</span> tiene alguna <a href="/wiki/Topolog%C3%ADa" title="Topología">topología</a>. No es el único: en los sistemas de ecuaciones reales, se recurre a técnicas algebraicas para averiguar si estos sistemas tienen solución. No obstante, el álgebra carece de recursos para asegurar la existencia de soluciones en las ecuaciones algebraicas: para asegurar que toda ecuación algebraica con coeficientes complejos tiene una solución, hay que recurrir al análisis complejo<sup class="reference separada" id="cite_ref-8"><a href="#cite_note-8"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​ y, por lo tanto, a la topología.
+</p>
+<p>Otro caso en los que se investiga la existencia y unicidad de soluciones es en los <a class="mw-redirect" href="/wiki/Sistemas_de_ecuaciones_lineales" title="Sistemas de ecuaciones lineales">sistemas de ecuaciones lineales</a>, en donde es posible caracterizar el conjunto solución a través del <a class="mw-redirect" href="/wiki/Teorema_de_Rouch%C3%A9-Frobenius" title="Teorema de Rouché-Frobenius">Teorema de Rouché-Frobenius</a>.
+</p>
+<p>Las ecuaciones suelen clasificarse según el tipo de operaciones necesarias para definir  y según el conjunto de números sobre el que se busca la solución. Entre los tipos más comunes están y precisos son 
+</p>
+<p>Una <a href="/wiki/Ecuaci%C3%B3n_diof%C3%A1ntica" title="Ecuación diofántica">ecuación diofántica</a> es aquella cuya solución solo puede ser un número entero, es decir, en este caso <span class="texhtml">A ⊆ <span class="Unicode">ℤ</span></span>.
+</p>
+<p>Una <a href="/wiki/Ecuaci%C3%B3n_funcional" title="Ecuación funcional">ecuación funcional</a> es aquella en la que algunas de las constantes y variables que intervienen no son realmente números sino funciones; y si en la ecuación aparece algún <a href="/wiki/Operador_diferencial" title="Operador diferencial">operador diferencial</a> se llama <a href="/wiki/Ecuaci%C3%B3n_diferencial" title="Ecuación diferencial">ecuación diferencial</a>.
+</p>
+<p>Cuando <span class="texhtml">A</span> es un cuerpo y <span class="texhtml"><i>f</i></span> un polinomio, se tiene una <a href="/wiki/Ecuaci%C3%B3n_algebraica" title="Ecuación algebraica">ecuación algebraica</a> polinómica.
+</p>
+<p>En un <a href="/wiki/Sistema_de_ecuaciones_lineales" title="Sistema de ecuaciones lineales">sistema de ecuaciones lineales</a>, el conjunto <span class="texhtml">A</span> es un conjunto de vectores reales y la función <span class="texhtml">f</span> es un <a href="/wiki/Operador" title="Operador">operador lineal</a>.
+</p>
+<p>Dos ecuaciones o sistemas de ecuaciones son <i>equivalentes</i> si tienen el mismo conjunto de soluciones. Las siguientes operaciones transforman una ecuación o un sistema de ecuaciones en uno equivalente, siempre que las operaciones tengan sentido para las expresiones a las que se aplican:
+</p>
+<p>Si se aplica alguna <a href="/wiki/Funci%C3%B3n_(matem%C3%A1tica)" title="Función (matemática)">función</a> a ambos lados de una ecuación, la ecuación resultante tiene las soluciones de la ecuación inicial entre sus soluciones, pero puede tener más soluciones llamadas <a class="new" href="/w/index.php?title=Soluci%C3%B3n_extra%C3%B1a&amp;action=edit&amp;redlink=1" title="Solución extraña (aún no redactado)">solución extraña</a>. Por ejemplo, la ecuación <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x=1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x=1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x=1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee42176e76ae6b56d68c42ced807e08b962a2b54" style="vertical-align: -0.338ex; width:5.591ex; height:2.176ex;"/></span> tiene la solución <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x=1.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mo>=</mo>
+<mn>1.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x=1.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x=1.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45c68848dcaa8574feb04951e71070f80b77f752" style="vertical-align: -0.338ex; width:6.237ex; height:2.176ex;"/></span> Si se elevan ambos lados al exponente 2 (lo que significa aplicar la función <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f(s)=s^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f(s)=s^{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle f(s)=s^{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/811ad531067d574222332295705ff8220cf70a78" style="vertical-align: -0.838ex; width:9.421ex; height:3.176ex;"/></span> a ambos lados de la ecuación), la ecuación cambia a <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x^{2}=1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x^{2}=1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x^{2}=1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/51e28d7561fa4fe556f438b88380ef98c5631cf5" style="vertical-align: -0.338ex; width:6.645ex; height:2.676ex;"/></span>, que no sólo tiene la solución anterior, sino que introduce la solución extraña, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x=-1.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mn>1.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x=-1.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x=-1.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a51899e84bbbb14d044de1e69f57f73f70178b4c" style="vertical-align: -0.505ex; width:8.046ex; height:2.343ex;"/></span> Además, si la función no está definida en algunos valores (como 1/<i>x</i>, que no está definida para <i>x</i> = 0), las soluciones existentes en esos valores pueden perderse. Por tanto, hay que tener cuidado al aplicar una transformación de este tipo a una ecuación.
+</p>
+<p>Las transformaciones anteriores son la base de la mayoría de los métodos elementales de <a href="/wiki/Resoluci%C3%B3n_de_ecuaciones" title="Resolución de ecuaciones">resolución de ecuaciones</a>, así como de algunos menos elementales, como la <a class="mw-redirect" href="/wiki/Eliminaci%C3%B3n_gaussiana" title="Eliminación gaussiana">eliminación gaussiana</a>.
+</p>
+<p>El <a href="/wiki/Axioma" title="Axioma">axioma</a> fundamental de las ecuaciones es:
+</p>
+<p>Toda ecuación se transforma en otra equivalente cuando se ejecutan operaciones elementales iguales en ambos miembros.
+</p>
+<p>Se consideran <i>operaciones elementales</i> aquellas que preservan una <a href="/wiki/Igualdad_matem%C3%A1tica" title="Igualdad matemática">igualdad matemática</a>. Ejemplos sencillos de operaciones elementales son la suma, la multiplicación y sus inversas respectivas, resta y división. Esto implica:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a=b\Rightarrow a+c=b+c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mo>=</mo>
+<mi>b</mi>
+<mo stretchy="false">⇒<!-- ⇒ --></mo>
+<mi>a</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mo>=</mo>
+<mi>b</mi>
+<mo>+</mo>
+<mi>c</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a=b\Rightarrow a+c=b+c}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a=b\Rightarrow a+c=b+c}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cb13e559b969911c0aa531a6f55904f320db7c38" style="vertical-align: -0.505ex; width:21.96ex; height:2.343ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a=b\Rightarrow ac=bc}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mo>=</mo>
+<mi>b</mi>
+<mo stretchy="false">⇒<!-- ⇒ --></mo>
+<mi>a</mi>
+<mi>c</mi>
+<mo>=</mo>
+<mi>b</mi>
+<mi>c</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a=b\Rightarrow ac=bc}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a=b\Rightarrow ac=bc}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/09031fae0566346418e8d502a2c36d9f81c7c9e3" style="vertical-align: -0.338ex; width:16.279ex; height:2.176ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \forall c\neq 0\quad a=b\Rightarrow {\frac {a}{c}}={\frac {b}{c}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∀<!-- ∀ --></mi>
+<mi>c</mi>
+<mo>≠<!-- ≠ --></mo>
+<mn>0</mn>
+<mspace width="1em"></mspace>
+<mi>a</mi>
+<mo>=</mo>
+<mi>b</mi>
+<mo stretchy="false">⇒<!-- ⇒ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>a</mi>
+<mi>c</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>b</mi>
+<mi>c</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \forall c\neq 0\quad a=b\Rightarrow {\frac {a}{c}}={\frac {b}{c}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \forall c\neq 0\quad a=b\Rightarrow {\frac {a}{c}}={\frac {b}{c}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b556afa3ab2c140fc2c155dc2940a8b557c58804" style="vertical-align: -1.838ex; width:24.83ex; height:5.343ex;"/></span>
+</p>
+<p>Otras dos operaciones respetan la igualdad pero pueden alterar el conjunto de soluciones:
+</p>
+<p>En general, si se aplican <a href="/wiki/Funci%C3%B3n_inyectiva" title="Función inyectiva">funciones inyectivas</a> a ambos miembros, la igualdad subsiste.
+</p>
+<p>Además, una igualdad es una <a href="/wiki/Relaci%C3%B3n_de_equivalencia" title="Relación de equivalencia">relación de equivalencia</a>,<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ con lo cual se cumplen las siguientes propiedades.
+</p>
+<p>Ejemplos: <span class="texhtml">14 = 14</span>, <span class="texhtml"><i>x</i> + 8 = <i>x</i> + 8</span>
+</p>
+<p>Ejemplos: Si <span class="texhtml"><i>x</i> = 5</span>, entonces <span class="texhtml">5 = <i>x</i></span>. Si <span class="texhtml"><i>y</i> = 2 + <i>x</i></span>, entonces <span class="texhtml">2 + <i>x</i> = <i>y</i></span>.
+</p>
+<p>Ejemplos: Si <span class="texhtml"><i>x</i> = <i>a</i></span>, y <span class="texhtml"><i>a</i> = 8<i>b</i></span>, entonces <span class="texhtml"><i>x</i> = 8<i>b</i></span>. Si <span class="texhtml"><i>xy</i> = 8<i>z</i></span>, y <span class="texhtml">8<i>z</i> = 32</span>, entonces <span class="texhtml"><i>xy</i> = 32</span>.
+</p>
+<p><a href="/wiki/Resoluci%C3%B3n_de_ecuaciones" title="Resolución de ecuaciones">Resolver una ecuación</a> es encontrar su <i>dominio solución</i>, que es el conjunto de valores de las incógnitas para los cuales la igualdad se cumple.
+</p>
+<p>Por lo general, los <a href="/wiki/Problema_matem%C3%A1tico" title="Problema matemático">problemas matemáticos</a> pueden expresarse en forma de una o más ecuaciones;<sup>[<i><a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">cita requerida</a></i>]</sup> sin embargo no todas las ecuaciones tienen solución, ya que es posible que no exista ningún valor de la incógnita que haga cierta una igualdad dada. En ese caso, el conjunto de soluciones de la ecuación será vacío y se dice que la ecuación no es resoluble. De igual modo, puede tener un único valor, o varios, o incluso <a href="/wiki/Infinito" title="Infinito">infinitos</a> valores, siendo cada uno de ellos una solución <i>particular</i> de la ecuación.
+</p>
+<p>Si cualquier valor de la incógnita hace cumplir la igualdad (esto es, no existe ningún valor para el cual no se cumpla) la ecuación es en realidad una <a href="/wiki/Identidad_(matem%C3%A1tica)" title="Identidad (matemática)">identidad</a>.<sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>nota 2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Una <a href="/wiki/Ecuaci%C3%B3n_algebraica" title="Ecuación algebraica">ecuación algebraica</a> es aquella que contiene solo <a class="mw-redirect" href="/wiki/Expresi%C3%B3n_algebraica" title="Expresión algebraica">expresiones algebraicas</a>, como <a href="/wiki/Polinomio" title="Polinomio">polinomios</a>, <a href="/wiki/Funci%C3%B3n_racional" title="Función racional">expresiones racionales</a>, <a href="/wiki/Radical_de_un_entero" title="Radical de un entero">radicales</a> y otras. Por ejemplo:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x^{3}y+4x-y=5-2xy}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mi>y</mi>
+<mo>+</mo>
+<mn>4</mn>
+<mi>x</mi>
+<mo>−<!-- − --></mo>
+<mi>y</mi>
+<mo>=</mo>
+<mn>5</mn>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<mi>x</mi>
+<mi>y</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x^{3}y+4x-y=5-2xy}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x^{3}y+4x-y=5-2xy}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/737c391878e9213c636accaee755b34d3d4a0065" style="vertical-align: -0.671ex; width:23.617ex; height:3.009ex;"/></span>
+</p>
+<p>Se llama <a href="/wiki/Ecuaci%C3%B3n_algebraica" title="Ecuación algebraica">ecuación algebraica</a> con una incógnita la ecuación que se reduce a lo que sigue:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha _{0}x^{n}+\alpha _{1}x^{n-1}+\alpha _{2}x^{n-2}+\cdots +\alpha _{n-1}x+\alpha _{n}=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msup>
+<mo>+</mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mo>⋯<!-- ⋯ --></mo>
+<mo>+</mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mi>x</mi>
+<mo>+</mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha _{0}x^{n}+\alpha _{1}x^{n-1}+\alpha _{2}x^{n-2}+\cdots +\alpha _{n-1}x+\alpha _{n}=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \alpha _{0}x^{n}+\alpha _{1}x^{n-1}+\alpha _{2}x^{n-2}+\cdots +\alpha _{n-1}x+\alpha _{n}=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cd6da02eb80d2f7416be6632e39f16e3482e9d78" style="vertical-align: -0.671ex; width:49.5ex; height:3.009ex;"/></span>
+</p>
+<p>donde <span class="texhtml"><i>n</i></span> es un número entero positivo; <span class="texhtml">α<sub>0</sub></span>, <span class="texhtml">α<sub>1</sub></span>, <span class="texhtml">α<sub>2</sub></span>, ..., <span class="texhtml">α<sub><i>n</i> – 1</sub></span>, <span class="texhtml">α<sub><i>n</i></sub></span> se denominan <i>coeficientes</i> o <i>parámetros</i> de la ecuación y se toman dados; <span class="texhtml"><i>x</i></span> se nombra <a href="/wiki/Inc%C3%B3gnita" title="Incógnita">incógnita</a> y se busca su valor. El número <span class="texhtml"><i>n</i></span> positivo se llama <i>grado</i> de la ecuación<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ Para definir un número algebraico, se consideran números racionales como coeficientes.
+</p>
+<p>Realizando una misma serie de transformaciones en ambos miembros de una ecuación, puede conseguirse que uno de ellos se reduzca a cero. Si además se ordenan los términos según los exponentes a los que se encuentran elevadas las incógnitas, de mayor a menor, se obtiene una expresión denominada <i>forma canónica</i> de la ecuación. Frecuentemente suelen estudiarse las ecuaciones polinómicas a partir de su forma canónica, es decir aquella cuyo primer miembro es un polinomio y cuyo segundo miembro es cero.
+</p>
+<p>En el ejemplo dado, sumando <span class="texhtml">2<i>xy</i></span> y restando <span class="texhtml">5</span> en ambos miembros, y luego ordenando, obtenemos:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x^{3}y+2xy+4x-y-5=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mi>y</mi>
+<mo>+</mo>
+<mn>2</mn>
+<mi>x</mi>
+<mi>y</mi>
+<mo>+</mo>
+<mn>4</mn>
+<mi>x</mi>
+<mo>−<!-- − --></mo>
+<mi>y</mi>
+<mo>−<!-- − --></mo>
+<mn>5</mn>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x^{3}y+2xy+4x-y-5=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x^{3}y+2xy+4x-y-5=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a7eef171ccb3ee1fb79d6854cb6a4dc0c44b0ab3" style="vertical-align: -0.671ex; width:27.62ex; height:3.009ex;"/></span>
+</p>
+<p>Se denomina <i><a href="/wiki/Grado_(polinomio)" title="Grado (polinomio)">grado</a></i> de una ecuación polinomial al mayor exponente al que se encuentran elevadas las incógnitas. Por ejemplo
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2x^{3}-5x^{2}+4x+9=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>2</mn>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>5</mn>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mn>4</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>9</mn>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 2x^{3}-5x^{2}+4x+9=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 2x^{3}-5x^{2}+4x+9=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9414258db4b6dc3b386835f16fe6f3d58ef78ae1" style="vertical-align: -0.505ex; width:23.529ex; height:2.843ex;"/></span>
+</p>
+<p>Es una ecuación de tercer grado porque la variable <span class="texhtml"><i><b>x</b></i></span> se encuentra elevada <i>al cubo</i> en el mayor de los casos.
+</p>
+<p>Las ecuaciones polinómicas de grado <span class="texhtml"><i>n</i></span> de una sola variable sobre los números reales o complejos, pueden resolverse por el método de los radicales cuando <span class="texhtml"><i>n</i> &lt; 5</span> (ya que en esos casos el <a href="/wiki/Grupo_de_Galois" title="Grupo de Galois">grupo de Galois</a> asociado a las raíces de la ecuación es <a class="mw-redirect" href="/wiki/Grupo_soluble" title="Grupo soluble">soluble</a>). La solución de la ecuación de segundo grado es conocida desde la antigüedad; las ecuaciones de tercer y cuarto grado se conocen desde los siglos <span style="font-family:serif">XV</span> y <span style="font-family:serif">XVI</span>, y usan el método de radicales. La solución de la ecuación de quinto grado no puede obtenerse mediante el método de radicales, aunque puede escribirse en términos de la <a class="mw-redirect" href="/wiki/Funci%C3%B3n_theta_de_Jacobi" title="Función theta de Jacobi">función theta de Jacobi</a>.
+</p>
+<p>Se dice que una ecuación algebraica es de primer grado cuando la incógnita (aquí representada por la letra <span class="texhtml"><i>x</i></span>) está elevada a la potencia 1 (grado = 1), es decir que su exponente es 1.
+</p>
+<p>Las ecuaciones de primer grado tienen la forma canónica:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ax+b=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mi>x</mi>
+<mo>+</mo>
+<mi>b</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ax+b=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ax+b=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bc62b70752a751554a00c396fefd75813a084a7d" style="vertical-align: -0.505ex; width:10.658ex; height:2.343ex;"/></span>
+</p>
+<p>donde <span class="texhtml"><i>a</i></span> y <span class="texhtml"><i>b</i></span> están en un conjunto numérico (<span class="Unicode">ℚ</span>, <span class="Unicode">ℝ</span>) con <span class="texhtml"><i>a</i></span> diferente de cero.
+</p>
+<p>Su solución es sencilla: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x=-{\tfrac {b}{a}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi>b</mi>
+<mi>a</mi>
+</mfrac>
+</mstyle>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x=-{\tfrac {b}{a}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x=-{\tfrac {b}{a}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a59c8ddda79b12ba9f7c0b09c29470a426c7c55e" style="vertical-align: -1.005ex; width:7.942ex; height:3.509ex;"/></span>. Exige la resolución, la existencia de <a href="/wiki/Inverso_multiplicativo" title="Inverso multiplicativo">inversos multiplicativos</a>.
+</p>
+<p>Las ecuaciones polinómicas de segundo grado tienen la forma canónica:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ax^{2}+bx+c=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>b</mi>
+<mi>x</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ax^{2}+bx+c=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ax^{2}+bx+c=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/23e70cfa003f402d108ec04d97983fb62f69536e" style="vertical-align: -0.505ex; width:16.89ex; height:2.843ex;"/></span>
+</p>
+<p>Donde <span class="texhtml"><i><b>a</b></i></span> es el coeficiente del <i>término cuadrático</i> (aquel en que la incógnita está elevada a la potencia 2), <span class="texhtml"><i><b>b</b></i></span> es el coeficiente del <i>término lineal</i> (el que tiene la incógnita sin exponentes, o sea que está elevada a la potencia 1) y <span class="texhtml"><i><b>c</b></i></span> es el <i>término independiente</i> (el que no depende de la variable, o sea que está compuesto solo por constantes o números).
+</p>
+<p>Cuando esta ecuación se plantea sobre <span class="Unicode">ℂ</span>, siempre se tienen dos soluciones, calculándose con el <a href="/wiki/M%C3%A9todo_de_Euler" title="Método de Euler">método de Euler</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x_{1}={\frac {-b+{\sqrt {b^{2}-4ac}}}{2a}},\quad x_{2}={\frac {-b-{\sqrt {b^{2}-4ac}}}{2a}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo>−<!-- − --></mo>
+<mi>b</mi>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msup>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>4</mn>
+<mi>a</mi>
+<mi>c</mi>
+</msqrt>
+</mrow>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mi>a</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+<mspace width="1em"></mspace>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo>−<!-- − --></mo>
+<mi>b</mi>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msup>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>4</mn>
+<mi>a</mi>
+<mi>c</mi>
+</msqrt>
+</mrow>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mi>a</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{1}={\frac {-b+{\sqrt {b^{2}-4ac}}}{2a}},\quad x_{2}={\frac {-b-{\sqrt {b^{2}-4ac}}}{2a}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x_{1}={\frac {-b+{\sqrt {b^{2}-4ac}}}{2a}},\quad x_{2}={\frac {-b-{\sqrt {b^{2}-4ac}}}{2a}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/641d97a601fab80b9518656191231cca0d7f5d93" style="vertical-align: -1.838ex; width:48.516ex; height:6.176ex;"/></span>
+</p>
+<p>Obviamente la condición para que la ecuación tenga solución sobre los números reales <span class="Unicode">ℝ</span> se requiere que <span class="texhtml"><i>b</i><sup>2</sup> ≥ 4<i>ac</i></span> y para que tenga soluciones sobre los números racionales <span class="Unicode">ℚ</span> se requiere <span class="texhtml"><i>b</i><sup>2</sup> – 4<i>ac</i></span> sea el cuadrado de algún número entero.
+</p>
+<p>En general, una <i>ecuación algebraica</i> o <a class="mw-redirect" href="/wiki/Ecuaci%C3%B3n_polin%C3%B3mica" title="Ecuación polinómica">ecuación polinómica</a> es una ecuación de la forma:
+</p>
+<p>donde <i>P</i> y <i>Q</i> son <a class="mw-redirect" href="/wiki/Polinomios" title="Polinomios">polinomios</a> con coeficientes en algún campo (por ejemplo, <a href="/wiki/N%C3%BAmero_racional" title="Número racional">números racionales</a>, <a href="/wiki/N%C3%BAmero_real" title="Número real">números reales</a>, <a href="/wiki/N%C3%BAmero_complejo" title="Número complejo">números complejos</a>). Una ecuación algebraica es <i>univariante</i> si implica una sola <a class="mw-redirect" href="/wiki/Variable_(matem%C3%A1ticas)" title="Variable (matemáticas)">variable</a>. Por otro lado, una ecuación polinómica puede involucrar varias variables, en cuyo caso se llama <i>multivariante</i> (variables múltiples, x, y, z, etc.). El término <i>ecuación polinómica</i> suele preferirse a <i>ecuación algebraica</i>.
+</p>
+<p>es una ecuación algebraica univariante (polinómica) con coeficientes enteros y
+</p>
+<p>es una ecuación polinómica multivariante sobre los números racionales.
+</p>
+<p>Algunas (pero no todas) ecuaciones polinómicas con <a href="/wiki/N%C3%BAmero_racional" title="Número racional">coeficientes racionales</a> tienen una solución que es una <a class="mw-redirect" href="/wiki/Expresi%C3%B3n_algebraica" title="Expresión algebraica">expresión algebraica</a>, con un número finito de operaciones que implican sólo esos coeficientes (es decir, puede ser <a href="/wiki/Soluci%C3%B3n_algebraica" title="Solución algebraica">resuelta algebraicamente</a>). Esto puede hacerse para todas esas ecuaciones de <a class="mw-redirect" href="/wiki/Grado_de_un_polinomio" title="Grado de un polinomio">grado</a> uno, dos, tres o cuatro; pero para las ecuaciones de grado cinco o más, puede resolverse para algunas ecuaciones pero, como demuestra el <a href="/wiki/Teorema_de_Abel-Ruffini" title="Teorema de Abel-Ruffini">teorema de Abel-Ruffini</a>, no para todas.
+</p>
+<p>Se ha dedicado una gran cantidad de investigación a calcular de forma eficiente aproximaciones precisas de las soluciones de <a href="/wiki/N%C3%BAmero_real" title="Número real">real</a> o <a href="/wiki/N%C3%BAmero_complejo" title="Número complejo">complejo</a> de una ecuación algebraica univariante (véase <a href="/wiki/Resoluci%C3%B3n_num%C3%A9rica_de_ecuaciones_no_lineales" title="Resolución numérica de ecuaciones no lineales">Resolución numérica de ecuaciones no lineales</a>) y de las soluciones comunes de varias ecuaciones polinómicas multivariantes (véase <a href="/wiki/Sistema_de_ecuaciones_algebraicas" title="Sistema de ecuaciones algebraicas">Sistema de ecuaciones algebraicas</a>).
+</p>
+<p>Una <a href="/wiki/Ecuaci%C3%B3n_diferencial" title="Ecuación diferencial">ecuación diferencial</a> es una ecuación <a href="/wiki/Matem%C3%A1ticas" title="Matemáticas">matemática</a> que relaciona alguna <a class="mw-redirect" href="/wiki/Funci%C3%B3n_(matem%C3%A1ticas)" title="Función (matemáticas)">función</a> con sus <a class="mw-redirect" href="/wiki/Derivadas" title="Derivadas">derivadas</a>. En las aplicaciones, las funciones suelen representar cantidades físicas, las derivadas representan sus tasas de cambio y la ecuación define una relación entre ambas. Debido a que tales relaciones son extremadamente comunes, las ecuaciones diferenciales juegan un papel prominente en muchas disciplinas, incluyendo la <a href="/wiki/F%C3%ADsica" title="Física">física</a>, la <a href="/wiki/Ingenier%C3%ADa" title="Ingeniería">ingeniería</a>, la <a href="/wiki/Econom%C3%ADa" title="Economía">economía</a> y la <a href="/wiki/Biolog%C3%ADa" title="Biología">biología</a>.
+</p>
+<p>En <a class="mw-redirect" href="/wiki/Matem%C3%A1ticas_puras" title="Matemáticas puras">matemáticas puras</a>, las ecuaciones diferenciales se estudian desde varios puntos de vista, sobre todo en relación con sus soluciones, el conjunto de funciones que satisfacen la ecuación. Sólo las ecuaciones diferenciales más sencillas pueden resolverse mediante fórmulas explícitas; sin embargo, algunas propiedades de las soluciones de una ecuación diferencial dada pueden determinarse sin encontrar su forma exacta.
+</p>
+<p>Si no se dispone de una fórmula autocontenida para la solución, ésta puede aproximarse numéricamente mediante ordenadores. La teoría de los <a class="mw-redirect" href="/wiki/Sistemas_din%C3%A1micos" title="Sistemas dinámicos">sistemas dinámicos</a> hace hincapié en el análisis cualitativo de los sistemas descritos por ecuaciones diferenciales, mientras que se han desarrollado muchos <a class="mw-redirect" href="/wiki/M%C3%A9todos_num%C3%A9ricos" title="Métodos numéricos">métodos numéricos</a> para determinar las soluciones con un determinado grado de precisión.
+</p>
+<p>Tanto en matemáticas como en física y otras ciencias aplicadas, frecuentemente se usan ecuaciones no algebraicas, donde las incógnitas no son simplemente valores numéricos sino funciones. Por ejemplo, la trayectoria <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle \mathbf {r} (t)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle \mathbf {r} (t)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle \mathbf {r} (t)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9aa5606f6a429639d078794dad24eb58c3b4d458" style="vertical-align: -0.671ex; width:2.652ex; height:2.176ex;"/></span> de una partícula ligera en el campo gravitatorio de una estrella puede hallarse de manera aproximada gracias a buscar la solución de una ecuación diferencial del tipo:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {{\text{d}}^{2}\mathbf {r} (t)}{{\text{d}}t^{2}}}=-{\frac {GM}{\|\mathbf {r} (t)\|^{3}}}\mathbf {r} (t)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<msup>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<msup>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {{\text{d}}^{2}\mathbf {r} (t)}{{\text{d}}t^{2}}}=-{\frac {GM}{\|\mathbf {r} (t)\|^{3}}}\mathbf {r} (t)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {{\text{d}}^{2}\mathbf {r} (t)}{{\text{d}}t^{2}}}=-{\frac {GM}{\|\mathbf {r} (t)\|^{3}}}\mathbf {r} (t)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be016e7f51bb0f2344dfe6a656cb8180f2ccdcc" style="vertical-align: -2.671ex; width:23.558ex; height:6.843ex;"/></span>
+</p>
+<p>Donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle \mathbf {r} (t)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle \mathbf {r} (t)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle \mathbf {r} (t)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9aa5606f6a429639d078794dad24eb58c3b4d458" style="vertical-align: -0.671ex; width:2.652ex; height:2.176ex;"/></span> es el vector de posición de la partícula tomando el origen de coordenadas en la estrella, <i>M</i> es la masa del sol y <i>G</i> la <a class="mw-redirect" href="/wiki/Constante_de_la_gravitaci%C3%B3n_universal" title="Constante de la gravitación universal">constante de la gravitación universal</a>.
+</p>
+<p>En las ecuaciones, el conjunto de soluciones forman un cierto <a class="mw-redirect" href="/wiki/Espacio_de_funciones" title="Espacio de funciones">espacio de funciones</a>, tales que todas ellas satisfacen la ecuación. Si el conjunto de soluciones se puede especificar por un número finito de condiciones iniciales, entonces ese espacio es localmente una variedad diferenciable de dimensión finita, cosa que sucede frecuentemente con las ecuaciones diferenciales ordinarias. En las ecuaciones en derivadas parciales frecuentemente el conjunto de soluciones posibles con diferentes condiciones de contorno pueden formar un espacio de dimensión no finita.
+</p>
+<p>Una ecuación diferencial ordinaria o <b>EDO'</b> es una ecuación que contiene una función de una <a class="mw-redirect" href="/wiki/Variable_independiente" title="Variable independiente">variable independiente</a> y sus derivadas. El término <b>ordinaria</b> se utiliza en contraste con el término <a class="mw-redirect" href="/wiki/Ecuaci%C3%B3n_diferencial_parcial" title="Ecuación diferencial parcial">ecuación diferencial parcial</a>, que puede ser con respecto a <i>más de</i> una variable independiente.
+</p>
+<p>Las ecuaciones diferenciales lineales, que tienen soluciones que se pueden sumar y multiplicar por coeficientes, están bien definidas y se entienden, y se obtienen soluciones exactas de forma cerrada. Por el contrario, las EDO que carecen de soluciones aditivas son no lineales, y su resolución es mucho más complicada, ya que rara vez se pueden representar mediante <a class="mw-redirect" href="/wiki/Funciones_elementales" title="Funciones elementales">funciones elementales</a> de forma cerrada: En cambio, las soluciones exactas y analíticas de las EDOs están en forma de serie o integral. Los métodos gráficos y <a href="/wiki/M%C3%A9todos_num%C3%A9ricos_para_ecuaciones_diferenciales_ordinarias" title="Métodos numéricos para ecuaciones diferenciales ordinarias">numéricos</a>, aplicados a mano o por ordenador, pueden aproximar las soluciones de las EDOs y tal vez proporcionar información útil, a menudo suficiente en ausencia de soluciones exactas y analíticas.
+</p>
+<p>Una Ecuación en derivadas parciales (<b>EDP</b>) es una <a href="/wiki/Ecuaci%C3%B3n_diferencial" title="Ecuación diferencial">ecuación diferencial</a> que contiene funciones desconocidas <a href="/wiki/C%C3%A1lculo_multivariable" title="Cálculo multivariable">multivariables</a> y sus <a class="mw-redirect" href="/wiki/Derivadas_parciales" title="Derivadas parciales">derivadas parciales</a>. (Esto contrasta con las <a class="mw-redirect" href="/wiki/Ecuaciones_diferenciales_ordinarias" title="Ecuaciones diferenciales ordinarias">ecuaciones diferenciales ordinarias</a>, que tratan con funciones de una sola variable y sus derivadas). Las EDP se utilizan para formular problemas que implican funciones de varias variables, y se resuelven a mano o se utilizan para crear un <a href="/wiki/Simulaci%C3%B3n_por_computadora" title="Simulación por computadora">modelo informático</a> pertinente.
+</p>
+<p>Las EDP pueden utilizarse para describir una amplia variedad de fenómenos como el <a href="/wiki/Sonido" title="Sonido">sonido</a>, el <a href="/wiki/Calor" title="Calor">calor</a>, la <a href="/wiki/Electrost%C3%A1tica" title="Electrostática">electrostática</a>, la <a href="/wiki/Electrodin%C3%A1mica" title="Electrodinámica">electrodinámica</a>, el <a class="mw-redirect" href="/wiki/Flujo_de_fluidos" title="Flujo de fluidos">flujo de fluidos</a>, la <a class="mw-redirect" href="/wiki/Elasticidad_(f%C3%ADsica)" title="Elasticidad (física)">elasticidad</a> o la <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a>. Estos fenómenos físicos aparentemente distintos pueden formalizarse de forma similar en términos de EDP. Así como las ecuaciones diferenciales ordinarias suelen modelar <a class="mw-redirect" href="/wiki/Sistemas_din%C3%A1micos" title="Sistemas dinámicos">sistemas dinámicos</a> unidimensionales, las ecuaciones diferenciales parciales suelen modelar <a class="new" href="/w/index.php?title=Sistemas_multidimensionales&amp;action=edit&amp;redlink=1" title="Sistemas multidimensionales (aún no redactado)">sistemas multidimensionales</a>. Las EDP encuentran su generalización en las <a class="new" href="/w/index.php?title=Ecuaci%C3%B3n_diferencial_parcial_estoc%C3%A1stica&amp;action=edit&amp;redlink=1" title="Ecuación diferencial parcial estocástica (aún no redactado)">ecuaciones diferenciales parciales estocásticas</a>.
+</p>
+<p>En la <a href="/wiki/Geometr%C3%ADa_euclidiana" title="Geometría euclidiana">geometría euclidiana</a>, es posible asociar un conjunto de coordenadas a cada punto del espacio, por ejemplo mediante una cuadrícula ortogonal. Este método permite caracterizar las figuras geométricas mediante ecuaciones. Un plano en un espacio tridimensional puede expresarse como el conjunto de soluciones de una ecuación de la forma <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ax+by+cz+d=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mi>x</mi>
+<mo>+</mo>
+<mi>b</mi>
+<mi>y</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mi>z</mi>
+<mo>+</mo>
+<mi>d</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ax+by+cz+d=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ax+by+cz+d=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/746e9e9c5e6a562485cbc5ed6a9375ec67bad26f" style="vertical-align: -0.671ex; width:20.805ex; height:2.509ex;"/></span>, donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a,b,c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mo>,</mo>
+<mi>b</mi>
+<mo>,</mo>
+<mi>c</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a,b,c}</annotation>
+</semantics>
+</math></span><img alt="a,b,c" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f13f068df656c1b1911ae9f81628c49a6181194d" style="vertical-align: -0.671ex; width:5.302ex; height:2.509ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle d}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+</semantics>
+</math></span><img alt="d" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e85ff03cbe0c7341af6b982e47e9f90d235c66ab" style="vertical-align: -0.338ex; width:1.216ex; height:2.176ex;"/></span> son números reales y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x,y,z}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mo>,</mo>
+<mi>y</mi>
+<mo>,</mo>
+<mi>z</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x,y,z}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x,y,z}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bbeca34b28f569a407ef74a955d041df9f360268" style="vertical-align: -0.671ex; width:5.641ex; height:2.009ex;"/></span> son las incógnitas que corresponden a las coordenadas de un punto del sistema dado por la retícula ortogonal. Los valores <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a,b,c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mo>,</mo>
+<mi>b</mi>
+<mo>,</mo>
+<mi>c</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a,b,c}</annotation>
+</semantics>
+</math></span><img alt="a,b,c" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f13f068df656c1b1911ae9f81628c49a6181194d" style="vertical-align: -0.671ex; width:5.302ex; height:2.509ex;"/></span> son las coordenadas de un vector perpendicular al plano definido por la ecuación. Una recta se expresa como la intersección de dos planos, es decir, como el conjunto de soluciones de una única ecuación lineal con valores en <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbb {R} ^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbb {R} ^{2}}</annotation>
+</semantics>
+</math></span><img alt="\mathbb {R} ^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e150115ab9f63023215109595b76686a1ff890fd" style="vertical-align: -0.338ex; width:2.732ex; height:2.676ex;"/></span> o como el conjunto de soluciones de dos ecuaciones lineales con valores en <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbb {R} ^{3}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbb {R} ^{3}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbb {R} ^{3}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b00b2b4fd27c2cbffa02df568472f77b194a6db9" style="vertical-align: -0.338ex; width:3.379ex; height:2.676ex;"/></span>
+</p>
+<p>Una <a href="/wiki/Secci%C3%B3n_c%C3%B3nica" title="Sección cónica">sección cónica</a> es la intersección de un <a href="/wiki/Cono_(geometr%C3%ADa)" title="Cono (geometría)">cono</a> con ecuación <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x^{2}+y^{2}=z^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x^{2}+y^{2}=z^{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x^{2}+y^{2}=z^{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/24defb565dbcba7850e1bfb51176bcf574b4e56b" style="vertical-align: -0.671ex; width:12.682ex; height:3.009ex;"/></span> y un plano. En otras palabras, en el espacio todas las cónicas se definen como el conjunto de soluciones de una ecuación de un plano y de la ecuación de un cono recién dado. Este formalismo permite determinar las posiciones y las propiedades de los focos de una cónica.
+</p>
+<p>El uso de las ecuaciones permite recurrir a un amplio campo de las matemáticas para resolver cuestiones geométricas. El sistema de <a href="/wiki/Coordenadas_cartesianas" title="Coordenadas cartesianas">coordenadas cartesianas</a> transforma un problema geométrico en un problema de análisis, una vez que las figuras se transforman en ecuaciones; de ahí el nombre de <a href="/wiki/Geometr%C3%ADa_anal%C3%ADtica" title="Geometría analítica">geometría analítica</a>. Este punto de vista, esbozado por <a class="mw-redirect" href="/wiki/Descartes" title="Descartes">Descartes</a>, enriquece y modifica el tipo de geometría concebido por los antiguos matemáticos griegos.
+</p>
+<p>Actualmente, la geometría analítica designa una rama activa de las matemáticas. Aunque sigue utilizando las ecuaciones para caracterizar las figuras, también emplea otras técnicas sofisticadas como el <a href="/wiki/An%C3%A1lisis_funcional" title="Análisis funcional">análisis funcional</a> y el <a href="/wiki/%C3%81lgebra_lineal" title="Álgebra lineal">álgebra lineal</a>.
+</p>
+<p>Un <a class="mw-redirect" href="/wiki/Sistema_de_coordenadas_cartesianas" title="Sistema de coordenadas cartesianas">sistema de coordenadas cartesianas</a> es un <a href="/wiki/Sistema_de_coordenadas" title="Sistema de coordenadas">sistema de coordenadas</a> que especifica cada <a href="/wiki/Punto_(geometr%C3%ADa)" title="Punto (geometría)">punto</a> de forma única en un <a href="/wiki/Plano_(geometr%C3%ADa)" title="Plano (geometría)">plano</a> por un par de <a href="/wiki/N%C3%BAmero" title="Número">numérico</a> o  <b>coordenadas</b>, que son las distancias desde el punto a dos líneas fijas <a href="/wiki/Perpendicularidad" title="Perpendicularidad">perpendiculares</a> dirigidas, que se marcan usando la misma <a href="/wiki/Unidad_de_longitud" title="Unidad de longitud">unidad de longitud</a>.
+</p>
+<p>Se puede utilizar el mismo principio para especificar la posición de cualquier punto en el <a href="/wiki/Espacio_eucl%C3%ADdeo" title="Espacio euclídeo">espacio</a> de tres dimensiones mediante el uso de tres coordenadas cartesianas, que son las distancias con signo a tres planos mutuamente perpendiculares (o, equivalentemente, mediante su proyección perpendicular sobre tres líneas mutuamente perpendiculares).
+</p>
+<p>La invención de las coordenadas cartesianas en el siglo <span style="font-variant:small-caps;text-transform:lowercase">XVII</span> por <a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">René Descartes</a> (<a class="mw-disambig" href="/wiki/Latinizaci%C3%B3n" title="Latinización">nombre latinizado</a>: <i>Cartesius</i>) revolucionó las matemáticas al proporcionar el primer vínculo sistemático entre la <a href="/wiki/Geometr%C3%ADa_euclidiana" title="Geometría euclidiana">geometría euclidiana</a> y el <a href="/wiki/%C3%81lgebra" title="Álgebra">álgebra</a>. Utilizando el sistema de coordenadas cartesianas, las formas geométricas (como las <a class="mw-redirect" href="/wiki/Curvas" title="Curvas">curvas</a>) pueden describirse mediante <b>ecuaciones cartesianas</b>: ecuaciones algebraicas que implican las coordenadas de los puntos situados en la forma. Por ejemplo, un círculo de radio 2 en un plano, centrado en un punto particular llamado el origen, puede ser descrito como el conjunto de todos los puntos cuyas coordenadas <i>x</i> e <i>y</i> satisfacen la ecuación <span style="white-space:nowrap"><i>x</i><sup>2</sup> + <i>y</i><sup>2</sup> = 4</span>.
+</p>
+<p>Una <a href="/wiki/Ecuaci%C3%B3n_param%C3%A9trica" title="Ecuación paramétrica">ecuación paramétrica</a> para una <a href="/wiki/Curva" title="Curva">curva</a> expresa las <a class="mw-redirect" href="/wiki/Coordenadas" title="Coordenadas">coordenadas</a> de los puntos de la curva como funciones de una <a class="mw-redirect" href="/wiki/Variable_(matem%C3%A1ticas)" title="Variable (matemáticas)">variable</a>, llamada <a href="/wiki/Par%C3%A1metro" title="Parámetro">parámetro</a>.<sup class="reference separada" id="cite_ref-13"><a href="#cite_note-13"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>son ecuaciones paramétricas para el <a class="mw-redirect" href="/wiki/C%C3%ADrculo_unitario" title="Círculo unitario">círculo unitario</a>, donde <i>t</i> es el parámetro. En conjunto, estas ecuaciones se llaman una <b>representación paramétrica</b> de la curva.
+</p>
+<p>La noción de <b>ecuación paramétrica</b> se ha generalizado a <a href="/wiki/Superficie_(matem%C3%A1tica)" title="Superficie (matemática)">superficies</a>, <a href="/wiki/Variedad_(matem%C3%A1ticas)" title="Variedad (matemáticas)">variedades</a> y <a href="/wiki/Variedad_algebraica" title="Variedad algebraica">variedades algebraicas</a> de mayor <a href="/wiki/Dimensi%C3%B3n" title="Dimensión">dimensión</a>, siendo el número de parámetros igual a la dimensión de la variedad, y el número de ecuaciones es igual a la dimensión del espacio en el que se considera la variedad (para las curvas la dimensión es <i>uno</i> y se utiliza <i>un</i> parámetro, para las superficies la dimensión es <i>dos</i> y <i>dos</i> parámetros, etc.).
+</p>

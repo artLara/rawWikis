@@ -1,0 +1,428 @@
+<p>Los <a href="/wiki/Derecho_de_autor" title="Derecho de autor">derechos de autor</a> de los textos que figuran en Wikipedia corresponden a los editores que han colaborado en ellos y tales derechos se encuentran protegidos automáticamente en el marco del <a href="/wiki/Convenio_de_Berna_para_la_Protecci%C3%B3n_de_las_Obras_Literarias_y_Art%C3%ADsticas" title="Convenio de Berna para la Protección de las Obras Literarias y Artísticas">Convenio de Berna</a>, que establece los estándares mínimos de protección de derechos de autor que deben acatar y adaptarse los países ratificantes cuando estos los regulen libremente en sus leyes nacionales.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ La legislación aplicable a todos los proyectos Wikimedia es la de los Estados Unidos de América,<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​ que en el caso de los derechos de autor corresponde al Título 17 del Código de los Estados Unidos establecido en el <i>Copyright Act of 1976</i>.<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La mayoría de los textos de Wikipedia son licenciados bajo la <a class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/deed.es" rel="nofollow">Creative Commons Attribution/Share-Alike License 3.0 (Unported)</a> así como bajo la <a class="external text" href="http://www.gnu.org/copyleft/fdl.html" rel="nofollow">GNU Free Documentation License</a> (sin versionar, sin secciones, textos de tapa o contratapa invariantes). Los reutilizadores pueden elegir la licencia que deseen. Estas licencias sí permiten el uso comercial de los contenidos reutilizados, siempre y cuando que los usos que se les den respeten las condiciones establecidas en la licencia respectiva.
+</p>
+<p>Whereas the mission of the Wikimedia Foundation is to "empower and engage people around the world to collect and develop educational content under a free content license,"
+</p>
+<p>All projects are expected to host only content which is under a Free Content License, or which is otherwise free as recognized by the 'Definition of Free Cultural Works'.
+</p>
+<p>Dado que la misión de la Fundación Wikimedia es "permitir e involucrar a la gente de todo el mundo a reunir y desarrollar contenido educativo bajo una licencia de contenido libre",
+</p>
+<p>Todos los proyectos deberán almacenar únicamente contenido bajo una Licencia de Contenido Libre, o que de otra forma se reconozca como 'Definición de Obra Cultural Libre'.
+</p>
+<p>Las «obras culturales libres» (<i>Free Cultural Works</i>) son obras o expresiones que pueden ser libremente estudiadas, aplicadas, copiadas y/o modificadas por cualquiera, para cualquier propósito; pero también incluyen ciertas restricciones admisibles que respetan o protegen esas libertades esenciales.<sup class="reference separada" id="cite_ref-Free_8-0"><a href="#cite_note-Free-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ Por su parte, las «licencias de contenido libre» son las que pueden usarse para proteger legalmente el estatus de una obra libre,<sup class="reference separada" id="cite_ref-Free_8-1"><a href="#cite_note-Free-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ y son las que cumplen los términos de la <i>Definición de Obras Culturales Libres</i> que se especifican para las licencias y que se pueden encontrar en <a class="external free" href="http://freedomdefined.org/Definition/Es" rel="nofollow">http://freedomdefined.org/Definition/Es</a> versión 1.0. en la sección <i>Definición de licencias de cultura libre</i>.<sup class="reference separada" id="cite_ref-licensing_9-0"><a href="#cite_note-licensing-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ De este modo las licencias libres permiten:
+</p>
+<p>Todo aquello que no cumpla esta definición se considera contenido no libre.
+</p>
+<p>En 2008 las <a href="/wiki/Licencias_Creative_Commons" title="Licencias Creative Commons">Licencias Creative Commons</a> Atribución y Atribución-CompartirIgual fueron marcadas como <i>Approved for Free Cultural Works</i>.<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​ Posteriormente, desde el 15 de junio de 2009 se produjo la modificación de los términos de la licencia para incluir la licencia <a class="external text" href="http://es.creativecommons.org/licencia/" rel="nofollow">Creative Commons Attribution-ShareAlike</a> (CC-BY-SA) junto con la anterior licencia <a class="external text" href="http://www.gnu.org/home.es.html" rel="nofollow">GNU</a>.<sup class="reference separada" id="cite_ref-update_12-0"><a href="#cite_note-update-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>To grow the commons of free knowledge and free culture, all users contributing to the Projects are required to grant broad permissions to the general public to re-distribute and re-use their contributions freely, so long as that use is properly attributed and the same freedom to re-use and re-distribute is granted to any derivative works. In keeping with our goal of providing free information to the widest possible audience, we require that when necessary all submitted content be licensed so that it is freely reusable by anyone who cares to access it.
+</p>
+<p>Para hacer crecer el conocimiento y la cultura libre en común, todos los usuarios que contribuyen a nuestros Proyectos deben otorgar permisos amplios al público para redistribuir y reutilizar sus contribuciones libremente, siempre y cuando ese uso se atribuya adecuadamente y se otorguen las mismas libertades de reutilizar y redistribuir a cualquier obra derivada. Para cumplir con nuestra meta de proveer información libre a la mayor audiencia posible, requerimos que cuando sea necesario todo el contenido que usted contribuya tenga una licencia que permita que cualquiera que le interese acceder a él pueda reutilizarlo libremente.
+</p>
+<p>Las licencias que utiliza Wikipedia garantizan el libre acceso al contenido, con lo que este puede ser copiado, modificado y redistribuido siempre que la obra derivada esté disponible a otros en los mismos términos y se incluya el reconocimiento de la autoría del texto. Este principio es conocido como <i><a href="/wiki/Copyleft" title="Copyleft">copyleft</a></i>, en contraste con las licencias de <i>copyright</i>. 
+</p>
+<p>Para incrementar la compatibilidad y disponibilidad del contenido libre, los términos para los derechos de autor de Wikipedia se incluyen en las licencias:<sup class="reference separada" id="cite_ref-update_12-1"><a href="#cite_note-update-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>De este modo, el texto que debe ser introducido en Wikipedia solo puede tener o una licencia dual de ambas, o exclusivamente una licencia compatible con CC-BY-SA, pero no puede introducirse texto con la GFDL en exclusiva. Esto significa que CC-BY-SA es la primera licencia para el texto, mientras que GFDL se mantiene como licencia secundaria,<sup class="reference separada" id="cite_ref-13"><a href="#cite_note-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​ además, el texto que solo esté disponible y en exclusiva con una licencia CC-BY-SA o compatible con CC-BY-SA no puede reutilizarse bajo una GFDL, con lo que debe ser identificado o en el pie de página, o en el historial de la página o en la página de discusión.
+</p>
+<p>La tabla comparativa de ambas licencias puede hallarse en <a class="extiw" href="https://meta.wikimedia.org/wiki/Licensing_update/License_comparison/es" title="meta:Licensing update/License comparison/es">meta:Licensing update/License comparison/es</a>.
+</p>
+<p>Conforme a las votaciones <a href="/wiki/Wikipedia:Votaciones/2006/Cambiar_pol%C3%ADticas_y_reglas_de_uso_de_im%C3%A1genes" title="Wikipedia:Votaciones/2006/Cambiar políticas y reglas de uso de imágenes">Wikipedia:Votaciones/2006/Cambiar políticas y reglas de uso de imágenes</a> y <a href="/wiki/Wikipedia:Votaciones/2006/Extensi%C3%B3n_de_las_pol%C3%ADticas_de_im%C3%A1genes_a_todos_los_archivos" title="Wikipedia:Votaciones/2006/Extensión de las políticas de imágenes a todos los archivos">Wikipedia:Votaciones/2006/Extensión de las políticas de imágenes a todos los archivos</a>, los archivos de imagen, sonido, PDF...<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​ deben subirse a Commons y no deben alojarse en Wikipedia en español.
+</p>
+<p><b>Text to which you hold the copyright:</b> When you submit text to which you hold the copyright, you agree to license it under:
+</p>
+<p>(Re-users may comply with either license or both.)
+</p>
+<p>The only exception is if the Project edition or feature requires a different license. In that case, you agree to license any text you contribute under that particular license. For example, at the publication of this version of the Terms of Use, English Wikinews mandates that all text content is licensed under the Creative Commons Attribution 2.5 Generic License (CC BY 2.5) and does not require a dual license with GFDL.
+</p>
+<p>Please note that these licenses do allow commercial uses of your contributions, as long as such uses are compliant with the terms.
+</p>
+<p><b>Texto del cual usted posee derechos de autor:</b> Cuando usted contribuye texto del cual usted posee derechos de autor, usted acepta publicarlo bajo las siguientes licencias:
+</p>
+<p>(Los reutilizadores pueden cumplir cualquiera de las licencias o ambas.)
+</p>
+<p>La única excepción es si la edición o modalidad de Proyecto requiere una licencia diferente. En ese caso, usted acepta publicar cualquier texto que usted contribuya bajo esa licencia en particular. Por ejemplo, al momento de publicar esta versión de los Términos y condiciones de uso, Wikinews en Inglés requiere que todo el contenido de texto tenga la Licencia Creative Commons Attribución 2.5 Genérica ("CC BY 2.5") y no requiere una licencia dual con GFDL.
+</p>
+<p>Por favor tenga en cuenta que dichas licencias permiten el uso comercial de sus contribuciones en tanto que dichos usos cumplan con las condiciones.
+</p>
+<p><b>Attribution:</b> Attribution is an important part of these licenses. We consider it giving credit where credit is due – to authors like yourself. When you contribute text, you agree to be attributed in any of the following fashions:
+</p>
+<p><b>Atribución:</b> La atribución es una parte importante de estas licencias. Consideramos que es otorgar crédito cuando corresponde – a autores como usted. Cuando usted contribuye con texto, usted acepta ser atribuido de alguna de las siguientes maneras:
+</p>
+<p><b>No revocation of license:</b> Except as consistent with your license, you agree that you will not unilaterally revoke or seek invalidation of any license that you have granted under these Terms of Use for text content or non-text media contributed to the Wikimedia Projects or features, even if you terminate use of our services.
+</p>
+<p><b>No revocación de licencia:</b> Excepto cuando sea consistente con su licencia, usted acepta que usted no revocará o buscará invalidar unilateralmente cualquier licencia que usted haya otorgado según estos Términos y condiciones de uso a contenido de medios textuales o no textuales contribuido a los proyectos o modalidades de Wikimedia, incluso si usted termina de usar nuestros servicios.
+</p>
+<p><b>Importing text:</b> You may import text that you have found elsewhere or that you have co-authored with others, but in such case you warrant that the text is available under terms that are compatible with the CC BY-SA 3.0 license (or, as explained above, another license when exceptionally required by the Project edition or feature)("CC BY-SA"). Content available only under GFDL is not permissible.
+</p>
+<p><b>Importar texto:</b> Usted puede importar texto que encuentre en otro sitio o del que usted sea coautor, pero en esos casos usted debe garantizar que el texto esté disponible bajo términos compatibles con la licencia CC BY-SA 3.0<sup class="reference separada" id="cite_ref-15"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​ (o, como se explicó anteriormente, con otra licencia cuando se lo requiera excepcionalmente en la edición o modalidad de Proyecto) ("CC BY-SA").<sup class="reference separada" id="cite_ref-wikinoticias_16-0"><a href="#cite_note-wikinoticias-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​ No se permite contenido disponible solamente bajo la GFDL.<sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>You agree that, if you import text under a CC BY-SA license that requires attribution, you must credit the author(s) in a reasonable fashion. Where such credit is commonly given through page histories (such as Wikimedia-internal copying), it is sufficient to give attribution in the edit summary, which is recorded in the page history, when importing the text. The attribution requirements are sometimes too intrusive for particular circumstances (regardless of the license), and there may be instances where the Wikimedia community decides that imported text cannot be used for that reason.
+</p>
+<p>Usted acepta que, si usted importa texto bajo una licencia CC BY-SA que requiere atribución, usted debe otorgar crédito a los autores de manera razonable. Cuando dicho crédito se otorgue comúnmente mediante historias de páginas (como al copiar internamente en Wikimedia), al importar texto basta con otorgar atribución en el resumen de edición,<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​ que se registra en la historia de la página.<sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​ Los requisitos de atribución a veces son demasiado molestos en circunstancias particulares (más allá de la licencia), y puede haber instancias en las que la comunidad de Wikimedia decida que por esa razón no se pueda importar texto.
+</p>
+<p><b>Public domain content:</b> Content that is in the public domain is welcome! It is important however that you confirm the public domain status of the content under the law of the United States of America as well as the laws of any other countries as required by the specific Project edition. When you contribute content that is in the public domain, you warrant that the material is actually in the public domain, and you agree to label it appropriately.
+</p>
+<p><b>Contenido de dominio público:</b> ¡El contenido en el dominio público es bienvenido! No obstante, es importante que usted confirme la condición de dominio público del contenido bajo la ley de los Estados Unidos de América así como las leyes de cualquier otro país según se requiera en la edición de Proyecto específica. Cuando usted contribuye con contenido en el dominio público, usted garantiza que el material realmente está en el dominio público, y usted acepta etiquetarlo apropiadamente.
+</p>
+<p>Las condiciones por las que una obra puede considerarse bajo dominio público están en <a class="extiw" href="https://en.wikipedia.org/wiki/s:Help:Public_domain" title="en:s:Help:Public domain">en:s:Help:Public domain</a>. De forma orientativa y general:  
+</p>
+<p>Licencia del sitio externo a Wikipedia
+</p>
+<p>Posibilidad de introducir ese texto a Wikipedia
+</p>
+<p>Dominio público
+</p>
+<p>solo GFDL 1.0
+</p>
+<p>solo GFDL 1.1
+</p>
+<p>solo GFDL 1.2
+</p>
+<p>solo GFDL
+</p>
+<p>Antes de 01-11-2008:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>SÍ</b>
+</p>
+<p>Después de 01-11-2008:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>No</b>
+</p>
+<p>CC-BY (cualquier versión)
+</p>
+<p>CC-BY-SA-1.0
+</p>
+<p>CC-BY-SA-2.0 / 2.5
+</p>
+<p>Antes de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>No</b>
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>SÍ</b><span class="Apple-converted-space"> </span>para crear obras derivadas
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>No</b><span class="Apple-converted-space"> </span>para copiar la obra entera
+</p>
+<p>CC-BY-SA-3.0
+</p>
+<p>Antes de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>No</b>
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>SÍ</b>
+</p>
+<p>CC-BY-SA-4.0
+</p>
+<p>CC-BY-ND
+</p>
+<p>CC-BY-NC
+</p>
+<p>CC-BY-NC-SA
+</p>
+<p>CC-BY-NC-ND
+</p>
+<p>GFDL-CC-BY dual
+</p>
+<p>GFDL-CC-BY-SA-3.0 dual
+</p>
+<p><b>Re-use:</b> Re-use of content that we host is welcome, though exceptions exist for content contributed under "fair use" or similar exemptions under copyright law. Any re-use must comply with the underlying license(s).
+When you re-use or re-distribute a text page developed by the Wikimedia community, you agree to attribute the authors in any of the following fashions:
+</p>
+<p><b>Reutilización:</b> La reutilización de contenido que alojamos es bienvenida, aunque existen excepciones para contenido contribuido bajo exenciones de "uso razonable" o similares bajo leyes de derechos de autor. Cualquier reutilización debe cumplir con las licencias subyacentes.
+Cuando usted reutiliza o redistribuye una página de texto desarrollada por la comunidad de Wikimedia, usted acepta atribuir los autores de alguna de las siguientes maneras:
+</p>
+<p>If the text content was imported from another source, it is possible that the content is licensed under a compatible CC BY-SA license but not GFDL (as described in “Importing text,” above). In that case, you agree to comply with the compatible CC BY-SA license and do not have the option to re-license it under GFDL. To determine the license that applies to the content that you seek to re-use or re-distribute, you should review the page footer, page history, and discussion page.
+</p>
+<p><i>Additional availability of text under the GNU Free Documentation License:</i>
+</p>
+<p>Si el contenido de texto fue importado de otra fuente, es posible que el contenido tenga una licencia compatible CC BY-SA pero no con GFDL (como se describe anteriormente en <a href="#Procedente_de_licencia_compatible_con_CC_BY-SA">"Importar texto"</a>). En ese caso, usted acepta cumplir con la licencia compatible CC BY-SA y no tiene la opción de relicenciarlo bajo GFDL. Para determinar la licencia que aplica al contenido que usted busca reutilizar o redistribuir, usted debería revisar el pie de página, la página de historial y la página de discusión.
+</p>
+<p><i>Disponibilidad adicional de texto bajo la GNU Free Documentation License:</i>
+</p>
+<p>In addition, please be aware that text that originated from external sources and was imported into a Project may be under a license that attaches additional attribution requirements. Users agree to indicate these additional attribution requirements clearly. Depending on the Project, such requirements may appear for example in a banner or other notations pointing out that some or all of the content was originally published elsewhere. Where there are such visible notations, re-users should preserve them.
+</p>
+<p>Además, por favor tenga presente que el texto originado en fuentes externas e importado a un Proyecto puede tener licencia con requisitos adicionales de atribución. Los usuarios aceptan indicar claramente estos requisitos adicionales de atribución. Dependiendo del Proyecto, dichos requisitos puede aparecer por ejemplo en una barra u otra notación que indique que parte o todo el contenido fue publicado originalmente en otro sitio. Cuando existen estas notaciones visibles, los reutilizadores deben preservarlas.
+</p>
+<p><b>Modifications or additions to material that you re-use:</b> When modifying or making additions to text that you have obtained from a Project website, you agree to license the modified or added content under CC BY-SA 3.0 or later (or, as explained above, another license when exceptionally required by the specific Project edition or feature).
+</p>
+<p><b>Modificaciones o añadidos a material que usted reutiliza:</b> Cuando usted modifica o realiza añadidos al texto que usted haya obtenido de un sitio web de un Proyecto, usted acepta publicar el contenido modificado o añadido bajo la licencia CC BY-SA 3.0 o posterior (o, como se explica anteriormente, bajo otra licencia cuando lo requiera excepcionalmente la edición o modalidad específica de Proyecto).<sup class="reference separada" id="cite_ref-wikinoticias_16-1"><a href="#cite_note-wikinoticias-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>With both text content and non-text media, you agree to clearly indicate that the original work has been modified. If you are re-using text content in a wiki, it is sufficient to indicate in the page history that you made a change to the imported text. For each copy or modified version that you distribute, you agree to include a licensing notice stating which license the work is released under, along with either a hyperlink or URL to the text of the license or a copy of the license itself.
+</p>
+<p>Tanto con medios textuales como no textuales, usted acepta indicar claramente que la obra original se modificó. Si usted reutiliza contenido de texto en una wiki, basta con indicar en la página de historial que usted realizó un cambio al texto importado. En cada copia o versión modificada que usted distribuya, usted acepta incluir un anuncio de licencia que establezca la licencia bajo la que se publica la obra, junto con o bien un hiperenlace o URL al texto de la licencia,<sup class="reference separada" id="cite_ref-25"><a href="#cite_note-25"><span class="corchete-llamada">[</span>25<span class="corchete-llamada">]</span></a></sup>​ o una copia de la propia licencia.
+</p>
+<p>Licencia del sitio externo a Wikipedia
+</p>
+<p>Posibilidad de introducir texto procedente de Wikimedia
+</p>
+<p>Dominio público
+</p>
+<p>solo GFDL 1.0
+</p>
+<p>solo GFDL 1.1
+</p>
+<p>solo GFDL 1.2
+</p>
+<p>Antes de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>SÍ</b>
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span style="white-space: nowrap;"><span class="Apple-converted-space"> </span><b>Posible</b></span><span class="Apple-converted-space"> </span>si no hay incluido contenido con CC-BY-SA en exclusiva
+</p>
+<p>solo GFDL
+</p>
+<p>Antes de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>SÍ</b>
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span style="white-space: nowrap;"><span class="Apple-converted-space"> </span><b>Posible</b></span><span class="Apple-converted-space"> </span>si no hay incluido contenido con CC-BY-SA en exclusiva
+</p>
+<p>CC-BY (cualquier versión)
+</p>
+<p>CC-BY-SA-1.0
+</p>
+<p>CC-BY-SA-2.0 / 2.5
+</p>
+<p>CC-BY-SA-3.0
+</p>
+<p>Antes de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>No</b>
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>SÍ</b>
+</p>
+<p>CC-BY-SA-4.0
+</p>
+<p>CC-BY-ND
+</p>
+<p>CC-BY-NC
+</p>
+<p>CC-BY-NC-SA
+</p>
+<p>CC-BY-NC-ND
+</p>
+<p>GFDL-CC-BY dual
+</p>
+<p>GFDL-CC-BY-SA-3.0 dual
+</p>
+<p>Antes de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>No</b>
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span style="white-space: nowrap;"><span class="Apple-converted-space"> </span><b>Posible</b></span><span class="Apple-converted-space"> </span>si no hay incluido contenido con CC-BY-SA en exclusiva.
+</p>
+<p>Las traducciones son obras derivadas en las que se expresa una obra en otro idioma distinto, y como obra derivada, la posibilidad de realización de una traducción está supeditada a la autorización del titular de los derechos de esa obra. La traducción de una obra establece unos nuevos derechos de autor para el traductor, de modo que al ser una obra protegida, la utilización de una traducción requiere la autorización tanto del autor como del traductor,<sup class="reference separada" id="cite_ref-28"><a href="#cite_note-28"><span class="corchete-llamada">[</span>28<span class="corchete-llamada">]</span></a></sup>​ ya que la traducción directa de una obra con derechos de autor constituye una violación de derechos de autor.<sup class="reference separada" id="cite_ref-29"><a href="#cite_note-29"><span class="corchete-llamada">[</span>29<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Teniendo en cuenta esto, y conforme a la sección de <i><a href="#Procedente_de_licencia_compatible_con_CC_BY-SA">Importar texto</a></i> indicado más arriba, la importación de contenidos de traducciones en Wikipedia requiere que tanto la obra original como la obra derivada traducida estén en dominio público o tengan una licencia compatible con CC BY-SA.
+</p>
+<p>La traducciones pueden presentarse como traducciones publicadas o como traducciones originales. Las <i>traducciones publicadas</i> han sido realizadas por un traductor acreditado y reconocido y no tienen por qué tener la misma licencia del texto original, puesto que la obra original puede estar en dominio público pero su traducción reciente pueder ser que no lo sea; por tanto, dado que la traducción tiene su propio estatus de derechos de autor, para determinar si la traducción publicada pertenece al dominio público hay que tener en cuenta la fecha de muerte del traductor. Las <i>traducciones originales</i> han sido elaboradas por el usuario de Wikipedia y por tanto están publicadas acorde con los términos de la licencia de Wikipedia CC BY-SA 3.0 tal y como se establece en la sección <i><a href="#Con_texto_importado">Con texto importado</a></i>, por lo que hay que acreditar de forma razonable la atribución de autoría de la obra original; en este tipo de traducciones también se contempla la traducción desde otros proyectos Wikimedia, que licenciados con CC BY-SA han de realizarse tal y como se establece en la sección <i><a href="#Reutilización_de_contenidos_alojados_en_Wikipedia">Reutilización de contenidos alojados en Wikipedia</a></i>.
+</p>
+<p>El objetivo fundamental de la Wikipedia, como proyecto de la Fundación Wikimedia y de acuerdo con su <a class="extiw" href="https://foundation.wikimedia.org/wiki/Mission_statement" title="foundation:Mission statement">declaración de principios</a>, es el de construir una enciclopedia libre, bajo una licencia de contenido libre, encargada de proteger legalmente el estatus de una obra libre. Las «licencias de contenido libre» son las que cumplen los términos de la <i>Definición de Obras Culturales Libres</i> que se especifican para las licencias y que se pueden encontrar en <a class="external free" href="http://freedomdefined.org/Definition/Es" rel="nofollow">http://freedomdefined.org/Definition/Es</a> versión 1.0. en la sección <i>Definición de licencias de cultura libre</i>.<sup class="reference separada" id="cite_ref-licensing_9-1"><a href="#cite_note-licensing-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Para alcanzar este objetivo, la política de licencias de la Fundación Wikimedia espera que todo el contenido alojado en los proyectos Wikimedia sea contenido libre. Sin embargo, la misma política también permite que los proyectos Wikimedia puedan adoptar una <i>Política de Doctrina de Excepción</i> (PDE) para permitir el uso de contenido no libre en el contexto del proyecto de una forma legal conforme a la ley de Estados Unidos (<i>fair use</i> o <i>uso legítimo</i>), sin importar el estado de la licencia.<sup class="reference separada" id="cite_ref-licensing_9-2"><a href="#cite_note-licensing-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ 
+</p>
+<p>Tal y como fue establecido en las votaciones <a href="/wiki/Wikipedia:Votaciones/2006/Cambiar_pol%C3%ADticas_y_reglas_de_uso_de_im%C3%A1genes" title="Wikipedia:Votaciones/2006/Cambiar políticas y reglas de uso de imágenes">Wikipedia:Votaciones/2006/Cambiar políticas y reglas de uso de imágenes</a> y <a href="/wiki/Wikipedia:Votaciones/2006/Extensi%C3%B3n_de_las_pol%C3%ADticas_de_im%C3%A1genes_a_todos_los_archivos" title="Wikipedia:Votaciones/2006/Extensión de las políticas de imágenes a todos los archivos">Wikipedia:Votaciones/2006/Extensión de las políticas de imágenes a todos los archivos</a> no se aprobó el establecer la Política de Doctrina de Excepción en imágenes y archivos con licencia no libre, y por tanto no se pueden incluir en el proyecto de <a href="/wiki/Wikipedia_en_espa%C3%B1ol" title="Wikipedia en español">Wikipedia en español</a>. 
+</p>
+<p>La <a href="/wiki/Fundaci%C3%B3n_Wikimedia" title="Fundación Wikimedia">Fundación Wikimedia</a> no es titular de los derechos de autor sobre los textos de los artículos o ilustraciones en <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>. Por lo tanto, es inútil enviar solicitudes al correo electrónico o a otros medios de contacto de la Fundación pidiendo autorización para reproducir tales contenidos. La autorización para el uso y reproducción está garantizada para todos sin necesidad de solicitud especial, en virtud de las licencias mencionadas en la sección anterior y las condiciones técnicas aplicables a Wikipedia; para pedir autorizaciones de uso fuera de tales términos y condiciones, se deberá contactar a todos los autores voluntarios del texto o ilustración de que se trate.
+</p>
+<p>Los únicos contenidos de Wikipedia sobre los cuales usted debería contactar a la Fundación Wikimedia son los logotipos de Wikipedia y de los otros proyectos de la Fundación, los cuales son marcas registradas que no pueden ser utilizadas sin autorización. Para más detalles sobre el uso de estos logotipos, visita <b><a class="extiw" href="https://meta.wikimedia.org/wiki/Trademark_policy/es" title="meta:Trademark policy/es">este enlace</a></b>.
+</p>
+<p>Los <a href="/wiki/Derecho_de_autor" title="Derecho de autor">derechos de autor</a> de los textos que figuran en Wikipedia corresponden a los editores que han colaborado en ellos y tales derechos se encuentran protegidos automáticamente en el marco del <a href="/wiki/Convenio_de_Berna_para_la_Protecci%C3%B3n_de_las_Obras_Literarias_y_Art%C3%ADsticas" title="Convenio de Berna para la Protección de las Obras Literarias y Artísticas">Convenio de Berna</a>, que establece los estándares mínimos de protección de derechos de autor que deben acatar y adaptarse los países ratificantes cuando estos los regulen libremente en sus leyes nacionales.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ La legislación aplicable a todos los proyectos Wikimedia es la de los Estados Unidos de América,<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​ que en el caso de los derechos de autor corresponde al Título 17 del Código de los Estados Unidos establecido en el <i>Copyright Act of 1976</i>.<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La mayoría de los textos de Wikipedia son licenciados bajo la <a class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/deed.es" rel="nofollow">Creative Commons Attribution/Share-Alike License 3.0 (Unported)</a> así como bajo la <a class="external text" href="http://www.gnu.org/copyleft/fdl.html" rel="nofollow">GNU Free Documentation License</a> (sin versionar, sin secciones, textos de tapa o contratapa invariantes). Los reutilizadores pueden elegir la licencia que deseen. Estas licencias sí permiten el uso comercial de los contenidos reutilizados, siempre y cuando que los usos que se les den respeten las condiciones establecidas en la licencia respectiva.
+</p>
+<p>Whereas the mission of the Wikimedia Foundation is to "empower and engage people around the world to collect and develop educational content under a free content license,"
+</p>
+<p>All projects are expected to host only content which is under a Free Content License, or which is otherwise free as recognized by the 'Definition of Free Cultural Works'.
+</p>
+<p>Dado que la misión de la Fundación Wikimedia es "permitir e involucrar a la gente de todo el mundo a reunir y desarrollar contenido educativo bajo una licencia de contenido libre",
+</p>
+<p>Todos los proyectos deberán almacenar únicamente contenido bajo una Licencia de Contenido Libre, o que de otra forma se reconozca como 'Definición de Obra Cultural Libre'.
+</p>
+<p>Las «obras culturales libres» (<i>Free Cultural Works</i>) son obras o expresiones que pueden ser libremente estudiadas, aplicadas, copiadas y/o modificadas por cualquiera, para cualquier propósito; pero también incluyen ciertas restricciones admisibles que respetan o protegen esas libertades esenciales.<sup class="reference separada" id="cite_ref-Free_8-0"><a href="#cite_note-Free-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ Por su parte, las «licencias de contenido libre» son las que pueden usarse para proteger legalmente el estatus de una obra libre,<sup class="reference separada" id="cite_ref-Free_8-1"><a href="#cite_note-Free-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ y son las que cumplen los términos de la <i>Definición de Obras Culturales Libres</i> que se especifican para las licencias y que se pueden encontrar en <a class="external free" href="http://freedomdefined.org/Definition/Es" rel="nofollow">http://freedomdefined.org/Definition/Es</a> versión 1.0. en la sección <i>Definición de licencias de cultura libre</i>.<sup class="reference separada" id="cite_ref-licensing_9-0"><a href="#cite_note-licensing-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ De este modo las licencias libres permiten:
+</p>
+<p>Todo aquello que no cumpla esta definición se considera contenido no libre.
+</p>
+<p>En 2008 las <a href="/wiki/Licencias_Creative_Commons" title="Licencias Creative Commons">Licencias Creative Commons</a> Atribución y Atribución-CompartirIgual fueron marcadas como <i>Approved for Free Cultural Works</i>.<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​ Posteriormente, desde el 15 de junio de 2009 se produjo la modificación de los términos de la licencia para incluir la licencia <a class="external text" href="http://es.creativecommons.org/licencia/" rel="nofollow">Creative Commons Attribution-ShareAlike</a> (CC-BY-SA) junto con la anterior licencia <a class="external text" href="http://www.gnu.org/home.es.html" rel="nofollow">GNU</a>.<sup class="reference separada" id="cite_ref-update_12-0"><a href="#cite_note-update-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>To grow the commons of free knowledge and free culture, all users contributing to the Projects are required to grant broad permissions to the general public to re-distribute and re-use their contributions freely, so long as that use is properly attributed and the same freedom to re-use and re-distribute is granted to any derivative works. In keeping with our goal of providing free information to the widest possible audience, we require that when necessary all submitted content be licensed so that it is freely reusable by anyone who cares to access it.
+</p>
+<p>Para hacer crecer el conocimiento y la cultura libre en común, todos los usuarios que contribuyen a nuestros Proyectos deben otorgar permisos amplios al público para redistribuir y reutilizar sus contribuciones libremente, siempre y cuando ese uso se atribuya adecuadamente y se otorguen las mismas libertades de reutilizar y redistribuir a cualquier obra derivada. Para cumplir con nuestra meta de proveer información libre a la mayor audiencia posible, requerimos que cuando sea necesario todo el contenido que usted contribuya tenga una licencia que permita que cualquiera que le interese acceder a él pueda reutilizarlo libremente.
+</p>
+<p>Las licencias que utiliza Wikipedia garantizan el libre acceso al contenido, con lo que este puede ser copiado, modificado y redistribuido siempre que la obra derivada esté disponible a otros en los mismos términos y se incluya el reconocimiento de la autoría del texto. Este principio es conocido como <i><a href="/wiki/Copyleft" title="Copyleft">copyleft</a></i>, en contraste con las licencias de <i>copyright</i>. 
+</p>
+<p>Para incrementar la compatibilidad y disponibilidad del contenido libre, los términos para los derechos de autor de Wikipedia se incluyen en las licencias:<sup class="reference separada" id="cite_ref-update_12-1"><a href="#cite_note-update-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>De este modo, el texto que debe ser introducido en Wikipedia solo puede tener o una licencia dual de ambas, o exclusivamente una licencia compatible con CC-BY-SA, pero no puede introducirse texto con la GFDL en exclusiva. Esto significa que CC-BY-SA es la primera licencia para el texto, mientras que GFDL se mantiene como licencia secundaria,<sup class="reference separada" id="cite_ref-13"><a href="#cite_note-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​ además, el texto que solo esté disponible y en exclusiva con una licencia CC-BY-SA o compatible con CC-BY-SA no puede reutilizarse bajo una GFDL, con lo que debe ser identificado o en el pie de página, o en el historial de la página o en la página de discusión.
+</p>
+<p>La tabla comparativa de ambas licencias puede hallarse en <a class="extiw" href="https://meta.wikimedia.org/wiki/Licensing_update/License_comparison/es" title="meta:Licensing update/License comparison/es">meta:Licensing update/License comparison/es</a>.
+</p>
+<p>Conforme a las votaciones <a href="/wiki/Wikipedia:Votaciones/2006/Cambiar_pol%C3%ADticas_y_reglas_de_uso_de_im%C3%A1genes" title="Wikipedia:Votaciones/2006/Cambiar políticas y reglas de uso de imágenes">Wikipedia:Votaciones/2006/Cambiar políticas y reglas de uso de imágenes</a> y <a href="/wiki/Wikipedia:Votaciones/2006/Extensi%C3%B3n_de_las_pol%C3%ADticas_de_im%C3%A1genes_a_todos_los_archivos" title="Wikipedia:Votaciones/2006/Extensión de las políticas de imágenes a todos los archivos">Wikipedia:Votaciones/2006/Extensión de las políticas de imágenes a todos los archivos</a>, los archivos de imagen, sonido, PDF...<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​ deben subirse a Commons y no deben alojarse en Wikipedia en español.
+</p>
+<p><b>Text to which you hold the copyright:</b> When you submit text to which you hold the copyright, you agree to license it under:
+</p>
+<p>(Re-users may comply with either license or both.)
+</p>
+<p>The only exception is if the Project edition or feature requires a different license. In that case, you agree to license any text you contribute under that particular license. For example, at the publication of this version of the Terms of Use, English Wikinews mandates that all text content is licensed under the Creative Commons Attribution 2.5 Generic License (CC BY 2.5) and does not require a dual license with GFDL.
+</p>
+<p>Please note that these licenses do allow commercial uses of your contributions, as long as such uses are compliant with the terms.
+</p>
+<p><b>Texto del cual usted posee derechos de autor:</b> Cuando usted contribuye texto del cual usted posee derechos de autor, usted acepta publicarlo bajo las siguientes licencias:
+</p>
+<p>(Los reutilizadores pueden cumplir cualquiera de las licencias o ambas.)
+</p>
+<p>La única excepción es si la edición o modalidad de Proyecto requiere una licencia diferente. En ese caso, usted acepta publicar cualquier texto que usted contribuya bajo esa licencia en particular. Por ejemplo, al momento de publicar esta versión de los Términos y condiciones de uso, Wikinews en Inglés requiere que todo el contenido de texto tenga la Licencia Creative Commons Attribución 2.5 Genérica ("CC BY 2.5") y no requiere una licencia dual con GFDL.
+</p>
+<p>Por favor tenga en cuenta que dichas licencias permiten el uso comercial de sus contribuciones en tanto que dichos usos cumplan con las condiciones.
+</p>
+<p><b>Attribution:</b> Attribution is an important part of these licenses. We consider it giving credit where credit is due – to authors like yourself. When you contribute text, you agree to be attributed in any of the following fashions:
+</p>
+<p><b>Atribución:</b> La atribución es una parte importante de estas licencias. Consideramos que es otorgar crédito cuando corresponde – a autores como usted. Cuando usted contribuye con texto, usted acepta ser atribuido de alguna de las siguientes maneras:
+</p>
+<p><b>No revocation of license:</b> Except as consistent with your license, you agree that you will not unilaterally revoke or seek invalidation of any license that you have granted under these Terms of Use for text content or non-text media contributed to the Wikimedia Projects or features, even if you terminate use of our services.
+</p>
+<p><b>No revocación de licencia:</b> Excepto cuando sea consistente con su licencia, usted acepta que usted no revocará o buscará invalidar unilateralmente cualquier licencia que usted haya otorgado según estos Términos y condiciones de uso a contenido de medios textuales o no textuales contribuido a los proyectos o modalidades de Wikimedia, incluso si usted termina de usar nuestros servicios.
+</p>
+<p><b>Importing text:</b> You may import text that you have found elsewhere or that you have co-authored with others, but in such case you warrant that the text is available under terms that are compatible with the CC BY-SA 3.0 license (or, as explained above, another license when exceptionally required by the Project edition or feature)("CC BY-SA"). Content available only under GFDL is not permissible.
+</p>
+<p><b>Importar texto:</b> Usted puede importar texto que encuentre en otro sitio o del que usted sea coautor, pero en esos casos usted debe garantizar que el texto esté disponible bajo términos compatibles con la licencia CC BY-SA 3.0<sup class="reference separada" id="cite_ref-15"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​ (o, como se explicó anteriormente, con otra licencia cuando se lo requiera excepcionalmente en la edición o modalidad de Proyecto) ("CC BY-SA").<sup class="reference separada" id="cite_ref-wikinoticias_16-0"><a href="#cite_note-wikinoticias-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​ No se permite contenido disponible solamente bajo la GFDL.<sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>You agree that, if you import text under a CC BY-SA license that requires attribution, you must credit the author(s) in a reasonable fashion. Where such credit is commonly given through page histories (such as Wikimedia-internal copying), it is sufficient to give attribution in the edit summary, which is recorded in the page history, when importing the text. The attribution requirements are sometimes too intrusive for particular circumstances (regardless of the license), and there may be instances where the Wikimedia community decides that imported text cannot be used for that reason.
+</p>
+<p>Usted acepta que, si usted importa texto bajo una licencia CC BY-SA que requiere atribución, usted debe otorgar crédito a los autores de manera razonable. Cuando dicho crédito se otorgue comúnmente mediante historias de páginas (como al copiar internamente en Wikimedia), al importar texto basta con otorgar atribución en el resumen de edición,<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​ que se registra en la historia de la página.<sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​ Los requisitos de atribución a veces son demasiado molestos en circunstancias particulares (más allá de la licencia), y puede haber instancias en las que la comunidad de Wikimedia decida que por esa razón no se pueda importar texto.
+</p>
+<p><b>Public domain content:</b> Content that is in the public domain is welcome! It is important however that you confirm the public domain status of the content under the law of the United States of America as well as the laws of any other countries as required by the specific Project edition. When you contribute content that is in the public domain, you warrant that the material is actually in the public domain, and you agree to label it appropriately.
+</p>
+<p><b>Contenido de dominio público:</b> ¡El contenido en el dominio público es bienvenido! No obstante, es importante que usted confirme la condición de dominio público del contenido bajo la ley de los Estados Unidos de América así como las leyes de cualquier otro país según se requiera en la edición de Proyecto específica. Cuando usted contribuye con contenido en el dominio público, usted garantiza que el material realmente está en el dominio público, y usted acepta etiquetarlo apropiadamente.
+</p>
+<p>Las condiciones por las que una obra puede considerarse bajo dominio público están en <a class="extiw" href="https://en.wikipedia.org/wiki/s:Help:Public_domain" title="en:s:Help:Public domain">en:s:Help:Public domain</a>. De forma orientativa y general:  
+</p>
+<p>Licencia del sitio externo a Wikipedia
+</p>
+<p>Posibilidad de introducir ese texto a Wikipedia
+</p>
+<p>Dominio público
+</p>
+<p>solo GFDL 1.0
+</p>
+<p>solo GFDL 1.1
+</p>
+<p>solo GFDL 1.2
+</p>
+<p>solo GFDL
+</p>
+<p>Antes de 01-11-2008:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>SÍ</b>
+</p>
+<p>Después de 01-11-2008:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>No</b>
+</p>
+<p>CC-BY (cualquier versión)
+</p>
+<p>CC-BY-SA-1.0
+</p>
+<p>CC-BY-SA-2.0 / 2.5
+</p>
+<p>Antes de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>No</b>
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>SÍ</b><span class="Apple-converted-space"> </span>para crear obras derivadas
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>No</b><span class="Apple-converted-space"> </span>para copiar la obra entera
+</p>
+<p>CC-BY-SA-3.0
+</p>
+<p>Antes de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>No</b>
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>SÍ</b>
+</p>
+<p>CC-BY-SA-4.0
+</p>
+<p>CC-BY-ND
+</p>
+<p>CC-BY-NC
+</p>
+<p>CC-BY-NC-SA
+</p>
+<p>CC-BY-NC-ND
+</p>
+<p>GFDL-CC-BY dual
+</p>
+<p>GFDL-CC-BY-SA-3.0 dual
+</p>
+<p><b>Re-use:</b> Re-use of content that we host is welcome, though exceptions exist for content contributed under "fair use" or similar exemptions under copyright law. Any re-use must comply with the underlying license(s).
+When you re-use or re-distribute a text page developed by the Wikimedia community, you agree to attribute the authors in any of the following fashions:
+</p>
+<p><b>Reutilización:</b> La reutilización de contenido que alojamos es bienvenida, aunque existen excepciones para contenido contribuido bajo exenciones de "uso razonable" o similares bajo leyes de derechos de autor. Cualquier reutilización debe cumplir con las licencias subyacentes.
+Cuando usted reutiliza o redistribuye una página de texto desarrollada por la comunidad de Wikimedia, usted acepta atribuir los autores de alguna de las siguientes maneras:
+</p>
+<p>If the text content was imported from another source, it is possible that the content is licensed under a compatible CC BY-SA license but not GFDL (as described in “Importing text,” above). In that case, you agree to comply with the compatible CC BY-SA license and do not have the option to re-license it under GFDL. To determine the license that applies to the content that you seek to re-use or re-distribute, you should review the page footer, page history, and discussion page.
+</p>
+<p><i>Additional availability of text under the GNU Free Documentation License:</i>
+</p>
+<p>Si el contenido de texto fue importado de otra fuente, es posible que el contenido tenga una licencia compatible CC BY-SA pero no con GFDL (como se describe anteriormente en <a href="#Procedente_de_licencia_compatible_con_CC_BY-SA">"Importar texto"</a>). En ese caso, usted acepta cumplir con la licencia compatible CC BY-SA y no tiene la opción de relicenciarlo bajo GFDL. Para determinar la licencia que aplica al contenido que usted busca reutilizar o redistribuir, usted debería revisar el pie de página, la página de historial y la página de discusión.
+</p>
+<p><i>Disponibilidad adicional de texto bajo la GNU Free Documentation License:</i>
+</p>
+<p>In addition, please be aware that text that originated from external sources and was imported into a Project may be under a license that attaches additional attribution requirements. Users agree to indicate these additional attribution requirements clearly. Depending on the Project, such requirements may appear for example in a banner or other notations pointing out that some or all of the content was originally published elsewhere. Where there are such visible notations, re-users should preserve them.
+</p>
+<p>Además, por favor tenga presente que el texto originado en fuentes externas e importado a un Proyecto puede tener licencia con requisitos adicionales de atribución. Los usuarios aceptan indicar claramente estos requisitos adicionales de atribución. Dependiendo del Proyecto, dichos requisitos puede aparecer por ejemplo en una barra u otra notación que indique que parte o todo el contenido fue publicado originalmente en otro sitio. Cuando existen estas notaciones visibles, los reutilizadores deben preservarlas.
+</p>
+<p><b>Modifications or additions to material that you re-use:</b> When modifying or making additions to text that you have obtained from a Project website, you agree to license the modified or added content under CC BY-SA 3.0 or later (or, as explained above, another license when exceptionally required by the specific Project edition or feature).
+</p>
+<p><b>Modificaciones o añadidos a material que usted reutiliza:</b> Cuando usted modifica o realiza añadidos al texto que usted haya obtenido de un sitio web de un Proyecto, usted acepta publicar el contenido modificado o añadido bajo la licencia CC BY-SA 3.0 o posterior (o, como se explica anteriormente, bajo otra licencia cuando lo requiera excepcionalmente la edición o modalidad específica de Proyecto).<sup class="reference separada" id="cite_ref-wikinoticias_16-1"><a href="#cite_note-wikinoticias-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>With both text content and non-text media, you agree to clearly indicate that the original work has been modified. If you are re-using text content in a wiki, it is sufficient to indicate in the page history that you made a change to the imported text. For each copy or modified version that you distribute, you agree to include a licensing notice stating which license the work is released under, along with either a hyperlink or URL to the text of the license or a copy of the license itself.
+</p>
+<p>Tanto con medios textuales como no textuales, usted acepta indicar claramente que la obra original se modificó. Si usted reutiliza contenido de texto en una wiki, basta con indicar en la página de historial que usted realizó un cambio al texto importado. En cada copia o versión modificada que usted distribuya, usted acepta incluir un anuncio de licencia que establezca la licencia bajo la que se publica la obra, junto con o bien un hiperenlace o URL al texto de la licencia,<sup class="reference separada" id="cite_ref-25"><a href="#cite_note-25"><span class="corchete-llamada">[</span>25<span class="corchete-llamada">]</span></a></sup>​ o una copia de la propia licencia.
+</p>
+<p>Licencia del sitio externo a Wikipedia
+</p>
+<p>Posibilidad de introducir texto procedente de Wikimedia
+</p>
+<p>Dominio público
+</p>
+<p>solo GFDL 1.0
+</p>
+<p>solo GFDL 1.1
+</p>
+<p>solo GFDL 1.2
+</p>
+<p>Antes de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>SÍ</b>
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span style="white-space: nowrap;"><span class="Apple-converted-space"> </span><b>Posible</b></span><span class="Apple-converted-space"> </span>si no hay incluido contenido con CC-BY-SA en exclusiva
+</p>
+<p>solo GFDL
+</p>
+<p>Antes de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>SÍ</b>
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span style="white-space: nowrap;"><span class="Apple-converted-space"> </span><b>Posible</b></span><span class="Apple-converted-space"> </span>si no hay incluido contenido con CC-BY-SA en exclusiva
+</p>
+<p>CC-BY (cualquier versión)
+</p>
+<p>CC-BY-SA-1.0
+</p>
+<p>CC-BY-SA-2.0 / 2.5
+</p>
+<p>CC-BY-SA-3.0
+</p>
+<p>Antes de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>No</b>
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>SÍ</b>
+</p>
+<p>CC-BY-SA-4.0
+</p>
+<p>CC-BY-ND
+</p>
+<p>CC-BY-NC
+</p>
+<p>CC-BY-NC-SA
+</p>
+<p>CC-BY-NC-ND
+</p>
+<p>GFDL-CC-BY dual
+</p>
+<p>GFDL-CC-BY-SA-3.0 dual
+</p>
+<p>Antes de 15-06-2009:<span class="Apple-converted-space"> </span><span class="Apple-converted-space"> </span><b>No</b>
+</p>
+<p>Después de 15-06-2009:<span class="Apple-converted-space"> </span><span style="white-space: nowrap;"><span class="Apple-converted-space"> </span><b>Posible</b></span><span class="Apple-converted-space"> </span>si no hay incluido contenido con CC-BY-SA en exclusiva.
+</p>
+<p>Las traducciones son obras derivadas en las que se expresa una obra en otro idioma distinto, y como obra derivada, la posibilidad de realización de una traducción está supeditada a la autorización del titular de los derechos de esa obra. La traducción de una obra establece unos nuevos derechos de autor para el traductor, de modo que al ser una obra protegida, la utilización de una traducción requiere la autorización tanto del autor como del traductor,<sup class="reference separada" id="cite_ref-28"><a href="#cite_note-28"><span class="corchete-llamada">[</span>28<span class="corchete-llamada">]</span></a></sup>​ ya que la traducción directa de una obra con derechos de autor constituye una violación de derechos de autor.<sup class="reference separada" id="cite_ref-29"><a href="#cite_note-29"><span class="corchete-llamada">[</span>29<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Teniendo en cuenta esto, y conforme a la sección de <i><a href="#Procedente_de_licencia_compatible_con_CC_BY-SA">Importar texto</a></i> indicado más arriba, la importación de contenidos de traducciones en Wikipedia requiere que tanto la obra original como la obra derivada traducida estén en dominio público o tengan una licencia compatible con CC BY-SA.
+</p>
+<p>La traducciones pueden presentarse como traducciones publicadas o como traducciones originales. Las <i>traducciones publicadas</i> han sido realizadas por un traductor acreditado y reconocido y no tienen por qué tener la misma licencia del texto original, puesto que la obra original puede estar en dominio público pero su traducción reciente pueder ser que no lo sea; por tanto, dado que la traducción tiene su propio estatus de derechos de autor, para determinar si la traducción publicada pertenece al dominio público hay que tener en cuenta la fecha de muerte del traductor. Las <i>traducciones originales</i> han sido elaboradas por el usuario de Wikipedia y por tanto están publicadas acorde con los términos de la licencia de Wikipedia CC BY-SA 3.0 tal y como se establece en la sección <i><a href="#Con_texto_importado">Con texto importado</a></i>, por lo que hay que acreditar de forma razonable la atribución de autoría de la obra original; en este tipo de traducciones también se contempla la traducción desde otros proyectos Wikimedia, que licenciados con CC BY-SA han de realizarse tal y como se establece en la sección <i><a href="#Reutilización_de_contenidos_alojados_en_Wikipedia">Reutilización de contenidos alojados en Wikipedia</a></i>.
+</p>
+<p>El objetivo fundamental de la Wikipedia, como proyecto de la Fundación Wikimedia y de acuerdo con su <a class="extiw" href="https://foundation.wikimedia.org/wiki/Mission_statement" title="foundation:Mission statement">declaración de principios</a>, es el de construir una enciclopedia libre, bajo una licencia de contenido libre, encargada de proteger legalmente el estatus de una obra libre. Las «licencias de contenido libre» son las que cumplen los términos de la <i>Definición de Obras Culturales Libres</i> que se especifican para las licencias y que se pueden encontrar en <a class="external free" href="http://freedomdefined.org/Definition/Es" rel="nofollow">http://freedomdefined.org/Definition/Es</a> versión 1.0. en la sección <i>Definición de licencias de cultura libre</i>.<sup class="reference separada" id="cite_ref-licensing_9-1"><a href="#cite_note-licensing-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Para alcanzar este objetivo, la política de licencias de la Fundación Wikimedia espera que todo el contenido alojado en los proyectos Wikimedia sea contenido libre. Sin embargo, la misma política también permite que los proyectos Wikimedia puedan adoptar una <i>Política de Doctrina de Excepción</i> (PDE) para permitir el uso de contenido no libre en el contexto del proyecto de una forma legal conforme a la ley de Estados Unidos (<i>fair use</i> o <i>uso legítimo</i>), sin importar el estado de la licencia.<sup class="reference separada" id="cite_ref-licensing_9-2"><a href="#cite_note-licensing-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ 
+</p>
+<p>Tal y como fue establecido en las votaciones <a href="/wiki/Wikipedia:Votaciones/2006/Cambiar_pol%C3%ADticas_y_reglas_de_uso_de_im%C3%A1genes" title="Wikipedia:Votaciones/2006/Cambiar políticas y reglas de uso de imágenes">Wikipedia:Votaciones/2006/Cambiar políticas y reglas de uso de imágenes</a> y <a href="/wiki/Wikipedia:Votaciones/2006/Extensi%C3%B3n_de_las_pol%C3%ADticas_de_im%C3%A1genes_a_todos_los_archivos" title="Wikipedia:Votaciones/2006/Extensión de las políticas de imágenes a todos los archivos">Wikipedia:Votaciones/2006/Extensión de las políticas de imágenes a todos los archivos</a> no se aprobó el establecer la Política de Doctrina de Excepción en imágenes y archivos con licencia no libre, y por tanto no se pueden incluir en el proyecto de <a href="/wiki/Wikipedia_en_espa%C3%B1ol" title="Wikipedia en español">Wikipedia en español</a>. 
+</p>
+<p>La <a href="/wiki/Fundaci%C3%B3n_Wikimedia" title="Fundación Wikimedia">Fundación Wikimedia</a> no es titular de los derechos de autor sobre los textos de los artículos o ilustraciones en <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>. Por lo tanto, es inútil enviar solicitudes al correo electrónico o a otros medios de contacto de la Fundación pidiendo autorización para reproducir tales contenidos. La autorización para el uso y reproducción está garantizada para todos sin necesidad de solicitud especial, en virtud de las licencias mencionadas en la sección anterior y las condiciones técnicas aplicables a Wikipedia; para pedir autorizaciones de uso fuera de tales términos y condiciones, se deberá contactar a todos los autores voluntarios del texto o ilustración de que se trate.
+</p>
+<p>Los únicos contenidos de Wikipedia sobre los cuales usted debería contactar a la Fundación Wikimedia son los logotipos de Wikipedia y de los otros proyectos de la Fundación, los cuales son marcas registradas que no pueden ser utilizadas sin autorización. Para más detalles sobre el uso de estos logotipos, visita <b><a class="extiw" href="https://meta.wikimedia.org/wiki/Trademark_policy/es" title="meta:Trademark policy/es">este enlace</a></b>.
+</p>

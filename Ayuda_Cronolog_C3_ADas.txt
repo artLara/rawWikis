@@ -1,0 +1,342 @@
+<p>Las <b>cronologías</b>, <b>cronografías</b>, <b>líneas de tiempo</b> o, en inglés, <i><b>timelines</b></i> son gráficos que sirven para mostrar la progresión temporal de hechos o acontecimientos. Para configurar líneas de tiempo con cierta comodidad, Wikimedia tiene un <a href="/wiki/Lenguaje_de_marcado" title="Lenguaje de marcado">lenguaje de marcado</a> especial cuyo resultado en la vista de presentación del artículo es una imagen que integra los textos como parte del gráfico, no siendo seleccionables como texto aislado.
+</p>
+<p>Información original en Wikimedia:
+</p>
+<p>En las líneas de tiempo se pueden poner enlaces internos como [[enlace]] y enlaces externos como [http://www.example.com/ enlace]. Los enlaces se mapean como áreas en la imagen resultante, no como textos.
+</p>
+<p>En la práctica, conviene poner cada línea de tiempos en una <a class="mw-redirect" href="/wiki/Ayuda:Plantilla" title="Ayuda:Plantilla">plantilla</a> aparte, para facilitar su edición, y que no estorbe al editar el resto del artículo. Además, así se puede reutilizar cómodamente en otros artículos relacionados.
+</p>
+<p>En Meta piden que se enlace cualquier línea de tiempos desde <a class="extiw" href="https://meta.wikimedia.org/wiki/Wikipedia_Project_Time_Charts/Index" title="meta:Wikipedia Project Time Charts/Index">esta página</a>, para comprobar si falla en caso de hacer un cambio en el software.
+</p>
+<p>Resultado:
+</p>
+<p>Resultados:
+</p>
+<p>Las cronologías se configuran mediante un texto delimitado por las etiquetas <code>&lt;timeline&gt;</code> y <code>&lt;/timeline&gt;</code>, consistente en <b>órdenes</b> de asignación de <b>valores</b> a diversos <b>atributos</b>, para indicar cómo componer finalmente la imagen de una gráfica cronológica. Estas asignaciones pueden ir acompañadas de <b>comentarios</b>.
+</p>
+<p>Ejemplo con el mínimo texto necesario para una sola barra (ampliar a varias es más sencillo):
+</p>
+<p>Resultado:
+</p>
+<p>Las órdenes disponibles agrupadas por tipos son:
+</p>
+<p>De ellas, las obligatorias son: <code>ImageSize</code>, <code>PlotArea</code> y <code>Period</code>. Además, debe haber <code>PlotData</code> o <code>TextData</code>. Todo lo demás es opcional.
+</p>
+<p>Las órdenes producen el mismo resultado en mayúsculas que en minúsculas o mezclando ambas. La estructura básica de las órdenes es:
+</p>
+<p>Ejemplo:
+</p>
+<p>Son textos que no afectan a la presentación pero que se entremezclan con el que realmente parametriza la cronología. Los comentarios sirven, bien para aclarar algún aspecto de la cronología mediante un lenguaje más natural y legible para los humanos (en contraposición al lenguaje técnico específico para configurar las cronologías), bien para anular temporalmente alguna porción del texto paramétrico. Esto último permite, tanto deshabilitar líneas erróneas de órdenes o parámetros, como anular porciones válidas. De esta forma, se puede analizar mejor las consecuencias de tal activación/desactivación e ir previsualizando progresivamente el efecto de cada cambio según se prepara una cronología para un artículo.
+</p>
+<p>Se denomina <i>comentar</i> o <i>marcar como comentario</i> a convertir en comentario un texto existente o introducir alguno nuevo y se llama <i>descomentar</i> a retirar dicha marcación de un texto comentado, para que su contenido se incorpore a la configuración de la cronología, en cuyo caso debería ser coherente con los atributos y órdenes ya presentes, para evitar añadir errores.
+</p>
+<p>Hay dos formas de comentar:
+</p>
+<p>La cantidad de espacios entre separaciones no afecta al resultado obtenido, desde varias líneas hasta un solo espacio e incluso ninguno al lado de <code>=</code>, <code>:</code>, <code>(</code>, <code>,</code> y <code>)</code>. Se suele indentar y alinear los textos relacionados para facilitar la legibilidad. Hay que considerar que:
+</p>
+<p>Ejemplo:
+</p>
+<p>Las órdenes <code><b><a href="#BarData">BarData</a></b></code>, <code><b><a href="#PlotData">PlotData</a></b></code>, <code><b><a href="#TextData">TextData</a></b></code> y <code><b><a href="#Colors">Colors</a></b></code> contienen un <b>bloque de datos</b>, que consiste en una serie de líneas consecutivas que deben comenzar al menos por un espacio. Por ello, un bloque de datos termina en cuanto aparece una línea no vacía sin espacio al comienzo.
+</p>
+<p>El espacio inicial no es exclusivo de los bloques de datos: cualquier línea puede comenzar por espacio, sea o no parte de un bloque.
+</p>
+<p>Ejemplo:
+</p>
+<p>Indica el alineamiento de las barras respecto al eje de tiempos y, al igual que la orden <code><b><a href="#DateFormat">DateFormat</a></b></code>, es especial en el sentido de que no tiene atributos, sino un único valor de entre tres opciones:
+</p>
+<p>Ejemplos comparativo de efectos sobre unos mismos datos, combinando los posibles valores de este y el atributo <code>orientation</code>, de la orden <code><b><a href="#TimeAxis">TimeAxis</a></b></code>:
+</p>
+<p>Asocia colores a ciertos elementos. Los colores deben definirse primero utilizando <code><b><a href="#Colors">Colors</a></b></code>.
+</p>
+<p>Ejemplos:
+</p>
+<p>Está indicada para cronologías muy complejas, porque sirve para reordenar fácilmente las barras, pudiendo ocultar alguna temporalmente, por imponerse el orden de su bloque sobre al de la orden <code><b><a href="#PlotData">PlotData</a></b></code>.
+</p>
+<p>Ejemplo:
+</p>
+<p>Sirve para identificar colores como estilos, facilitando cambiar el color de todos los elementos de un mismo estilo a la vez.
+</p>
+<p>Ejemplo:
+</p>
+<p>Esta orden indica el formato a usar con las fechas y, al igual que <code><b><a href="#AlignBars">AlignBars</a></b></code> es especial porque no tiene atributos sino un único valor de entre tres opciones:
+</p>
+<p>Ejemplo:
+</p>
+<p>Es una orden especial para definir un texto literal mediante un <b>identificador</b>, que debe empezar por <code>$</code>. Esto posibilita:
+</p>
+<p>Ejemplos:
+</p>
+<p>Traza líneas perpendiculares al eje de tiempos a lo largo de la gráfica, permitiendo separar períodos, por ejemplo.
+</p>
+<p>Ejemplo:
+</p>
+<p>Tamaño final de la imagen en píxeles. Limitado a 1600 x 1200 píxeles.
+</p>
+<p>Ejemplo:
+</p>
+<p>Leyenda o título de la línea de tiempos.
+</p>
+<p>Algunas distancias pueden especificarse de modo absoluto (píxeles) o relativo (porcentaje del gráfico) con otros atributos:
+</p>
+<p>Ejemplos:
+</p>
+<p>Periodo de tiempo que cubre la línea de tiempos. Los dos parámetros son obligatorios, y deben cumplir el formato especificado por <code><b><a href="#DateFormat">DateFormat</a></b></code>.
+</p>
+<p>Ejemplo:
+</p>
+<p>Zona real de la gráfica dentro de la imagen. Todos sus atributos pueden indicarse en unidades absolutas (píxeles) o relativas (porcentaje). Sirve para dejar margen para la leyenda y las etiquetas de los ejes, por lo que destacan los atributos <b>left</b> y <b>bottom</b>.
+</p>
+<p>Ejemplos:
+</p>
+<p>Define las barras (cada una de las cuales simboliza un periodo de tiempo), y pone un texto junto a ellas. Para textos sin relación con un período o fecha, o que requieren un formato especial, se recomienda usar <code><b><a href="#TextData">TextData</a></b></code>.
+</p>
+<p>Los atributos <code>text</code>, <code>at</code>, <code>from</code> y <code>till</code> se aplican solo a la barra en cuya línea aparecen. Los demás, si aparecen aparte, serán los valores por defecto en el resto del bloque de órdenes, o hasta que se den otros.
+</p>
+<p>Hay dos constantes predefinidas que se pueden usar como valores de fecha del eje de tiempos:
+</p>
+<p>Ejemplo:
+</p>
+<p>Ejemplo:
+</p>
+<p>Solo se mostrará un enlace por línea de texto (así que, si se cambia de línea con <code>~</code>, puede añadirse alguno más).
+</p>
+<p>Ejemplo 1:
+</p>
+<p>Ejemplo 2 (mismo resultado que en el ejemplo 1):
+</p>
+<p>Ejemplo:
+</p>
+<p>Resultado:
+</p>
+<p>Indica la "escala mayor", es decir, las rayas gruesas del eje de tiempos, que llevan la fecha escrita.
+</p>
+<p>Ejemplos:
+</p>
+<p>Rayas finas de la escala de tiempos. Funciona igual que <code><b><a href="#ScaleMajor">ScaleMajor</a></b></code>.
+</p>
+<p>Ejemplos:
+</p>
+<p>Párrafo de texto, que se puede poner en cualquier parte de la gráfica.
+</p>
+<p>Ejemplo:
+</p>
+<p>Resultado: 
+</p>
+<p>Eje de tiempos.
+</p>
+<p>Ejemplo:
+</p>
+<p>Las unidades absolutas se miden siempre en <a href="/wiki/P%C3%ADxel" title="Píxel">píxeles</a>. Se escriben simplemente poniendo el número.
+</p>
+<p>Ejemplo:
+</p>
+<p>Las unidades relativas se miden siempre en porcentajes del ancho o alto de la imagen. Se escriben poniendo un número y <code>%</code>.
+</p>
+<p>Ejemplo:
+</p>
+<p>Los textos <a href="/wiki/Unicode" title="Unicode">Unicode</a> no son admitidos, por lo que algunos caracteres pueden mostrarse mal. Véase <a href="#Fuentes_de_letra">Fuentes de letra</a>.
+</p>
+<p>Hay tres formas de introducir espacios en el texto:
+</p>
+<p>Ejemplos (todos dan el mismo resultado):
+</p>
+<p>En párrafos creados con <code><b><a href="#TextData">TextData</a></b></code>, hay dos caracteres especiales:
+</p>
+<p>Ejemplos:
+</p>
+<p>En Wikipedia, las líneas de tiempo pueden aparecer en dos formatos: <a class="mw-redirect" href="/wiki/PNG" title="PNG">PNG</a> y <a class="mw-redirect" href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a>. En ambos podemos usar enlaces, que serán barras o textos en azul
+</p>
+<p>Los enlaces pueden aparecer en las órdenes <code><b><a href="#BarData">BarData</a></b></code>, <code><b><a href="#PlotData">PlotData</a></b></code> o <code><b><a href="#TextData">TextData</a></b></code>,
+ya sea en el atributo <code>link</code>, o como parte de <code>text</code>.
+</p>
+<p>Son los enlaces que aparecen como parte de un texto (<i>text</i>) y se editan igual que el wikitexto normal, pudiendo ser:
+</p>
+<p>Ejemplo de enlace interno:
+</p>
+<p>Resultado:
+</p>
+<p>Ejemplo de enlace externo:
+</p>
+<p>Resultado:
+</p>
+<p>Ejemplo de enlace a la Wikipedia en inglés:
+</p>
+<p>Resultado:
+</p>
+<p>Los dos últimos enlaces van a distintas Wikipedias. Además, el texto que aparece al pasar el ratón sobre el enlace cambia.
+</p>
+<p>El tamaño de la letra se especifica con el atributo <code>fontsize</code>, con valores (de menor a mayor): <b>XS</b>, <b>S</b>, <b>M</b>, <b>L</b>, <b>XL</b>:
+</p>
+<p>En inglés:
+</p>
+<p>Las <b>cronologías</b>, <b>cronografías</b>, <b>líneas de tiempo</b> o, en inglés, <i><b>timelines</b></i> son gráficos que sirven para mostrar la progresión temporal de hechos o acontecimientos. Para configurar líneas de tiempo con cierta comodidad, Wikimedia tiene un <a href="/wiki/Lenguaje_de_marcado" title="Lenguaje de marcado">lenguaje de marcado</a> especial cuyo resultado en la vista de presentación del artículo es una imagen que integra los textos como parte del gráfico, no siendo seleccionables como texto aislado.
+</p>
+<p>Información original en Wikimedia:
+</p>
+<p>En las líneas de tiempo se pueden poner enlaces internos como [[enlace]] y enlaces externos como [http://www.example.com/ enlace]. Los enlaces se mapean como áreas en la imagen resultante, no como textos.
+</p>
+<p>En la práctica, conviene poner cada línea de tiempos en una <a class="mw-redirect" href="/wiki/Ayuda:Plantilla" title="Ayuda:Plantilla">plantilla</a> aparte, para facilitar su edición, y que no estorbe al editar el resto del artículo. Además, así se puede reutilizar cómodamente en otros artículos relacionados.
+</p>
+<p>En Meta piden que se enlace cualquier línea de tiempos desde <a class="extiw" href="https://meta.wikimedia.org/wiki/Wikipedia_Project_Time_Charts/Index" title="meta:Wikipedia Project Time Charts/Index">esta página</a>, para comprobar si falla en caso de hacer un cambio en el software.
+</p>
+<p>Resultado:
+</p>
+<p>Resultados:
+</p>
+<p>Las cronologías se configuran mediante un texto delimitado por las etiquetas <code>&lt;timeline&gt;</code> y <code>&lt;/timeline&gt;</code>, consistente en <b>órdenes</b> de asignación de <b>valores</b> a diversos <b>atributos</b>, para indicar cómo componer finalmente la imagen de una gráfica cronológica. Estas asignaciones pueden ir acompañadas de <b>comentarios</b>.
+</p>
+<p>Ejemplo con el mínimo texto necesario para una sola barra (ampliar a varias es más sencillo):
+</p>
+<p>Resultado:
+</p>
+<p>Las órdenes disponibles agrupadas por tipos son:
+</p>
+<p>De ellas, las obligatorias son: <code>ImageSize</code>, <code>PlotArea</code> y <code>Period</code>. Además, debe haber <code>PlotData</code> o <code>TextData</code>. Todo lo demás es opcional.
+</p>
+<p>Las órdenes producen el mismo resultado en mayúsculas que en minúsculas o mezclando ambas. La estructura básica de las órdenes es:
+</p>
+<p>Ejemplo:
+</p>
+<p>Son textos que no afectan a la presentación pero que se entremezclan con el que realmente parametriza la cronología. Los comentarios sirven, bien para aclarar algún aspecto de la cronología mediante un lenguaje más natural y legible para los humanos (en contraposición al lenguaje técnico específico para configurar las cronologías), bien para anular temporalmente alguna porción del texto paramétrico. Esto último permite, tanto deshabilitar líneas erróneas de órdenes o parámetros, como anular porciones válidas. De esta forma, se puede analizar mejor las consecuencias de tal activación/desactivación e ir previsualizando progresivamente el efecto de cada cambio según se prepara una cronología para un artículo.
+</p>
+<p>Se denomina <i>comentar</i> o <i>marcar como comentario</i> a convertir en comentario un texto existente o introducir alguno nuevo y se llama <i>descomentar</i> a retirar dicha marcación de un texto comentado, para que su contenido se incorpore a la configuración de la cronología, en cuyo caso debería ser coherente con los atributos y órdenes ya presentes, para evitar añadir errores.
+</p>
+<p>Hay dos formas de comentar:
+</p>
+<p>La cantidad de espacios entre separaciones no afecta al resultado obtenido, desde varias líneas hasta un solo espacio e incluso ninguno al lado de <code>=</code>, <code>:</code>, <code>(</code>, <code>,</code> y <code>)</code>. Se suele indentar y alinear los textos relacionados para facilitar la legibilidad. Hay que considerar que:
+</p>
+<p>Ejemplo:
+</p>
+<p>Las órdenes <code><b><a href="#BarData">BarData</a></b></code>, <code><b><a href="#PlotData">PlotData</a></b></code>, <code><b><a href="#TextData">TextData</a></b></code> y <code><b><a href="#Colors">Colors</a></b></code> contienen un <b>bloque de datos</b>, que consiste en una serie de líneas consecutivas que deben comenzar al menos por un espacio. Por ello, un bloque de datos termina en cuanto aparece una línea no vacía sin espacio al comienzo.
+</p>
+<p>El espacio inicial no es exclusivo de los bloques de datos: cualquier línea puede comenzar por espacio, sea o no parte de un bloque.
+</p>
+<p>Ejemplo:
+</p>
+<p>Indica el alineamiento de las barras respecto al eje de tiempos y, al igual que la orden <code><b><a href="#DateFormat">DateFormat</a></b></code>, es especial en el sentido de que no tiene atributos, sino un único valor de entre tres opciones:
+</p>
+<p>Ejemplos comparativo de efectos sobre unos mismos datos, combinando los posibles valores de este y el atributo <code>orientation</code>, de la orden <code><b><a href="#TimeAxis">TimeAxis</a></b></code>:
+</p>
+<p>Asocia colores a ciertos elementos. Los colores deben definirse primero utilizando <code><b><a href="#Colors">Colors</a></b></code>.
+</p>
+<p>Ejemplos:
+</p>
+<p>Está indicada para cronologías muy complejas, porque sirve para reordenar fácilmente las barras, pudiendo ocultar alguna temporalmente, por imponerse el orden de su bloque sobre al de la orden <code><b><a href="#PlotData">PlotData</a></b></code>.
+</p>
+<p>Ejemplo:
+</p>
+<p>Sirve para identificar colores como estilos, facilitando cambiar el color de todos los elementos de un mismo estilo a la vez.
+</p>
+<p>Ejemplo:
+</p>
+<p>Esta orden indica el formato a usar con las fechas y, al igual que <code><b><a href="#AlignBars">AlignBars</a></b></code> es especial porque no tiene atributos sino un único valor de entre tres opciones:
+</p>
+<p>Ejemplo:
+</p>
+<p>Es una orden especial para definir un texto literal mediante un <b>identificador</b>, que debe empezar por <code>$</code>. Esto posibilita:
+</p>
+<p>Ejemplos:
+</p>
+<p>Traza líneas perpendiculares al eje de tiempos a lo largo de la gráfica, permitiendo separar períodos, por ejemplo.
+</p>
+<p>Ejemplo:
+</p>
+<p>Tamaño final de la imagen en píxeles. Limitado a 1600 x 1200 píxeles.
+</p>
+<p>Ejemplo:
+</p>
+<p>Leyenda o título de la línea de tiempos.
+</p>
+<p>Algunas distancias pueden especificarse de modo absoluto (píxeles) o relativo (porcentaje del gráfico) con otros atributos:
+</p>
+<p>Ejemplos:
+</p>
+<p>Periodo de tiempo que cubre la línea de tiempos. Los dos parámetros son obligatorios, y deben cumplir el formato especificado por <code><b><a href="#DateFormat">DateFormat</a></b></code>.
+</p>
+<p>Ejemplo:
+</p>
+<p>Zona real de la gráfica dentro de la imagen. Todos sus atributos pueden indicarse en unidades absolutas (píxeles) o relativas (porcentaje). Sirve para dejar margen para la leyenda y las etiquetas de los ejes, por lo que destacan los atributos <b>left</b> y <b>bottom</b>.
+</p>
+<p>Ejemplos:
+</p>
+<p>Define las barras (cada una de las cuales simboliza un periodo de tiempo), y pone un texto junto a ellas. Para textos sin relación con un período o fecha, o que requieren un formato especial, se recomienda usar <code><b><a href="#TextData">TextData</a></b></code>.
+</p>
+<p>Los atributos <code>text</code>, <code>at</code>, <code>from</code> y <code>till</code> se aplican solo a la barra en cuya línea aparecen. Los demás, si aparecen aparte, serán los valores por defecto en el resto del bloque de órdenes, o hasta que se den otros.
+</p>
+<p>Hay dos constantes predefinidas que se pueden usar como valores de fecha del eje de tiempos:
+</p>
+<p>Ejemplo:
+</p>
+<p>Ejemplo:
+</p>
+<p>Solo se mostrará un enlace por línea de texto (así que, si se cambia de línea con <code>~</code>, puede añadirse alguno más).
+</p>
+<p>Ejemplo 1:
+</p>
+<p>Ejemplo 2 (mismo resultado que en el ejemplo 1):
+</p>
+<p>Ejemplo:
+</p>
+<p>Resultado:
+</p>
+<p>Indica la "escala mayor", es decir, las rayas gruesas del eje de tiempos, que llevan la fecha escrita.
+</p>
+<p>Ejemplos:
+</p>
+<p>Rayas finas de la escala de tiempos. Funciona igual que <code><b><a href="#ScaleMajor">ScaleMajor</a></b></code>.
+</p>
+<p>Ejemplos:
+</p>
+<p>Párrafo de texto, que se puede poner en cualquier parte de la gráfica.
+</p>
+<p>Ejemplo:
+</p>
+<p>Resultado: 
+</p>
+<p>Eje de tiempos.
+</p>
+<p>Ejemplo:
+</p>
+<p>Las unidades absolutas se miden siempre en <a href="/wiki/P%C3%ADxel" title="Píxel">píxeles</a>. Se escriben simplemente poniendo el número.
+</p>
+<p>Ejemplo:
+</p>
+<p>Las unidades relativas se miden siempre en porcentajes del ancho o alto de la imagen. Se escriben poniendo un número y <code>%</code>.
+</p>
+<p>Ejemplo:
+</p>
+<p>Los textos <a href="/wiki/Unicode" title="Unicode">Unicode</a> no son admitidos, por lo que algunos caracteres pueden mostrarse mal. Véase <a href="#Fuentes_de_letra">Fuentes de letra</a>.
+</p>
+<p>Hay tres formas de introducir espacios en el texto:
+</p>
+<p>Ejemplos (todos dan el mismo resultado):
+</p>
+<p>En párrafos creados con <code><b><a href="#TextData">TextData</a></b></code>, hay dos caracteres especiales:
+</p>
+<p>Ejemplos:
+</p>
+<p>En Wikipedia, las líneas de tiempo pueden aparecer en dos formatos: <a class="mw-redirect" href="/wiki/PNG" title="PNG">PNG</a> y <a class="mw-redirect" href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a>. En ambos podemos usar enlaces, que serán barras o textos en azul
+</p>
+<p>Los enlaces pueden aparecer en las órdenes <code><b><a href="#BarData">BarData</a></b></code>, <code><b><a href="#PlotData">PlotData</a></b></code> o <code><b><a href="#TextData">TextData</a></b></code>,
+ya sea en el atributo <code>link</code>, o como parte de <code>text</code>.
+</p>
+<p>Son los enlaces que aparecen como parte de un texto (<i>text</i>) y se editan igual que el wikitexto normal, pudiendo ser:
+</p>
+<p>Ejemplo de enlace interno:
+</p>
+<p>Resultado:
+</p>
+<p>Ejemplo de enlace externo:
+</p>
+<p>Resultado:
+</p>
+<p>Ejemplo de enlace a la Wikipedia en inglés:
+</p>
+<p>Resultado:
+</p>
+<p>Los dos últimos enlaces van a distintas Wikipedias. Además, el texto que aparece al pasar el ratón sobre el enlace cambia.
+</p>
+<p>El tamaño de la letra se especifica con el atributo <code>fontsize</code>, con valores (de menor a mayor): <b>XS</b>, <b>S</b>, <b>M</b>, <b>L</b>, <b>XL</b>:
+</p>
+<p>En inglés:
+</p>

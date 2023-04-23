@@ -1,0 +1,185 @@
+<p>La <b>radiación gamma</b> o <b>rayos gamma</b> es un tipo de <a href="/wiki/Radiaci%C3%B3n_electromagn%C3%A9tica" title="Radiación electromagnética">radiación electromagnética</a>, y por tanto constituida por <a href="/wiki/Fot%C3%B3n" title="Fotón">fotones</a>, producida generalmente por elementos <a href="/wiki/Radiactividad" title="Radiactividad">radiactivos</a> o por procesos subatómicos como la <a class="mw-redirect" href="/wiki/Aniquilaci%C3%B3n_positr%C3%B3n-electr%C3%B3n" title="Aniquilación positrón-electrón">aniquilación</a> de un par <a href="/wiki/Positr%C3%B3n" title="Positrón">positrón</a>-<a href="/wiki/Electr%C3%B3n" title="Electrón">electrón</a>. También se genera en fenómenos <a href="/wiki/Astrof%C3%ADsica" title="Astrofísica">astrofísicos</a> de gran violencia.
+</p>
+<p>Debido a las altas energías que poseen, los rayos gamma constituyen un tipo de <a href="/wiki/Radiaci%C3%B3n_ionizante" title="Radiación ionizante">radiación ionizante</a> capaz de penetrar en la materia más profundamente que la radiación <a href="/wiki/Part%C3%ADcula_alfa" title="Partícula alfa">alfa</a> y la <a href="/wiki/Part%C3%ADcula_beta" title="Partícula beta">beta</a>. Pueden causar grave daño al núcleo de las células, por lo cual se usan para esterilizar equipos médicos y alimentos.
+</p>
+<p>La energía de esta naturaleza se mide en <a href="/wiki/Electronvoltio" title="Electronvoltio">megaelectronvoltios</a> (MeV). Un MeV corresponde a <a href="/wiki/Fot%C3%B3n" title="Fotón">fotones</a> gamma de longitudes de onda inferiores a 10<sup>-11</sup> m o a frecuencias superiores a 10<sup>19</sup> <a href="/wiki/Hercio" title="Hercio">Hz</a>.
+</p>
+<p>Los rayos gamma se producen por desexcitación de un <a href="/wiki/Nucle%C3%B3n" title="Nucleón">nucleón</a> de un nivel o <a href="/wiki/Estado_excitado" title="Estado excitado">estado excitado</a> a otro de menor energía y por desintegración de isótopos radiactivos. Se diferencian de los <a href="/wiki/Rayos_X" title="Rayos X">rayos X</a> en su origen. Estos se generan a nivel extranuclear, por fenómenos de <a class="mw-redirect" href="/wiki/Frenado_electr%C3%B3nico" title="Frenado electrónico">frenado electrónico</a>. Generalmente la <a href="/wiki/Radiactividad" title="Radiactividad">radiactividad</a> se vincula con la <a href="/wiki/Energ%C3%ADa_nuclear" title="Energía nuclear">energía nuclear</a> y con los <a href="/wiki/Reactor_nuclear" title="Reactor nuclear">reactores nucleares</a>, aunque existe en el entorno natural: a <a href="/wiki/Radiaci%C3%B3n_c%C3%B3smica" title="Radiación cósmica">rayos cósmicos</a>, expelidos desde el <a href="/wiki/Sol" title="Sol">sol</a> y desde fuera de nuestro <a href="/wiki/Sistema_solar" title="Sistema solar">sistema solar</a>: de las <a href="/wiki/Galaxia" title="Galaxia">galaxias</a>; <a href="/wiki/Is%C3%B3topo" title="Isótopo">isótopos</a> radiactivos en rocas y minerales.
+</p>
+<p>En general, los rayos gamma producidos en el espacio no llegan a la <a href="/wiki/Superficie_terrestre" title="Superficie terrestre">superficie terrestre</a>, pues los absorbe la alta atmósfera. Para observar el universo en estas frecuencias es necesario utilizar globos de gran altitud u observatorios <a href="/wiki/Espacio_exterior" title="Espacio exterior">exoespaciales</a>. Para detectarlos, en ambos casos se utiliza el <a href="/wiki/Efecto_Compton" title="Efecto Compton">efecto Compton</a>. Estos rayos gamma se originan por fenómenos astrofísicos de alta energía, como explosiones de <a href="/wiki/Supernova" title="Supernova">supernovas</a> o núcleos de galaxias activas.
+</p>
+<p>En Astrofísica se denomina <a href="/wiki/Brote_de_rayos_gamma" title="Brote de rayos gamma">GRB</a> (sigla de <i>"gamma ray bursts"</i>) a fuentes de rayos gamma que duran unos segundos o pocas horas, secundados por un brillo decreciente en la fuente por <a href="/wiki/Rayos_X" title="Rayos X">rayos X</a> durante algunos días. Ocurren en posiciones aleatorias del cielo. Su origen permanece todavía bajo discusión científica. En todo caso parecen constituir los fenómenos más energéticos del <a href="/wiki/Universo" title="Universo">universo</a>.
+</p>
+<p>Excepcionales son los rayos gamma de energía superior a unos gigaelectronvoltios (GeV, miles de MeV) que al incidir en la atmósfera producen miles de <a href="/wiki/Part%C3%ADcula_subat%C3%B3mica" title="Partícula subatómica">partículas</a> (<a href="/wiki/Cascada_atmosf%C3%A9rica_extensa" title="Cascada atmosférica extensa">cascada atmosférica extensa</a>), los cuales, como viajan a velocidades cercanas a la <a href="/wiki/Luz" title="Luz">lumínica</a> en el aire, generan <a href="/wiki/Radiaci%C3%B3n_de_Cherenkov" title="Radiación de Cherenkov">radiación de Cherenkov</a>. Esta radiación se detecta en la superficie de la Tierra mediante un <a class="mw-redirect" href="/wiki/Telescopio_Cherenkov" title="Telescopio Cherenkov">telescopio Cherenkov</a>.
+</p>
+<p>La primera fuente de rayos gamma descubierta históricamente fue el proceso del <a class="mw-redirect" href="/wiki/Decaimiento_radiactivo" title="Decaimiento radiactivo">decaimiento radiactivo</a> llamado <b>decaimiento gamma</b>. En este tipo de desintegración, un núcleo excitado emite un rayo gamma casi inmediatamente después de su formación (esto ahora se entiende como una <a href="/wiki/Transici%C3%B3n_isom%C3%A9rica" title="Transición isomérica">transición isomérica</a> nuclear, aunque también puede producirse la desintegración gamma inhibida con un medible y mucho más tiempo medio de vida). <a class="mw-redirect" href="/wiki/Paul_Villard" title="Paul Villard">Paul Villard</a>, un químico y físico francés, descubrió la radiación gamma en 1900, mientras estudiaba la radiación emitida por el <a href="/wiki/Radio_(elemento)" title="Radio (elemento)">radio</a>. Villard sabía que su radiación era más potente que los tipos de radiación descritos anteriormente de los rayos de radio, como los <a class="mw-redirect" href="/wiki/Rayos_beta" title="Rayos beta">rayos beta</a>, observados por primera vez como "radiactividad" por <a href="/wiki/Henri_Becquerel" title="Henri Becquerel">Henri Becquerel</a> en 1896, y los <a class="mw-redirect" href="/wiki/Rayos_alfa" title="Rayos alfa">rayos alfa</a>, descubiertos como una forma menos penetrante de la radiación por Rutherford, en 1899. Sin embargo, Villard no consideró al nombrarlos que fueran un tipo fundamental diferente.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ La radiación de Villard fue reconocida en 1903 por Ernest Rutherford como un tipo fundamentalmente diferente de rayos, siendo además quien los nombró como «rayos gamma», por analogía con los rayos alfa y beta que él mismo había diferenciado en 1899.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​ Los <i>rayos</i> emitidos por los elementos radiactivos fueron nombrados en función del poder de penetrar diversos materiales, utilizando las tres primeras letras del alfabeto griego: rayos alfa, los menos penetrantes, seguido de los rayos beta y los rayos gamma, los más penetrantes. Rutherford también se dio cuenta de que los rayos gamma no eran desviados (o al menos, no desviados fácilmente) por un campo magnético, otra propiedad que los diferenciaba de los rayos alfa y beta.
+</p>
+<p>Al principio se pensaba que los rayos gamma eran partículas con masa, como los rayos alfa y beta. Rutherford creía que podrían ser partículas beta extremadamente rápidas, pero la imposibilidad de desviarlos mediante un campo magnético indicaba que no tenían carga.<sup class="reference separada" id="cite_ref-RaP_4-0"><a href="#cite_note-RaP-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ En 1914, se observó que los rayos gamma se reflejaban en las superficies de cristal, demostrando que eran una radiación electromagnética.<sup class="reference separada" id="cite_ref-RaP_4-1"><a href="#cite_note-RaP-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ Rutherford y su compañero <a class="new" href="/w/index.php?title=Edward_Andrade&amp;action=edit&amp;redlink=1" title="Edward Andrade (aún no redactado)">Edward Andrade</a> midieron las longitudes de onda de los rayos gamma del radio, y encontraron que eran similares a las de los rayos X, pero con menor longitud de onda y (por ello) una frecuencia más alta. Esto fue finalmente reconocido al dárseles también más energía por <a href="/wiki/Fot%C3%B3n" title="Fotón">fotón</a>, tan pronto como este último término fue aceptado generalmente. El decaimiento gamma fue entonces entendido como la emisión de un solo fotón gamma.
+</p>
+<p>Para protegerse de los rayos gamma se requiere gran cantidad de masa, dependiendo de la energía, ya que la distancia también es barrera, así como el tiempo de exposición, no siempre es una "gran barrera" en uso médico el Tc99m no se requiere de una gran barrera y no se ha demostrado que induzca al cáncer. Los materiales de <a href="/wiki/N%C3%BAmero_at%C3%B3mico" title="Número atómico">número atómico</a> y <a href="/wiki/Densidad" title="Densidad">densidad</a> altos protegen mejor; y a mayor <a href="/wiki/Energ%C3%ADa" title="Energía">energía</a> de los rayos el espesor de la protección debe ser superior. Tales materiales se clasifican según el espesor necesario para reducir la <a href="/wiki/Amplitud_(f%C3%ADsica)" title="Amplitud (física)">intensidad</a> de los rayos gamma a la mitad, espesor conocido como HVL (del inglés <i>half-value layer</i>, capa de valor medio). Por ejemplo los rayos gamma que requieren 1 cm de <a href="/wiki/Plomo" title="Plomo">plomo</a> para atenuar su intensidad en un 50% también la disminuyen en igual proporción al atravesar 6 cm de hormigón o 9 cm de <a href="/wiki/Suelo" title="Suelo">tierra</a> compacta.
+</p>
+<p>Cuando un rayo gamma pasa a través de la <a href="/wiki/Materia" title="Materia">materia</a>, la probabilidad de <a href="/wiki/Absorci%C3%B3n_(%C3%B3ptica)" title="Absorción (óptica)">absorción</a> en una capa fina es proporcional al grosor de dicha capa. Esto implica decrecimiento <a class="mw-redirect" href="/wiki/Exponencial" title="Exponencial">exponencial</a> de la intensidad.
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I(d)=I_{0}\cdot e^{-\mu d}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>I</mi>
+<mo stretchy="false">(</mo>
+<mi>d</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>μ<!-- μ --></mi>
+<mi>d</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I(d)=I_{0}\cdot e^{-\mu d}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle I(d)=I_{0}\cdot e^{-\mu d}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/689cd3d05b82be70e96d7c7dda767daa42377e06" style="vertical-align: -0.838ex; width:15.497ex; height:3.176ex;"/></span>
+</p>
+<p>siendo:
+</p>
+<p>Pasando a través de la materia, la radiación gamma <a href="/wiki/Radiaci%C3%B3n_ionizante" title="Radiación ionizante">ioniza</a> principalmente de tres maneras: <a href="/wiki/Efecto_fotoel%C3%A9ctrico" title="Efecto fotoeléctrico">efecto fotoeléctrico</a>, <a href="/wiki/Efecto_Compton" title="Efecto Compton">efecto Compton</a> y <a href="/wiki/Creaci%C3%B3n_de_pares" title="Creación de pares">creación de pares</a>.
+</p>
+<p>Frecuentemente la energía de los <a href="/wiki/Electr%C3%B3n_secundario" title="Electrón secundario">electrones secundarios</a> (o positrones) producidos en cualquier de estos tres procesos es suficiente para generar muchas <a href="/wiki/Ionizaci%C3%B3n" title="Ionización">ionizaciones</a> hasta su conclusión (de los procesos).
+</p>
+<p>En rigor, la absorción exponencial descrita arriba se mantiene sólo para un rango estrecho de rayos gamma. Si un rayo más ancho pasa a través de un bloque de hormigón fino, la dispersión en los lados reduce la absorción.
+</p>
+<p>A menudo los rayos gamma ocurren entre otras categorías de radiación, como la alfa y la beta. Cuando un núcleo emite una partícula α o β, a veces el <a class="mw-redirect" href="/wiki/Producto_de_desintegraci%C3%B3n" title="Producto de desintegración">producto de desintegración</a> queda excitado y puede saltar a un nivel de energía inferior y emite un rayo gamma. De igual manera un electrón atómico puede saltar a un nivel de energía inferior y emite luz visible o radiación <a class="mw-redirect" href="/wiki/Ultravioleta" title="Ultravioleta">ultravioleta</a>.
+</p>
+<p>Los posibles tipos de <a href="/wiki/Radiaci%C3%B3n_electromagn%C3%A9tica" title="Radiación electromagnética">radiación electromagnética</a> son: rayos gamma, rayos X, luz visible y rayos ultravioleta: UV (<a class="mw-redirect mw-disambig" href="/wiki/UVA" title="UVA">UVA</a> y <a class="new" href="/w/index.php?title=UVB&amp;action=edit&amp;redlink=1" title="UVB (aún no redactado)">UVB</a>). Los UVB son más energéticos. También existen la <a href="/wiki/Espectro_visible" title="Espectro visible">luz visible</a>, las <a href="/wiki/Microondas" title="Microondas">ondas de microondas</a> y las <a href="/wiki/Ondas_de_radio" title="Ondas de radio">ondas de radio</a>. La única diferencia entre ellos es por la <a href="/wiki/Frecuencia" title="Frecuencia">frecuencia</a>, y por lo tanto según la <a href="/wiki/Energ%C3%ADa" title="Energía">energía</a> de los <a href="/wiki/Fot%C3%B3n" title="Fotón">fotones</a>, de lo cual resulta que los rayos gamma son los más energéticos. A continuación se muestra un ejemplo de producción de rayos gamma.
+</p>
+<p>Primero <sup>60</sup><a href="/wiki/Cobalto" title="Cobalto">Co</a> se descompone en <sup>60</sup><a href="/wiki/N%C3%ADquel" title="Níquel">Ni</a> excitado:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {}^{60}{\hbox{Co}}\;\to \;^{60}{\hbox{Ni*}}\;+\;e^{-}\;+\;{\overline {\nu }}_{e}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>60</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>Co</mtext>
+</mstyle>
+</mrow>
+<mspace width="thickmathspace"></mspace>
+<mo stretchy="false">→<!-- → --></mo>
+<msup>
+<mspace width="thickmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>60</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>Ni*</mtext>
+</mstyle>
+</mrow>
+<mspace width="thickmathspace"></mspace>
+<mo>+</mo>
+<mspace width="thickmathspace"></mspace>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+<mspace width="thickmathspace"></mspace>
+<mo>+</mo>
+<mspace width="thickmathspace"></mspace>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>ν<!-- ν --></mi>
+<mo accent="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {}^{60}{\hbox{Co}}\;\to \;^{60}{\hbox{Ni*}}\;+\;e^{-}\;+\;{\overline {\nu }}_{e}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {}^{60}{\hbox{Co}}\;\to \;^{60}{\hbox{Ni*}}\;+\;e^{-}\;+\;{\overline {\nu }}_{e}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0ff9ef6b1c822cd4213e26b0d634275dba034443" style="vertical-align: -0.671ex; width:28.952ex; height:3.009ex;"/></span>
+</p>
+<p>Luego el <sup>60</sup>Ni ingresa a su <a class="mw-redirect" href="/wiki/Estado_fundamental" title="Estado fundamental">estado fundamental</a> y emite dos rayos gamma consecutivos.
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {}^{60}{\hbox{Ni*}}\;\to \;^{60}{\hbox{Ni}}\;+\;\gamma .}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>60</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>Ni*</mtext>
+</mstyle>
+</mrow>
+<mspace width="thickmathspace"></mspace>
+<mo stretchy="false">→<!-- → --></mo>
+<msup>
+<mspace width="thickmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>60</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>Ni</mtext>
+</mstyle>
+</mrow>
+<mspace width="thickmathspace"></mspace>
+<mo>+</mo>
+<mspace width="thickmathspace"></mspace>
+<mi>γ<!-- γ --></mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {}^{60}{\hbox{Ni*}}\;\to \;^{60}{\hbox{Ni}}\;+\;\gamma .}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {}^{60}{\hbox{Ni*}}\;\to \;^{60}{\hbox{Ni}}\;+\;\gamma .}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8da4053f1a3834e6b2ae026681eeb054f7cb7940" style="vertical-align: -0.838ex; width:20.639ex; height:3.176ex;"/></span>
+</p>
+<p>Estos rayos gamma son de 1,17 MeV y 1,33 MeV, respectivamente.
+</p>
+<p>Otro ejemplo es la descomposición alfa de <sup>241</sup><a href="/wiki/Americio" title="Americio">Am</a>, para producir <sup>237</sup><a href="/wiki/Neptunio" title="Neptunio">Np</a>. Esta descomposición genera emisión gamma. En algunos casos, esta emisión es bastante simple, por ejemplo, <sup>60</sup>Co/<sup>60</sup>Ni. En casos como <sup>241</sup>Am/<sup>237</sup>Np y <sup>192</sup><a href="/wiki/Iridio" title="Iridio">Ir</a>/<sup>192</sup><a href="/wiki/Platino" title="Platino">Pt</a> la emisión gamma es compleja. Revela que puede existir una serie de distintos niveles de energía nuclear. El hecho de que en un espectro alfa pueda existir diversidad de picos, de diferentes energías, refuerza la idea de posibilidad de muchos niveles de energía nuclear.
+</p>
+<p>Debido a que una descomposición beta emite un <a href="/wiki/Neutrino" title="Neutrino">neutrino</a>, que a su vez resta energía, en el espectro beta no existen líneas definidas, sino un pico ancho. Por lo tanto, de una sola descomposición beta no es posible determinar los diferentes niveles energéticos del núcleo.
+</p>
+<p>En <a href="/wiki/%C3%93ptica" title="Óptica">óptica</a> espectrópica es bien conocido que una entidad que emite luz también puede absorber luz de la misma longitud de onda (energía del fotón). Por ejemplo un llama de <a href="/wiki/Sodio" title="Sodio">sodio</a> puede emitir luz amarilla. Además puede absorber luz amarilla de una lámpara de <a class="new" href="/w/index.php?title=Vapor_de_sodio&amp;action=edit&amp;redlink=1" title="Vapor de sodio (aún no redactado)">vapor de sodio</a>. En el caso de los rayos gamma se puede observar en <a href="/wiki/Espectroscopia_M%C3%B6ssbauer" title="Espectroscopia Mössbauer">espectroscopia Mössbauer</a>, donde se puede obtener una corrección por la energía perdida por el retroceso del núcleo y, mediante resonancia, las condiciones exactas de absorción de rayos gamma.
+</p>
+<p>La potencia de los rayos gamma los hace útiles para <a href="/wiki/Esterilizaci%C3%B3n_(microbiolog%C3%ADa)" title="Esterilización (microbiología)">esterilización</a> de equipo <a href="/wiki/Medicina" title="Medicina">médico</a>. Se suelen utilizar para exterminar <a href="/wiki/Bacteria" title="Bacteria">bacterias</a> e <a class="mw-redirect" href="/wiki/Insecto" title="Insecto">insectos</a> en productos <a href="/wiki/Alimento" title="Alimento">alimentarios</a> tales como <a href="/wiki/Carne" title="Carne">carne</a>, <a href="/wiki/Seta" title="Seta">setas</a>, <a href="/wiki/Huevo_(alimento)" title="Huevo (alimento)">huevos</a> y <a href="/wiki/Verdura" title="Verdura">verduras</a>, con el fin de mantener su frescura.
+</p>
+<p>Debido a la capacidad de penetrar en los <a href="/wiki/Tejido_(biolog%C3%ADa)" title="Tejido (biología)">tejidos</a>, los rayos gamma o los rayos X tienen un amplio espectro de <a href="/wiki/Medicina_nuclear" title="Medicina nuclear">usos médicos</a>, como realización de <a href="/wiki/Tomograf%C3%ADa" title="Tomografía">tomografías</a> y estudios de <a class="mw-redirect" href="/wiki/Medicina_Nuclear" title="Medicina Nuclear">Medicina Nuclear</a>.<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ Sin embargo, por su condición de <a href="/wiki/Radiaci%C3%B3n_ionizante" title="Radiación ionizante">radiación ionizante</a>, si se afecta el <a class="mw-redirect" href="/wiki/ADN" title="ADN">ADN</a> conllevan habilidad de provocar cambios moleculares que pueden repercutir en efectos <a href="/wiki/C%C3%A1ncer" title="Cáncer">cancerígenos</a>.
+</p>
+<p>A pesar de las propiedades cancerígenas, los rayos gamma también se utilizan para <a href="/wiki/Tratamiento_(medicina)" title="Tratamiento (medicina)">tratamiento</a> de ciertos tipos de cáncer. En el procedimiento llamado <a href="/wiki/Cirug%C3%ADa" title="Cirugía">cirugía</a> <i><a href="/wiki/Bistur%C3%AD_Gamma" title="Bisturí Gamma">gamma-knife</a></i>, múltiples rayos concentrados de rayos gamma se dirigen hacia <a href="/wiki/C%C3%A9lula" title="Célula">células</a> cancerosas. Los rayos se emiten desde distintos ángulos para focalizar la radiación en el <a href="/wiki/Tumor" title="Tumor">tumor</a>, a la vez que se minimiza el daño a los tejidos de alrededor.
+</p>
+<p>Los rayos gamma también se utilizan en <a href="/wiki/Medicina_nuclear" title="Medicina nuclear">Medicina nuclear</a> para realizar <a href="/wiki/Diagn%C3%B3stico" title="Diagnóstico">diagnósticos</a>. Se utilizan muchos <a href="/wiki/Radiois%C3%B3topo" title="Radioisótopo">radioisótopos</a> emisores de rayos gamma. Uno de ellos es el <a href="/wiki/Tecnecio" title="Tecnecio">tecnecio</a> 99m: <sup>99m</sup>Tc. Cuando se le administra a un paciente, una <a href="/wiki/C%C3%A1mara_gamma" title="Cámara gamma">cámara gamma</a> puede utilizar la radiación emitida para obtener una imagen de la distribución del radioisótopo. Esta técnica se emplea en diagnosis de un amplio espectro de <a href="/wiki/Enfermedad" title="Enfermedad">enfermedades</a>, por ejemplo en detección de cáncer óseo (de <a href="/wiki/Hueso" title="Hueso">huesos</a>).
+</p>
+<p><br clear="all"/>
+</p>

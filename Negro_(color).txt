@@ -1,0 +1,96 @@
+<p>El <b>negro</b> es la <a href="/wiki/Percepci%C3%B3n_visual" title="Percepción visual">percepción visual</a> de máxima <a href="/wiki/Oscuridad" title="Oscuridad">oscuridad</a>; debido a la inexistencia de <a href="/wiki/Fotorreceptor" title="Fotorreceptor">fotorrecepción</a>, por falta total o casi total de la <a href="/wiki/Luz" title="Luz">luz</a>.
+</p>
+<p>El negro es el color que se encuentra estandarizado en catálogos de colores e inventarios cromáticos y responde a la definición dada más arriba; es de claridad nula y acromático. La denominación del color negro incluye las coloraciones similares al negro estándar que poseen una ligera variación de saturación y matiz.<sup class="reference separada" id="cite_ref-DicColor_2-0"><a href="#cite_note-DicColor-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La palabra <b>negro</b> deriva del <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a> <i>nĭger</i>, <i>nĭgra</i>, <i>nĭgrum</i>.<sup class="reference separada" id="cite_ref-Corominas_3-0"><a href="#cite_note-Corominas-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​ De origen incierto, tal vez del <a href="/wiki/Idioma_protoindoeuropeo" title="Idioma protoindoeuropeo">protoindoeuropeo</a> <i>*nekw–t–</i>, ‘noche’.<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En <a class="mw-redirect" href="/wiki/Idioma_castellano" title="Idioma castellano">castellano</a>, el término «negro» comienza a usarse hacia el año <a href="/wiki/1140" title="1140">1140</a>.<sup class="reference separada" id="cite_ref-Corominas_3-1"><a href="#cite_note-Corominas-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El lexema <b>melan</b>, <b>melano</b> o <b>melena</b>, del <a href="/wiki/Griego_antiguo" title="Griego antiguo">griego</a> <i>μέλαν</i>, <i>μέλαινα</i> y este de la raíz <a href="/wiki/Lenguas_indoeuropeas" title="Lenguas indoeuropeas">indoeuropea</a> <i>*melə²–no–</i>, asocia a los términos que lo incluyen con el color negro. Algunos ejemplos de esto son las palabras melena, melancolía y melanina.<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En el sistema de <a href="/wiki/S%C3%ADntesis_sustractiva_de_color" title="Síntesis sustractiva de color">síntesis sustractiva de color</a>, donde se crean los colores mezclando <a href="/wiki/Pigmento" title="Pigmento">pigmentos</a> o <a href="/wiki/Tinte" title="Tinte">tintes</a>, la tríada de <a class="mw-redirect" href="/wiki/Colores_primarios" title="Colores primarios">colores primarios</a> más usual son el <a class="mw-redirect" href="/wiki/Cian_(color)" title="Cian (color)">cian</a>, el <a href="/wiki/Magenta" title="Magenta">magenta</a> y el <a href="/wiki/Amarillo" title="Amarillo">amarillo</a>. En teoría y en este sistema, se puede conseguir negro mediante la mezcla de los tres primarios. Sin embargo, en la práctica se consigue un color negruzco, pero no negro. Esto es debido a que los pigmentos no son exactamente cian ni magenta ni amarillo. Para representarlo es necesario contar con un pigmento de ese color.
+</p>
+<p>El procedimiento de impresión por <a class="mw-redirect" href="/wiki/Cuatricrom%C3%ADa" title="Cuatricromía">cuatricromía</a> (el que se usa para imprimir; por ejemplo, libros y revistas en color) emplea los tres colores primarios sustractivos (cian, magenta y amarillo), con el agregado de negro. De allí que un color para cuatricromía se describa mediante el porcentaje de <a href="/wiki/Tinta" title="Tinta">tinta</a> de cada uno de estos cuatro colores que entra en su composición. Como este sistema cuenta con tinta negra, un área impresa en negro puede estar compuesta por K=100 (100 % de negro); es decir, por tinta negra pura. Pero puede procurarse un negro más profundo mediante la mezcla de negro con los colores primarios. C=100 (100 % de cian), M=100 (100 % de magenta), Y=100 (100 % de amarillo) y K=100 (100 % de negro) daría el negro más oscuro posible, pero con el fin de evitar demoras en el secado de las tintas, en la práctica se emplean proporciones menores de estos colores primarios.
+</p>
+<p>En el <a href="/wiki/S%C3%ADntesis_aditiva_de_color" title="Síntesis aditiva de color">sistema aditivo de síntesis de color</a>, en el cual los colores se obtienen mezclando luz de color en lugar de pigmentos; los colores primarios son el <a href="/wiki/Rojo" title="Rojo">rojo</a>, el <a href="/wiki/Verde" title="Verde">verde</a> y el <a href="/wiki/Azul" title="Azul">azul</a>. Esto significa que cuando se trabaja con luz de color basta con mezclar esos tres colores en diferentes proporciones para obtener todos los demás. En este sistema no es posible crear negro mediante mezcla. Para representarlo se debe prescindir de la luz, es decir, llevar los colores primarios a una intensidad nula.
+</p>
+<p>Este sistema aditivo de colores luz es el que utilizan los monitores y televisores para producir colores. En dicho sistema, un color se describe con valores numéricos para cada uno de sus componentes; indicando al rojo con «R», al verde con «G» y al azul con «B». En una escala de valores de 0 a 255, el negro aditivo puro se expresa como R=0 (nada de rojo), G=0 (nada de verde) y B=0 (nada de azul).
+</p>
+<p>En varios contextos y culturas el negro puede simbolizar también cuestiones positivas:
+</p>
+<p>En las <a href="/wiki/Occidente" title="Occidente">sociedades occidentales</a>, el color negro es utilizado a menudo con connotaciones negativas. Existen varias razones para ello, pero la más ampliamente aceptada es que la noche a lo largo de la historia ha sido experiencia humana negativa y peligrosa. Otra posible explicación es que las manchas son más visibles sobre un fondo pálido, y contrastan con un concepto cultural de "pureza". 
+</p>
+<p>En las sociedades occidentales, el negro se asocia también con la pena y el luto. Así muchos períodos de tiempo son etiquetados como «negros» en referencia a acontecimientos nefastos o luctuosos. Ya los <a href="/wiki/Antigua_Roma" title="Antigua Roma">romanos</a> marcaban a los días de celebración (<i>fasti</i>) con piedras blancas, y a los nefastos (<i>nefasti</i>) con negras.
+</p>
+<p>Fechas de las cuales «negro» simboliza eventos fatídicos y nefastos:
+</p>
+<p><br/>
+</p>
+<p>En el <a href="/wiki/Clasismo" title="Clasismo">clasismo</a> tradicional de las culturas occidentales, una piel pálida implica una distinción entre la gentileza y el intelecto propio o doméstico, en oposición a la rudeza del mundo exterior. 
+</p>
+<p>Las cuestiones relativas a esta oposición <a class="mw-redirect" href="/wiki/Blanco_(color)" title="Blanco (color)">blanco</a>-negro no son privativas de Occidente, ya que -por ejemplo- en <a href="/wiki/India" title="India">India</a> existe una organización tradicional en <a href="/wiki/Casta" title="Casta">castas</a>.
+</p>
+<p>Escritores africanos, afro-caribeños y afro-americanos como <a href="/wiki/Frantz_Fanon" title="Frantz Fanon">Frantz Fanon</a>, <a href="/wiki/Langston_Hughes" title="Langston Hughes">Langston Hughes</a>, <a href="/wiki/Maya_Angelou" title="Maya Angelou">Maya Angelou</a> y <a href="/wiki/Ralph_Ellison" title="Ralph Ellison">Ralph Ellison</a>, identifican particularmente una cantidad de simbolismos negativos alrededor de la palabra negro; arguyendo que el dualismo <i>buenos versus malos</i> asociado con blancos y negros llena de connotaciones racistas a la metáfora cromática racial.
+</p>
+<p>El negro <a class="mw-redirect" href="/wiki/Her%C3%A1ldico" title="Heráldico">heráldico</a> se denomina <b><a href="/wiki/Sable_(her%C3%A1ldica)" title="Sable (heráldica)">sable</a></b>. Los antiguos <a class="mw-redirect" href="/wiki/Armoriales" title="Armoriales">armoriales</a> que se conservan muestran que es uno de los <a href="/wiki/Esmalte_(her%C3%A1ldica)" title="Esmalte (heráldica)">esmaltes</a> heráldicos más antiguos.
+</p>
+<p>En <a href="/wiki/Vexilolog%C3%ADa" title="Vexilología">vexilología</a>, el negro es un color muy frecuente, aunque raro como fondo de una bandera. Este color también se encuentra en algunos grupos de banderas que comparten colores nacionales por razones étnicas: los <a href="/wiki/Colores_pan%C3%A1rabes" title="Colores panárabes">colores panárabes</a> y los <a href="/wiki/Colores_panafricanos" title="Colores panafricanos">colores panafricanos</a>.
+</p>
+<p>En los ejemplos bajo estas líneas: el «águila federal» (<i>Bundesadler</i>) del <a href="/wiki/Escudo_de_Alemania" title="Escudo de Alemania">escudo de Alemania</a>, de sable sobre campo de oro, que deriva del <a href="/wiki/%C3%81guila_bic%C3%A9fala" title="Águila bicéfala">águila bicéfala</a> del <a class="mw-redirect" href="/wiki/Sacro_Imperio_Romano-Germ%C3%A1nico" title="Sacro Imperio Romano-Germánico">Sacro Imperio Romano-Germánico</a>; la <a href="/wiki/Pantera_negra_(s%C3%ADmbolo)" title="Pantera negra (símbolo)">«pantera negra»</a> (<i>črni panter</i>) de <a href="/wiki/Carantania" title="Carantania">Carantania</a>, símbolo del patriotismo <a href="/wiki/Eslovenia" title="Eslovenia">esloveno</a>; el color negro «panafricano» de la bandera de <a href="/wiki/Angola" title="Angola">Angola</a>, que representa a los pueblos del <a class="mw-redirect" href="/wiki/%C3%81frica_negra" title="África negra">África sub-sahariana</a>.
+</p>
+<p>Escudo de Alemania
+</p>
+<p>Pantera de Carantania
+</p>
+<p>Bandera de Angola
+</p>
+<p>Bandera de Alemania
+</p>
+<p>Bandera de Bélgica
+</p>
+<p>Bandera de Papua Nueva Guinea
+</p>
+<p>Bandera de Ceuta
+</p>
+<p>Bandera de Afganistán 1992-2002
+</p>
+<p><i>Véase <a href="/wiki/Colores_pol%C3%ADticos#Negro" title="Colores políticos">colores políticos: negro político</a></i>.
+</p>
+<p><i>Véase <a href="/wiki/Colores_lit%C3%BArgicos" title="Colores litúrgicos">colores litúrgicos</a></i>.
+</p>
+<p>En el universo predomina el negro de la oscuridad del espacio exterior.
+</p>
+<p>Joyería del s.XIX en <a href="/wiki/Azabache" title="Azabache">azabache</a>.
+</p>
+<p><a href="/wiki/Carb%C3%B3n" title="Carbón">Carbón</a> de madera
+</p>
+<p><a href="/wiki/Vantablack" title="Vantablack">Vantablack</a> está fabricada con nanotubos de <a href="/wiki/Carbono" title="Carbono">carbono</a> y es la sustancia más negra conocida.
+</p>
+<p>Lápiz de <a href="/wiki/Grafito" title="Grafito">grafito</a>, un tipo de carbón
+</p>
+<p><a href="/wiki/Oboe" title="Oboe">Oboes</a> hechos con madera de <a href="/wiki/%C3%89bano" title="Ébano">ébano</a>
+</p>
+<p>Taza de <a href="/wiki/Caf%C3%A9" title="Café">café</a> negro.
+</p>
+<p>Repujado <a href="/wiki/Cordob%C3%A1n_(color)" title="Cordobán (color)">cordobán</a> en <a href="/wiki/Cordob%C3%A1n" title="Cordobán">cuero caprino</a>
+</p>
+<p>Suelo de <a href="/wiki/Lava" title="Lava">lava</a> en <a href="/wiki/Haw%C3%A1i" title="Hawái">Hawái</a>
+</p>
+<p>Color <a href="/wiki/Negro_de_humo#Negro_bujía" title="Negro de humo">negro bujía</a> del pigmento <a href="/wiki/Negro_de_carb%C3%B3n" title="Negro de carbón">negro de carbón</a>
+</p>
+<p><a href="/wiki/Humo" title="Humo">Humo</a> negro
+</p>
+<p>Uso artístico del negro en la <a href="/wiki/Cueva_de_Lascaux" title="Cueva de Lascaux">cueva de Lascaux</a> hace 17.000 años
+</p>
+<p><a class="mw-redirect" href="/wiki/Monje_benedictino" title="Monje benedictino">Monje benedictino</a> de 1484
+</p>
+<p><a href="/wiki/Pantera_negra" title="Pantera negra">Pantera negra</a>
+</p>
+<p><a href="/wiki/Latrodectus" title="Latrodectus">Viuda negra</a>
+</p>
+<p><a class="mw-redirect" href="/wiki/Aceitunas" title="Aceitunas">Aceitunas</a> negras
+</p>
+<p>Rara flor negra (<i><a href="/wiki/Fritillaria_camschatcensis" title="Fritillaria camschatcensis">Fritillaria camschatcensis</a></i>)
+</p>
+<p>Niñas etíopes <a href="/wiki/Nil%C3%B3tico" title="Nilótico">nilóticas</a> (<a href="/wiki/Anuak" title="Anuak">anuak</a>). La piel oscura se ha relacionado con los pueblos <a href="/wiki/Negro_(persona)" title="Negro (persona)">negros</a> o de raza <a href="/wiki/Negroide" title="Negroide">negra</a>.
+</p>

@@ -1,0 +1,170 @@
+<p>Un <b>ImageMap</b> es un recurso que permite hacer clic en la imagen de un mapa. ImageMap es una lista de coordenadas de una imagen específica, cada zona de la imagen se asocia con un hipervínculo o enlace a un artículo relacionado (en contraste con un enlace de imagen normal, en el que toda la zona de la imagen se asocia a un solo destino). Por ejemplo, en un mapa del mundo puede tener siete <a class="mw-redirect" href="/wiki/Continentes" title="Continentes">continentes</a> y un hipervínculo a cada uno con más información sobre cada continente. El propósito de ImageMap es proporcionar una manera fácil de conectar diversas partes de una imagen sin dividir la imagen en archivos de imágenes separadas.
+</p>
+<p>El ejemplo sencillo anterior, no importa dónde se hace clic, enlaza a la página principal <a href="/wiki/Pent%C3%A1gono" title="Pentágono">Pentágono</a>, para obtener información acerca de la imagen, haga clic en el icono azul <b>i</b>.
+</p>
+<p>El cuerpo de un mapa de imagen: ImageMap, esta entre las etiquetas:
+</p>
+<p>La etiqueta de comienzo:  &lt;imagemap&gt; , indica el comienzo del cuerpo de instrucciones y la etiqueta  &lt;/imagemap&gt;  señala el final, el cuerpo intermedio tienen que ser instrucciones correctas según la sintaxis de ImageMap.
+</p>
+<p>El cuerpo de ImageMap puede estar formado por:
+</p>
+<p>Así podemos ver, que los comentarios no afectan al resultado, son notas para facilitar las posteriores ediciones. Las líneas en blanco no son tenidas en cuenta y las líneas de instrucciones configuran el mapa.
+</p>
+<p>La primera línea de instrucciones, después de la etiqueta de inicio, se especifica la imagen a presentar, la imagen debe estar en el mismo formato que un enlace de imagen ordinaria MediaWiki, señalando el nombre y la extensión.
+</p>
+<p>Despues de la imagen, se indican los distintos parámetros.
+</p>
+<p>La dimensión de la imagen se determina, señalando el ancho en píxeles, indicando el valor seguido de px.
+</p>
+<p><br clear="all"/>
+</p>
+<p>La Alineación de la imagen en la pantalla, pudiendo situarla a la <b>izquierda</b>, por omisión:
+</p>
+<p><br clear="all"/>
+</p>
+<p>Para situar la imagen en el centro de la pantalla se indica <b>centrada</b> como parámetro:
+</p>
+<p><br clear="all"/>
+</p>
+<p>Para que la imagen quede en el lado derecho se indica <b>derecha</b> en la cabecera:
+</p>
+<p><br clear="all"/>
+</p>
+<p>Se pueden indicar los siguientes parámetros de formato:
+</p>
+<p>En el formato <b>thumb</b>, la imagen se sitúa a la derecha de la pantalla, en un rectángulo, con pie de imagen si se ha añadido un texto y un icono, doble rectángulo, a la derecha abajo que acede a las características de la figura representada, se desactiva la instrucción <b>desc</b>.
+</p>
+<p><br clear="all"/>
+</p>
+<p>El parámetro de formato <b>borde</b>, añade un rectángulo de color gris a la imagen, la posición de la imagen y la instrucción <b>desc</b> serán la especificada, no se presenta el texto de pie de imagen.<br clear="all"/>
+</p>
+<p>Las otras líneas se dividen en fichas, separadas por espacios en blanco. La función de cada línea se determina por la primera palabra en la línea. Todas las coordenadas corresponden con la imagen a su tamaño original, no al tamaño la imagen presentada. Las coordenadas, se debe especificar, horizontalmente la distancia desde el borde izquierdo (número de píxeles horizontales), y verticalmente  la distancia desde la parte superior (número de píxeles verticales).
+Como ejemplo tomaremos una imagen de 300px de ancho y 200px de alto, para ilustrar el ejemplo, en la imagen se han representado las coordenada, con centro de referencia en la esquina superior izquierda, las coordenadas de un punto se señalan primero la horizontal, eje x, y después la vertical, eje y.
+</p>
+<p>En la imagen podemos ver los pares ordenados (x,y), de las coordenadas de los puntos, siendo el punto (0,0), la esquina superior derecha, en la figura se pueden ver los puntos: (50,50); (60,90); (100,150); (200,70); (250,180) y su posición en la pantalla.
+</p>
+<p>En la figura tenemos un <a href="/wiki/Rombo" title="Rombo">rombo</a>, que tomaremos como ejemplo de polígono de vértices <b>a</b>(25,75), <b>b</b>(70,15), <b>c</b>(145,15) y <b>d</b>(140,140), añadiendo estos datos tendremos que poniendo el cursor sobre el polígono así definido aparecerá el nombre del archivo referenciado y haciendo clip sobre el accederemos a este articulo.
+</p>
+<p>El <a href="/wiki/C%C3%ADrculo" title="Círculo">círculo</a> de color azul de centro <b>C</b>(140,140) y de radio <b>r</b>(50), lo podemos añadir al mapa, del siguiente modo:
+</p>
+<p>En la figura también podemos ver un <a href="/wiki/Rect%C3%A1ngulo" title="Rectángulo">rectángulo</a> de color verde, de vértice superior izquierdo <b>e</b>(200,25) é inferior derecho <b>f</b>(275,85), estos dos vértices definen el rectángulo.
+</p>
+<p>Por omisión se sitúa en: <b>bottom-right</b>: inferior derecha.
+</p>
+<p>El icono de referencia es una <b>i</b> blanca en un circulo azul que enlaza con la imagen del mapa y su descripción. Este parámetro se omite para <b>thumb</b> dado que en lugar del icono presenta el habitual doble rectángulo.
+</p>
+<p>Así podemos ver un ejemplo con una imagen sin representar las coordenadas de los puntos, y con el valor <b>desc bottom-left</b>.
+</p>
+<p>Puede utilizar un <i>accesorio</i>, en <i>Commons</i>, que se llama <i>ImageMapEdit</i>, de Dario D. Müller (<a class="external text" href="https://meta.wikimedia.org/wiki/ImageMapEdit_Howto">ImageMapEdit_Howto</a>). Para utilizarlo es necesario situarse, obviamente, en <i>Commons</i>, activar <i>ImageMapEdit</i> (dejando marcada la casilla) de la página <i>Accesorios</i> de <i>Preferencias</i>, está al final del segundo grupo de accesorios.
+</p>
+<p>Entonces debajo de cualquier imagen de Commons, aparece el enlace <i>ImageMapEdit &gt;</i>, que activa el accesorio.
+</p>
+<p>Veámoslo en el ejemplo de un ojo, en que seleccionaremos el área de la <a href="/wiki/C%C3%B3rnea" title="Córnea">córnea</a> con un círculo:
+</p>
+<p>En este caso (puede clicar el enlace que sigue), después de abrir <a class="extiw" href="https://commons.wikimedia.org/wiki/File:Eagle(owl)-eye.JPG" title="commons:File:Eagle(owl)-eye.JPG">Eagle(owl)-eye.JPG</a> en <i>Commons</i>, y una vez clicado <i>ImageMapEdit &gt;</i>, aparecerá el accesorio con el código inicial escrito en el recuadro de abajo (<i>Generated wikicode</i>).
+</p>
+<p>Clicaremos <i>circle</i>, situaremos el cursor en el centro del ojo clicaremos y una vez apartado el cursor del centro y posicionado en el borde de la córnea clicaremos con el botón derecho, con lo cual:
+</p>
+<p>Añadiremos el enlace "Córnea". Con lo que tendremos:
+</p>
+<p>Recordamos que se podrían añadir otras áreas y de otros tipos. El tipo más fácil de utilizar es el polígono (<i>poly(gon)</i>) y habitualmente el más difícil de ajustar es el círculo.
+</p>
+<p>Copie el contenido de <i>Generated wikicode</i> al <a href="/wiki/Portapapeles" title="Portapapeles">portapapeles</a>. Luego pegamos, en el modo <i>Editar código,</i> el contenido del portapapeles en el artículo (ocasionalmente una plantilla, y en este caso en esta ayuda) de la Wikipedia, según convenga.
+</p>
+<p>Añadimos en el código (&lt;imagemap&gt;...) de la imagen (ya copiado en el artículo) la anchura que nos parezca adecuada (en este caso hemos optado por 250px) en la línea del nombre del fichero, tal como se muestra:
+</p>
+<p><br style="clear:both"/>
+Con lo que se obtiene:
+</p>
+<p>Intente pasar el cursor del ratón por encima de la córnea.
+</p>
+<p><br/>
+<i>ImageMap</i> no está pensado para contener un pie de imagen, para ello debemos incluir el código anterior en una tabla. Por ejemplo:
+</p>
+<p><br style="clear:both"/>
+</p>
+<p>Un <b>ImageMap</b> es un recurso que permite hacer clic en la imagen de un mapa. ImageMap es una lista de coordenadas de una imagen específica, cada zona de la imagen se asocia con un hipervínculo o enlace a un artículo relacionado (en contraste con un enlace de imagen normal, en el que toda la zona de la imagen se asocia a un solo destino). Por ejemplo, en un mapa del mundo puede tener siete <a class="mw-redirect" href="/wiki/Continentes" title="Continentes">continentes</a> y un hipervínculo a cada uno con más información sobre cada continente. El propósito de ImageMap es proporcionar una manera fácil de conectar diversas partes de una imagen sin dividir la imagen en archivos de imágenes separadas.
+</p>
+<p>El ejemplo sencillo anterior, no importa dónde se hace clic, enlaza a la página principal <a href="/wiki/Pent%C3%A1gono" title="Pentágono">Pentágono</a>, para obtener información acerca de la imagen, haga clic en el icono azul <b>i</b>.
+</p>
+<p>El cuerpo de un mapa de imagen: ImageMap, esta entre las etiquetas:
+</p>
+<p>La etiqueta de comienzo:  &lt;imagemap&gt; , indica el comienzo del cuerpo de instrucciones y la etiqueta  &lt;/imagemap&gt;  señala el final, el cuerpo intermedio tienen que ser instrucciones correctas según la sintaxis de ImageMap.
+</p>
+<p>El cuerpo de ImageMap puede estar formado por:
+</p>
+<p>Así podemos ver, que los comentarios no afectan al resultado, son notas para facilitar las posteriores ediciones. Las líneas en blanco no son tenidas en cuenta y las líneas de instrucciones configuran el mapa.
+</p>
+<p>La primera línea de instrucciones, después de la etiqueta de inicio, se especifica la imagen a presentar, la imagen debe estar en el mismo formato que un enlace de imagen ordinaria MediaWiki, señalando el nombre y la extensión.
+</p>
+<p>Despues de la imagen, se indican los distintos parámetros.
+</p>
+<p>La dimensión de la imagen se determina, señalando el ancho en píxeles, indicando el valor seguido de px.
+</p>
+<p><br clear="all"/>
+</p>
+<p>La Alineación de la imagen en la pantalla, pudiendo situarla a la <b>izquierda</b>, por omisión:
+</p>
+<p><br clear="all"/>
+</p>
+<p>Para situar la imagen en el centro de la pantalla se indica <b>centrada</b> como parámetro:
+</p>
+<p><br clear="all"/>
+</p>
+<p>Para que la imagen quede en el lado derecho se indica <b>derecha</b> en la cabecera:
+</p>
+<p><br clear="all"/>
+</p>
+<p>Se pueden indicar los siguientes parámetros de formato:
+</p>
+<p>En el formato <b>thumb</b>, la imagen se sitúa a la derecha de la pantalla, en un rectángulo, con pie de imagen si se ha añadido un texto y un icono, doble rectángulo, a la derecha abajo que acede a las características de la figura representada, se desactiva la instrucción <b>desc</b>.
+</p>
+<p><br clear="all"/>
+</p>
+<p>El parámetro de formato <b>borde</b>, añade un rectángulo de color gris a la imagen, la posición de la imagen y la instrucción <b>desc</b> serán la especificada, no se presenta el texto de pie de imagen.<br clear="all"/>
+</p>
+<p>Las otras líneas se dividen en fichas, separadas por espacios en blanco. La función de cada línea se determina por la primera palabra en la línea. Todas las coordenadas corresponden con la imagen a su tamaño original, no al tamaño la imagen presentada. Las coordenadas, se debe especificar, horizontalmente la distancia desde el borde izquierdo (número de píxeles horizontales), y verticalmente  la distancia desde la parte superior (número de píxeles verticales).
+Como ejemplo tomaremos una imagen de 300px de ancho y 200px de alto, para ilustrar el ejemplo, en la imagen se han representado las coordenada, con centro de referencia en la esquina superior izquierda, las coordenadas de un punto se señalan primero la horizontal, eje x, y después la vertical, eje y.
+</p>
+<p>En la imagen podemos ver los pares ordenados (x,y), de las coordenadas de los puntos, siendo el punto (0,0), la esquina superior derecha, en la figura se pueden ver los puntos: (50,50); (60,90); (100,150); (200,70); (250,180) y su posición en la pantalla.
+</p>
+<p>En la figura tenemos un <a href="/wiki/Rombo" title="Rombo">rombo</a>, que tomaremos como ejemplo de polígono de vértices <b>a</b>(25,75), <b>b</b>(70,15), <b>c</b>(145,15) y <b>d</b>(140,140), añadiendo estos datos tendremos que poniendo el cursor sobre el polígono así definido aparecerá el nombre del archivo referenciado y haciendo clip sobre el accederemos a este articulo.
+</p>
+<p>El <a href="/wiki/C%C3%ADrculo" title="Círculo">círculo</a> de color azul de centro <b>C</b>(140,140) y de radio <b>r</b>(50), lo podemos añadir al mapa, del siguiente modo:
+</p>
+<p>En la figura también podemos ver un <a href="/wiki/Rect%C3%A1ngulo" title="Rectángulo">rectángulo</a> de color verde, de vértice superior izquierdo <b>e</b>(200,25) é inferior derecho <b>f</b>(275,85), estos dos vértices definen el rectángulo.
+</p>
+<p>Por omisión se sitúa en: <b>bottom-right</b>: inferior derecha.
+</p>
+<p>El icono de referencia es una <b>i</b> blanca en un circulo azul que enlaza con la imagen del mapa y su descripción. Este parámetro se omite para <b>thumb</b> dado que en lugar del icono presenta el habitual doble rectángulo.
+</p>
+<p>Así podemos ver un ejemplo con una imagen sin representar las coordenadas de los puntos, y con el valor <b>desc bottom-left</b>.
+</p>
+<p>Puede utilizar un <i>accesorio</i>, en <i>Commons</i>, que se llama <i>ImageMapEdit</i>, de Dario D. Müller (<a class="external text" href="https://meta.wikimedia.org/wiki/ImageMapEdit_Howto">ImageMapEdit_Howto</a>). Para utilizarlo es necesario situarse, obviamente, en <i>Commons</i>, activar <i>ImageMapEdit</i> (dejando marcada la casilla) de la página <i>Accesorios</i> de <i>Preferencias</i>, está al final del segundo grupo de accesorios.
+</p>
+<p>Entonces debajo de cualquier imagen de Commons, aparece el enlace <i>ImageMapEdit &gt;</i>, que activa el accesorio.
+</p>
+<p>Veámoslo en el ejemplo de un ojo, en que seleccionaremos el área de la <a href="/wiki/C%C3%B3rnea" title="Córnea">córnea</a> con un círculo:
+</p>
+<p>En este caso (puede clicar el enlace que sigue), después de abrir <a class="extiw" href="https://commons.wikimedia.org/wiki/File:Eagle(owl)-eye.JPG" title="commons:File:Eagle(owl)-eye.JPG">Eagle(owl)-eye.JPG</a> en <i>Commons</i>, y una vez clicado <i>ImageMapEdit &gt;</i>, aparecerá el accesorio con el código inicial escrito en el recuadro de abajo (<i>Generated wikicode</i>).
+</p>
+<p>Clicaremos <i>circle</i>, situaremos el cursor en el centro del ojo clicaremos y una vez apartado el cursor del centro y posicionado en el borde de la córnea clicaremos con el botón derecho, con lo cual:
+</p>
+<p>Añadiremos el enlace "Córnea". Con lo que tendremos:
+</p>
+<p>Recordamos que se podrían añadir otras áreas y de otros tipos. El tipo más fácil de utilizar es el polígono (<i>poly(gon)</i>) y habitualmente el más difícil de ajustar es el círculo.
+</p>
+<p>Copie el contenido de <i>Generated wikicode</i> al <a href="/wiki/Portapapeles" title="Portapapeles">portapapeles</a>. Luego pegamos, en el modo <i>Editar código,</i> el contenido del portapapeles en el artículo (ocasionalmente una plantilla, y en este caso en esta ayuda) de la Wikipedia, según convenga.
+</p>
+<p>Añadimos en el código (&lt;imagemap&gt;...) de la imagen (ya copiado en el artículo) la anchura que nos parezca adecuada (en este caso hemos optado por 250px) en la línea del nombre del fichero, tal como se muestra:
+</p>
+<p><br style="clear:both"/>
+Con lo que se obtiene:
+</p>
+<p>Intente pasar el cursor del ratón por encima de la córnea.
+</p>
+<p><br/>
+<i>ImageMap</i> no está pensado para contener un pie de imagen, para ello debemos incluir el código anterior en una tabla. Por ejemplo:
+</p>
+<p><br style="clear:both"/>
+</p>

@@ -1,0 +1,705 @@
+<p>El concepto de <b>infinito</b> (símbolo: <span class="texhtml texhtml-big" style="font-size:125%;">∞</span>) aparece en varias ramas de la <a class="mw-redirect" href="/wiki/Matem%C3%A1tica" title="Matemática">matemática</a>, la <a href="/wiki/Filosof%C3%ADa" title="Filosofía">filosofía</a> y la <a href="/wiki/Astronom%C3%ADa" title="Astronomía">astronomía</a>,<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ en referencia a una cantidad sin límite o sin final, contrapuesto al concepto de <a class="extiw" href="https://es.wiktionary.org/wiki/finito" title="wikt:finito">finitud</a>.<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En  matemáticas el infinito aparece de diversas formas: en <a href="/wiki/Geometr%C3%ADa" title="Geometría">geometría</a>, el <a class="mw-redirect" href="/wiki/Punto_al_infinito" title="Punto al infinito">punto al infinito</a> en <a href="/wiki/Geometr%C3%ADa_proyectiva" title="Geometría proyectiva">geometría proyectiva</a> y el <a href="/wiki/Punto_de_fuga" title="Punto de fuga">punto de fuga</a> en <a href="/wiki/Geometr%C3%ADa_descriptiva" title="Geometría descriptiva">geometría descriptiva</a>; en análisis matemático, los <a class="mw-redirect" href="/wiki/L%C3%ADmites_al_infinito" title="Límites al infinito">límites infinitos</a>; y en <a href="/wiki/Teor%C3%ADa_de_conjuntos" title="Teoría de conjuntos">teoría de conjuntos</a> como <a href="/wiki/N%C3%BAmero_transfinito" title="Número transfinito">números transfinitos</a>.
+</p>
+<p>Los conjuntos finitos tienen una propiedad "intuitiva" que los caracteriza: "dada una parte propia de los mismos, esta contiene un número de elementos menor que todo el conjunto". Es decir, no puede establecerse una biyección entre una parte propia del conjunto finito y todo el conjunto. Sin embargo, esa propiedad "intuitiva" de los conjuntos finitos no la tienen los <a href="/wiki/Conjunto_infinito" title="Conjunto infinito">conjuntos infinitos</a>, y formalmente se dice que:
+</p>
+<p><i>Un conjunto <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A\;}</annotation>
+</semantics>
+</math></span><img alt="A\;" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f61491be9bf07fe6ba295510dc36c210469fe1cf" style="vertical-align: -0.338ex; width:2.388ex; height:2.176ex;"/></span> es infinito si existe un subconjunto propio <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle B\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>B</mi>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle B\;}</annotation>
+</semantics>
+</math></span><img alt="B\;" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bd396c58c818f98c8e1c42f41ab81729df9e407b" style="vertical-align: -0.338ex; width:2.409ex; height:2.176ex;"/></span> de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A\;}</annotation>
+</semantics>
+</math></span><img alt="A\;" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f61491be9bf07fe6ba295510dc36c210469fe1cf" style="vertical-align: -0.338ex; width:2.388ex; height:2.176ex;"/></span>, es decir, un subconjunto <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle B\subset A}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>B</mi>
+<mo>⊂<!-- ⊂ --></mo>
+<mi>A</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle B\subset A}</annotation>
+</semantics>
+</math></span><img alt="B\subset A" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/670e1f664373a6eb64b063d1856ddc49a527366e" style="vertical-align: -0.338ex; width:6.606ex; height:2.176ex;"/></span> tal que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A\neq B}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>≠<!-- ≠ --></mo>
+<mi>B</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A\neq B}</annotation>
+</semantics>
+</math></span><img alt="A\neq B" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c78362703472ea51edc4614b6b7a7bda8e83131c" style="vertical-align: -0.838ex; width:6.606ex; height:2.676ex;"/></span>, tal que existe una biyección <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f:A\to B}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>f</mi>
+<mo>:</mo>
+<mi>A</mi>
+<mo stretchy="false">→<!-- → --></mo>
+<mi>B</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f:A\to B}</annotation>
+</semantics>
+</math></span><img alt="f:A\to B" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/20040a52d9391f2fe271f0aaa300bf7887a0c7b1" style="vertical-align: -0.671ex; width:10.337ex; height:2.509ex;"/></span> entre <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A\;}</annotation>
+</semantics>
+</math></span><img alt="A\;" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f61491be9bf07fe6ba295510dc36c210469fe1cf" style="vertical-align: -0.338ex; width:2.388ex; height:2.176ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle B\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>B</mi>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle B\;}</annotation>
+</semantics>
+</math></span><img alt="B\;" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bd396c58c818f98c8e1c42f41ab81729df9e407b" style="vertical-align: -0.338ex; width:2.409ex; height:2.176ex;"/></span>.</i>
+</p>
+<p>La idea de <a href="/wiki/Cardinalidad" title="Cardinalidad">cardinalidad</a> de un <a href="/wiki/Conjunto" title="Conjunto">conjunto</a> se basa en la noción anterior de <a class="mw-redirect" href="/wiki/Biyecci%C3%B3n" title="Biyección">biyección</a>. De dos conjuntos entre los que se puede establecer una biyección se dice que tienen la misma cardinalidad. Para un <a href="/wiki/Conjunto_finito" title="Conjunto finito">conjunto finito</a> su cardinalidad puede representarse por un <a href="/wiki/N%C3%BAmero_natural" title="Número natural">número natural</a>. Por ejemplo, el conjunto <i>{manzana, pera, durazno}</i> tiene 3 elementos. Esto significa de modo más formal que se puede establecer una <a class="mw-redirect" href="/wiki/Biyecci%C3%B3n" title="Biyección">biyección</a> entre tal conjunto y el número 3 que es el conjunto {0,1,2}:
+</p>
+<p>Dicho de otra forma, es posible hacer parejas (0, manzana), (1, pera), (2, durazno) de modo que cada elemento de los dos conjuntos se utilice exactamente una vez. Cuando es posible establecer tal relación "uno a uno" entre dos conjuntos se dice que ambos conjuntos tienen <i>la misma cardinalidad</i>, lo cual, para conjuntos finitos, equivale a que tengan el mismo número de elementos.
+</p>
+<p>La primera definición positiva de <a href="/wiki/Conjunto_infinito" title="Conjunto infinito">conjunto infinito</a> fue dada por <a href="/wiki/Georg_Cantor" title="Georg Cantor">Georg Cantor</a> y se basa en la siguiente observación: Si un conjunto <i>S</i> es finito y <i>T</i> es un <a href="/wiki/Subconjunto" title="Subconjunto">subconjunto propio</a>, no es posible construir una biyección entre <i>S</i> y <i>T</i>. Por ejemplo, si <i>S</i> = {1,2,3,4,5,6,7,8} y <i>T</i> = {2,4,6,8} no es posible construir una biyección entre <i>S</i> y <i>T</i>, porque de ser así tendrían la misma cardinalidad (el mismo número de elementos).
+</p>
+<p>Un conjunto es infinito si es posible encontrar un subconjunto propio del mismo que tenga la misma cardinalidad que el conjunto original. Consideremos el conjunto de los números naturales <i>N</i>={1,2,3,4,5,...}, el cual es un conjunto infinito. Para verificar tal afirmación es necesario encontrar un subconjunto propio y construir una biyección entre ambos. Para este caso, consideremos el conjunto de enteros positivos pares <i>P</i>={2,4,6,8,10,...}. El conjunto <i>P</i> es un subconjunto propio de <i>N</i>, y la regla de asignación <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n\to 2n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>2</mn>
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n\to 2n}</annotation>
+</semantics>
+</math></span><img alt="n\to 2n" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/116da78ed2740d907954709f88129fe361cdffaa" style="vertical-align: -0.338ex; width:7.566ex; height:2.176ex;"/></span> es una biyección:
+</p>
+<p>ya que a todo elemento de <i>N</i> le corresponde un único elemento de <i>P</i> y viceversa.
+</p>
+<p>Los números ordinales sirven para notar una posición en un <a class="mw-redirect" href="/wiki/Conjunto_ordenado" title="Conjunto ordenado">conjunto ordenado</a> (primer, segundo, tercer elemento...). El ejemplo más elemental es el de los <a class="mw-redirect" href="/wiki/N%C3%BAmeros_naturales" title="Números naturales">números naturales</a>, que se definen rigurosamente así:
+Se nota <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 0\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 0\,}</annotation>
+</semantics>
+</math></span><img alt="0\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/db4b06f9315849466a0502680377e30a9da8a1b5" style="vertical-align: -0.338ex; width:1.55ex; height:2.176ex;"/></span> el conjunto vacío:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 0=\{\}=\varnothing }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>0</mn>
+<mo>=</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mo fence="false" stretchy="false">}</mo>
+<mo>=</mo>
+<mi class="MJX-variant">∅<!-- ∅ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 0=\{\}=\varnothing }</annotation>
+</semantics>
+</math></span><img alt="0=\{\}=\varnothing " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/adc3a27821f80965147b0d4f7ca5a8d47e8a6d5d" style="vertical-align: -0.838ex; width:11.492ex; height:2.843ex;"/></span>
+</p>
+<p>se nota <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1\,}</annotation>
+</semantics>
+</math></span><img alt="1\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bfd1e7984fe6e1b79a26404a8138a6c6ee41a476" style="vertical-align: -0.338ex; width:1.55ex; height:2.176ex;"/></span> el conjunto que solo contiene <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 0\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 0\,}</annotation>
+</semantics>
+</math></span><img alt="0\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/db4b06f9315849466a0502680377e30a9da8a1b5" style="vertical-align: -0.338ex; width:1.55ex; height:2.176ex;"/></span>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1=\{0\}=\{\varnothing \}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+<mo>=</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mn>0</mn>
+<mo fence="false" stretchy="false">}</mo>
+<mo>=</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mi class="MJX-variant">∅<!-- ∅ --></mi>
+<mo fence="false" stretchy="false">}</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1=\{0\}=\{\varnothing \}}</annotation>
+</semantics>
+</math></span><img alt="1=\{0\}=\{\varnothing \}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c2839c46a6de2d00a77c771e244537010149a7d1" style="vertical-align: -0.838ex; width:14.98ex; height:2.843ex;"/></span>
+</p>
+<p>luego se nota <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 2\,}</annotation>
+</semantics>
+</math></span><img alt="2\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/53f0585b3d3c0d207a91af7a41e4173b58f309ae" style="vertical-align: -0.338ex; width:1.55ex; height:2.176ex;"/></span> el conjunto que solo contiene <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 0\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 0\,}</annotation>
+</semantics>
+</math></span><img alt="0\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/db4b06f9315849466a0502680377e30a9da8a1b5" style="vertical-align: -0.338ex; width:1.55ex; height:2.176ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1\,}</annotation>
+</semantics>
+</math></span><img alt="1\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bfd1e7984fe6e1b79a26404a8138a6c6ee41a476" style="vertical-align: -0.338ex; width:1.55ex; height:2.176ex;"/></span>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2=\{0,1\}=\{0,\{0\}\}=\{\varnothing ,\{\varnothing \}\}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>2</mn>
+<mo>=</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mn>1</mn>
+<mo fence="false" stretchy="false">}</mo>
+<mo>=</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mn>0</mn>
+<mo fence="false" stretchy="false">}</mo>
+<mo fence="false" stretchy="false">}</mo>
+<mo>=</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mi class="MJX-variant">∅<!-- ∅ --></mi>
+<mo>,</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mi class="MJX-variant">∅<!-- ∅ --></mi>
+<mo fence="false" stretchy="false">}</mo>
+<mo fence="false" stretchy="false">}</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 2=\{0,1\}=\{0,\{0\}\}=\{\varnothing ,\{\varnothing \}\}}</annotation>
+</semantics>
+</math></span><img alt="2=\{0,1\}=\{0,\{0\}\}=\{\varnothing ,\{\varnothing \}\}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/39531396dd3dd3d8460a995de5e6777bd871eff8" style="vertical-align: -0.838ex; width:33.45ex; height:2.843ex;"/></span>
+</p>
+<p>Y así sucesivamente:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 3=\{0,1,2\}=\{\varnothing ,\{\varnothing \},\{\varnothing ,\{\varnothing \}\}\},\qquad (n+1)=n\bigcup \{n\}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>3</mn>
+<mo>=</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mn>2</mn>
+<mo fence="false" stretchy="false">}</mo>
+<mo>=</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mi class="MJX-variant">∅<!-- ∅ --></mi>
+<mo>,</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mi class="MJX-variant">∅<!-- ∅ --></mi>
+<mo fence="false" stretchy="false">}</mo>
+<mo>,</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mi class="MJX-variant">∅<!-- ∅ --></mi>
+<mo>,</mo>
+<mo fence="false" stretchy="false">{</mo>
+<mi class="MJX-variant">∅<!-- ∅ --></mi>
+<mo fence="false" stretchy="false">}</mo>
+<mo fence="false" stretchy="false">}</mo>
+<mo fence="false" stretchy="false">}</mo>
+<mo>,</mo>
+<mspace width="2em"></mspace>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>n</mi>
+<mo>⋃<!-- ⋃ --></mo>
+<mo fence="false" stretchy="false">{</mo>
+<mi>n</mi>
+<mo fence="false" stretchy="false">}</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 3=\{0,1,2\}=\{\varnothing ,\{\varnothing \},\{\varnothing ,\{\varnothing \}\}\},\qquad (n+1)=n\bigcup \{n\}}</annotation>
+</semantics>
+</math></span><img alt="3=\{0,1,2\}=\{\varnothing ,\{\varnothing \},\{\varnothing ,\{\varnothing \}\}\},\qquad (n+1)=n\bigcup \{n\}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/770aab7efcaf800d78a53e98bdbdedd0961f3663" style="vertical-align: -1.338ex; width:58.941ex; height:3.843ex;"/></span>
+</p>
+<p>Por construcción, 0 está incluido en 1, quién a su vez está incluido en 2, ya que obviamente:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n\subseteq n\bigcup \{n\}=(n+1)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+<mo>⊆<!-- ⊆ --></mo>
+<mi>n</mi>
+<mo>⋃<!-- ⋃ --></mo>
+<mo fence="false" stretchy="false">{</mo>
+<mi>n</mi>
+<mo fence="false" stretchy="false">}</mo>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n\subseteq n\bigcup \{n\}=(n+1)}</annotation>
+</semantics>
+</math></span><img alt="n\subseteq n\bigcup \{n\}=(n+1)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/980802f2493ba7e8842a09e7e48b8a6028da2b36" style="vertical-align: -1.338ex; width:22.882ex; height:3.843ex;"/></span>
+</p>
+<p>La inclusión permite convertir a los ordinales en un <a href="/wiki/Conjunto_bien_ordenado" title="Conjunto bien ordenado">conjunto bien ordenado</a> (dos elementos distintos siempre se pueden comparar, y añadiendo la igualdad daría un orden total) entre estos conjuntos que se prefiere, por costumbre, escribir "&lt;", lo que da las relaciones 0 &lt; 1 &lt; 2 &lt; 3. Decir que un ordinal es menor (estrictamente) que otro significa, cuando se les considera a ambos como conjuntos, que está incluido en el otro.
+</p>
+<p>Si <i>a</i> y <i>b</i> son ordinales, entonces <i>a</i>U<i>b</i>, la <a href="/wiki/Uni%C3%B3n_de_conjuntos" title="Unión de conjuntos">unión de los conjuntos</a>, también es un ordinal. En particular, si son ordinales finitos (conjuntos finitos) correspondientes a los naturales <i>a</i> y <i>b</i>, entonces <i>a</i>U<i>b</i> corresponde al mayor de los dos, <i>a</i> o <i>b</i>. En general, si los conjuntos <i>a<sub>i</sub></i> son ordinales, donde <i>i</i> toma todos los valores de un conjunto <i>I</i>, entonces <i>a</i> = U<i>a<sub>i</sub></i> también lo será. Y si el conjunto <i>I</i> no es finito, tampoco lo será <i>a</i>. Así obtendremos ordinales (o sea números) <a href="/wiki/Conjunto_infinito" title="Conjunto infinito">infinitos</a>. 
+</p>
+<p>Con el fin de formalizar adecuadamente la discisión, es necesario definir rigurosamente la noción de "infinito", para poderlo aplicar a los ordinales. Dos conjuntos bien ordenados <i>A</i> y <i>B</i> son <a class="mw-redirect" href="/wiki/Isomorfo" title="Isomorfo">isomorfos</a> (con relación al orden) si existe una <a href="/wiki/Funci%C3%B3n_biyectiva" title="Función biyectiva">biyección</a> <i>f</i> entre ambos que respeta el orden: si <i>a</i> &lt; <i>a'</i> en <i>A</i>, entonces <i>f</i>(<i>a</i>) &lt; <i>f</i>(<i>a</i>) en <i>B</i>. Resulta obvio constatar que si <i>A</i> es un conjunto ordenado con <i>n</i> elementos (<i>n</i> entero natural) entonces <i>A</i> es isomorfo <i>a<sub>n</sub></i> = {0, 1, 2, ..., n-1}. Basta con renombrar cada elemento de <i>A</i> para obtener <i>A</i> = {<i>a</i><sub>0</sub>, <i>a</i><sub>1</sub>, <i>a</i><sub>2</sub>, ..., <i>a</i><sub><i>n</i>-1</sub>}. Un isomorfismo es meramente un cambio de apelación. Diremos que un ordinal es finito si cada una de sus partes no vacías tiene un elemento máximo. Por lo tanto todo natural es un ordenal finito. La intuición nos dice que no hay otros ordenales finitos. Lógicamente, diremos que un conjunto ordenado es finito si es <a href="/wiki/Isomorfismo" title="Isomorfismo">isomorfo</a> a un ordinal finito, o sea a un natural.
+</p>
+<p>Para introducir los ordinales infinitos, es preciso dar ahora la definición exacta de un ordinal:
+</p>
+<p>Ya vimos que es el caso para los naturales: Por ejemplo, el conjunto 2 = {0, 1} admite 1= {0}, como elemento y por lo tanto también como subconjunto.
+</p>
+<p><b>Todo conjunto bien ordenado es isomorfo a un ordinal.</b> Esto es obvio en el caso finito, y se muestra por inducción transfinita que lo es en el caso infinito. O sea, renombrando los elementos de un conjunto bien ordenado siempre obtenemos un ordinal.
+</p>
+<p>Ya hemos visto que una unión cualquiera de ordinales es un ordinal. Si tomamos una unión finita de ordinales finitos, fabricamos un ordinal finito. Para obtener el primer ordinal infinito tenemos que reunir un número no finito de ordinales finitos. Haciéndolo, siempre caemos en el mismo conjunto, construido al reunir todos los ordinales finitos, es decir los naturales. El conjunto de todos los naturales, ℕ, es pues el primer ordinal infinito, lo que no debería sorprender, y lo notamos en este contexto ω (omega).
+</p>
+<p>Para visualizar los ordinales, resulta muy práctico representar cada uno por un punto de una sucesión creciente convergente, como por ejemplo u<sub>n</sub> = 1 - 1/(n+1). Esto da algo semejante a: 
+</p>
+<p>Escojamos un punto de la sucesión, y miremos cuantos puntos están más a la izquierda. En el ejemplo, hay cuatro, y por lo tanto se trata de u<sub>4</sub>, lo que corresponde al ordinal 4. 
+Para representar el ordinal w, resulta natural añadir a la sucesión previa un punto 'O' situado exactamente en el límite de la sucesión:
+</p>
+<p>A la izquierda de u<sub>w</sub> hay una infinidad de puntos, por lo tanto w es infinito. Pero si elegimos a cualquier otro punto de la sucesión a su izquierda, ya no es el caso, lo cual prueba que w es el primer ordinal infinito.
+Después de w llega w+1, w+2 ... que se representan añadiendo a la derecha uno dos o más puntos, inicialmente distantes, y luego más cercanos entre sí:
+</p>
+<p>El último punto dibujado corresponde a w+2.
+</p>
+<p>Más generalmente, para sumar dos ordinales A y B se cambian los nombres de los elementos para que sean todos distintos, luego se juntan los conjuntos A y B, poniendo B a la derecha de A es decir imponiendo que cada elemento de B sea mayor que todos los de A.
+Así hemos construido w+1, ... y así podemos construir 1+w: Notemos Y el elemento de 1, y X los de w:
+</p>
+<p>Salta a la vista que w y 1+w son muy parecidos. De hecho la función x →x - 1 realiza un isomorfismo entre ellos (1+w tiene dos elementos llamados 0: 0<sub>A</sub> y 0<sub>B</sub>. El primero hace el papel de -1 en la función). Por lo tanto corresponden al mismo ordinal: 1+w = w. Mas no es el caso de w+1, que es distinto de w porque su el conjunto w+1 tiene un <a class="mw-redirect" href="/wiki/Elemento_m%C3%A1ximo" title="Elemento máximo">elemento máximo</a> (el O del dibujo) mientras que el conjunto w no lo tiene (el límite de los naturales no es un natural). 
+</p>
+<p>El punto w (el O del dibujo) no tiene antecesor, es decir que no existe un n tal que n+1=w: se dice que w es un ordinal límite. Cero tiene también esta propiedad pero no merece esta apelación. 
+Como w+1 ≠ 1+w, la adición no es conmutativa en los ordinales.
+</p>
+<p>Se construye del mismo modo w + w que se nota lógicamente 2w. La multiplicación se define a partir de la adición como para los naturales.
+</p>
+<p>Una vez que se ha representado nw, con n natural, no resulta demasiado difícil imaginar lo que 
+será w.w, escrito w<sup>2</sup>. Luego se puede definir w<sup>n</sup>, con n natural, y, 
+tomando el límite, w<sup>w</sup>, tiene tantos elementos como la recta real.
+</p>
+<p>La sucesión <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \omega ^{\omega ^{{\dots }^{\omega }}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>…<!-- … --></mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ω<!-- ω --></mi>
+</mrow>
+</msup>
+</mrow>
+</msup>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \omega ^{\omega ^{{\dots }^{\omega }}}}</annotation>
+</semantics>
+</math></span><img alt="\omega ^{\omega ^{{\dots }^{\omega }}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a43017317e154ab7ce00bbb431d055cabd10807" style="vertical-align: -0.338ex; width:5.391ex; height:3.176ex;"/></span> tiene como límite <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon _{0}}</annotation>
+</semantics>
+</math></span><img alt="\varepsilon _{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/acb0a8377db20e42274444cb181d51b5532b5844" style="vertical-align: -0.671ex; width:2.138ex; height:2.009ex;"/></span>.
+</p>
+<p>El cardinal de un conjunto es el número de elementos que contiene. Esta noción es por lo tanto distinta del ordinal, que caracteriza el lugar de un elemento en una sucesión. <i>"Cinco"</i> difiere de <i>"quinto"</i> aunque obviamente existe una relación entre ambos. Se dice que dos conjuntos tienen el mismo cardinal si existe una biyección entre ellos. Contrariamente a los ordinales, esta biyección no tiene que respetar el orden (además los conjuntos no tienen que ser ordenados).
+</p>
+<p>Como ya tenemos un surtido de conjuntos —los ordinales— veamos sus tamaños (o sea sus cardinales) respectivos. No es ninguna sorpresa que los ordinales finitos también son cardinales: entre dos conjuntos con n y m elementos, m y n distintos, no puede haber biyección, por lo tanto tienen cardinales distintos. Pero no es el caso con los ordinales infinitos: Por ejemplo, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \omega }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ω<!-- ω --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \omega }</annotation>
+</semantics>
+</math></span><img alt="\omega " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48eff443f9de7a985bb94ca3bde20813ea737be8" style="vertical-align: -0.338ex; width:1.446ex; height:1.676ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \omega +1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ω<!-- ω --></mi>
+<mo>+</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \omega +1}</annotation>
+</semantics>
+</math></span><img alt="\omega +1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/64eefa705e5e12f34fc2fe138f4897cd4980f374" style="vertical-align: -0.505ex; width:5.449ex; height:2.343ex;"/></span> están en biyección por la función:
+</p>
+<p>Se suele notar |A| el cardinal de A. Se llama <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \aleph _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi mathvariant="normal">ℵ<!-- ℵ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \aleph _{0}}</annotation>
+</semantics>
+</math></span><img alt="\aleph _{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/721cd7f8c15a2e72ad162bdfa5baea8eef98aab1" style="vertical-align: -0.671ex; width:2.475ex; height:2.509ex;"/></span> (<i>alef<sub>0</sub></i>) el cardinal de w, o sea del conjunto de los naturales (donde <i><a href="/wiki/%D7%90" title="א">alef</a></i> es la primera letra del alfabeto hebreo).
+</p>
+<p>Si A y B son conjuntos, entonces <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle |A\times B|=|A|\cdot |B|}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>A</mi>
+<mo>×<!-- × --></mo>
+<mi>B</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>B</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle |A\times B|=|A|\cdot |B|}</annotation>
+</semantics>
+</math></span><img alt="\scriptstyle |A\times B|=|A|\cdot |B|" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a0f4fae9fbc882e5523ff88372f11292bec4733e" style="vertical-align: -0.671ex; width:10.719ex; height:2.176ex;"/></span>, donde x designa el <a href="/wiki/Producto_cartesiano" title="Producto cartesiano">producto cartesiano</a> de los conjuntos, y "·" es el producto de los cardinales definidos por esta fórmula.
+El <a class="mw-redirect" href="/wiki/Conjunto_de_las_partes" title="Conjunto de las partes">conjunto de las partes</a> de un conjunto A, P(A) está en biyección con el conjunto de las funciones de A hacia {0,1}, conjunto que de escribe como <a href="/wiki/Potencia_de_dos" title="Potencia de dos">2<sup>A</sup></a>, como caso particular de Y<sup>X</sup> que denota el conjunto de las aplicaciones de X hacia Y.
+</p>
+<p>El cardinal de <b>R</b>, conjunto de los reales, es por lo tanto 2<sup>alef<sub>0</sub></sup>, porque <b>R</b> está en biyección con las partes de <b>N</b>, por medio de la escritura decimal de los reales.
+</p>
+<p>No se puede decidir, con los axiomas clásicos (los de la teoría de los conjuntos, fundamentos de la matemática), si existe un cardinal mayor que alef<sub>0</sub> y menor que 2<sup>alef<sub>0</sub></sup>, es decir si existe un conjunto con más elementos que <b>N</b> pero con menos elementos que <b>R</b>. La <i>hipótesis del continuo</i>, que es un axioma adicional, afirma que no.
+</p>
+<p>Un conjunto de números reales <i>S</i> es <a href="/wiki/Acotado" title="Acotado">acotado</a> superiormente si existe un número <i>c</i> (la cota) tal que <i>c</i> es mayor que todo elemento de <i>S</i> (Por ejemplo, si <i>S</i>={π ; 7 ; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\sqrt {2}}\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\sqrt {2}}\,\!}</annotation>
+</semantics>
+</math></span><img alt="{\sqrt {2}}\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/43595011bdeb48a850f90f103d754fc62d03e5bd" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:3.485ex; height:3.009ex;"/></span>} entonces <i>S</i> es un conjunto acotado, ya que el número <i>c</i>=10 cumple que π&lt;10, 7&lt;10, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\sqrt {2}}\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\sqrt {2}}\,\!}</annotation>
+</semantics>
+</math></span><img alt="{\sqrt {2}}\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/43595011bdeb48a850f90f103d754fc62d03e5bd" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:3.485ex; height:3.009ex;"/></span>&lt;10). Cuando un conjunto no es acotado, para cualquier número <i>c</i> es posible encontrar <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x\in S}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mo>∈<!-- ∈ --></mo>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x\in S}</annotation>
+</semantics>
+</math></span><img alt="x\in S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/51186ba8afb2067573a9082d55dd383df1ea9214" style="vertical-align: -0.338ex; width:5.67ex; height:2.176ex;"/></span> de modo que <i>c &lt; x</i>. El concepto de infinito se introduce como una cota especial para este tipo de conjuntos. Este concepto de infinito se representa con el símbolo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \infty }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∞<!-- ∞ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \infty }</annotation>
+</semantics>
+</math></span><img alt="\infty " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c26c105004f30c27aa7c2a9c601550a4183b1f21" style="vertical-align: -0.338ex; width:2.324ex; height:1.676ex;"/></span>.
+</p>
+<p>También es utilizado en  el <a href="/wiki/An%C3%A1lisis_matem%C3%A1tico" title="Análisis matemático">Análisis matemático</a> cuando se quiere expresar que los términos de una <a class="mw-redirect" href="/wiki/Sucesi%C3%B3n_matem%C3%A1tica" title="Sucesión matemática">sucesión ordenada</a>, o los valores que toma una función al tomar la variable dependiente valores cercanos a uno fijado previamente "diverge" ("tiende a infinito", o su <a class="mw-redirect" href="/wiki/L%C3%ADmite_matem%C3%A1tico" title="Límite matemático">límite</a> es infinito). En este contexto, se considera <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \infty \,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∞<!-- ∞ --></mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \infty \,\!}</annotation>
+</semantics>
+</math></span><img alt="\infty \,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4735c5366157d0969eb244dec5a007a3ec6da38a" style="vertical-align: -0.338ex; margin-right: -0.387ex; width:2.711ex; height:1.676ex;"/></span> para representar al límite que tiende a infinito y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 0\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 0\,\!}</annotation>
+</semantics>
+</math></span><img alt="0\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a1fcd4157907e63b2975f620e5259bebe0636662" style="vertical-align: -0.338ex; margin-right: -0.387ex; width:1.55ex; height:2.176ex;"/></span> al límite cuando tiende a 0; y no al número <a href="/wiki/Cero" title="Cero">0</a>). 
+</p>
+<p>Para recordar las reglas de límite se suele entonces acudir a las siguientes reglas <a class="mw-redirect" href="/wiki/Nemotecnia" title="Nemotecnia">nemotecnias</a>:
+(aquí "x" representa un n.° real cualquiera)
+</p>
+<p>Las identidades anteriores son perfectamente formalizables en el análisis no estándar asociado a los <a class="mw-redirect" href="/wiki/N%C3%BAmeros_hiperreales" title="Números hiperreales">números hiperreales</a>.
+</p>
+<p>Límites indeterminados (no es posible determinar <a class="mw-redirect" href="/wiki/A_priori" title="A priori">a priori</a> su valor como en el resto de los ejemplos, no hay un valor asignado):
+</p>
+<p><br/>
+</p>
+<p><br/>
+</p>
+<p>El análisis no estándar amplia la teoría de los números reales. Desde el punto de vista lógico los números reales pueden ser entendidos como un <a href="/wiki/Lenguaje_formal" title="Lenguaje formal">lenguaje formal</a> en el que se da por supuesto la existencia de ciertos objetos y en el cual se puede deducir la existencia de otros objetos. En términos de lenguajes formales el análisis no estándar es una extensión lógica de la teoría ordinaria de los números reales que además es conservadora (en el sentido que sus teoremas deducibles coinciden con los deducibles en la teoría ordinaria de los números reales). Si bien esta extensión parece antieconómica desde el punto de vista de la <a href="/wiki/Navaja_de_Ockham" title="Navaja de Ockham">navaja de Ockham</a>, ya que la complicación introducida no altera la clase de teoremas básicos sobre los números reales ordinarios, realmente permite hacer demostraciones más breves, derivar resultados más fácilmente que en la teoría ordinaria y frecuentemente más intuitiva en términos lógicos.
+</p>
+<p>En el seno del análisis no estándar se introduce un predicado nuevo st(·) y tres nuevos axiomas que describen el uso de dicho predicado. Gracias a ese predicado el conjunto de números descritos por el lenguaje forman se puede dividir en "elementos estándar" para los cuales (<i>r</i> es estándar si st(<i>r</i>) es cierto) y "elementos no estándar" (<i>r</i> es no estándar si ¬st(<i>r</i>) es cierto). Los elementos estándar tienen esencialmente las mismas propiedades que los números reales ordinarios, mientras que los elementos no estándar incluyen números especiales algunos de los cuales como infinitesimales o como números ilimitados (infinitos). La ventaja de la estructura lógica del análisis no estándar es que se pueden usar dichos números y ser empleados en deducciones sin inconsistencia alguna (a diferencia de las reglas heurísticas del cálculo infinitesimal tradicional antes de la formalización del siglo <span style="font-variant:small-caps;text-transform:lowercase">XIX</span>).
+</p>
+<p>En el análisis no estándar pueden definirse números que intuitivamente se comportan como números infinitos gracias al predicado st(·) "· es estándar". Por ejemplo un número ilimitado <i>r</i> satisface que "para cualquier número <i>e</i> del conjunto y cualquier número natural estándar resulta que <i>ne</i> &lt; <i>r</i>", formalmente:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \forall e\in {}^{*}\mathbb {R} ,\forall n\in \mathbb {N} ,\left[\mathrm {st} (n)\land ne&lt;r\right]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∀<!-- ∀ --></mi>
+<mi>e</mi>
+<mo>∈<!-- ∈ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mo>,</mo>
+<mi mathvariant="normal">∀<!-- ∀ --></mi>
+<mi>n</mi>
+<mo>∈<!-- ∈ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">N</mi>
+</mrow>
+<mo>,</mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">t</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+<mo>∧<!-- ∧ --></mo>
+<mi>n</mi>
+<mi>e</mi>
+<mo>&lt;</mo>
+<mi>r</mi>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \forall e\in {}^{*}\mathbb {R} ,\forall n\in \mathbb {N} ,\left[\mathrm {st} (n)\land ne&lt;r\right]}</annotation>
+</semantics>
+</math></span><img alt="\forall e\in {}^{*}\mathbb {R} ,\forall n\in \mathbb {N} ,\left[\mathrm {st} (n)\land ne&lt;r\right]" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e6a46099013f56c9e3d6f14ef8c5e4348ef8092f" style="vertical-align: -0.838ex; width:32.749ex; height:2.843ex;"/></span>
+</p>
+<p>Obviamente el número <i>r</i> no puede ser estándar, ya que para números estándar se tiene que "para cualquier número <i>e</i> y cualquier <i>r</i> existe un natural tal que <i>ne</i> &gt; <i>r</i>, formalmente:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \forall e\in {}^{*}\mathbb {R} ,\exists n\in \mathbb {N} ,\left[ne&gt;r\right]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∀<!-- ∀ --></mi>
+<mi>e</mi>
+<mo>∈<!-- ∈ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mo>,</mo>
+<mi mathvariant="normal">∃<!-- ∃ --></mi>
+<mi>n</mi>
+<mo>∈<!-- ∈ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">N</mi>
+</mrow>
+<mo>,</mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mi>n</mi>
+<mi>e</mi>
+<mo>&gt;</mo>
+<mi>r</mi>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \forall e\in {}^{*}\mathbb {R} ,\exists n\in \mathbb {N} ,\left[ne&gt;r\right]}</annotation>
+</semantics>
+</math></span><img alt="\forall e\in {}^{*}\mathbb {R} ,\exists n\in \mathbb {N} ,\left[ne&gt;r\right]" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af056747467a6ed87be2a0e6f008e85689ae9f77" style="vertical-align: -0.838ex; width:25.142ex; height:2.843ex;"/></span>
+</p>
+<p>Nótese que en esta expresión no aparece el predicado "estándar" st(·), y por tanto es formalizable en la teoría ordinaria, mientras que la noción de número ilimitado no es formalizable en la teoría ordinaria por carecer esta teoría del predicado st(·).
+</p>
+<p>Análogamente en el análisis no estándar pueden definirse números <a href="/wiki/Infinitesimal" title="Infinitesimal">infinitesimales</a>, más pequeños en valor absoluto que cualquier número estándar positivo. De hecho el inverso de un número ilimitado es siempre un número infinitesimal.
+</p>
+<p>De manera relacionada con el infinito para números reales, algunos <a href="/wiki/Lenguaje_de_programaci%C3%B3n" title="Lenguaje de programación">lenguajes de programación</a> admiten un valor especial que recibe el nombre de <i>infinito</i>: valor que se puede obtener como resultado de ciertas operaciones matemáticas no realizables, tales como las descritas en el punto anterior u operaciones teóricamente posibles, pero demasiado complejas para su trabajo en el ordenador/lenguaje en cuestión. En otros lenguajes simplemente se produciría un error.
+</p>
+<p>Lo infinito no puede admitir ninguna restricción, lo que supone que es absolutamente incondicionado e indeterminado, ya que toda determinación, cualquiera que sea, es forzosamente una limitación, porque deja algo fuera de ella. Por otra parte, la limitación presenta el carácter de una verdadera negación: poner un límite, es negar, para lo que está encerrado en él, todo lo que este límite excluye; por consiguiente, la negación de un límite es propiamente la negación de una negación, es decir, lógica e incluso matemáticamente una afirmación, de tal suerte que la negación de todo límite equivale en realidad a la afirmación total y absoluta. Lo que no tiene límites, es aquello de lo cual no se puede negar nada, y por consiguiente, aquello que contiene todo, aquello fuera de lo cual no hay nada; y esta idea del Infinito, que es así la más afirmativa de todas, puesto que comprende o envuelve todas las afirmaciones particulares, cualesquiera que puedan ser, no se expresa por un término de forma negativa (in-finito) sino en razón misma de su indeterminación absoluta.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El concepto finito según la <a href="/wiki/F%C3%ADsica_aristot%C3%A9lica" title="Física aristotélica">física aristotélica</a> niega que existe el infinito <i>en acto</i>.<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ Cuando habla de infinito se refiere sobre todo a un <i>cuerpo</i> infinito y los argumentos que aduce contra la existencia de un <a href="/wiki/Cuerpo_finito" title="Cuerpo finito">cuerpo finito</a>.<sup class="reference separada" id="cite_ref-Aristóteles_5-0"><a href="#cite_note-Aristóteles-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ Lo infinito existe solo como potencia o en potencia.<sup class="reference separada" id="cite_ref-Aristóteles_5-1"><a href="#cite_note-Aristóteles-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ Infinito en potencia es, por ejemplo, el <a href="/wiki/N%C3%BAmero" title="Número">número</a>, porque siempre es posible añadir a cualquier número otro, sin llegar jamás a un límite extremo tras el cual no se pueda avanzar más; o infinito en potencia es también el <a class="mw-disambig" href="/wiki/Espacio" title="Espacio">espacio</a>, porque es divisible hasta el infinito, en cuanto el resultado de la <a href="/wiki/Divisi%C3%B3n_(matem%C3%A1tica)" title="División (matemática)">división</a> es siempre una <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitud</a> que, como tal, es divisible ulteriormente; finalmente, infinito potencial es también el <a href="/wiki/Tiempo" title="Tiempo">tiempo</a>, que no puede existir en su totalidad a la vez, sino que se desarrolla y crece sin fin.<sup class="reference separada" id="cite_ref-Aristóteles_5-2"><a href="#cite_note-Aristóteles-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><a href="/wiki/Arist%C3%B3teles" title="Aristóteles">Aristóteles</a> no llegó a entrever la idea de que lo <a class="new" href="/w/index.php?title=Inmaterial&amp;action=edit&amp;redlink=1" title="Inmaterial (aún no redactado)">inmaterial</a> pudiera ser infinito, debido a que asoció el concepto de infinito a la categoría de cantidad, que solo puede aplicarse a lo <a href="/wiki/Mundo_sensible" title="Mundo sensible">sensible</a>.<sup class="reference separada" id="cite_ref-Aristóteles_5-3"><a href="#cite_note-Aristóteles-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ Y se explica también que el filósofo concluyera por sellar definitivamente la <a class="new" href="/w/index.php?title=Idea_pitag%C3%B3rica&amp;action=edit&amp;redlink=1" title="Idea pitagórica (aún no redactado)">idea pitagórica</a>, y, en general, propia de casi toda la <a class="mw-redirect" href="/wiki/Cultura_griega" title="Cultura griega">cultura griega</a>, según la cual lo <i>finito es perfecto</i> y lo <i>infinito es imperfecto</i>.<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Esta es la razón por la que Aristóteles tenía que negar necesariamente de <a href="/wiki/Dios" title="Dios">Dios</a> el atributo de la infinitud.<sup class="reference separada" id="cite_ref-Aristóteles_5-4"><a href="#cite_note-Aristóteles-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ Después de esta concepción del infinito como potencialidad e imperfección, había que eliminar la antigua intuición de los <a class="mw-redirect" href="/wiki/Milesios" title="Milesios">milesios</a>, de <a href="/wiki/Meliso_de_Samos" title="Meliso de Samos">Meliso</a> y de <a href="/wiki/Anax%C3%A1goras" title="Anaxágoras">Anaxágoras</a>, que consideraban al <a class="mw-redirect" href="/wiki/Absoluto_(metaf%C3%ADsica)" title="Absoluto (metafísica)">Absoluto</a> como infinito: tal intuición resultaba excéntrica respecto al pensamiento de toda la cultura griega y, para poder renacer, tendría que esperar al descubrimiento de ulteriores horizontes metafísicos.<sup class="reference separada" id="cite_ref-Aristóteles_5-5"><a href="#cite_note-Aristóteles-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El <a href="/wiki/S%C3%ADmbolo" title="Símbolo">símbolo</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \infty }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∞<!-- ∞ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \infty }</annotation>
+</semantics>
+</math></span><img alt="\infty " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c26c105004f30c27aa7c2a9c601550a4183b1f21" style="vertical-align: -0.338ex; width:2.324ex; height:1.676ex;"/></span> con que se expresa el infinito fue introducido a la notación matemática por el matemático inglés <a href="/wiki/John_Wallis" title="John Wallis">John Wallis</a> (1616-1703) en una de sus obras más importantes: <i>Arithmetica Infinitorum</i> en 1656. En 1694 fue creada la representación gráfica <a href="/wiki/Lemniscata" title="Lemniscata">lemniscata</a> por <a class="mw-redirect" href="/wiki/Jacob_Bernoulli" title="Jacob Bernoulli">Jacob Bernoulli</a> (1655-1705).<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​ 
+</p>
+<p>También se cree posible que la forma provenga de otros símbolos alquímicos o religiosos, como por ejemplo ciertas representaciones de la serpiente <a href="/wiki/Ur%C3%B3boros" title="Uróboros">uróboros</a>.<sup>[<i><a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">cita requerida</a></i>]</sup>
+</p>
+<p>Otra hipótesis defiende que el símbolo parece la representación gráfica del fenómeno conocido como <a href="/wiki/Analema" title="Analema">Analema</a> solar. Esta teoría tiene más sentido si dotamos de importancia a la parte formal del diseño y a la cronología de su origen.<sup>[<i><a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">cita requerida</a></i>]</sup>. El Analema solar se trata de una foto o de una gráfica del sol, registrada todos los días durante un año a la misma hora y en el mismo lugar, al reunir los puntos veremos que se dibuja una lemniscata debido a la inclinación del eje terrestre que varía el ángulo en el que visualizamos el sol a lo largo de un año, quedando en el punto más alto el solsticio de verano y en el más bajo el solsticio de invierno, su forma varía levemente dependiendo del punto geográfico de la tierra desde donde se registre. Esto simboliza un "ciclo Anual" a su vez en el ciclo infinito del sol año tras año.
+</p>
+<p>Se ha querido ver también una <a href="/wiki/Banda_de_M%C3%B6bius" title="Banda de Möbius">banda de Möbius</a> en su forma,<sup>[<i><a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">cita requerida</a></i>]</sup> aunque el símbolo se usó durante cientos de años antes de que <a href="/wiki/August_M%C3%B6bius" title="August Möbius">August Möbius</a> descubriera la banda que lleva su nombre.
+</p>
+<p>El símbolo de infinito se representa en <a href="/wiki/Unicode" title="Unicode">Unicode</a> con el carácter <span style="font-size:large">∞<small><sup><a class="external autonumber" href="https://unicodes.jessetane.com/%E2%88%9E" rel="nofollow">[1]</a></sup></small></span> (U+221E).
+</p>

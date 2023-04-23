@@ -1,0 +1,28 @@
+<p>Un <b>anexo</b> es una página que constituye un tipo de <a class="mw-redirect" href="/wiki/Wikipedia:ISE" title="Wikipedia:ISE">información de soporte enciclopédico</a>, que aporta información relacionada con <a href="/wiki/Ayuda:Art%C3%ADculo" title="Ayuda:Artículo">artículos</a>, pero que no es un artículo en sí mismo. Este tipo de páginas utilizan el espacio de nombres específico <i>Anexo:</i>, y se categorizan en la <a href="/wiki/Categor%C3%ADa:Anexos" title="Categoría:Anexos">Categoría:Anexos</a>.
+</p>
+<p>Hay información complementaria a los artículos que por su extensión puede llegar a ser más grande que el contenido esencial del artículo. Cuando esto sucede, esta información complementaria conviene incluirla en páginas aparte llamadas <i>anexos</i>, que son enlazados desde el(los) artículo(s) al que hacen referencia.
+</p>
+<p>En general, los anexos pueden ser de tres tipos:
+</p>
+<p>Serán siempre almacenadas por fuera de la Wikipedia en español. Bien sea en bibliotecas, libros, en páginas web externas a Wikimedia o en <a class="extiw" href="https://es.wikisource.org/wiki/" title="s:">Wikisource</a>, dependiendo tanto de la disponibilidad como de la licencia de las obras.
+</p>
+<p>De uso (incluyendo recetas), se consideran material didáctico. Este puede corresponder también a fuentes externas (aplicándose lo del párrafo anterior), o ser material redactado explícitamente como complemento. Todo material didáctico que se cree para Wikipedia u otro proyecto de Wikimedia deberá cargarse en <a class="extiw" href="https://es.wikibooks.org/wiki/" title="b:">Wikilibros</a> (respetando sus propias políticas locales), salvo que en sí mismo sea un <a class="mw-redirect" href="/wiki/Wikipedia:Qu%C3%A9_es_un_art%C3%ADculo" title="Wikipedia:Qué es un artículo">artículo enciclopédico</a>.
+</p>
+<p>Corresponden generalmente a información de ayuda que complementan un artículo y sirve como enlace a otros artículos, así como a temas similares que no contienen artículos. Estos anexos de referencia se almacenarán en el <a class="mw-redirect" href="/wiki/Wikipedia:Espacio_de_nombres" title="Wikipedia:Espacio de nombres">espacio de nombres</a> <b>Anexo:</b>.
+</p>
+<p>En general toda tabla o listado que, siendo material complementario, supere en tamaño al texto principal del artículo, se considerará anexo e irá al respectivo espacio de nombres.
+</p>
+<p>Un <b>anexo</b> es una página que constituye un tipo de <a class="mw-redirect" href="/wiki/Wikipedia:ISE" title="Wikipedia:ISE">información de soporte enciclopédico</a>, que aporta información relacionada con <a href="/wiki/Ayuda:Art%C3%ADculo" title="Ayuda:Artículo">artículos</a>, pero que no es un artículo en sí mismo. Este tipo de páginas utilizan el espacio de nombres específico <i>Anexo:</i>, y se categorizan en la <a href="/wiki/Categor%C3%ADa:Anexos" title="Categoría:Anexos">Categoría:Anexos</a>.
+</p>
+<p>Hay información complementaria a los artículos que por su extensión puede llegar a ser más grande que el contenido esencial del artículo. Cuando esto sucede, esta información complementaria conviene incluirla en páginas aparte llamadas <i>anexos</i>, que son enlazados desde el(los) artículo(s) al que hacen referencia.
+</p>
+<p>En general, los anexos pueden ser de tres tipos:
+</p>
+<p>Serán siempre almacenadas por fuera de la Wikipedia en español. Bien sea en bibliotecas, libros, en páginas web externas a Wikimedia o en <a class="extiw" href="https://es.wikisource.org/wiki/" title="s:">Wikisource</a>, dependiendo tanto de la disponibilidad como de la licencia de las obras.
+</p>
+<p>De uso (incluyendo recetas), se consideran material didáctico. Este puede corresponder también a fuentes externas (aplicándose lo del párrafo anterior), o ser material redactado explícitamente como complemento. Todo material didáctico que se cree para Wikipedia u otro proyecto de Wikimedia deberá cargarse en <a class="extiw" href="https://es.wikibooks.org/wiki/" title="b:">Wikilibros</a> (respetando sus propias políticas locales), salvo que en sí mismo sea un <a class="mw-redirect" href="/wiki/Wikipedia:Qu%C3%A9_es_un_art%C3%ADculo" title="Wikipedia:Qué es un artículo">artículo enciclopédico</a>.
+</p>
+<p>Corresponden generalmente a información de ayuda que complementan un artículo y sirve como enlace a otros artículos, así como a temas similares que no contienen artículos. Estos anexos de referencia se almacenarán en el <a class="mw-redirect" href="/wiki/Wikipedia:Espacio_de_nombres" title="Wikipedia:Espacio de nombres">espacio de nombres</a> <b>Anexo:</b>.
+</p>
+<p>En general toda tabla o listado que, siendo material complementario, supere en tamaño al texto principal del artículo, se considerará anexo e irá al respectivo espacio de nombres.
+</p>

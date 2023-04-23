@@ -1,0 +1,92 @@
+<p>El <b>julio</b><sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ o <i><b>joule</b></i><sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ (<small>pronunciación en inglés: </small><span class="IPA" title="Pronunciación en AFI"><span style="white-space:nowrap"><a href="/wiki/Ayuda:AFI/Ingl%C3%A9s" title="Ayuda:AFI/Inglés">/ˈdʒuːl/</a></span></span>; símbolo: <b>J</b>) es la <a class="mw-redirect" href="/wiki/Unidad_derivada_del_SI" title="Unidad derivada del SI">unidad derivada</a> del <a class="mw-redirect" href="/wiki/Sistema_internacional_de_unidades" title="Sistema internacional de unidades">Sistema Internacional</a> utilizada para medir <a href="/wiki/Energ%C3%ADa" title="Energía">energía</a>, <a href="/wiki/Trabajo_(f%C3%ADsica)" title="Trabajo (física)">trabajo</a> y <a href="/wiki/Calor" title="Calor">calor</a>.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​ Como unidad de trabajo, el julio se define como la cantidad de trabajo realizado por una <a href="/wiki/Fuerza" title="Fuerza">fuerza</a> constante de un <a href="/wiki/Newton_(unidad)" title="Newton (unidad)">newton</a> en un <a href="/wiki/Metro" title="Metro">metro</a> de <a href="/wiki/Longitud" title="Longitud">longitud</a> en la misma <a class="mw-redirect" href="/wiki/Vector_(f%C3%ADsica)" title="Vector (física)">dirección</a> de la fuerza.<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En esta definición, al ser tan específica, no se consideran tipos de <a href="/wiki/Resistencia_aerodin%C3%A1mica" title="Resistencia aerodinámica">resistencia</a> como el roce del <a href="/wiki/Aire" title="Aire">aire</a>. 
+</p>
+<p>Su símbolo es <b>J</b>, con mayúscula y sin punto,<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ como todos los símbolos de unidades del SI que derivan de nombres de persona.
+</p>
+<p>La unidad julio también se puede definir como:
+</p>
+<p>Puede utilizarse para medir calor, el cual es <a class="mw-redirect" href="/wiki/Teor%C3%ADa_cin%C3%A9tica#Temperatura" title="Teoría cinética">energía cinética</a> (movimiento en forma de vibraciones) a escala <a href="/wiki/%C3%81tomo" title="Átomo">atómica</a> y <a href="/wiki/Mol%C3%A9cula" title="Molécula">molecular</a> de un cuerpo.
+</p>
+<p>Toma su nombre en honor del <a href="/wiki/F%C3%ADsica" title="Física">físico</a> inglés <a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">James Prescott Joule</a> (1818–1889).<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-8"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El <b>julio</b> equivale a:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathrm {1\,J=1\,N\cdot m=\left(kg\cdot {\frac {m}{s^{2}}}\right)\cdot m={\frac {kg\cdot m^{2}}{s^{2}}}} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mspace width="thinmathspace"></mspace>
+<mi mathvariant="normal">J</mi>
+<mo>=</mo>
+<mn>1</mn>
+<mspace width="thinmathspace"></mspace>
+<mi mathvariant="normal">N</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">m</mi>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi mathvariant="normal">k</mi>
+<mi mathvariant="normal">g</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi mathvariant="normal">m</mi>
+<msup>
+<mi mathvariant="normal">s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">m</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">k</mi>
+<mi mathvariant="normal">g</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mi mathvariant="normal">m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<msup>
+<mi mathvariant="normal">s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {1\,J=1\,N\cdot m=\left(kg\cdot {\frac {m}{s^{2}}}\right)\cdot m={\frac {kg\cdot m^{2}}{s^{2}}}} }</annotation>
+</semantics>
+</math></span><img alt="{\mathrm  {1\,J=1\,N\cdot m=\left(kg\cdot {\frac  {m}{s^{2}}}\right)\cdot m={\frac  {kg\cdot m^{2}}{s^{2}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffcf51a7444f54447e3c52182fcb4415decda63e" style="vertical-align: -2.505ex; width:40.755ex; height:6.343ex;"/></span>
+</p>
+<p>Donde <b>N</b> representa newtons; <b>m</b>, metros; <b>kg</b>: kilogramos; <b>s</b>: segundos.
+</p>
+<p>Para tener una idea de la magnitud de un julio, existen varios ejemplos en la vida cotidiana que pueden aportar alguna idea de dicha cantidad de energía. Un julio es, aproximadamente, la:<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>A continuación se presenta una tabla de los múltiplos y submúltiplos del <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a>.
+</p>
+<p><br/>
+</p>
+<p><br/>
+</p>
+<p>El julio es una <a class="mw-redirect" href="/wiki/Unidad_de_energ%C3%ADa" title="Unidad de energía">unidad de energía</a> muy pequeña para la vida corriente. Aproximadamente, un julio es la cantidad de energía necesaria para levantar 0,1 kg una altura de 1 metro en la superficie terrestre.<sup class="reference separada" id="cite_ref-13"><a href="#cite_note-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​ Una patada de un deportista puede tener una energía de unos 200 J; una bombilla (de cualquier tipo) de 20 W encendida durante 8 horas gasta unos 600 000 J; y el consumo eléctrico de una familia media durante un mes puede ser de 1 000 000 000 J (unos 278 kWh).
+</p>

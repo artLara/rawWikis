@@ -1,0 +1,46 @@
+<p>En <a href="/wiki/F%C3%ADsica" title="Física">física</a>, un <b>newton</b><sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ (símbolo: <b>N</b>) es la unidad de medida de la <a href="/wiki/Fuerza" title="Fuerza">fuerza</a> en el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a>, nombrada de esa forma por las aportaciones de <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> a la física, especialmente a la <a href="/wiki/Mec%C3%A1nica_cl%C3%A1sica" title="Mecánica clásica">mecánica clásica</a>. Es una <a href="/wiki/Unidades_derivadas_del_Sistema_Internacional" title="Unidades derivadas del Sistema Internacional">unidad derivada</a> del <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a> que se compone de las <a href="/wiki/Unidades_b%C3%A1sicas_del_Sistema_Internacional" title="Unidades básicas del Sistema Internacional">unidades básicas</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathrm {\,N={\frac {kg\cdot m}{s^{2}}}} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mspace width="thinmathspace"></mspace>
+<mi mathvariant="normal">N</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">k</mi>
+<mi mathvariant="normal">g</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">m</mi>
+</mrow>
+<msup>
+<mi mathvariant="normal">s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {\,N={\frac {kg\cdot m}{s^{2}}}} }</annotation>
+</semantics>
+</math></span><img alt="{\mathrm  {\,N={\frac  {kg\cdot m}{s^{2}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a73075658ecaa913a3f42509632a098bd7c2e600" style="vertical-align: -2.171ex; width:12.07ex; height:5.676ex;"/></span>
+</p>
+<p>Un newton es la cantidad de fuerza aplicada durante un segundo a una masa de un kilogramo para que esta adquiera la velocidad de un metro por segundo respecto a la velocidad colineal que tenía previamente a la aplicación de la fuerza. Las fuerzas tienen carácter vectorial y son la base del estudio de la dinámica, una de las principales ramas que tiene la mecánica.
+</p>
+<p>En 1946, la VIII <a href="/wiki/Conferencia_General_de_Pesas_y_Medidas" title="Conferencia General de Pesas y Medidas">Conferencia General de Pesos y Medidas</a> (CGPM), resolución 2, normalizó la unidad de fuerza del sistema MKS de unidades como la fuerza necesaria para proporcionar una <a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a> de un 1 <a href="/wiki/Metro" title="Metro">m</a>/<a href="/wiki/Segundo" title="Segundo">s</a>² a un objeto de 1 <a href="/wiki/Kilogramo" title="Kilogramo">kg</a> de <a href="/wiki/Masa" title="Masa">masa</a>.<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ La IX CGPM, de 1948, adoptó el nombre de «newton» en su resolución 7.<sup class="reference separada" id="cite_ref-ISU1977_3-0"><a href="#cite_note-ISU1977-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En la tabla que sigue se relacionan los múltiplos y submúltiplos del newton en el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a>.
+</p>
+<p><br/>
+</p>
+<p><br/>
+<style data-mw-deduplicate="TemplateStyles:r149592375">.mw-parser-output .flexquote{display:flex;flex-direction:column;background-color:#F9F9F9;border-left:3px solid #c8ccd1;font-size:90%;margin:1em 4em;padding:.4em .8em}.mw-parser-output .flexquote>.flex{display:flex;flex-direction:row}.mw-parser-output .flexquote>.flex>.quote{width:100%}.mw-parser-output .flexquote>.flex>.separator{border-left:1px solid #c8ccd1;border-top:1px solid #c8ccd1;margin:.4em .8em}.mw-parser-output .flexquote>.cite{text-align:right}@media all and (max-width:600px){.mw-parser-output .flexquote>.flex{flex-direction:column}}</style>
+</p>
+<p><br/>
+</p>

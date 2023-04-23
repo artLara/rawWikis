@@ -1,0 +1,196 @@
+<p>Una <b>categoría</b> es una agrupación de páginas que comparten algún tema en común. En una analogía con el <a href="/wiki/Sistema_de_archivos" title="Sistema de archivos">sistema de archivos</a> de un computador, las categorías cumplen la misma función que un <a href="/wiki/Directorio" title="Directorio">directorio</a>.
+</p>
+<p>El proceso de incluir una página en una categoría se denomina <i>categorización</i>, y se realiza editando únicamente la página que se desea categorizar.
+</p>
+<p>Las categorías facilitan la búsqueda de información dentro de Wikipedia, y permiten ver las páginas contenidas en cada una de ellas, o bien navegar a través de ellas, gracias a su ordenación jerárquica. Una página no categorizada se considera tan huérfana como una sin <a href="/wiki/Ayuda:Tutorial_(enlaces_internos)" title="Ayuda:Tutorial (enlaces internos)">enlaces internos</a>.
+</p>
+<p>Antes de hacer uso de las categorías, es conveniente que leas <b><a href="/wiki/Wikipedia:Categorizaci%C3%B3n" title="Wikipedia:Categorización">Wikipedia:Categorización</a></b>.
+</p>
+<p>La página que muestra una categoría es un tipo especial de página, generada dinámicamente por el software de Wikimedia y que utiliza el <a href="/wiki/Ayuda:Espacio_de_nombres" title="Ayuda:Espacio de nombres">espacio de nombres</a> <code>Categoría</code>. Su diagramación incluye en una cabecera, subcategorías y páginas que pertenecen a la categoría de marras.
+</p>
+<p>Ubicada al principio de la categoría, corresponde a la información relacionada con ella. Aquí puede haber distintos elementos opcionales:
+</p>
+<p>Una subcategoría es una categoría que pertenece a otra categoría. Pueden existir varios niveles de subcategorías anidadas, cuyo número se puede ver entre paréntesis junto al nombre de la subcategoría. Recordemos que las categorías también son páginas y, por tanto, también deben categorizarse.
+</p>
+<p>Las subcategorías están listadas al medio de la página de su categoría madre, siguiendo un <a href="/wiki/Orden_lexicogr%C3%A1fico" title="Orden lexicográfico">orden lexicográfico</a>.
+</p>
+<p>En la parte inferior de la categoría, se listan todas las páginas que pertenecen a ella, también siguiendo un orden <a href="/wiki/Lexicograf%C3%ADa" title="Lexicografía">lexicográfico</a>.
+</p>
+<p>En las categorías solo se puede mostrar 200 páginas a la vez, de modo que en categorías grandes solamente se verán las 200 primeras entradas. Para estos casos, se recomienda incluir las plantillas <code>{{<a href="/wiki/Plantilla:%C3%8Dndice" title="Plantilla:Índice">índice</a>}}</code>, <code>{{<a href="/wiki/Plantilla:%C3%8Dndice_mediano" title="Plantilla:Índice mediano">índice mediano</a>}}</code> o <code>{{<a href="/wiki/Plantilla:%C3%8Dndice_grande" title="Plantilla:Índice grande">índice grande</a>}}</code> según corresponda al tamaño de la categoría. Estas plantillas proporcionan un índice alfabético para facilitar la navegación entre páginas. Si incluso así no fuese suficiente para encontrar un artículo en particular, se puede escribir en el navegador https://es.wikipedia.org/wiki/Categor%C3%ADa:Hombres?from=XXXX, donde «XXX» son los caracteres por los que comienza el artículo buscado. Por ejemplo:
+</p>
+<p>Al igual que cualquier otro tipo de página, las páginas de categorías pertenecen a una o varias categorías. En el pie de la página aparecen los enlaces a estas categorías.
+</p>
+<p>Toda página de Wikipedia puede en principio categorizarse. Una página está correctamente categorizada si en el pie de esta aparecen las categorías de las cuales debe formar parte. Si en el pie de página no aparece ninguna categoría o alguna de las categorías que aparecen no existe —lo cual se muestra con un enlace en rojo—, es porque la página no está correctamente categorizada.
+</p>
+<p>Para categorizar una página se debe <a href="/wiki/Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina" title="Ayuda:Cómo se edita una página">editar</a> y, en el campo de edición, al final de la página, se agrega un enlace por cada categoría deseada, escribiendo:
+</p>
+<p>y sustituyendo <code>&lt;Nombre de categoría&gt;</code> por el nombre de la categoría correspondiente.
+</p>
+<p>Cuando clasifiques una página en una categoría, ten en cuenta los principios de la buena categorización (siempre usando el <a href="/wiki/Wikipedia:Usa_el_sentido_com%C3%BAn" title="Wikipedia:Usa el sentido común">sentido común</a>, frente a posibles excepciones):
+</p>
+<p>Una clave de ordenamiento es un parámetro que se añade al enlace de categorización, para que la página sea listada en un lugar distinto al que le correspondería por su título. Hay dos formas de incluir la clave de ordenamiento para las categorías de un artículo: incluyendo <code>{{ORDENAR: }}</code> para que se aplique a todas las categorías del artículo o con la inclusión de un parámetro adicional en cada una de las categorías del artículo.
+</p>
+<p>Así, por ejemplo, si se quiere que el artículo <a href="/wiki/Miguel_de_Cervantes" title="Miguel de Cervantes">Miguel de Cervantes</a> aparezca en <a href="/wiki/Categor%C3%ADa:Escritores_en_espa%C3%B1ol" title="Categoría:Escritores en español">Categoría:Escritores en español</a> listado por «Cervantes» en lugar de aparecer por «Miguel», se debe escribir:
+</p>
+<p>o bien
+</p>
+<p>donde el parámetro <code>&lt;Cervantes Miguel de&gt;</code> reemplaza al título del artículo, solo para efectos del orden en que aparecerá este en la lista de artículos. Esto era muy útil para ordenar biografías por apellido pero actualmente la plantilla NF incluye la función de ordenar por lo que no debe usarse en las biografías que emplean la plantilla NF (como se hace normalmente en las enciclopedias),  pero también para listar artículos que de otro modo quedarían semánticamente desordenados. Por ejemplo, para que aparezcan ordenados los artículos en la <a href="/wiki/Categor%C3%ADa:Siglos" title="Categoría:Siglos">Categoría:Siglos</a>, de la forma:
+</p>
+<p>se debe utilizar enlaces como los siguientes:
+</p>
+<p>y de esta manera se evita que aparezcan ordenados lexicográficamente, de la forma:
+</p>
+<p>Adicionalmente, si se quiere categorizar la página principal de una categoría, por ejemplo, el artículo <a href="/wiki/Inform%C3%A1tica" title="Informática">Informática</a> en la <a href="/wiki/Categor%C3%ADa:Inform%C3%A1tica" title="Categoría:Informática">Categoría:Informática</a>, se puede utilizar un espacio en blanco, de la forma:
+</p>
+<p>Así, el artículo aparecerá listado al comienzo, antes de cualquier otro símbolo o letra.
+</p>
+<p>De no definirse una clave de ordenamiento específica, el software <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> utilizará el resultado de aplicar la combinación de <a href="/wiki/Ayuda:Palabras_m%C3%A1gicas" title="Ayuda:Palabras mágicas">palabras mágicas</a> <code>{{uc: {{PAGENAME}} }}</code>, es decir, el título del artículo <i>sin su espacio de nombres</i> y <i>convertido totalmente en mayúsculas</i>. Por ejemplo para la presente página, llamada <code>Ayuda:Categoría</code>, la clave de ordenamiento por defecto es <code>CATEGORÍA</code>.
+</p>
+<p>Asimismo, todas las claves de orden definidas manualmente, ya sea mediante una barra vertical o con <code>{{ORDENAR: }}</code>, serán convertidas por el software a letras mayúsculas. Por ejemplo para 
+</p>
+<p>la clave resultante será <code>CERVANTES MIGUEL DE</code>.
+</p>
+<p>Si se hace uso tanto de <code>{{ORDENAR: }}</code>, como de la ordenación en la categoría como parámetro adicional (tras la barra "|"), será esta última la que prevalezca, mientras que la clave de ordenamiento de <code>{{ORDENAR: }}</code> se aplicaría solo cuando no se haya incluido ningún parámetro adicional en la categoría.
+</p>
+<p>Cuando un artículo pertenezca a varias categorías, en lugar de repetir la misma clave de ordenamiento en cada enlace:
+</p>
+<p>es mejor utilizar la palabra mágica <code>{{ORDENAR:Clave de ordenamiento}}</code>, del siguiente modo:
+</p>
+<p>Así, la clave de ordenamiento <code>&lt;Cervantes miguel de&gt;</code> será asignada a todas las categorías sin clave explícita. Esto es particularmente útil en los artículos biográficos, que suelen pertenecer a un considerable número categorías.
+</p>
+<p>Cuando una de las categorías deba ordenarse de diferente modo que el resto, bastará con explicitar su clave de ordenamiento para que la determinada en <code>{{ORDENAR:}}</code> sea ignorada en esa entrada. Por ejemplo, al categorizar <a href="/wiki/Bandera_de_M%C3%A9xico" title="Bandera de México">Bandera de México</a>, pondremos:
+</p>
+<p>para que aparezca por «México» en <a href="/wiki/Categor%C3%ADa:Banderas_nacionales" title="Categoría:Banderas nacionales">Categoría:Banderas nacionales</a>, y por «Bandera de México» en las demás.
+</p>
+<p>Las <a href="/wiki/Ayuda:Plantillas" title="Ayuda:Plantillas">plantillas</a> son un tipo especial de páginas que corresponden a trozos de código que se agregan dentro de otra página, por lo que, si se categoriza la plantilla utilizando el método usual, entonces todos los artículos que la utilizan también se categorizan. Así, para categorizar de manera correcta y excluyente a las plantillas, se debe escribir:
+</p>
+<p>donde el campo <code>«noinclude»</code> especifica que las páginas que utilizan la plantilla no se incluyen en <code>[[Categoría:Nombre de categoría]]</code>.
+</p>
+<p>Para aquellas plantillas que están <a href="/wiki/Plantilla:Documentaci%C3%B3n" title="Plantilla:Documentación">documentadas</a>, las categorías deben ir en su correspondiente subpágina de documentación «/doc», escribiendo en ella:
+</p>
+<p>donde el campo <code>«includeonly»</code> indica que solo se categorizará allí la página que utilice esta documentación.
+</p>
+<p>Algunas plantillas están configuradas para que las páginas marcadas por ellas queden automáticamente clasificadas dentro de una categoría en particular. Por ejemplo, la plantilla <code>{{<a href="/wiki/Plantilla:No_neutralidad" title="Plantilla:No neutralidad">no neutralidad</a>}}</code> "hereda" la <a href="/wiki/Categor%C3%ADa:Wikipedia:No_neutral" title="Categoría:Wikipedia:No neutral">Categoría:Wikipedia:No neutral</a> a todos los artículos que la utilizan. En algunos casos, estas categorías heredadas serán invisibles para el usuario, a menos que sean activadas por este a través de las «preferencias de usuario».
+</p>
+<p>Hay un problema cuando se cambian las categorías de una plantilla, ya que las categorías de una página son las que ella tenía al momento de su última edición, y los cambios en las categorías de las plantillas que utiliza solo tienen efecto en la siguiente edición de la página. Si se desea actualizar las categorías de una página, en esos casos se puede agregar al <a class="mw-redirect" href="/wiki/URL" title="URL">URL</a> el parámetro "<code>action=purge</code>"; por ejemplo, para el artículo <a href="/wiki/TeX" title="TeX">TeX</a> basta ingresar a <code>http://es.wikimedia.org/wiki/TeX?action=purge</code>.
+</p>
+<p>La categorización corresponde a uno de los <a class="mw-redirect" href="/wiki/Wikiproyecto:PPN#Referencia_rápida" title="Wikiproyecto:PPN">últimos pasos</a> de las tareas de <a href="/wiki/Wikipedia:Mantenimiento" title="Wikipedia:Mantenimiento">mantenimiento</a>. Si un usuario olvidó u omitió categorizar un artículo (lo que va contra <a href="/wiki/Wikipedia:Categorizaci%C3%B3n" title="Wikipedia:Categorización">Wikipedia:Categorización</a>) puedes dejarle un aviso en su página de discusión mediante la plantilla <code>{{<a href="/wiki/Plantilla:Aviso_categorizar" title="Plantilla:Aviso categorizar">Aviso categorizar</a>}}</code>.
+</p>
+<p>Por otra parte, si se considera que una categoría es demasiado general y posee las sub-categorías necesarias para abarcar todos los temas relacionados, entonces puede marcarse con <code>{{<a href="/wiki/Plantilla:Categor%C3%ADa_contenedor" title="Plantilla:Categoría contenedor">Categoría contenedor</a>}}</code>.
+</p>
+<p>Las categorías se crean <a href="/wiki/Ayuda:C%C3%B3mo_empezar_una_p%C3%A1gina" title="Ayuda:Cómo empezar una página">de manera análoga</a> a los artículos, siempre respetando las <a class="mw-redirect" href="/wiki/Wikipedia:CT" title="Wikipedia:CT">convenciones de títulos</a>; sin embargo, todo su contenido es opcional, salvo por la identificación de su o sus categorías madre. Así, una categoría nueva al menos debe poseer un enlace a otra categoría, del tipo
+</p>
+<p><code>[[Categoría:Nombre de categoría]]</code>.
+</p>
+<p>En la página especial <a href="/wiki/Especial:Categor%C3%ADasRequeridas" title="Especial:CategoríasRequeridas">Especial:CategoríasRequeridas</a> se listan todas las categorías requeridas, es decir, aquellas que están actualmente siendo utilizadas, pero que aún no han sido creadas. Muchas de ellas no deberían existir, porque no se adecuan a <a href="/wiki/Wikipedia:Categorizaci%C3%B3n" title="Wikipedia:Categorización">Wikipedia:Categorización</a>, así que ten cuidado antes de crear una.
+</p>
+<p>Si necesitas poner un enlace a una categoría, ya sea en un artículo, en una discusión o en cualquier otra página, pero sin que esta sea agregada a la categoría, basta con agregar dos puntos (:) delante del enlace. Así, por ejemplo, si escribes:
+</p>
+<p>obtendrás el enlace <a href="/wiki/Categor%C3%ADa:Deporte" title="Categoría:Deporte">Categoría:Deporte</a>.
+</p>
+<p>Todas las categorías de Wikipedia están directa o indirectamente ligadas a <b><a href="/wiki/Categor%C3%ADa:%C3%8Dndice_de_categor%C3%ADas" title="Categoría:Índice de categorías">Categoría:Índice de categorías</a></b> (que aparece más ordenada en <a href="/wiki/Wikipedia:Contenidos" title="Wikipedia:Contenidos">Wikipedia:Contenidos</a>), la cual, por ser la categoría madre o categoría raíz, es la única que no es subcategoría de otra. A partir de ella, encontrarás todas las categorías existentes en la Wikipedia en español. El siguiente es el árbol de las categorías de artículos:
+</p>
+<p>A continuación listamos todos los repositorios conformados por páginas que requieren ser categorizadas:
+</p>
+<p>Al igual que otras páginas wiki, las categorías pueden ser trasladadas para cambiarlas de título, e incluso de <a href="/wiki/Ayuda:Espacio_de_nombres" title="Ayuda:Espacio de nombres">espacio de nombres</a>. Sin embargo, es importante recordar que, al renombrar una categoría, sus páginas no son reclasificadas automáticamente bajo el nuevo nombre. Si, por ejemplo, se quisiera cambiar «Categoría:Equitación» a «Categoría:Equitación a caballo», se debería hacer lo siguiente:
+</p>
+<p>Para facilitar y acelerar la categorización, mejora de categorías, así como eliminación de categorías redundantes, hay un accesorio disponible en «Preferencias:Accesorios», en la sección «Accesorios para la edición».
+</p>
+<p>Una <b>categoría</b> es una agrupación de páginas que comparten algún tema en común. En una analogía con el <a href="/wiki/Sistema_de_archivos" title="Sistema de archivos">sistema de archivos</a> de un computador, las categorías cumplen la misma función que un <a href="/wiki/Directorio" title="Directorio">directorio</a>.
+</p>
+<p>El proceso de incluir una página en una categoría se denomina <i>categorización</i>, y se realiza editando únicamente la página que se desea categorizar.
+</p>
+<p>Las categorías facilitan la búsqueda de información dentro de Wikipedia, y permiten ver las páginas contenidas en cada una de ellas, o bien navegar a través de ellas, gracias a su ordenación jerárquica. Una página no categorizada se considera tan huérfana como una sin <a href="/wiki/Ayuda:Tutorial_(enlaces_internos)" title="Ayuda:Tutorial (enlaces internos)">enlaces internos</a>.
+</p>
+<p>Antes de hacer uso de las categorías, es conveniente que leas <b><a href="/wiki/Wikipedia:Categorizaci%C3%B3n" title="Wikipedia:Categorización">Wikipedia:Categorización</a></b>.
+</p>
+<p>La página que muestra una categoría es un tipo especial de página, generada dinámicamente por el software de Wikimedia y que utiliza el <a href="/wiki/Ayuda:Espacio_de_nombres" title="Ayuda:Espacio de nombres">espacio de nombres</a> <code>Categoría</code>. Su diagramación incluye en una cabecera, subcategorías y páginas que pertenecen a la categoría de marras.
+</p>
+<p>Ubicada al principio de la categoría, corresponde a la información relacionada con ella. Aquí puede haber distintos elementos opcionales:
+</p>
+<p>Una subcategoría es una categoría que pertenece a otra categoría. Pueden existir varios niveles de subcategorías anidadas, cuyo número se puede ver entre paréntesis junto al nombre de la subcategoría. Recordemos que las categorías también son páginas y, por tanto, también deben categorizarse.
+</p>
+<p>Las subcategorías están listadas al medio de la página de su categoría madre, siguiendo un <a href="/wiki/Orden_lexicogr%C3%A1fico" title="Orden lexicográfico">orden lexicográfico</a>.
+</p>
+<p>En la parte inferior de la categoría, se listan todas las páginas que pertenecen a ella, también siguiendo un orden <a href="/wiki/Lexicograf%C3%ADa" title="Lexicografía">lexicográfico</a>.
+</p>
+<p>En las categorías solo se puede mostrar 200 páginas a la vez, de modo que en categorías grandes solamente se verán las 200 primeras entradas. Para estos casos, se recomienda incluir las plantillas <code>{{<a href="/wiki/Plantilla:%C3%8Dndice" title="Plantilla:Índice">índice</a>}}</code>, <code>{{<a href="/wiki/Plantilla:%C3%8Dndice_mediano" title="Plantilla:Índice mediano">índice mediano</a>}}</code> o <code>{{<a href="/wiki/Plantilla:%C3%8Dndice_grande" title="Plantilla:Índice grande">índice grande</a>}}</code> según corresponda al tamaño de la categoría. Estas plantillas proporcionan un índice alfabético para facilitar la navegación entre páginas. Si incluso así no fuese suficiente para encontrar un artículo en particular, se puede escribir en el navegador https://es.wikipedia.org/wiki/Categor%C3%ADa:Hombres?from=XXXX, donde «XXX» son los caracteres por los que comienza el artículo buscado. Por ejemplo:
+</p>
+<p>Al igual que cualquier otro tipo de página, las páginas de categorías pertenecen a una o varias categorías. En el pie de la página aparecen los enlaces a estas categorías.
+</p>
+<p>Toda página de Wikipedia puede en principio categorizarse. Una página está correctamente categorizada si en el pie de esta aparecen las categorías de las cuales debe formar parte. Si en el pie de página no aparece ninguna categoría o alguna de las categorías que aparecen no existe —lo cual se muestra con un enlace en rojo—, es porque la página no está correctamente categorizada.
+</p>
+<p>Para categorizar una página se debe <a href="/wiki/Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina" title="Ayuda:Cómo se edita una página">editar</a> y, en el campo de edición, al final de la página, se agrega un enlace por cada categoría deseada, escribiendo:
+</p>
+<p>y sustituyendo <code>&lt;Nombre de categoría&gt;</code> por el nombre de la categoría correspondiente.
+</p>
+<p>Cuando clasifiques una página en una categoría, ten en cuenta los principios de la buena categorización (siempre usando el <a href="/wiki/Wikipedia:Usa_el_sentido_com%C3%BAn" title="Wikipedia:Usa el sentido común">sentido común</a>, frente a posibles excepciones):
+</p>
+<p>Una clave de ordenamiento es un parámetro que se añade al enlace de categorización, para que la página sea listada en un lugar distinto al que le correspondería por su título. Hay dos formas de incluir la clave de ordenamiento para las categorías de un artículo: incluyendo <code>{{ORDENAR: }}</code> para que se aplique a todas las categorías del artículo o con la inclusión de un parámetro adicional en cada una de las categorías del artículo.
+</p>
+<p>Así, por ejemplo, si se quiere que el artículo <a href="/wiki/Miguel_de_Cervantes" title="Miguel de Cervantes">Miguel de Cervantes</a> aparezca en <a href="/wiki/Categor%C3%ADa:Escritores_en_espa%C3%B1ol" title="Categoría:Escritores en español">Categoría:Escritores en español</a> listado por «Cervantes» en lugar de aparecer por «Miguel», se debe escribir:
+</p>
+<p>o bien
+</p>
+<p>donde el parámetro <code>&lt;Cervantes Miguel de&gt;</code> reemplaza al título del artículo, solo para efectos del orden en que aparecerá este en la lista de artículos. Esto era muy útil para ordenar biografías por apellido pero actualmente la plantilla NF incluye la función de ordenar por lo que no debe usarse en las biografías que emplean la plantilla NF (como se hace normalmente en las enciclopedias),  pero también para listar artículos que de otro modo quedarían semánticamente desordenados. Por ejemplo, para que aparezcan ordenados los artículos en la <a href="/wiki/Categor%C3%ADa:Siglos" title="Categoría:Siglos">Categoría:Siglos</a>, de la forma:
+</p>
+<p>se debe utilizar enlaces como los siguientes:
+</p>
+<p>y de esta manera se evita que aparezcan ordenados lexicográficamente, de la forma:
+</p>
+<p>Adicionalmente, si se quiere categorizar la página principal de una categoría, por ejemplo, el artículo <a href="/wiki/Inform%C3%A1tica" title="Informática">Informática</a> en la <a href="/wiki/Categor%C3%ADa:Inform%C3%A1tica" title="Categoría:Informática">Categoría:Informática</a>, se puede utilizar un espacio en blanco, de la forma:
+</p>
+<p>Así, el artículo aparecerá listado al comienzo, antes de cualquier otro símbolo o letra.
+</p>
+<p>De no definirse una clave de ordenamiento específica, el software <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> utilizará el resultado de aplicar la combinación de <a href="/wiki/Ayuda:Palabras_m%C3%A1gicas" title="Ayuda:Palabras mágicas">palabras mágicas</a> <code>{{uc: {{PAGENAME}} }}</code>, es decir, el título del artículo <i>sin su espacio de nombres</i> y <i>convertido totalmente en mayúsculas</i>. Por ejemplo para la presente página, llamada <code>Ayuda:Categoría</code>, la clave de ordenamiento por defecto es <code>CATEGORÍA</code>.
+</p>
+<p>Asimismo, todas las claves de orden definidas manualmente, ya sea mediante una barra vertical o con <code>{{ORDENAR: }}</code>, serán convertidas por el software a letras mayúsculas. Por ejemplo para 
+</p>
+<p>la clave resultante será <code>CERVANTES MIGUEL DE</code>.
+</p>
+<p>Si se hace uso tanto de <code>{{ORDENAR: }}</code>, como de la ordenación en la categoría como parámetro adicional (tras la barra "|"), será esta última la que prevalezca, mientras que la clave de ordenamiento de <code>{{ORDENAR: }}</code> se aplicaría solo cuando no se haya incluido ningún parámetro adicional en la categoría.
+</p>
+<p>Cuando un artículo pertenezca a varias categorías, en lugar de repetir la misma clave de ordenamiento en cada enlace:
+</p>
+<p>es mejor utilizar la palabra mágica <code>{{ORDENAR:Clave de ordenamiento}}</code>, del siguiente modo:
+</p>
+<p>Así, la clave de ordenamiento <code>&lt;Cervantes miguel de&gt;</code> será asignada a todas las categorías sin clave explícita. Esto es particularmente útil en los artículos biográficos, que suelen pertenecer a un considerable número categorías.
+</p>
+<p>Cuando una de las categorías deba ordenarse de diferente modo que el resto, bastará con explicitar su clave de ordenamiento para que la determinada en <code>{{ORDENAR:}}</code> sea ignorada en esa entrada. Por ejemplo, al categorizar <a href="/wiki/Bandera_de_M%C3%A9xico" title="Bandera de México">Bandera de México</a>, pondremos:
+</p>
+<p>para que aparezca por «México» en <a href="/wiki/Categor%C3%ADa:Banderas_nacionales" title="Categoría:Banderas nacionales">Categoría:Banderas nacionales</a>, y por «Bandera de México» en las demás.
+</p>
+<p>Las <a href="/wiki/Ayuda:Plantillas" title="Ayuda:Plantillas">plantillas</a> son un tipo especial de páginas que corresponden a trozos de código que se agregan dentro de otra página, por lo que, si se categoriza la plantilla utilizando el método usual, entonces todos los artículos que la utilizan también se categorizan. Así, para categorizar de manera correcta y excluyente a las plantillas, se debe escribir:
+</p>
+<p>donde el campo <code>«noinclude»</code> especifica que las páginas que utilizan la plantilla no se incluyen en <code>[[Categoría:Nombre de categoría]]</code>.
+</p>
+<p>Para aquellas plantillas que están <a href="/wiki/Plantilla:Documentaci%C3%B3n" title="Plantilla:Documentación">documentadas</a>, las categorías deben ir en su correspondiente subpágina de documentación «/doc», escribiendo en ella:
+</p>
+<p>donde el campo <code>«includeonly»</code> indica que solo se categorizará allí la página que utilice esta documentación.
+</p>
+<p>Algunas plantillas están configuradas para que las páginas marcadas por ellas queden automáticamente clasificadas dentro de una categoría en particular. Por ejemplo, la plantilla <code>{{<a href="/wiki/Plantilla:No_neutralidad" title="Plantilla:No neutralidad">no neutralidad</a>}}</code> "hereda" la <a href="/wiki/Categor%C3%ADa:Wikipedia:No_neutral" title="Categoría:Wikipedia:No neutral">Categoría:Wikipedia:No neutral</a> a todos los artículos que la utilizan. En algunos casos, estas categorías heredadas serán invisibles para el usuario, a menos que sean activadas por este a través de las «preferencias de usuario».
+</p>
+<p>Hay un problema cuando se cambian las categorías de una plantilla, ya que las categorías de una página son las que ella tenía al momento de su última edición, y los cambios en las categorías de las plantillas que utiliza solo tienen efecto en la siguiente edición de la página. Si se desea actualizar las categorías de una página, en esos casos se puede agregar al <a class="mw-redirect" href="/wiki/URL" title="URL">URL</a> el parámetro "<code>action=purge</code>"; por ejemplo, para el artículo <a href="/wiki/TeX" title="TeX">TeX</a> basta ingresar a <code>http://es.wikimedia.org/wiki/TeX?action=purge</code>.
+</p>
+<p>La categorización corresponde a uno de los <a class="mw-redirect" href="/wiki/Wikiproyecto:PPN#Referencia_rápida" title="Wikiproyecto:PPN">últimos pasos</a> de las tareas de <a href="/wiki/Wikipedia:Mantenimiento" title="Wikipedia:Mantenimiento">mantenimiento</a>. Si un usuario olvidó u omitió categorizar un artículo (lo que va contra <a href="/wiki/Wikipedia:Categorizaci%C3%B3n" title="Wikipedia:Categorización">Wikipedia:Categorización</a>) puedes dejarle un aviso en su página de discusión mediante la plantilla <code>{{<a href="/wiki/Plantilla:Aviso_categorizar" title="Plantilla:Aviso categorizar">Aviso categorizar</a>}}</code>.
+</p>
+<p>Por otra parte, si se considera que una categoría es demasiado general y posee las sub-categorías necesarias para abarcar todos los temas relacionados, entonces puede marcarse con <code>{{<a href="/wiki/Plantilla:Categor%C3%ADa_contenedor" title="Plantilla:Categoría contenedor">Categoría contenedor</a>}}</code>.
+</p>
+<p>Las categorías se crean <a href="/wiki/Ayuda:C%C3%B3mo_empezar_una_p%C3%A1gina" title="Ayuda:Cómo empezar una página">de manera análoga</a> a los artículos, siempre respetando las <a class="mw-redirect" href="/wiki/Wikipedia:CT" title="Wikipedia:CT">convenciones de títulos</a>; sin embargo, todo su contenido es opcional, salvo por la identificación de su o sus categorías madre. Así, una categoría nueva al menos debe poseer un enlace a otra categoría, del tipo
+</p>
+<p><code>[[Categoría:Nombre de categoría]]</code>.
+</p>
+<p>En la página especial <a href="/wiki/Especial:Categor%C3%ADasRequeridas" title="Especial:CategoríasRequeridas">Especial:CategoríasRequeridas</a> se listan todas las categorías requeridas, es decir, aquellas que están actualmente siendo utilizadas, pero que aún no han sido creadas. Muchas de ellas no deberían existir, porque no se adecuan a <a href="/wiki/Wikipedia:Categorizaci%C3%B3n" title="Wikipedia:Categorización">Wikipedia:Categorización</a>, así que ten cuidado antes de crear una.
+</p>
+<p>Si necesitas poner un enlace a una categoría, ya sea en un artículo, en una discusión o en cualquier otra página, pero sin que esta sea agregada a la categoría, basta con agregar dos puntos (:) delante del enlace. Así, por ejemplo, si escribes:
+</p>
+<p>obtendrás el enlace <a href="/wiki/Categor%C3%ADa:Deporte" title="Categoría:Deporte">Categoría:Deporte</a>.
+</p>
+<p>Todas las categorías de Wikipedia están directa o indirectamente ligadas a <b><a href="/wiki/Categor%C3%ADa:%C3%8Dndice_de_categor%C3%ADas" title="Categoría:Índice de categorías">Categoría:Índice de categorías</a></b> (que aparece más ordenada en <a href="/wiki/Wikipedia:Contenidos" title="Wikipedia:Contenidos">Wikipedia:Contenidos</a>), la cual, por ser la categoría madre o categoría raíz, es la única que no es subcategoría de otra. A partir de ella, encontrarás todas las categorías existentes en la Wikipedia en español. El siguiente es el árbol de las categorías de artículos:
+</p>
+<p>A continuación listamos todos los repositorios conformados por páginas que requieren ser categorizadas:
+</p>
+<p>Al igual que otras páginas wiki, las categorías pueden ser trasladadas para cambiarlas de título, e incluso de <a href="/wiki/Ayuda:Espacio_de_nombres" title="Ayuda:Espacio de nombres">espacio de nombres</a>. Sin embargo, es importante recordar que, al renombrar una categoría, sus páginas no son reclasificadas automáticamente bajo el nuevo nombre. Si, por ejemplo, se quisiera cambiar «Categoría:Equitación» a «Categoría:Equitación a caballo», se debería hacer lo siguiente:
+</p>
+<p>Para facilitar y acelerar la categorización, mejora de categorías, así como eliminación de categorías redundantes, hay un accesorio disponible en «Preferencias:Accesorios», en la sección «Accesorios para la edición».
+</p>

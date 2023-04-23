@@ -1,0 +1,2 @@
+<p>A continuación se listan todas las <a href="/wiki/Wikipedia:P%C3%A1ginas_especiales" title="Wikipedia:Páginas especiales">páginas especiales</a> disponibles de Wikipedia en español, ofrecidas por el software <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a>.
+</p>

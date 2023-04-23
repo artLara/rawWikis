@@ -1,0 +1,558 @@
+<p>El término <b>energía</b> (del <a href="/wiki/Griego_antiguo" title="Griego antiguo">griego</a> ἐνέργεια <i>enérgeia</i>, ‘actividad’ ‘operación’; de ἐνεργóς <i>energós</i>, ‘<a href="/wiki/Fuerza" title="Fuerza">fuerza</a> de acción’ o ‘fuerza de <a href="/wiki/Trabajo_(f%C3%ADsica)" title="Trabajo (física)">trabajo</a>’) tiene diversas acepciones y definiciones, relacionadas con la idea de una capacidad para obrar, surgir, transformar o poner en <a href="/wiki/Movimiento_(f%C3%ADsica)" title="Movimiento (física)">movimiento</a>.
+</p>
+<p>En <a href="/wiki/F%C3%ADsica" title="Física">física</a> (específicamente en mecánica), energía se define como la capacidad para realizar un <a href="/wiki/Trabajo_(f%C3%ADsica)" title="Trabajo (física)">trabajo</a>.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ En <a href="/wiki/Tecnolog%C3%ADa" title="Tecnología">tecnología</a> y <a href="/wiki/Econom%C3%ADa" title="Economía">economía</a>, «energía» se refiere a un <a href="/wiki/Recurso_natural" title="Recurso natural">recurso natural</a> (incluyendo a su tecnología asociada para poder extraerla, transformarla y darle un uso industrial o económico).
+</p>
+<p>Para que se incluya también a la termodinámica, podemos decir que la energía es la capacidad de los cuerpos para realizar transformaciones (mediante trabajo o mediante calor) en ellos mismos o en otros cuerpos. Es decir, el concepto de energía se define como la capacidad de hacer funcionar las cosas. De todos modos, en la definición no se abarca la noción de energía que tiene una onda electromagnética, por ejemplo.
+</p>
+<p>La <a href="/wiki/Masa" title="Masa">masa</a> y la energía están estrechamente relacionadas. Debido a la <a class="mw-redirect" href="/wiki/Equivalencia_masa-energ%C3%ADa" title="Equivalencia masa-energía">equivalencia masa-energía</a>, cualquier objeto que tenga masa cuando está inmóvil (llamada <a class="mw-redirect" href="/wiki/Masa_en_reposo" title="Masa en reposo">masa en reposo</a>) también tiene una cantidad equivalente de energía cuya forma se llama <a class="mw-redirect" href="/wiki/Masa_en_reposo#Energía_en_reposo" title="Masa en reposo">energía en reposo</a>, y cualquier energía adicional (de cualquier forma) adquirida por el objeto por encima de esa energía en reposo aumentará la masa total del objeto al igual que aumenta su energía total. Por ejemplo, después de calentar un objeto, su aumento de energía podría medirse como un pequeño aumento de la masa, con una <a href="/wiki/Balanza" title="Balanza">balanza</a> suficientemente sensible.
+</p>
+<p>Los <a class="mw-redirect" href="/wiki/Organismos" title="Organismos">organismos</a> vivos requieren energía para mantenerse vivos, como la <a href="/wiki/Energ%C3%ADa_alimentaria" title="Energía alimentaria">energía que los humanos obtienen de los alimentos</a>. La civilización humana requiere energía para funcionar, que obtiene de <a class="mw-redirect" href="/wiki/Recursos_energ%C3%A9ticos" title="Recursos energéticos">recursos energéticos</a> como <a class="mw-redirect" href="/wiki/Combustibles_f%C3%B3siles" title="Combustibles fósiles">combustibles fósiles</a>, <a href="/wiki/Combustible_nuclear" title="Combustible nuclear">combustible nuclear</a> o <a class="mw-redirect" href="/wiki/Energ%C3%ADas_renovables" title="Energías renovables">energías renovables</a>. Los procesos del <a href="/wiki/Clima" title="Clima">clima</a> y del <a href="/wiki/Ecosistema" title="Ecosistema">ecosistema</a> de la Tierra son impulsados por la energía radiante que la Tierra recibe del Sol y la <a href="/wiki/Energ%C3%ADa_geot%C3%A9rmica" title="Energía geotérmica">energía geotérmica</a> contenida en el interior de la Tierra.
+</p>
+<p>La unidad de medida que utilizamos para cuantificar la energía es el julio o <i>joule</i> (J), en honor al físico inglés <a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">James Prescott Joule</a>.
+</p>
+<p>.
+</p>
+<p>La palabra <i>energía</i> deriva del en <a href="/wiki/Griego_antiguo" title="Griego antiguo">griego antiguo</a>: <span lang="grc">ἐνέργεια</span>, <small>romanizado: </small><i lang="grc-Latn" title="Romanización del idioma griego antiguo"><a href="/wiki/Energeia" title="Energeia">energeia</a></i>, <small><a class="mw-redirect" href="/wiki/Traducci%C3%B3n_metafr%C3%A1stica" title="Traducción metafrástica">lit.</a> </small>'actividad, operación',<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ que posiblemente aparece por primera vez en la obra de <a href="/wiki/Arist%C3%B3teles" title="Aristóteles">Aristóteles</a> en el <a href="/wiki/Siglo_IV" title="Siglo IV">siglo IV</a> a. C. A diferencia de la definición moderna, energeia era un concepto filosófico cualitativo, lo suficientemente amplio como para incluir ideas como la felicidad y el placer.
+</p>
+<p>A finales del <a href="/wiki/Siglo_XVII" title="Siglo XVII">siglo XVII</a>, <a href="/wiki/Gottfried_Leibniz" title="Gottfried Leibniz">Gottfried Leibniz</a> propuso la idea de la <a href="/wiki/Vis_viva" title="Vis viva">vis viva</a>, o fuerza viva, que definió como el producto de la masa de un objeto por su velocidad al cuadrado; creía que la <i>vis viva</i> total se conservaba. Para explicar la ralentización debida a la fricción, Leibniz teorizó que la energía térmica consistía en el movimiento aleatorio de las partes constituyentes de la materia, aunque pasaría más de un siglo hasta que esto se aceptara de forma generalizada. El análogo moderno de esta propiedad, la <a href="/wiki/Energ%C3%ADa_cin%C3%A9tica" title="Energía cinética">energía cinética</a>, difiere de la <i>vis viva</i> sólo por un factor de dos.
+</p>
+<p>En 1807, <a href="/wiki/Thomas_Young" title="Thomas Young">Thomas Young</a> fue posiblemente el primero en utilizar el término «energía» en lugar de <i>vis viva</i>, en su sentido moderno.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​ <a class="mw-redirect" href="/wiki/Gustave-Gaspard_Coriolis" title="Gustave-Gaspard Coriolis">Gustave-Gaspard Coriolis</a> describió en 1829 la <a href="/wiki/Energ%C3%ADa_cin%C3%A9tica" title="Energía cinética">energía cinética</a> en su sentido moderno, y en 1853, <a href="/wiki/William_John_Macquorn_Rankine" title="William John Macquorn Rankine">William Rankine</a> acuñó el término <a href="/wiki/Energ%C3%ADa_potencial" title="Energía potencial">energía potencial</a>. La ley de <a href="/wiki/Conservaci%C3%B3n_de_la_energ%C3%ADa" title="Conservación de la energía">conservación de la energía</a> también se postuló por primera vez a principios del siglo XIX, y se aplica a cualquier <a href="/wiki/Sistema_aislado" title="Sistema aislado">sistema aislado</a>. Durante algunos años se discutió si el calor era una sustancia física, lo que se denominó <a href="/wiki/Teor%C3%ADa_cal%C3%B3rica" title="Teoría calórica">calórica</a>, o simplemente una cantidad física, como el <a href="/wiki/Cantidad_de_movimiento" title="Cantidad de movimiento">momento</a>. En 1845 <a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">James Prescott Joule</a> descubrió la relación entre el trabajo mecánico y la generación de calor.
+</p>
+<p>Estos avances condujeron a la teoría de la conservación de la energía, formalizada en gran medida por William Thomson (<a class="mw-redirect" href="/wiki/Lord_Kelvin" title="Lord Kelvin">Lord Kelvin</a>) como el campo de la <a href="/wiki/Termodin%C3%A1mica" title="Termodinámica">termodinámica</a>. La termodinámica ayudó al rápido desarrollo de las explicaciones de los procesos químicos por parte de <a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Rudolf Clausius</a>, <a href="/wiki/Josiah_Willard_Gibbs" title="Josiah Willard Gibbs">Josiah Willard Gibbs</a> y <a href="/wiki/Walther_Nernst" title="Walther Nernst">Walther Nernst</a>. También condujo a la formulación matemática del concepto de <a href="/wiki/Entrop%C3%ADa" title="Entropía">entropía</a> por Clausius y a la introducción de las leyes de la <a href="/wiki/Energ%C3%ADa_radiante" title="Energía radiante">energía radiante</a> por <a class="mw-redirect" href="/wiki/Jo%C5%BEef_Stefan" title="Jožef Stefan">Jožef Stefan</a>. Según el <a href="/wiki/Teorema_de_Noether" title="Teorema de Noether">teorema de Noether</a>, la conservación de la energía es una consecuencia del hecho de que las leyes de la física no cambian con el tiempo.<sup class="reference separada" id="cite_ref-jphysics_4-0"><a href="#cite_note-jphysics-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ Así, desde 1918, los teóricos han entendido que la ley de <a href="/wiki/Conservaci%C3%B3n_de_la_energ%C3%ADa" title="Conservación de la energía">conservación de la energía</a> es la consecuencia matemática directa de la <a href="/wiki/Simetr%C3%ADa_traslacional" title="Simetría traslacional">simetría traslacional</a> del <a href="/wiki/Variable_conjugada_(termodin%C3%A1mica)" title="Variable conjugada (termodinámica)">conjugado</a> cantidad de energía, es decir, el tiempo.
+</p>
+<p>En la <a href="/wiki/F%C3%ADsica_cl%C3%A1sica" title="Física clásica">física clásica moderna</a>, la ley universal de <a href="/wiki/Conservaci%C3%B3n_de_la_energ%C3%ADa" title="Conservación de la energía">conservación de la energía</a> —que es el fundamento del <a href="/wiki/Primer_principio_de_la_termodin%C3%A1mica" title="Primer principio de la termodinámica">primer principio de la termodinámica</a>—, indica que la energía ligada a un <a href="/wiki/Sistema_termodin%C3%A1mico" title="Sistema termodinámico">sistema aislado</a> permanece constante en el tiempo.<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ Eso significa que para multitud de sistemas físicos clásicos, la suma de la <a href="/wiki/Energ%C3%ADa_mec%C3%A1nica" title="Energía mecánica">energía mecánica</a>, la energía calorífica, la <a href="/wiki/Energ%C3%ADa_electromagn%C3%A9tica" title="Energía electromagnética">energía electromagnética</a>, y otros tipos de <a href="/wiki/Energ%C3%ADa_potencial" title="Energía potencial">energía potencial</a> es un número constante. Por ejemplo, la <a href="/wiki/Energ%C3%ADa_cin%C3%A9tica" title="Energía cinética">energía cinética</a> se cuantifica en función del movimiento de la <a href="/wiki/Materia" title="Materia">materia</a>, la energía potencial según propiedades como el estado de <a href="/wiki/Deformaci%C3%B3n" title="Deformación">deformación</a> o a la posición de la materia en relación con las fuerzas que actúan sobre ella, la <a href="/wiki/Energ%C3%ADa_t%C3%A9rmica" title="Energía térmica">energía térmica</a> según su <a href="/wiki/Capacidad_calor%C3%ADfica" title="Capacidad calorífica">capacidad calorífica</a>, y la <a href="/wiki/Gradiente_electroqu%C3%ADmico" title="Gradiente electroquímico">energía química</a> según la <a href="/wiki/F%C3%B3rmula_qu%C3%ADmica" title="Fórmula química">composición química</a>.
+</p>
+<p>En la <a href="/wiki/Teor%C3%ADa_de_la_relatividad" title="Teoría de la relatividad">teoría de la relatividad</a> el principio de <a href="/wiki/Conservaci%C3%B3n_de_la_energ%C3%ADa" title="Conservación de la energía">conservación de la energía</a> se cumple, aunque debe redefinirse la medida de la energía para incorporar la energía asociada a la masa, ya que en mecánica relativista, si se considerara la energía definida al modo de la <a href="/wiki/Mec%C3%A1nica_cl%C3%A1sica" title="Mecánica clásica">mecánica clásica</a> entonces resultaría una cantidad que no se conserva constante. Así pues, la <a href="/wiki/Teor%C3%ADa_de_la_relatividad_especial" title="Teoría de la relatividad especial">teoría de la relatividad especial</a> establece una <a href="/wiki/Equivalencia_entre_masa_y_energ%C3%ADa" title="Equivalencia entre masa y energía">equivalencia entre masa y energía</a> por la cual todos los cuerpos, por el hecho de estar formados de <a href="/wiki/Materia" title="Materia">materia</a>, poseen una energía adicional equivalente a <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E={\sqrt {(mc^{2})^{2}+(pc)^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mo stretchy="false">(</mo>
+<mi>m</mi>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mi>c</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E={\sqrt {(mc^{2})^{2}+(pc)^{2}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E={\sqrt {(mc^{2})^{2}+(pc)^{2}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/baef7ce9099c5b13f8a0cc149ca734159e89f245" style="vertical-align: -1.671ex; width:22.043ex; height:4.843ex;"/></span>, y si se considera el principio de conservación de la energía esta energía  debe ser tomada en cuenta para obtener una <a class="mw-redirect" href="/wiki/Ley_de_conservaci%C3%B3n" title="Ley de conservación">ley de conservación</a> (naturalmente en contrapartida la masa no se conserva en relatividad, sino que la única posibilidad para una ley de conservación es contabilizar juntas la energía asociada a la masa y el resto de formas de energía).
+</p>
+<p>En <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a> el resultado de la medida de una magnitud en el caso general no da un resultado determinista, por lo que solo puede hablarse del valor de la energía de una medida, no obstante el frío es la ausencia del calor, no de la energía del sistema. El valor de la energía en general es una variable aleatoria, aunque su distribución sí puede ser calculada, si bien no el resultado particular de una medida. En mecánica cuántica el valor esperado de la energía de un <a href="/wiki/Estado_estacionario" title="Estado estacionario">estado estacionario</a> se mantiene constante. Sin embargo, existen estados que no son propios del hamiltoniano para los cuales la energía esperada del estado fluctúa, por lo que no es constante. La varianza de la energía medida además puede depender del intervalo de tiempo, de acuerdo con el <a href="/wiki/Relaci%C3%B3n_de_indeterminaci%C3%B3n_de_Heisenberg" title="Relación de indeterminación de Heisenberg">principio de indeterminación de Heisenberg</a>.
+</p>
+<p>La energía es una propiedad de los sistemas físicos, no es un estado físico real, ni una «sustancia intangible». No obstante, hay quienes, como <a href="/wiki/Wilhelm_Ostwald" title="Wilhelm Ostwald">Wilhelm Ostwald</a>, han considerado a la energía como lo auténticamente real, ya que, según la ecuación de la equivalencia la masa que es la medida de la cantidad de materia, puede transformarse en energía y viceversa. Por tanto, no es una abstracción, sino una realidad invariable a diferencia de la materia. En mecánica clásica se representa como una <a href="/wiki/Escalar_(f%C3%ADsica)" title="Escalar (física)">magnitud escalar</a>. La energía es una abstracción matemática de una propiedad de los sistemas físicos. Por ejemplo, se puede decir que un sistema con energía cinética nula está en reposo. En problemas relativistas la energía de una partícula no puede ser representada por un escalar invariante, sino por la componente temporal de un <a href="/wiki/Cuadrivector" title="Cuadrivector">cuadrivector</a> energía-momento (<a href="/wiki/Cuadrimomento" title="Cuadrimomento">cuadrimomento</a>), ya que diferentes observadores no miden la misma energía si no se mueven a la misma velocidad con respecto a la partícula. Si se consideran distribuciones de materia continuas, la descripción resulta todavía más complicada y la correcta descripción de la cantidad de movimiento y la energía requiere el uso del <a href="/wiki/Tensor_de_energ%C3%ADa-impulso" title="Tensor de energía-impulso">tensor de energía-impulso</a>.
+</p>
+<p>Se utiliza como una abstracción de los sistemas físicos por la facilidad para trabajar con magnitudes escalares, en comparación con las <a href="/wiki/Vector" title="Vector">magnitudes vectoriales</a> como la <a href="/wiki/Velocidad" title="Velocidad">velocidad</a> o la <a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a>. Por ejemplo, en <a href="/wiki/Mec%C3%A1nica" title="Mecánica">mecánica</a>, se puede describir completamente la <a href="/wiki/Din%C3%A1mica" title="Dinámica">dinámica</a> de un sistema en función de las energías cinética, potencial, que componen la <a href="/wiki/Energ%C3%ADa_mec%C3%A1nica" title="Energía mecánica">energía mecánica</a>, que en la <a href="/wiki/Mec%C3%A1nica_newtoniana" title="Mecánica newtoniana">mecánica newtoniana</a> tiene la propiedad de conservarse, es decir, ser invariante en el tiempo.
+</p>
+<p>Matemáticamente, la <a href="/wiki/Conservaci%C3%B3n_de_la_energ%C3%ADa" title="Conservación de la energía">conservación de la energía</a> para un sistema es una consecuencia directa de que las ecuaciones de evolución de ese sistema sean independientes del instante de tiempo considerado, de acuerdo con el <a href="/wiki/Teorema_de_Noether" title="Teorema de Noether">teorema de Noether</a>.
+La energía también es una <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitud física</a> que se presenta bajo diversas formas, está involucrada en todos los procesos de cambio de <a href="/wiki/Estado_f%C3%ADsico" title="Estado físico">estado físico</a>, se transforma y se transmite, depende del sistema de referencia y fijado este se conserva.<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​ Por lo tanto, todo cuerpo es capaz de poseer energía en función de su <a href="/wiki/Movimiento_(f%C3%ADsica)" title="Movimiento (física)">movimiento</a>, <a href="/wiki/Posici%C3%B3n" title="Posición">posición</a>, <a href="/wiki/Temperatura" title="Temperatura">temperatura</a>, <a href="/wiki/Masa" title="Masa">masa</a>, composición química, y otras propiedades. En las diversas disciplinas de la <a href="/wiki/F%C3%ADsica" title="Física">física</a> y la <a href="/wiki/Ciencia" title="Ciencia">ciencia</a>, se dan varias definiciones de energía, todas coherentes y complementarias entre sí, y todas ellas siempre relacionadas con el concepto de <a href="/wiki/Trabajo_(f%C3%ADsica)" title="Trabajo (física)">trabajo</a>.
+En la <a href="/wiki/Mec%C3%A1nica" title="Mecánica">mecánica</a> se encuentran:
+</p>
+<p>En <a href="/wiki/Electromagnetismo" title="Electromagnetismo">electromagnetismo</a> se tiene a la:
+</p>
+<p>En la <a href="/wiki/Termodin%C3%A1mica" title="Termodinámica">termodinámica</a> están:
+</p>
+<p>En la <b><a href="/wiki/Teor%C3%ADa_de_la_relatividad" title="Teoría de la relatividad">relatividad</a></b> están:
+</p>
+<p>Al redefinir el concepto de masa, también se modifica el de energía cinética (véase <a href="/wiki/Relaci%C3%B3n_de_energ%C3%ADa-momento" title="Relación de energía-momento">relación de energía-momento</a>). Dada una partícula material, no puede hablarse de una energía bien definida e idéntica para todos los <a href="/wiki/Observador" title="Observador">observadores</a>, de hecho la energía y el momentum lineal son parte del un único <a href="/wiki/Cuadrimomento" title="Cuadrimomento">cuadrimomentum</a> que es un <a href="/wiki/Cuadrivector" title="Cuadrivector">cuadrivector</a>. La «energía» es la componente temporal de este <i>cuadrimomentum</i>, pero debido a la naturaleza de la relatividad de la misma manera que el intervalo de tiempo o la distancia espacial es relativa al observador, las componentes espaciales (<a class="mw-redirect" href="/wiki/Momentum_lineal" title="Momentum lineal">momentum lineal</a>) y temporal (energía) del <i>cuadrimomentum</i> son relativas al observador. Para un <a class="mw-redirect" href="/wiki/Medio_continuo" title="Medio continuo">medio continuo</a> o un <a href="/wiki/Campo_(f%C3%ADsica)" title="Campo (física)">campo físico</a>, las dificultades son aun mayores y en general la energía no está asociada a un <i>cuadrimomentum</i> sino al <a class="mw-redirect" href="/wiki/Tensor_energ%C3%ADa-impulso" title="Tensor energía-impulso">tensor energía-impulso</a>.
+</p>
+<p>En <a href="/wiki/Relatividad_general" title="Relatividad general">relatividad general</a>, el «campo» gravitatorio no es propiamente un campo físico ordinario, lo cual lleva a dificultades para atribuir una energía dada a un sistema no aislado, ya que un campo gravitatorio no estacionario no da lugar a una energía potencial bien definida.
+</p>
+<p>En <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">física cuántica</a>, la energía es una magnitud ligada al <a href="/wiki/Hamiltoniano_(mec%C3%A1nica_cu%C3%A1ntica)" title="Hamiltoniano (mecánica cuántica)">operador hamiltoniano</a>. La energía total de un <a href="/wiki/Sistema_aislado" title="Sistema aislado">sistema no aislado</a> de hecho puede no estar definida: en un instante dado la medida de la energía puede arrojar diferentes valores con probabilidades definidas. En cambio, para los sistemas aislados en los que el hamiltoniano no depende explícitamente del tiempo, los estados estacionarios sí tienen una energía bien definida. Además de la energía asociada a la materia ordinaria o campos de materia, en física cuántica aparece la: 
+</p>
+<p>En <a href="/wiki/Qu%C3%ADmica" title="Química">química</a> aparecen algunas formas específicas no mencionadas anteriormente:
+</p>
+<p>Podemos encontrar ejemplos de energía química en la vida de los seres vivos, es decir, en la vida biológica. Dos de los procesos más importantes que necesitan de este tipo de energía es el proceso de fotosíntesis en vegetales y la respiración en los animales. En la fotosíntesis, los vegetales utilizan clorofila para separar el agua y así convertirla después en hidrógeno y oxígeno: el hidrógeno, combinado con el carbono del ambiente, producirá carbohidratos. En la respiración sucede lo contrario: el oxígeno es utilizado para quemar moléculas de carbohidratos.
+</p>
+<p>.
+</p>
+<p><span id="Biología"></span>En <a href="/wiki/Biolog%C3%ADa#Energía" title="Biología">biología</a>, la energía es un atributo de todos los sistemas biológicos, desde la biosfera hasta el organismo vivo más pequeño. Dentro de un organismo es responsable del crecimiento y desarrollo de una <a class="mw-redirect" href="/wiki/C%C3%A9lula_(biolog%C3%ADa)" title="Célula (biología)">célula</a> o de un <a href="/wiki/Org%C3%A1nulo" title="Orgánulo">orgánulo</a> de un organismo biológico. La energía utilizada en la <a href="/wiki/Respiraci%C3%B3n_(fisiolog%C3%ADa)" title="Respiración (fisiología)">respiración</a> se almacena principalmente en el <a href="/wiki/Ox%C3%ADgeno" title="Oxígeno">oxígeno</a> molecular.<sup class="reference separada" id="cite_ref-Schmidt-Rohr_20_7-0"><a href="#cite_note-Schmidt-Rohr_20-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​ y puede desbloquearse mediante reacciones con moléculas de sustancias como <a class="mw-redirect" href="/wiki/Carbohidratos" title="Carbohidratos">carbohidratos</a> (incluyendo azúcares), <a href="/wiki/L%C3%ADpidos" title="Lípidos">lípidos</a> y <a class="mw-redirect" href="/wiki/Prote%C3%ADnas" title="Proteínas">proteínas</a> almacenadas por <a class="mw-redirect" href="/wiki/C%C3%A9lula_(biolog%C3%ADa)" title="Célula (biología)">células</a>. En términos humanos, el <a class="new" href="/w/index.php?title=Equivalente_humano&amp;action=edit&amp;redlink=1" title="Equivalente humano (aún no redactado)">equivalente humano</a> (H-e) (Conversión de energía humana) indica, para una cantidad determinada de gasto energético, la cantidad relativa de energía necesaria para el <a href="/wiki/Metabolismo" title="Metabolismo">metabolismo</a> humano, suponiendo un gasto energético humano medio de 12.500 kJ por día y una <a href="/wiki/Tasa_metab%C3%B3lica_basal" title="Tasa metabólica basal">tasa metabólica basal</a> de 80 vatios. Por ejemplo, si nuestro cuerpo funciona (por término medio) a 80 vatios, entonces una bombilla que funcione a 100 vatios está funcionando a 1,25 equivalentes humanos (100 ÷ 80), es decir, 1,25 H-e. Para una tarea difícil de sólo unos segundos de duración, una persona puede emitir miles de vatios, muchas veces los 746 vatios de un caballo de potencia oficial. Para tareas que duran unos minutos, un ser humano en forma puede generar quizás 1.000 vatios. Para una actividad que debe mantenerse durante una hora, el rendimiento desciende a unos 300; para una actividad que se mantiene todo el día, 150 vatios es el máximo.<sup class="reference separada" id="cite_ref-8"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ El equivalente humano ayuda a la comprensión de los flujos de energía en los sistemas físicos y biológicos expresando las unidades de energía en términos humanos: proporciona una "sensación" del uso de una determinada cantidad de energía.<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La energía radiante de la luz solar también es captada por las plantas como <i>energía potencial química</i> en la <a href="/wiki/Fotos%C3%ADntesis" title="Fotosíntesis">fotosíntesis</a>, cuando el dióxido de carbono y el agua (dos compuestos de baja energía) se convierten en carbohidratos, lípidos y proteínas y en compuestos de alta energía como el oxígeno<sup class="reference separada" id="cite_ref-Schmidt-Rohr_20_7-1"><a href="#cite_note-Schmidt-Rohr_20-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​ y el ATP. Los carbohidratos, los lípidos y las proteínas pueden liberar la energía del oxígeno, que es utilizado por los organismos vivos como <a href="/wiki/Aceptor_de_electrones" title="Aceptor de electrones">aceptor de electrones</a>. La liberación de la energía almacenada durante la fotosíntesis en forma de calor o luz puede ser desencadenada repentinamente por una chispa, en un incendio forestal, o puede estar disponible más lentamente para el metabolismo animal o humano, cuando se ingieren moléculas orgánicas, y el <a href="/wiki/Catabolismo" title="Catabolismo">catabolismo</a> es desencadenado por la acción de <a class="mw-redirect" href="/wiki/Enzimas" title="Enzimas">enzimas</a>.
+</p>
+<p>En <a href="/wiki/Ciencias_de_la_Tierra#energía_de_la_Tierra" title="Ciencias de la Tierra">geología</a>, la <a href="/wiki/Deriva_continental" title="Deriva continental">deriva continental</a>, las <a href="/wiki/Cordillera" title="Cordillera">cordilleras</a>, los <a href="/wiki/Volc%C3%A1n" title="Volcán">volcanes</a> y los <a href="/wiki/Terremoto" title="Terremoto">terremotos</a> son fenómenos que pueden explicarse en términos de transformaciones energéticas en el interior de la Tierra,<sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​ mientras que los fenómenos <a href="/wiki/Meteorolog%C3%ADa" title="Meteorología">meteorológicos</a> como el viento, la lluvia, el <a href="/wiki/Granizo" title="Granizo">granizo</a>, la nieve, los rayos, los <a href="/wiki/Tornado" title="Tornado">tornados</a> y los <a href="/wiki/Cicl%C3%B3n_tropical" title="Ciclón tropical">huracanes</a> son el resultado de las transformaciones energéticas provocadas por la <a href="/wiki/Energ%C3%ADa_solar" title="Energía solar">energía solar</a> en la <a href="/wiki/Atm%C3%B3sfera" title="Atmósfera">atmósfera</a> del planeta Tierra.
+</p>
+<p>La luz solar puede almacenarse en forma de energía potencial gravitatoria después de incidir en la <a href="/wiki/Tierra" title="Tierra">Tierra</a>, ya que (por ejemplo) el agua se evapora de los <a href="/wiki/Oc%C3%A9ano" title="Océano">océanos</a> y se deposita en las <a href="/wiki/Monta%C3%B1a" title="Montaña">montañas</a> (donde, tras ser liberada en una presa hidroeléctrica, puede utilizarse para accionar turbinas o generadores para producir electricidad). La luz solar también impulsa muchos fenómenos meteorológicos, salvo los generados por eventos volcánicos. Un ejemplo de fenómeno meteorológico mediado por el sol es un huracán, que se produce cuando grandes zonas inestables del océano cálido, calentadas durante meses, ceden parte de su energía térmica de forma repentina para impulsar unos días de violento movimiento del aire.
+</p>
+<p>En un proceso más lento, la <a class="mw-redirect" href="/wiki/Desintegraci%C3%B3n_radiactiva" title="Desintegración radiactiva">desintegración radiactiva</a> de los átomos del núcleo de la Tierra libera calor. Esta energía térmica impulsa la <a href="/wiki/Tect%C3%B3nica_de_placas" title="Tectónica de placas">tectónica de placas</a> y puede levantar montañas, a través de la <a href="/wiki/Orog%C3%A9nesis" title="Orogénesis">orogénesis</a>. Este lento levantamiento representa una especie de <a href="/wiki/Almacenamiento_de_energ%C3%ADa" title="Almacenamiento de energía">almacenamiento de energía</a> potencial gravitatoria de la energía térmica, que puede ser liberada posteriormente en energía cinética activa en los deslizamientos de tierra, después de un evento desencadenante. Los terremotos también liberan energía potencial elástica almacenada en las <a href="/wiki/Roca" title="Roca">rocas</a>, un almacén que se ha producido en última instancia a partir de las mismas fuentes de calor radiactivo. Así pues, según los conocimientos actuales, los sucesos familiares como los <a href="/wiki/Corrimiento_de_tierra" title="Corrimiento de tierra">corrimientos de tierra</a> y los terremotos liberan energía que ha sido almacenada como energía potencial en el campo gravitatorio de la Tierra o como tensión elástica (energía potencial mecánica) en las rocas. Anteriormente, representan la liberación de energía que ha estado almacenada en los átomos pesados desde que el colapso de las estrellas supernovas, destruidas hace tiempo, creó estos átomos.
+</p>
+<p>En <a href="/wiki/Cosmolog%C3%ADa_f%C3%ADsica#Energía_del_cosmos" title="Cosmología física">cosmología y astronomía</a> los fenómenos de <a href="/wiki/Estrella" title="Estrella">estrellas</a>, <a href="/wiki/Nova" title="Nova">novas</a>, <a href="/wiki/Supernova" title="Supernova">supernovas</a>, <a href="/wiki/Cu%C3%A1sar" title="Cuásar">cuásars</a> y <a class="mw-redirect" href="/wiki/Explosi%C3%B3n_de_rayos_gamma" title="Explosión de rayos gamma">explosión de rayos gammas</a> son las transformaciones energéticas de la materia más altas del universo. Todos los fenómenos <a class="extiw" href="https://es.wiktionary.org/wiki/stellar" title="wikt:stellar">stellar</a> (incluida la actividad solar) son impulsados por diversos tipos de transformaciones energéticas. La energía de estas transformaciones procede del colapso gravitatorio de la materia (normalmente hidrógeno molecular) en varias clases de objetos astronómicos (estrellas, agujeros negros, etc.), o de la fusión nuclear (de elementos más ligeros, principalmente hidrógeno). La <a href="/wiki/Fusi%C3%B3n_nuclear" title="Fusión nuclear">fusión nuclear</a> del hidrógeno en el Sol también libera otra reserva de energía potencial que se creó en el momento del <a href="/wiki/Big_Bang" title="Big Bang">Big Bang</a>. En ese momento, según la teoría, el espacio se expandió y el universo se enfrió demasiado rápido para que el hidrógeno se fusionara completamente en elementos más pesados. Esto significa que el hidrógeno representa un almacén de energía potencial que puede liberarse mediante la fusión. Este proceso de fusión se desencadena por el calor y la presión generados por el colapso gravitatorio de las nubes de hidrógeno cuando producen estrellas, y parte de la energía de fusión se transforma entonces en luz solar.
+</p>
+<p>En <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a>, la energía se define en términos del <a href="/wiki/Hamiltoniano_(mec%C3%A1nica_cu%C3%A1ntica)" title="Hamiltoniano (mecánica cuántica)">operador de energía</a>
+como una derivada temporal de la <a href="/wiki/Funci%C3%B3n_de_onda" title="Función de onda">función de onda</a>. La <a href="/wiki/Ecuaci%C3%B3n_de_Schr%C3%B6dinger" title="Ecuación de Schrödinger">ecuación de Schrödinger</a> equipara el operador de energía a la energía completa de una partícula o un sistema. Sus resultados pueden considerarse como una definición de la medición de la energía en la mecánica cuántica. La ecuación de Schrödinger describe la dependencia espacial y temporal de una <a href="/wiki/Funci%C3%B3n_de_onda" title="Función de onda">función de onda</a> que cambia lentamente (no relativista) de los sistemas cuánticos. La solución de esta ecuación para un sistema ligado es discreta (un conjunto de estados permitidos, cada uno caracterizado por un <a class="mw-redirect" href="/wiki/Nivel_de_energ%C3%ADa" title="Nivel de energía">nivel de energía</a>), lo que da lugar al concepto de <a class="mw-redirect" href="/wiki/Quantum" title="Quantum">cuanta</a>. En la solución de la ecuación de Schrödinger para cualquier oscilador (vibrador) y para las ondas electromagnéticas en el vacío, los estados energéticos resultantes están relacionados con la frecuencia por la <a class="mw-redirect" href="/wiki/Relaci%C3%B3n_de_Planck" title="Relación de Planck">relación de Planck</a>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E=h\nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mi>h</mi>
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=h\nu }</annotation>
+</semantics>
+</math></span><img alt="E=h\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6c0386dc6d9530519404f95570fcc8548ed2326" style="vertical-align: -0.338ex; width:7.445ex; height:2.176ex;"/></span> (donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h}</annotation>
+</semantics>
+</math></span><img alt="h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" style="vertical-align: -0.338ex; width:1.339ex; height:2.176ex;"/></span> es la <a href="/wiki/Constante_de_Planck" title="Constante de Planck">constante de Planck</a> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+</semantics>
+</math></span><img alt="\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;"/></span> la frecuencia). En el caso de una onda electromagnética, estos estados de energía se denominan cuantos de luz o <a class="mw-redirect" href="/wiki/Fotones" title="Fotones">fotones</a>.
+</p>
+<p>Es la energía que se le puede asociar a un cuerpo o sistema <b><a href="/wiki/Fuerza_conservativa" title="Fuerza conservativa">conservativo</a></b> en virtud de su posición o de su configuración.<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​ Si en una región del espacio existe un campo de fuerzas conservativo, la energía potencial del campo en el punto (A) se define como el trabajo requerido para mover una masa desde un punto de referencia (<i>nivel de tierra</i>) hasta el punto (A). Por definición el nivel de tierra tiene energía potencial nula. Algunos tipos de energía potencial que aparecen en diversos contextos de la física son:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {E}}=-{\vec {\nabla }}V}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>E</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {E}}=-{\vec {\nabla }}V}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {E}}=-{\vec {\nabla }}V}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee98abcf2b770155f856f3b2f5e5eb66d1048081" style="vertical-align: -0.505ex; width:10.405ex; height:3.009ex;"/></span>
+</p>
+<p>La energía potencial puede definirse solamente cuando existe un <a href="/wiki/Campo_(f%C3%ADsica)" title="Campo (física)">campo de fuerzas</a> que es <a href="/wiki/Fuerza_conservativa" title="Fuerza conservativa">conservativa</a>, es decir que cumpla con alguna de las siguientes propiedades:
+</p>
+<p>Se puede demostrar que todas las propiedades son equivalentes (es decir que cualquiera de ellas implica la otra). En estas condiciones, la energía potencial en un punto arbitrario se define como la diferencia de energía que tiene una partícula en el punto arbitrario y otro punto fijo llamado «potencial cero».
+</p>
+<p>La <a href="/wiki/Energ%C3%ADa_cin%C3%A9tica" title="Energía cinética">energía cinética</a> es un concepto fundamental de la física que aparece tanto en <a href="/wiki/Mec%C3%A1nica_cl%C3%A1sica" title="Mecánica clásica">mecánica clásica</a>, como <a href="/wiki/Teor%C3%ADa_de_la_relatividad" title="Teoría de la relatividad">mecánica relativista</a> y <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a>. La energía cinética es una <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitud</a> escalar asociada al movimiento de cada una de las partículas del sistema. Su expresión varía ligeramente de una teoría física a otra. Esta energía se suele designar como <i>K</i>, <i>T</i> o <i>E<sub>c</sub></i>.
+</p>
+<p>El <a href="/wiki/L%C3%ADmite_cl%C3%A1sico" title="Límite clásico">límite clásico</a> de la energía cinética de un cuerpo rígido sin rotación que se desplaza a una velocidad <i>v</i> viene dada por la expresión
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_1" style="font-style: normal;"><a href="#Eqnref_1">1</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{c}={1 \over 2}mv^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mi>m</mi>
+<msup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{c}={1 \over 2}mv^{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E_{c}={1 \over 2}mv^{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/10589780f958f9c11de897c806d9b867d594683b" style="vertical-align: -1.838ex; width:11.979ex; height:5.176ex;"/></span>.
+</p>
+<p>Una propiedad interesante es que esta magnitud es <a href="/wiki/Propiedades_intensivas_y_extensivas" title="Propiedades intensivas y extensivas">extensiva</a> por lo que la energía de un sistema puede expresarse como «suma» de las energías de partes disjuntas del sistema. Así, por ejemplo, puesto que los cuerpos están formados de partículas, se puede conocer su energía sumando las energías individuales de cada partícula del cuerpo.
+</p>
+<p>Para un cuerpo macroscópico sólido, que pude ser descrito mediante la <a href="/wiki/Mec%C3%A1nica_newtoniana" title="Mecánica newtoniana">mecánica newtoniana</a>, puede suceder que las velocidades relativas de sus partículas difieran apreciablemente respecto a la velocidad del centro de gravedad, eso puede suceder fundamentalmente porque el cuerpo tenga una rotacion importante. En ese caso la energía cinética puede obtenerse sumando las contribuciones de cada una de sus partículas:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_2" style="font-style: normal;"><a href="#Eqnref_2">2</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{c}=\sum _{k=1}^{N}{1 \over 2}m_{i}v_{i}^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>k</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msubsup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{c}=\sum _{k=1}^{N}{1 \over 2}m_{i}v_{i}^{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E_{c}=\sum _{k=1}^{N}{1 \over 2}m_{i}v_{i}^{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1e4f747d10bcd727fb0e6468e900bcfef57d9ec3" style="vertical-align: -3.005ex; width:16.52ex; height:7.343ex;"/></span>
+</p>
+<p>Dado que la materia ordinaría está formada por átomos el sumatoria anterior podría extenderse sobre todos los núcleos atómicos que forman el cuerpo sin cometer un error apreciable. Cuando el sólido se pued modelizar mediante la <a href="/wiki/Mec%C3%A1nica_del_s%C3%B3lido_r%C3%ADgido" title="Mecánica del sólido rígido">mecánica del sólido rígido</a> resulta que las velocidades de las partículas pueden relacionarse con la velocidad del centro de masas <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\boldsymbol {V}}_{CM}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">V</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+<mi>M</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\boldsymbol {V}}_{CM}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\boldsymbol {V}}_{CM}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6df9fa030cb0601ea302874a05e30b5835d77d4c" style="vertical-align: -0.671ex; width:4.784ex; height:2.509ex;"/></span> y la velocidad angular de rotación <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\boldsymbol {\omega }}_{s}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">ω<!-- ω --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\boldsymbol {\omega }}_{s}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\boldsymbol {\omega }}_{s}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/874bab5fdfa0e00bd38379f329c3177085728f64" style="vertical-align: -0.671ex; width:2.672ex; height:2.009ex;"/></span>, común a todo el sólido:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_3" style="font-style: normal;"><a href="#Eqnref_3">3</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\boldsymbol {v}}_{i}={\boldsymbol {V}}_{CM}+{\boldsymbol {\omega }}_{s}\times {\boldsymbol {r}}_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">V</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+<mi>M</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">ω<!-- ω --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>×<!-- × --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\boldsymbol {v}}_{i}={\boldsymbol {V}}_{CM}+{\boldsymbol {\omega }}_{s}\times {\boldsymbol {r}}_{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\boldsymbol {v}}_{i}={\boldsymbol {V}}_{CM}+{\boldsymbol {\omega }}_{s}\times {\boldsymbol {r}}_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a6339b49ff6b64953388b75a7d69053836da65c6" style="vertical-align: -0.671ex; width:20.383ex; height:2.509ex;"/></span>
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\boldsymbol {r}}_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\boldsymbol {r}}_{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\boldsymbol {r}}_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/906c26cefd7ea81fe43ec2d5f3061e6d402afcf5" style="vertical-align: -0.671ex; width:2.029ex; height:2.009ex;"/></span> son as posiciones de las partículas relativas al centro de masa. Introduciendo la ecuación (3) en la ecuación (2) puede llegarse a que la energía cinética del cuerpo se expresa como:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_4" style="font-style: normal;"><a href="#Eqnref_4">4</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{c}={1 \over 2}MV_{CM}^{2}+{1 \over 2}{\boldsymbol {\omega }}_{s}\cdot \mathbf {I} _{rot}{\boldsymbol {\omega }}_{s}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mi>M</mi>
+<msubsup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+<mi>M</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">ω<!-- ω --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">I</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+<mi>o</mi>
+<mi>t</mi>
+</mrow>
+</msub>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">ω<!-- ω --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{c}={1 \over 2}MV_{CM}^{2}+{1 \over 2}{\boldsymbol {\omega }}_{s}\cdot \mathbf {I} _{rot}{\boldsymbol {\omega }}_{s}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E_{c}={1 \over 2}MV_{CM}^{2}+{1 \over 2}{\boldsymbol {\omega }}_{s}\cdot \mathbf {I} _{rot}{\boldsymbol {\omega }}_{s}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8f3db014bb17b6f61f132e3368d8e4234809aebb" style="vertical-align: -1.838ex; width:30.003ex; height:5.176ex;"/></span>
+</p>
+<p>Donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {I} _{rot}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">I</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+<mi>o</mi>
+<mi>t</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {I} _{rot}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {I} _{rot}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5178c51b248164af81ad85ebe44f92219ef52402" style="vertical-align: -0.671ex; width:3.379ex; height:2.509ex;"/></span> es el tensor de inercia del sólido. Si el sólido es deformable, entonces habría que incluir términos adicionales relacionados con la energía elástica del mismo, por ejemplo eso sucede si el cuerpo es un objeto que está vibrando mientras se mueve.
+</p>
+<p>Un fluido clásico en movimiento, puede ser descrito mediante una densidad <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \rho }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ρ<!-- ρ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \rho }</annotation>
+</semantics>
+</math></span><img alt="\rho " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1f7d439671d1289b6a816e6af7a304be40608d64" style="vertical-align: -0.838ex; width:1.202ex; height:2.176ex;"/></span> y un campo de velocidades <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\boldsymbol {v}}({\boldsymbol {r}},t)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">v</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">r</mi>
+</mrow>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\boldsymbol {v}}({\boldsymbol {r}},t)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\boldsymbol {v}}({\boldsymbol {r}},t)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/115c71b5660a89d193ecc152bb8830cfe57aed8d" style="vertical-align: -0.838ex; width:6.231ex; height:2.843ex;"/></span>, en términos de esas magnitudes la enercía cinética del fluido puede expresarse como una integral extendida a todo el volumen del fluido:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{c}={1 \over 2}\int _{V_{t}}\rho |{\boldsymbol {v}}({\boldsymbol {r}},t)|^{2}\ {\text{d}}^{3}{\boldsymbol {r}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<msub>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+</mrow>
+</msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">v</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">r</mi>
+</mrow>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mtext> </mtext>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">r</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{c}={1 \over 2}\int _{V_{t}}\rho |{\boldsymbol {v}}({\boldsymbol {r}},t)|^{2}\ {\text{d}}^{3}{\boldsymbol {r}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E_{c}={1 \over 2}\int _{V_{t}}\rho |{\boldsymbol {v}}({\boldsymbol {r}},t)|^{2}\ {\text{d}}^{3}{\boldsymbol {r}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cf64c0ea3ae2db2e4a983ef4e6296fd2d6f34f05" style="vertical-align: -2.671ex; width:25.598ex; height:6.009ex;"/></span>
+</p>
+<p>La energía se define como la capacidad de realizar un trabajo. Energía y trabajo son equivalentes y, por tanto, se expresan en las mismas unidades. El <a href="/wiki/Calor" title="Calor">calor</a> es una forma de energía, por lo que también hay una equivalencia entre unidades de energía y de calor. La capacidad de realizar un trabajo en una determinada cantidad de <a href="/wiki/Tiempo" title="Tiempo">tiempo</a> es la <a href="/wiki/Potencia_(f%C3%ADsica)" title="Potencia (física)">potencia</a>.
+</p>
+<p>Para la optimización de recursos y la adaptación a nuestros usos, necesitamos transformar unas formas de energía en otras. Todas ellas se pueden transformar en otra cumpliendo los siguientes principios termodinámicos:
+</p>
+<p>La <b>unidad de energía</b> definida por el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a> es el <a href="/wiki/Julio_(unidad)" title="Julio (unidad)">julio</a>, que se define como el trabajo realizado por una fuerza de un <a href="/wiki/Newton_(unidad)" title="Newton (unidad)">newton</a> en un desplazamiento de un <a href="/wiki/Metro" title="Metro">metro</a> en la dirección de la fuerza.<sup class="reference separada" id="cite_ref-15"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​ Es decir, equivale a multiplicar un newton por un metro. Existen muchas otras unidades de energía, algunas de ellas en desuso.
+</p>
+<p>En <a href="/wiki/Tecnolog%C3%ADa" title="Tecnología">tecnología</a> y <a href="/wiki/Econom%C3%ADa" title="Economía">economía</a>, una fuente de energía es un <a href="/wiki/Recurso_natural" title="Recurso natural">recurso natural</a>, así como la tecnología asociada para explotarla y hacer un uso industrial y económico del mismo. La energía en sí misma nunca es un bien para el consumo final sino un bien intermedio para satisfacer otras necesidades en la <a class="mw-disambig" href="/wiki/Producci%C3%B3n" title="Producción">producción</a> de <a href="/wiki/Bienes_y_servicios" title="Bienes y servicios">bienes y servicios</a>. Al ser un bien escaso, la energía ha sido históricamente fuente de conflictos para el control de los <a class="mw-redirect" href="/wiki/Recursos_energ%C3%A9ticos" title="Recursos energéticos">recursos energéticos</a>.
+</p>
+<p>Es común clasificar las fuentes de energía según incluyan el uso irreversible o no ciertas materias primas, como combustibles o minerales radioactivos. Según este criterio se habla de dos grandes grupos de fuentes de energía explotables tecnológicamente:
+</p>
+<p><b><a href="/wiki/Energ%C3%ADa_renovable" title="Energía renovable">Fuentes de energía renovables</a>:</b>
+</p>
+<p><b><a href="/wiki/Energ%C3%ADa_no_renovable" title="Energía no renovable">Fuentes de energía no renovables</a> (o nuclear-<a href="/wiki/F%C3%B3sil" title="Fósil">fósil</a>):</b>
+</p>
+<p>La energía es la capacidad de realizar un trabajo, es decir, para hacer cualquier cosa que implique un cambio (un movimiento, una variación de temperatura, una transmisión de ondas, etc.), Es necesaria la intervención de la energía.</p>

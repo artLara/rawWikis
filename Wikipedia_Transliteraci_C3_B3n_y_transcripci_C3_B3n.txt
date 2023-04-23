@@ -1,0 +1,88 @@
+<p>En esta página se encuentran los <b>convenios sobre transliteración</b> para la Wikipedia en español. Para cualquier comentario, por favor, dirígete a la página de <a class="mw-redirect" href="/wiki/Wikipedia_discusi%C3%B3n:Transliteraci%C3%B3n" title="Wikipedia discusión:Transliteración">discusión</a>. Nótese que existen dos maneras de representar mediante alfabeto latino palabras procedentes de una lengua que no usa el alfabeto latino:
+</p>
+<p>En la transcripción de los nombres árabes, como norma general, al traducir artículos del inglés o francés tener en cuenta que:
+</p>
+<p>Para la transliteración estricta del árabe existen diversos sistemas:
+</p>
+<p>El sistema de transcripción del chino oficial en la República Popular China es el <b><a href="/wiki/Pinyin" title="Pinyin">hànyǔ pīnyīn</a></b> o simplemente "pinyin". Este es el sistema que debe utilizarse en la transcripción de términos chinos y de nombres propios de personajes o de lugares históricos anteriores a 1949.
+</p>
+<p>El chino es una lengua tonal, y el pinyin utiliza signos diacríticos para indicar los tonos. Por lo general, no se deben indicar los tonos salvo cuando se cite la forma china de un nombre al comienzo de un artículo. Así, el artículo sobre "<a href="/wiki/Zheng_He" title="Zheng He">Zheng He</a>" indica al principio la pronunciación con tonos, junto con los caracteres chinos y la transcripción <a href="/wiki/Wade-Giles" title="Wade-Giles">Wade-Giles</a>, pero en las menciones posteriores del nombre se escribe simplemente "Zheng He".
+</p>
+<p>Excepciones al uso del pinyin:
+</p>
+<p>Para personas vivas o fallecidas después de 1949 se utilizará la forma pinyin para los chinos continentales. Ejemplos: "<a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a>", "<a href="/wiki/Deng_Xiaoping" title="Deng Xiaoping">Deng Xiaoping</a>", "<a href="/wiki/Hu_Jintao" title="Hu Jintao">Hu Jintao</a>". En el caso de los chinos de Taiwán, <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a>, <a href="/wiki/Macao" title="Macao">Macao</a> y las comunidades de ultramar, se respetará la forma que estos hayan preferido. Ejemplos: "<a href="/wiki/Donald_Tsang" title="Donald Tsang">Donald Tsang</a>", "<a href="/wiki/Tung_Chee-hwa" title="Tung Chee-hwa">Tung Chee-hwa</a>", "<a href="/wiki/Lee_Teng-hui" title="Lee Teng-hui">Lee Teng-hui</a>", "<a href="/wiki/Lee_Kuan_Yew" title="Lee Kuan Yew">Lee Kuan Yew</a>".
+</p>
+<p>Se utilizará la forma latina oficial. Esta suele ser pinyin en el caso de la China continental, pero hay excepciones en los nombres de localidades de regiones autónomas con lenguas propias. Así, los nombres "<a href="/wiki/Lhasa" title="Lhasa">Lhasa</a>", "<a class="mw-redirect" href="/wiki/%C3%9Cr%C3%BCmqi" title="Ürümqi">Ürümqi</a>", "<a href="/wiki/Hohhot" title="Hohhot">Hohhot</a>" y "<a href="/wiki/Harbin" title="Harbin">Harbin</a>" no corresponden al pinyin, pero son los oficiales en China y, por tanto, así deben escribirse.
+</p>
+<p>En el caso de Hong Kong, Macao y Taiwán se respetará también su toponimia latina oficial.
+</p>
+<p>Excepciones:
+</p>
+<p>Casos controvertidos:
+</p>
+<p>Para transliterar el coreano se utiliza el sistema <a class="mw-redirect" href="/wiki/McCune-Reischauer" title="McCune-Reischauer">McCune-Reischauer</a> por ser más semejante al hispanohablante. Aquellas palabras que contengan <a href="/wiki/Signo_diacr%C3%ADtico" title="Signo diacrítico">signos diacríticos</a> latinos no pertenecientes al <a href="/wiki/Idioma_espa%C3%B1ol" title="Idioma español">idioma español</a> deben adaptarse a este según las normas del <a href="/wiki/Diccionario_panhisp%C3%A1nico_de_dudas" title="Diccionario panhispánico de dudas">DPD</a>, es decir, la letras <i>ŏ</i>, <i>ŭ</i> y <i>ë</i> deben escribirse <i>o</i>, <i>u</i> y <i>e</i>, respectivamente. También se deben suprimir las comillas simples que se utilizan en algunas consonantes. Todas las palabras deben escribirse en cursiva salvo aquellas recogidas en el <a class="mw-redirect" href="/wiki/DRAE" title="DRAE">DRAE</a> y los nombres de organismos, etc. Cuando se quiera expresar cómo se escribe exactamente una palabra en este sistema (utilizando los signos diacríticos no pertenecientes al español), esto se hará al principio del artículo, así como cuando se quiera especificar como se escribe en el sistema de <a href="/wiki/Romanizaci%C3%B3n_revisada_del_coreano" title="Romanización revisada del coreano">romanización revisada del coreano</a>.
+</p>
+<p>Para los nombres griegos clásicos más conocidos frecuentemente se emplea una adaptación a partir de su latinización cuando esta fue ampliamente usada. Cuando se trata de términos griegos menos usados es conveniente dar una transliteración estricta, y de manera conveniente la propia forma en alfabeto griego (<a href="/wiki/Wikipedia:Transliteraci%C3%B3n/Griego#Griego_antiguo" title="Wikipedia:Transliteración/Griego">tabla de transliteración completa</a>).
+</p>
+<p>Salvo que haya una forma diferente usada <i>en español</i> de manera <a class="mw-redirect" href="/wiki/Wikipedia:CT" title="Wikipedia:CT">absolutamente mayoritaria</a> (no se debe confundir esto con el uso de transcripciones a otros idiomas, como el inglés o el francés), se empleará una transcripción directa desde el griego al español mediante el sistema propugnado por las <a class="mw-redirect" href="/wiki/Naciones_Unidas" title="Naciones Unidas">Naciones Unidas</a>, ELOT 743/1987 (<a href="/wiki/Wikipedia:Transliteraci%C3%B3n/Griego#Griego_moderno" title="Wikipedia:Transliteración/Griego">tabla de transliteración completa</a>, tercera columna).
+</p>
+<p>En <a href="/wiki/1982" title="1982">1982</a> se introdujo la <a href="/wiki/Sistema_monot%C3%B3nico" title="Sistema monotónico">ortografía monotónica</a> oficialmente para el <a href="/wiki/Griego_moderno" title="Griego moderno">griego moderno</a>, en la que los únicos signos de acentuación que se mantienen son la <a class="mw-redirect" href="/wiki/%C2%B4" title="´">tilde aguda</a> (indicando la sílaba acentuada), y la <a href="/wiki/Di%C3%A9resis" title="Diéresis">diéresis</a> (indicando cuando dos vocales consecutivas no deben ser combinadas).  Tanto la tilde aguda como la diéresis se mantienen tal cual en el proceso de romanización recomendado por las <a class="mw-redirect" href="/wiki/Naciones_Unidas" title="Naciones Unidas">Naciones Unidas</a>, por lo que deben escribirse al transliterar griego moderno, incluso aunque por las reglas de acentuación del español no fueran necesarias. Hay una excepción: en las combinaciones de vocales αύ, εύ y ηύ la tilde se mueve de la -υ- (que se convierte en v o f) a la vocal precedente.
+</p>
+<p>Ver artículo extenso específico sobre el tema: <a class="mw-redirect" href="/wiki/Wikipedia:Transliteraci%C3%B3n/Hebreo" title="Wikipedia:Transliteración/Hebreo">Wikipedia:Transliteración/Hebreo</a>
+</p>
+<p>Se utiliza el sistema de <a href="/wiki/Romanizaci%C3%B3n_Hepburn" title="Romanización Hepburn">romanización Hepburn</a>.
+</p>
+<p>(<a class="mw-redirect" href="/wiki/Hindi" title="Hindi">Hindi</a>, <a href="/wiki/Idioma_persa" title="Idioma persa">persa</a> y otras)
+</p>
+<p><span id="Ruso"></span>
+</p>
+<p><a class="mw-redirect" href="/wiki/Wikipedia_discusi%C3%B3n:Transliteraci%C3%B3n#Convención_para_los_nombres_rusos" title="Wikipedia discusión:Transliteración">Tras esta discusión</a> se estableció:
+</p>
+<p><a class="mw-redirect" href="/wiki/Wikipedia_discusi%C3%B3n:Transliteraci%C3%B3n#Transliteración_del_ruso" title="Wikipedia discusión:Transliteración">Tras esta otra</a> se establecieron las siguientes directrices de transcripción del ruso:
+</p>
+<p>Criterio para elegir entre la forma transcrita del apellido del personaje y otras posibles grafías del mismo en caracteres latinos:
+</p>
+<p>En esta página se encuentran los <b>convenios sobre transliteración</b> para la Wikipedia en español. Para cualquier comentario, por favor, dirígete a la página de <a class="mw-redirect" href="/wiki/Wikipedia_discusi%C3%B3n:Transliteraci%C3%B3n" title="Wikipedia discusión:Transliteración">discusión</a>. Nótese que existen dos maneras de representar mediante alfabeto latino palabras procedentes de una lengua que no usa el alfabeto latino:
+</p>
+<p>En la transcripción de los nombres árabes, como norma general, al traducir artículos del inglés o francés tener en cuenta que:
+</p>
+<p>Para la transliteración estricta del árabe existen diversos sistemas:
+</p>
+<p>El sistema de transcripción del chino oficial en la República Popular China es el <b><a href="/wiki/Pinyin" title="Pinyin">hànyǔ pīnyīn</a></b> o simplemente "pinyin". Este es el sistema que debe utilizarse en la transcripción de términos chinos y de nombres propios de personajes o de lugares históricos anteriores a 1949.
+</p>
+<p>El chino es una lengua tonal, y el pinyin utiliza signos diacríticos para indicar los tonos. Por lo general, no se deben indicar los tonos salvo cuando se cite la forma china de un nombre al comienzo de un artículo. Así, el artículo sobre "<a href="/wiki/Zheng_He" title="Zheng He">Zheng He</a>" indica al principio la pronunciación con tonos, junto con los caracteres chinos y la transcripción <a href="/wiki/Wade-Giles" title="Wade-Giles">Wade-Giles</a>, pero en las menciones posteriores del nombre se escribe simplemente "Zheng He".
+</p>
+<p>Excepciones al uso del pinyin:
+</p>
+<p>Para personas vivas o fallecidas después de 1949 se utilizará la forma pinyin para los chinos continentales. Ejemplos: "<a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a>", "<a href="/wiki/Deng_Xiaoping" title="Deng Xiaoping">Deng Xiaoping</a>", "<a href="/wiki/Hu_Jintao" title="Hu Jintao">Hu Jintao</a>". En el caso de los chinos de Taiwán, <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a>, <a href="/wiki/Macao" title="Macao">Macao</a> y las comunidades de ultramar, se respetará la forma que estos hayan preferido. Ejemplos: "<a href="/wiki/Donald_Tsang" title="Donald Tsang">Donald Tsang</a>", "<a href="/wiki/Tung_Chee-hwa" title="Tung Chee-hwa">Tung Chee-hwa</a>", "<a href="/wiki/Lee_Teng-hui" title="Lee Teng-hui">Lee Teng-hui</a>", "<a href="/wiki/Lee_Kuan_Yew" title="Lee Kuan Yew">Lee Kuan Yew</a>".
+</p>
+<p>Se utilizará la forma latina oficial. Esta suele ser pinyin en el caso de la China continental, pero hay excepciones en los nombres de localidades de regiones autónomas con lenguas propias. Así, los nombres "<a href="/wiki/Lhasa" title="Lhasa">Lhasa</a>", "<a class="mw-redirect" href="/wiki/%C3%9Cr%C3%BCmqi" title="Ürümqi">Ürümqi</a>", "<a href="/wiki/Hohhot" title="Hohhot">Hohhot</a>" y "<a href="/wiki/Harbin" title="Harbin">Harbin</a>" no corresponden al pinyin, pero son los oficiales en China y, por tanto, así deben escribirse.
+</p>
+<p>En el caso de Hong Kong, Macao y Taiwán se respetará también su toponimia latina oficial.
+</p>
+<p>Excepciones:
+</p>
+<p>Casos controvertidos:
+</p>
+<p>Para transliterar el coreano se utiliza el sistema <a class="mw-redirect" href="/wiki/McCune-Reischauer" title="McCune-Reischauer">McCune-Reischauer</a> por ser más semejante al hispanohablante. Aquellas palabras que contengan <a href="/wiki/Signo_diacr%C3%ADtico" title="Signo diacrítico">signos diacríticos</a> latinos no pertenecientes al <a href="/wiki/Idioma_espa%C3%B1ol" title="Idioma español">idioma español</a> deben adaptarse a este según las normas del <a href="/wiki/Diccionario_panhisp%C3%A1nico_de_dudas" title="Diccionario panhispánico de dudas">DPD</a>, es decir, la letras <i>ŏ</i>, <i>ŭ</i> y <i>ë</i> deben escribirse <i>o</i>, <i>u</i> y <i>e</i>, respectivamente. También se deben suprimir las comillas simples que se utilizan en algunas consonantes. Todas las palabras deben escribirse en cursiva salvo aquellas recogidas en el <a class="mw-redirect" href="/wiki/DRAE" title="DRAE">DRAE</a> y los nombres de organismos, etc. Cuando se quiera expresar cómo se escribe exactamente una palabra en este sistema (utilizando los signos diacríticos no pertenecientes al español), esto se hará al principio del artículo, así como cuando se quiera especificar como se escribe en el sistema de <a href="/wiki/Romanizaci%C3%B3n_revisada_del_coreano" title="Romanización revisada del coreano">romanización revisada del coreano</a>.
+</p>
+<p>Para los nombres griegos clásicos más conocidos frecuentemente se emplea una adaptación a partir de su latinización cuando esta fue ampliamente usada. Cuando se trata de términos griegos menos usados es conveniente dar una transliteración estricta, y de manera conveniente la propia forma en alfabeto griego (<a href="/wiki/Wikipedia:Transliteraci%C3%B3n/Griego#Griego_antiguo" title="Wikipedia:Transliteración/Griego">tabla de transliteración completa</a>).
+</p>
+<p>Salvo que haya una forma diferente usada <i>en español</i> de manera <a class="mw-redirect" href="/wiki/Wikipedia:CT" title="Wikipedia:CT">absolutamente mayoritaria</a> (no se debe confundir esto con el uso de transcripciones a otros idiomas, como el inglés o el francés), se empleará una transcripción directa desde el griego al español mediante el sistema propugnado por las <a class="mw-redirect" href="/wiki/Naciones_Unidas" title="Naciones Unidas">Naciones Unidas</a>, ELOT 743/1987 (<a href="/wiki/Wikipedia:Transliteraci%C3%B3n/Griego#Griego_moderno" title="Wikipedia:Transliteración/Griego">tabla de transliteración completa</a>, tercera columna).
+</p>
+<p>En <a href="/wiki/1982" title="1982">1982</a> se introdujo la <a href="/wiki/Sistema_monot%C3%B3nico" title="Sistema monotónico">ortografía monotónica</a> oficialmente para el <a href="/wiki/Griego_moderno" title="Griego moderno">griego moderno</a>, en la que los únicos signos de acentuación que se mantienen son la <a class="mw-redirect" href="/wiki/%C2%B4" title="´">tilde aguda</a> (indicando la sílaba acentuada), y la <a href="/wiki/Di%C3%A9resis" title="Diéresis">diéresis</a> (indicando cuando dos vocales consecutivas no deben ser combinadas).  Tanto la tilde aguda como la diéresis se mantienen tal cual en el proceso de romanización recomendado por las <a class="mw-redirect" href="/wiki/Naciones_Unidas" title="Naciones Unidas">Naciones Unidas</a>, por lo que deben escribirse al transliterar griego moderno, incluso aunque por las reglas de acentuación del español no fueran necesarias. Hay una excepción: en las combinaciones de vocales αύ, εύ y ηύ la tilde se mueve de la -υ- (que se convierte en v o f) a la vocal precedente.
+</p>
+<p>Ver artículo extenso específico sobre el tema: <a class="mw-redirect" href="/wiki/Wikipedia:Transliteraci%C3%B3n/Hebreo" title="Wikipedia:Transliteración/Hebreo">Wikipedia:Transliteración/Hebreo</a>
+</p>
+<p>Se utiliza el sistema de <a href="/wiki/Romanizaci%C3%B3n_Hepburn" title="Romanización Hepburn">romanización Hepburn</a>.
+</p>
+<p>(<a class="mw-redirect" href="/wiki/Hindi" title="Hindi">Hindi</a>, <a href="/wiki/Idioma_persa" title="Idioma persa">persa</a> y otras)
+</p>
+<p><span id="Ruso"></span>
+</p>
+<p><a class="mw-redirect" href="/wiki/Wikipedia_discusi%C3%B3n:Transliteraci%C3%B3n#Convención_para_los_nombres_rusos" title="Wikipedia discusión:Transliteración">Tras esta discusión</a> se estableció:
+</p>
+<p><a class="mw-redirect" href="/wiki/Wikipedia_discusi%C3%B3n:Transliteraci%C3%B3n#Transliteración_del_ruso" title="Wikipedia discusión:Transliteración">Tras esta otra</a> se establecieron las siguientes directrices de transcripción del ruso:
+</p>
+<p>Criterio para elegir entre la forma transcrita del apellido del personaje y otras posibles grafías del mismo en caracteres latinos:
+</p>

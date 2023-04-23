@@ -1,0 +1,280 @@
+<p>El propósito de Wikipedia es crear una fuente enciclopédica de información disponible en Internet con el aporte de voluntarios comprometidos con los <a href="/wiki/Wikipedia:Los_cinco_pilares" title="Wikipedia:Los cinco pilares">principios</a> que se ha propuesto la comunidad de autores. El medio utilizado es el lenguaje escrito, que es el más preciso y más perdurable en el tiempo.
+</p>
+<p>Sin embargo, las ilustraciones permiten a veces trasmitir mejor ideas que en palabras serían difíciles o a veces imposibles de explicar.
+</p>
+<p>Wikipedia ofrece a los editores un almacén de imágenes, <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a>, con imágenes (y sonidos) digitalizadas, ordenados en categorías que pueden ser presentados por el editor. Estas imágenes pueden ser ubicadas en diferentes lugares del artículo, combinadas con el texto o con otras imágenes.
+</p>
+<p>Wikipedia es un medio para informar principalmente a través del lenguaje escrito, por su precisión y permanencia en el tiempo. Esto incluye, en casos especiales, el uso de convenciones tipográficas como la <i>cursiva</i> o <b>negrilla</b> (Ver <a href="/wiki/Ayuda:Barra_de_herramientas_de_edici%C3%B3n" title="Ayuda:Barra de herramientas de edición">Ayuda:Barra de herramientas de edición</a>). En temas científicos esta previsto el uso del lenguaje adecuado como fórmulas matemáticas, químicas o del alfabeto fonético internacional.
+</p>
+<p>Sin embargo, en casos justificados, cuando la complejidad del tema o la cantidad de información lo requiere, se puede incluir imágenes apropiadas (también audio) en los artículos, siempre que su inclusión no resulte excesiva.
+</p>
+<p>Para ello existen una variedad de opciones que permiten incluir imágenes, mapas, fotos, diagramas, cronogramas, videos o enlazar mapas mostrados en otras páginas o abrir pop-ups con mapas. 
+</p>
+<p>Para reducir el trabajo causado por el mantenimiento de los artículos, existen restricciones técnicas en cuanto a tipo de imágenes que se usan, el lugar de donde se guardan y cómo son llamadas desde el artículo. Otras restricciones han sido acordadas para unificar los colores con que se representan ciertas entidades, etc.
+</p>
+<p>El propósito de una ilustración es aumentar la comprensión de la materia de un artículo, usualmente con la representación de personas, cosas, actividades, conceptos y procesos descritos en el artículo. La ilustración debe hacerlo de una manera directa y clara. <a class="mw-redirect" href="/wiki/Wikipedia:NOCENSURADA" title="Wikipedia:NOCENSURADA">Wikipedia no conoce censura</a> e imágenes explícitas, a veces chocantes, pueden servir al propósito enciclopédico de Wikipedia, pero no deben tener como fin único el propósito de atraer curiosos a la página. Tampoco una imagen debe tener un fin puramente estético. Su función debe ser informativa.
+</p>
+<p>Se debe evitar incluir en las imágenes texto que puede ser representado como tal al pie de la propia imagen.
+</p>
+<p>Los artículos sobre grupos étnicos, no se deberán ilustrar con collages o galerías de fotos de los miembros del mismo.
+</p>
+<p>En ningún caso se debe exagerar en la cantidad de imágenes mostradas en un artículo.
+</p>
+<p>A la vista de este somero cuadro sinóptico, podemos ya anunciar que una ilustración puede ser insertada en un artículo mediante:
+</p>
+<p>El proyecto de escribir una enciclopedia con aportes de todos ha crecido desde sus comienzos y se ha perfeccionado en muchos terrenos. Para mejor entendimiento de lo que viene, daremos una ligera explicación a ciertos conceptos ligados a la historia de Wikipedia.
+</p>
+<p>En el aspecto técnico, debemos tener presente que inicialmente las imágenes usadas por cada Wikipedia eran almacenadas en el mismo lugar (espacio de nombre) en que se almacenaban los artículos de la respectiva Wikipedia. Por esa razón cuando insertamos una imagen debemos escribir [[Archivo:...]].  Este sencillo método impedía compartir imágenes entre Wikipedias en distintos lenguajes, por lo que se decidió almacenar las imágenes en un espacio común, que ahora llamamos Commons.
+</p>
+<p>En el aspecto legal, se ha acordado almacenar en Commons solo imágenes con una licencia libre, lo que explicaremos en otro lugar. Para entender algunos detalles solo diremos que algunas Wikipedias como la inglesa permiten el uso de imágenes no-libres bajo la suposición de que es un <a href="/wiki/Uso_justo" title="Uso justo">uso legítimo</a>, que no pretende afectar los derechos del autor de la imagen. En la Wikipedia española ese tipo de imágenes no están permitidas.
+<br style="clear:both"/>
+</p>
+<p>Si se desea dar más realce a la ilustración, se puede disponer la imagen en el centro del artículo e impedir así que el texto fluya alrededor de la imagen. Si se coloca la imagen a un costado, el texto fluye en el costado desocupado. Esto se puede impedir mediante el uso de instrucciones al browser como:
+</p>
+<p>Así, el próximo párrafo, sección, subsección, etc, comenzará <i>después</i> de la imagen.
+</p>
+<p>Algunas funciones entregan una imagen sin marco ni la posibilidad de un texto descriptivo. Así es requerido por algunas otras herramientas que manipulan la imagen, como por ejemplo una <code>{{<a href="/wiki/Plantilla:Ficha_de_persona" title="Plantilla:Ficha de persona">Ficha de persona</a>}}</code> o <code>{{<a href="/wiki/Plantilla:Ficha_de_entidad_subnacional" title="Plantilla:Ficha de entidad subnacional">Ficha de entidad subnacional</a>}}</code> que necesitan solo la imagen, sin textos descriptivos. Si se necesita un enmarque y un título o una descripción para tales imágenes, utilícese <code>{{<a href="/wiki/Plantilla:Cuadro_imagen" title="Plantilla:Cuadro imagen">Cuadro imagen</a>}}</code>.
+</p>
+<p>Las imágenes están almacenadas en Commons en diferentes formatos (gif, jpg, svg, etc). Sin embargo, cualquiera que sea su formato y su tamaño de almacenamiento, la página recibe una imagen en formato <a class="mw-redirect" href="/wiki/PNG" title="PNG">PNG</a> y del tamaño solicitado por el editor.
+</p>
+<p>Wikipedia tiene variadas opciones para insertar imágenes en un artículo. Se pueden crear e insertar <a href="/wiki/Al_vuelo" title="Al vuelo"><i>al vuelo</i></a> gráficos, mapas, símbolos musicales o matemáticos o algebraicos, o se pueden traer desde Commons las imágenes disponibles allí. Además de eso, se pueden modificar las imágenes: rotar, sobreponer, recortar, rotular, alinear, crear montajes, etc.
+</p>
+<p>No es posible mostrar aquí todas las herramientas disponibles pues día a día se crean nuevas (y se mejoran las ya existentes) por lo que tras una breve introducción deberás buscar tu mejor manera de ampliar y profundizar tus conocimientos.
+</p>
+<p>Esta es la tarea más común de los editores y también la más fácil. Existen numerosas opciones para dimensionar, enmarcar y describir una imagen. 
+</p>
+<p>El código para insertar la imagen llamada "Ship diagram-numbers.svg" almacenada en Commons con un marco (<i>miniatura</i>), al lado izquierdo de la página (<i>izq</i>) y un ancho de 200 <a href="/wiki/P%C3%ADxel" title="Píxel">pixeles</a> (<i>200px</i>) y la descripción "<i>Barco con descripción incompleta.</i>" es :
+</p>
+<p><br style="clear:both"/>
+</p>
+<p>Si se quiere que la imagen no tenga marco, ni un texto en la parte inferior, y que la imagen quede a la derecha: se sustituye la opción <i>miniatura</i> por "sin marco"; y <i>izq</i> por <i>der</i>; tampoco se incluye una descripción (si se incluye no aparecerá); en cuanto al tamaño, como se puede comprobar, 300 px <i>sin marco</i> da una dimensión similar a la de 200px  como <i>miniatura</i>.
+</p>
+<p>Por tanto el código será el siguiente:
+</p>
+<p><br style="clear:both"/>
+</p>
+<p>Las imágenes muy amplias o con relaciones de aspecto anchas no deberían insertarse directamente en los artículos, ya que causan problemas en pantallas pequeñas. Toda imagen con un ancho mayor a 550 píxeles son consideradas panorámicas, y pueden añadirse utilizando la plantilla <code>{{<a href="/wiki/Plantilla:Panorama" title="Plantilla:Panorama">Panorama</a>}}</code>.
+</p>
+<p>Una imagen alta, de gran altura, no corta el flujo del texto. Por eso puede ser insertada sin problemas. Si por alguna razón se desea limitar el alto se puede utilizar la <code>{{<a href="/wiki/Plantilla:Imagen_alta" title="Plantilla:Imagen alta">Imagen alta</a>}}</code>.
+</p>
+<p>La plantilla <code>{{<a class="mw-redirect" href="/wiki/Plantilla:Recortar_Imagen" title="Plantilla:Recortar Imagen">Recortar Imagen</a>}}</code> muestra un determinado encuadre o un detalle concreto de una imagen original.
+</p>
+<p>Si se desea rotar una imagen se puede utilizar la plantilla <code>{{<a href="/wiki/Plantilla:Transformar-rotar" title="Plantilla:Transformar-rotar">Transformar-rotar</a>}}</code>. Esta plantilla utiliza código <a href="/wiki/CSS" title="CSS">CSS</a>.
+</p>
+<p>Existe la posibilidad de insertar dos o más imágenes en un mismo marco con el uso de la plantilla <code>{{<a href="/wiki/Plantilla:Imagen_m%C3%BAltiple" title="Plantilla:Imagen múltiple">Imagen múltiple</a>}}</code>. Se pueden mostrar hasta 10 imágenes dispuestas en una o varias filas. Ejemplos e instrucciones de su uso pueden verse en su documentación.
+<br style="clear:both"/>
+</p>
+<p>Algo ligeramente diferente permite la plantilla <code>{{<a href="/wiki/Plantilla:Montaje_fotogr%C3%A1fico" title="Plantilla:Montaje fotográfico">Montaje fotográfico</a>}}</code>. Esta plantilla permite agrupar hasta 5 filas y 5 columnas y definir el espacio entre las imágenes. Sin embargo las fotos deben tener ya la misma proporción (altura/anchura).
+<br style="clear:both"/>
+</p>
+<p>Para alinear y presentar varias imágenes alineadas e igualar sus dimensiones se utiliza la etiqueta <code class="nowrap">&lt;gallery&gt;&lt;/gallery&gt;</code>. Sus opciones figuran en el artículo <a href="/wiki/Ayuda:Galer%C3%ADa_de_im%C3%A1genes" title="Ayuda:Galería de imágenes">Ayuda:Galería de imágenes</a>:
+</p>
+<p>Puerto de Gracia del Havre de París (impresa en Alemania c. 1800)
+</p>
+<p>Puente de la Concordia (impresa en París)
+</p>
+<p>Hospicio Real de los Inválidos (impresa en París)
+</p>
+<p>Roma (impresa en París)
+</p>
+<p>Otra opción es usar la plantilla <code>{{<a href="/wiki/Plantilla:Galer%C3%ADa_de_im%C3%A1genes" title="Plantilla:Galería de imágenes">Galería de imágenes</a>}}</code>, que adapta la galería al tamaño de la ventana del navegador y permite especificar el tamaño de las imágenes.
+</p>
+<p>Cuando una imagen es parcialmente transparente o más pequeña que otra, puede ser presentada sobre otra mediante la plantilla <code>{{<a href="/wiki/Plantilla:Sobrepuesto" title="Plantilla:Sobrepuesto">Sobrepuesto</a>}}</code>. Se utiliza, por ejemplo, para señalar en un mapa la ubicación de algún lugar en especial. Para darle un título, un pie de imagen, un marco y una posición (izq., der. o centro) en el artículo, se puede utilizar <code>{{<a href="/wiki/Plantilla:Cuadro_imagen" title="Plantilla:Cuadro imagen">Cuadro imagen</a>}}</code>.
+<br style="clear:both"/>
+</p>
+<p>Existen varias opciones para graficar una tabla de valores en Wikipedia.
+</p>
+<p>El tag explicado en <a href="/wiki/Ayuda:Cronolog%C3%ADas" title="Ayuda:Cronologías">Ayuda:Cronologías</a> sirve para representar sucesos, su ubicación y su duración en el tiempo.
+</p>
+<p>Sucesión de presidentes de Chile en el siglo XXI.
+</p>
+<p><br/>
+</p>
+<p>La plantilla <code>{{<a href="/wiki/Plantilla:Clado" title="Plantilla:Clado">Clado</a>}}</code> se utiliza para dibujar <a href="/wiki/Cladograma" title="Cladograma">Cladogramas</a>, árboles de ramificación con las etiquetas de nodo y la base enlazados. Para generar un marco y un texto al pie de la imagen, el código debe ser envuelto en <code>{{<a href="/wiki/Plantilla:Cuadro_imagen" title="Plantilla:Cuadro imagen">Cuadro imagen</a>}}</code>.
+</p>
+<p><a href="/wiki/Rodentia" title="Rodentia">Rodentia</a> (roedores)
+</p>
+<p><a href="/wiki/Lagomorpha" title="Lagomorpha">Lagomorpha</a> (conejos, liebres)
+</p>
+<p><a href="/wiki/Scandentia" title="Scandentia">Scandentia</a>
+</p>
+<p><a href="/wiki/Dermoptera" title="Dermoptera">Dermoptera</a> (lémurs voladores)
+</p>
+<p>† <a href="/wiki/Plesiadapiformes" title="Plesiadapiformes">Plesiadapiformes</a>
+</p>
+<p><b>Primates</b>
+</p>
+<p>Cuando se desea agregar texto a una imagen, se puede hacer con las plantillas <code>{{<a href="/wiki/Plantilla:Etiqueta_imagen_inicio" title="Plantilla:Etiqueta imagen inicio">etiqueta imagen inicio</a>}}</code>, <code>{{<a href="/wiki/Plantilla:Etiqueta_imagen" title="Plantilla:Etiqueta imagen">etiqueta imagen</a>}}</code>, <code>{{<a href="/wiki/Plantilla:Etiqueta_imagen_peque%C3%B1a" title="Plantilla:Etiqueta imagen pequeña">etiqueta imagen pequeña</a>}}</code> y <code>{{<a href="/wiki/Plantilla:Etiqueta_imagen_fin" title="Plantilla:Etiqueta imagen fin">etiqueta imagen fin</a>}}</code>
+</p>
+<p><br style="clear:both"/>
+</p>
+<p>La función <a href="/wiki/Ayuda:ImageMap" title="Ayuda:ImageMap">imagemap</a> es ofrecida por Mediawiki para incluir wikienlaces en regiones de una imagen. El mapa de la derecha tiene en el área de cada continente (más precisamente un polígono) un enlace al artículo de Wikipedia sobre ese continente, en el resto (default) un enlace a <a href="/wiki/Oc%C3%A9ano" title="Océano">Océano</a>.
+</p>
+<p>Para asociar un área al enlace, se debe describir primero el área de como una figura geométrica, ya sea un polígono mediante una serie de pares de coordenadas (x,y), un rectángulo mediante las coordenadas (x,y) de las esquinas en la diagonal o un círculo mediante su centro y radio. Cada área a enlazar se describe en una línea, al final de la cual se agrega el wikienlace:
+</p>
+<p>Commons ofrece en cada página de descripción de una imagen, una herramienta llamada "ImageMapEdit" guiada por tu ratón y su tecla izquierda para determinar las coordenadas necesarias (siempre en la escala de la imagen almacenada).
+</p>
+<p>Si utilizas una de las muchas herramientas que se ofrecen en la red, obtendrás un código HTML que debe ser modificado antes de insertarlo en Wikipedia.
+</p>
+<p>Un mapa puede ser una importante fuente de conocimiento y comprensión en un artículo. 
+</p>
+<p>Empero, recuerda que si el artículo ya tiene asociadas coordenadas geográficas, ya sea con una <code>{{<a href="/wiki/Plantilla:Ficha" title="Plantilla:Ficha">Ficha</a>}}</code> o una plantilla <code>{{<a href="/wiki/Plantilla:Coord" title="Plantilla:Coord">coord</a>}}</code> o esta enlazado a un ítem de <a href="/wiki/Wikidata" title="Wikidata">Wikidata</a> con coordenadas, <b>automáticamente</b> se agrega al artículo en la esquina superior derecha un enlace a <a class="extiw" href="https://www.mediawiki.org/wiki/GeoHack" title="mw:GeoHack">mw:GeoHack</a> y dos enlaces directos a los correspondientes mapas elaborados por <a class="extiw" href="https://www.mediawiki.org/wiki/Toolserver:WikiMiniAtlas" title="mw:Toolserver:WikiMiniAtlas">mw:Toolserver:WikiMiniAtlas</a> y <a class="mw-redirect" href="/wiki/Openstreetmap" title="Openstreetmap">Openstreetmap</a>.
+</p>
+<p><code>{{<a href="/wiki/Plantilla:Map_draw" title="Plantilla:Map draw">Map draw</a>}}</code> permite incluir un mapa de <a href="/wiki/OpenStreetMap" title="OpenStreetMap">openstreetmap</a> en el artículo. El mapa es dinámico, es decir puede ser ampliado, focalizado y movido.
+</p>
+<p>También es posible con <a class="extiw" href="https://www.mediawiki.org/wiki/Help:Extension:Kartographer" title="mw:Help:Extension:Kartographer">&lt;mapframe&gt;</a> o, en ciertas ciertas circunstancias, incluir solo un enlace con <a class="extiw" href="https://www.mediawiki.org/wiki/Help:Extension:Kartographer" title="mw:Help:Extension:Kartographer">&lt;maplink&gt;</a>.
+</p>
+<p>Para líneas de ferrocarril o similares se pueden utilizar:
+</p>
+<p>En el límite entre texto e imagen se encuentran el lenguaje usado por las matemáticas, álgebra o en química, para lo cual se puede utilizar el tag <code>&lt;math&gt;&lt;/math&gt;</code> proporcionado por Mediawiki. Dos ejemplos son:
+</p>
+<p>También se pueden insertar fragmentos de <a href="/wiki/Notaci%C3%B3n_musical" title="Notación musical">notación musical</a> y secuencias de audio <a href="/wiki/MIDI" title="MIDI">MIDI</a> en Wikipedia usando las etiquetas <code>&lt;score&gt;&lt;/score&gt;</code> mediante el software <a href="/wiki/LilyPond" title="LilyPond">LilyPond</a> incorporado en el código de <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> (<a class="external text" href="https://www.mediawiki.org/wiki/Extension:Score/es">Score Extension</a>).
+</p>
+<p>Los archivos <a href="/wiki/DjVu" title="DjVu">DjVu</a> (como los de <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:DjVu_files" title="commons:Category:DjVu files">commons:Category:DjVu files</a>) y <a href="/wiki/PDF" title="PDF">PDF</a>, son documentos que pueden contener imágenes. Para añadir una imagen de un archivo DjVu o PDF a cualquier proyecto de Wikimedia hay que utilizar, además de los anteriores parámetros de <code>thumb</code>, <code>right</code>, etc., el parámetro "<code>page</code>", para indicar la página del archivo donde se encuentra la imagen que se quiere ver.
+</p>
+<p>Por ejemplo:
+</p>
+<p>Dará como resultado la imagen de la derecha.
+</p>
+<p>Es necesario mencionar que estos archivos pueden añadirse en <a href="#Galerías_de_imágenes">galerías</a>, pero entonces no se puede especificar la página y siempre se mostrará la primera de cada documento.
+</p>
+<p>El propósito de Wikipedia es crear una fuente enciclopédica de información disponible en Internet con el aporte de voluntarios comprometidos con los <a href="/wiki/Wikipedia:Los_cinco_pilares" title="Wikipedia:Los cinco pilares">principios</a> que se ha propuesto la comunidad de autores. El medio utilizado es el lenguaje escrito, que es el más preciso y más perdurable en el tiempo.
+</p>
+<p>Sin embargo, las ilustraciones permiten a veces trasmitir mejor ideas que en palabras serían difíciles o a veces imposibles de explicar.
+</p>
+<p>Wikipedia ofrece a los editores un almacén de imágenes, <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a>, con imágenes (y sonidos) digitalizadas, ordenados en categorías que pueden ser presentados por el editor. Estas imágenes pueden ser ubicadas en diferentes lugares del artículo, combinadas con el texto o con otras imágenes.
+</p>
+<p>Wikipedia es un medio para informar principalmente a través del lenguaje escrito, por su precisión y permanencia en el tiempo. Esto incluye, en casos especiales, el uso de convenciones tipográficas como la <i>cursiva</i> o <b>negrilla</b> (Ver <a href="/wiki/Ayuda:Barra_de_herramientas_de_edici%C3%B3n" title="Ayuda:Barra de herramientas de edición">Ayuda:Barra de herramientas de edición</a>). En temas científicos esta previsto el uso del lenguaje adecuado como fórmulas matemáticas, químicas o del alfabeto fonético internacional.
+</p>
+<p>Sin embargo, en casos justificados, cuando la complejidad del tema o la cantidad de información lo requiere, se puede incluir imágenes apropiadas (también audio) en los artículos, siempre que su inclusión no resulte excesiva.
+</p>
+<p>Para ello existen una variedad de opciones que permiten incluir imágenes, mapas, fotos, diagramas, cronogramas, videos o enlazar mapas mostrados en otras páginas o abrir pop-ups con mapas. 
+</p>
+<p>Para reducir el trabajo causado por el mantenimiento de los artículos, existen restricciones técnicas en cuanto a tipo de imágenes que se usan, el lugar de donde se guardan y cómo son llamadas desde el artículo. Otras restricciones han sido acordadas para unificar los colores con que se representan ciertas entidades, etc.
+</p>
+<p>El propósito de una ilustración es aumentar la comprensión de la materia de un artículo, usualmente con la representación de personas, cosas, actividades, conceptos y procesos descritos en el artículo. La ilustración debe hacerlo de una manera directa y clara. <a class="mw-redirect" href="/wiki/Wikipedia:NOCENSURADA" title="Wikipedia:NOCENSURADA">Wikipedia no conoce censura</a> e imágenes explícitas, a veces chocantes, pueden servir al propósito enciclopédico de Wikipedia, pero no deben tener como fin único el propósito de atraer curiosos a la página. Tampoco una imagen debe tener un fin puramente estético. Su función debe ser informativa.
+</p>
+<p>Se debe evitar incluir en las imágenes texto que puede ser representado como tal al pie de la propia imagen.
+</p>
+<p>Los artículos sobre grupos étnicos, no se deberán ilustrar con collages o galerías de fotos de los miembros del mismo.
+</p>
+<p>En ningún caso se debe exagerar en la cantidad de imágenes mostradas en un artículo.
+</p>
+<p>A la vista de este somero cuadro sinóptico, podemos ya anunciar que una ilustración puede ser insertada en un artículo mediante:
+</p>
+<p>El proyecto de escribir una enciclopedia con aportes de todos ha crecido desde sus comienzos y se ha perfeccionado en muchos terrenos. Para mejor entendimiento de lo que viene, daremos una ligera explicación a ciertos conceptos ligados a la historia de Wikipedia.
+</p>
+<p>En el aspecto técnico, debemos tener presente que inicialmente las imágenes usadas por cada Wikipedia eran almacenadas en el mismo lugar (espacio de nombre) en que se almacenaban los artículos de la respectiva Wikipedia. Por esa razón cuando insertamos una imagen debemos escribir [[Archivo:...]].  Este sencillo método impedía compartir imágenes entre Wikipedias en distintos lenguajes, por lo que se decidió almacenar las imágenes en un espacio común, que ahora llamamos Commons.
+</p>
+<p>En el aspecto legal, se ha acordado almacenar en Commons solo imágenes con una licencia libre, lo que explicaremos en otro lugar. Para entender algunos detalles solo diremos que algunas Wikipedias como la inglesa permiten el uso de imágenes no-libres bajo la suposición de que es un <a href="/wiki/Uso_justo" title="Uso justo">uso legítimo</a>, que no pretende afectar los derechos del autor de la imagen. En la Wikipedia española ese tipo de imágenes no están permitidas.
+<br style="clear:both"/>
+</p>
+<p>Si se desea dar más realce a la ilustración, se puede disponer la imagen en el centro del artículo e impedir así que el texto fluya alrededor de la imagen. Si se coloca la imagen a un costado, el texto fluye en el costado desocupado. Esto se puede impedir mediante el uso de instrucciones al browser como:
+</p>
+<p>Así, el próximo párrafo, sección, subsección, etc, comenzará <i>después</i> de la imagen.
+</p>
+<p>Algunas funciones entregan una imagen sin marco ni la posibilidad de un texto descriptivo. Así es requerido por algunas otras herramientas que manipulan la imagen, como por ejemplo una <code>{{<a href="/wiki/Plantilla:Ficha_de_persona" title="Plantilla:Ficha de persona">Ficha de persona</a>}}</code> o <code>{{<a href="/wiki/Plantilla:Ficha_de_entidad_subnacional" title="Plantilla:Ficha de entidad subnacional">Ficha de entidad subnacional</a>}}</code> que necesitan solo la imagen, sin textos descriptivos. Si se necesita un enmarque y un título o una descripción para tales imágenes, utilícese <code>{{<a href="/wiki/Plantilla:Cuadro_imagen" title="Plantilla:Cuadro imagen">Cuadro imagen</a>}}</code>.
+</p>
+<p>Las imágenes están almacenadas en Commons en diferentes formatos (gif, jpg, svg, etc). Sin embargo, cualquiera que sea su formato y su tamaño de almacenamiento, la página recibe una imagen en formato <a class="mw-redirect" href="/wiki/PNG" title="PNG">PNG</a> y del tamaño solicitado por el editor.
+</p>
+<p>Wikipedia tiene variadas opciones para insertar imágenes en un artículo. Se pueden crear e insertar <a href="/wiki/Al_vuelo" title="Al vuelo"><i>al vuelo</i></a> gráficos, mapas, símbolos musicales o matemáticos o algebraicos, o se pueden traer desde Commons las imágenes disponibles allí. Además de eso, se pueden modificar las imágenes: rotar, sobreponer, recortar, rotular, alinear, crear montajes, etc.
+</p>
+<p>No es posible mostrar aquí todas las herramientas disponibles pues día a día se crean nuevas (y se mejoran las ya existentes) por lo que tras una breve introducción deberás buscar tu mejor manera de ampliar y profundizar tus conocimientos.
+</p>
+<p>Esta es la tarea más común de los editores y también la más fácil. Existen numerosas opciones para dimensionar, enmarcar y describir una imagen. 
+</p>
+<p>El código para insertar la imagen llamada "Ship diagram-numbers.svg" almacenada en Commons con un marco (<i>miniatura</i>), al lado izquierdo de la página (<i>izq</i>) y un ancho de 200 <a href="/wiki/P%C3%ADxel" title="Píxel">pixeles</a> (<i>200px</i>) y la descripción "<i>Barco con descripción incompleta.</i>" es :
+</p>
+<p><br style="clear:both"/>
+</p>
+<p>Si se quiere que la imagen no tenga marco, ni un texto en la parte inferior, y que la imagen quede a la derecha: se sustituye la opción <i>miniatura</i> por "sin marco"; y <i>izq</i> por <i>der</i>; tampoco se incluye una descripción (si se incluye no aparecerá); en cuanto al tamaño, como se puede comprobar, 300 px <i>sin marco</i> da una dimensión similar a la de 200px  como <i>miniatura</i>.
+</p>
+<p>Por tanto el código será el siguiente:
+</p>
+<p><br style="clear:both"/>
+</p>
+<p>Las imágenes muy amplias o con relaciones de aspecto anchas no deberían insertarse directamente en los artículos, ya que causan problemas en pantallas pequeñas. Toda imagen con un ancho mayor a 550 píxeles son consideradas panorámicas, y pueden añadirse utilizando la plantilla <code>{{<a href="/wiki/Plantilla:Panorama" title="Plantilla:Panorama">Panorama</a>}}</code>.
+</p>
+<p>Una imagen alta, de gran altura, no corta el flujo del texto. Por eso puede ser insertada sin problemas. Si por alguna razón se desea limitar el alto se puede utilizar la <code>{{<a href="/wiki/Plantilla:Imagen_alta" title="Plantilla:Imagen alta">Imagen alta</a>}}</code>.
+</p>
+<p>La plantilla <code>{{<a class="mw-redirect" href="/wiki/Plantilla:Recortar_Imagen" title="Plantilla:Recortar Imagen">Recortar Imagen</a>}}</code> muestra un determinado encuadre o un detalle concreto de una imagen original.
+</p>
+<p>Si se desea rotar una imagen se puede utilizar la plantilla <code>{{<a href="/wiki/Plantilla:Transformar-rotar" title="Plantilla:Transformar-rotar">Transformar-rotar</a>}}</code>. Esta plantilla utiliza código <a href="/wiki/CSS" title="CSS">CSS</a>.
+</p>
+<p>Existe la posibilidad de insertar dos o más imágenes en un mismo marco con el uso de la plantilla <code>{{<a href="/wiki/Plantilla:Imagen_m%C3%BAltiple" title="Plantilla:Imagen múltiple">Imagen múltiple</a>}}</code>. Se pueden mostrar hasta 10 imágenes dispuestas en una o varias filas. Ejemplos e instrucciones de su uso pueden verse en su documentación.
+<br style="clear:both"/>
+</p>
+<p>Algo ligeramente diferente permite la plantilla <code>{{<a href="/wiki/Plantilla:Montaje_fotogr%C3%A1fico" title="Plantilla:Montaje fotográfico">Montaje fotográfico</a>}}</code>. Esta plantilla permite agrupar hasta 5 filas y 5 columnas y definir el espacio entre las imágenes. Sin embargo las fotos deben tener ya la misma proporción (altura/anchura).
+<br style="clear:both"/>
+</p>
+<p>Para alinear y presentar varias imágenes alineadas e igualar sus dimensiones se utiliza la etiqueta <code class="nowrap">&lt;gallery&gt;&lt;/gallery&gt;</code>. Sus opciones figuran en el artículo <a href="/wiki/Ayuda:Galer%C3%ADa_de_im%C3%A1genes" title="Ayuda:Galería de imágenes">Ayuda:Galería de imágenes</a>:
+</p>
+<p>Puerto de Gracia del Havre de París (impresa en Alemania c. 1800)
+</p>
+<p>Puente de la Concordia (impresa en París)
+</p>
+<p>Hospicio Real de los Inválidos (impresa en París)
+</p>
+<p>Roma (impresa en París)
+</p>
+<p>Otra opción es usar la plantilla <code>{{<a href="/wiki/Plantilla:Galer%C3%ADa_de_im%C3%A1genes" title="Plantilla:Galería de imágenes">Galería de imágenes</a>}}</code>, que adapta la galería al tamaño de la ventana del navegador y permite especificar el tamaño de las imágenes.
+</p>
+<p>Cuando una imagen es parcialmente transparente o más pequeña que otra, puede ser presentada sobre otra mediante la plantilla <code>{{<a href="/wiki/Plantilla:Sobrepuesto" title="Plantilla:Sobrepuesto">Sobrepuesto</a>}}</code>. Se utiliza, por ejemplo, para señalar en un mapa la ubicación de algún lugar en especial. Para darle un título, un pie de imagen, un marco y una posición (izq., der. o centro) en el artículo, se puede utilizar <code>{{<a href="/wiki/Plantilla:Cuadro_imagen" title="Plantilla:Cuadro imagen">Cuadro imagen</a>}}</code>.
+<br style="clear:both"/>
+</p>
+<p>Existen varias opciones para graficar una tabla de valores en Wikipedia.
+</p>
+<p>El tag explicado en <a href="/wiki/Ayuda:Cronolog%C3%ADas" title="Ayuda:Cronologías">Ayuda:Cronologías</a> sirve para representar sucesos, su ubicación y su duración en el tiempo.
+</p>
+<p>Sucesión de presidentes de Chile en el siglo XXI.
+</p>
+<p><br/>
+</p>
+<p>La plantilla <code>{{<a href="/wiki/Plantilla:Clado" title="Plantilla:Clado">Clado</a>}}</code> se utiliza para dibujar <a href="/wiki/Cladograma" title="Cladograma">Cladogramas</a>, árboles de ramificación con las etiquetas de nodo y la base enlazados. Para generar un marco y un texto al pie de la imagen, el código debe ser envuelto en <code>{{<a href="/wiki/Plantilla:Cuadro_imagen" title="Plantilla:Cuadro imagen">Cuadro imagen</a>}}</code>.
+</p>
+<p><a href="/wiki/Rodentia" title="Rodentia">Rodentia</a> (roedores)
+</p>
+<p><a href="/wiki/Lagomorpha" title="Lagomorpha">Lagomorpha</a> (conejos, liebres)
+</p>
+<p><a href="/wiki/Scandentia" title="Scandentia">Scandentia</a>
+</p>
+<p><a href="/wiki/Dermoptera" title="Dermoptera">Dermoptera</a> (lémurs voladores)
+</p>
+<p>† <a href="/wiki/Plesiadapiformes" title="Plesiadapiformes">Plesiadapiformes</a>
+</p>
+<p><b>Primates</b>
+</p>
+<p>Cuando se desea agregar texto a una imagen, se puede hacer con las plantillas <code>{{<a href="/wiki/Plantilla:Etiqueta_imagen_inicio" title="Plantilla:Etiqueta imagen inicio">etiqueta imagen inicio</a>}}</code>, <code>{{<a href="/wiki/Plantilla:Etiqueta_imagen" title="Plantilla:Etiqueta imagen">etiqueta imagen</a>}}</code>, <code>{{<a href="/wiki/Plantilla:Etiqueta_imagen_peque%C3%B1a" title="Plantilla:Etiqueta imagen pequeña">etiqueta imagen pequeña</a>}}</code> y <code>{{<a href="/wiki/Plantilla:Etiqueta_imagen_fin" title="Plantilla:Etiqueta imagen fin">etiqueta imagen fin</a>}}</code>
+</p>
+<p><br style="clear:both"/>
+</p>
+<p>La función <a href="/wiki/Ayuda:ImageMap" title="Ayuda:ImageMap">imagemap</a> es ofrecida por Mediawiki para incluir wikienlaces en regiones de una imagen. El mapa de la derecha tiene en el área de cada continente (más precisamente un polígono) un enlace al artículo de Wikipedia sobre ese continente, en el resto (default) un enlace a <a href="/wiki/Oc%C3%A9ano" title="Océano">Océano</a>.
+</p>
+<p>Para asociar un área al enlace, se debe describir primero el área de como una figura geométrica, ya sea un polígono mediante una serie de pares de coordenadas (x,y), un rectángulo mediante las coordenadas (x,y) de las esquinas en la diagonal o un círculo mediante su centro y radio. Cada área a enlazar se describe en una línea, al final de la cual se agrega el wikienlace:
+</p>
+<p>Commons ofrece en cada página de descripción de una imagen, una herramienta llamada "ImageMapEdit" guiada por tu ratón y su tecla izquierda para determinar las coordenadas necesarias (siempre en la escala de la imagen almacenada).
+</p>
+<p>Si utilizas una de las muchas herramientas que se ofrecen en la red, obtendrás un código HTML que debe ser modificado antes de insertarlo en Wikipedia.
+</p>
+<p>Un mapa puede ser una importante fuente de conocimiento y comprensión en un artículo. 
+</p>
+<p>Empero, recuerda que si el artículo ya tiene asociadas coordenadas geográficas, ya sea con una <code>{{<a href="/wiki/Plantilla:Ficha" title="Plantilla:Ficha">Ficha</a>}}</code> o una plantilla <code>{{<a href="/wiki/Plantilla:Coord" title="Plantilla:Coord">coord</a>}}</code> o esta enlazado a un ítem de <a href="/wiki/Wikidata" title="Wikidata">Wikidata</a> con coordenadas, <b>automáticamente</b> se agrega al artículo en la esquina superior derecha un enlace a <a class="extiw" href="https://www.mediawiki.org/wiki/GeoHack" title="mw:GeoHack">mw:GeoHack</a> y dos enlaces directos a los correspondientes mapas elaborados por <a class="extiw" href="https://www.mediawiki.org/wiki/Toolserver:WikiMiniAtlas" title="mw:Toolserver:WikiMiniAtlas">mw:Toolserver:WikiMiniAtlas</a> y <a class="mw-redirect" href="/wiki/Openstreetmap" title="Openstreetmap">Openstreetmap</a>.
+</p>
+<p><code>{{<a href="/wiki/Plantilla:Map_draw" title="Plantilla:Map draw">Map draw</a>}}</code> permite incluir un mapa de <a href="/wiki/OpenStreetMap" title="OpenStreetMap">openstreetmap</a> en el artículo. El mapa es dinámico, es decir puede ser ampliado, focalizado y movido.
+</p>
+<p>También es posible con <a class="extiw" href="https://www.mediawiki.org/wiki/Help:Extension:Kartographer" title="mw:Help:Extension:Kartographer">&lt;mapframe&gt;</a> o, en ciertas ciertas circunstancias, incluir solo un enlace con <a class="extiw" href="https://www.mediawiki.org/wiki/Help:Extension:Kartographer" title="mw:Help:Extension:Kartographer">&lt;maplink&gt;</a>.
+</p>
+<p>Para líneas de ferrocarril o similares se pueden utilizar:
+</p>
+<p>En el límite entre texto e imagen se encuentran el lenguaje usado por las matemáticas, álgebra o en química, para lo cual se puede utilizar el tag <code>&lt;math&gt;&lt;/math&gt;</code> proporcionado por Mediawiki. Dos ejemplos son:
+</p>
+<p>También se pueden insertar fragmentos de <a href="/wiki/Notaci%C3%B3n_musical" title="Notación musical">notación musical</a> y secuencias de audio <a href="/wiki/MIDI" title="MIDI">MIDI</a> en Wikipedia usando las etiquetas <code>&lt;score&gt;&lt;/score&gt;</code> mediante el software <a href="/wiki/LilyPond" title="LilyPond">LilyPond</a> incorporado en el código de <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> (<a class="external text" href="https://www.mediawiki.org/wiki/Extension:Score/es">Score Extension</a>).
+</p>
+<p>Los archivos <a href="/wiki/DjVu" title="DjVu">DjVu</a> (como los de <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:DjVu_files" title="commons:Category:DjVu files">commons:Category:DjVu files</a>) y <a href="/wiki/PDF" title="PDF">PDF</a>, son documentos que pueden contener imágenes. Para añadir una imagen de un archivo DjVu o PDF a cualquier proyecto de Wikimedia hay que utilizar, además de los anteriores parámetros de <code>thumb</code>, <code>right</code>, etc., el parámetro "<code>page</code>", para indicar la página del archivo donde se encuentra la imagen que se quiere ver.
+</p>
+<p>Por ejemplo:
+</p>
+<p>Dará como resultado la imagen de la derecha.
+</p>
+<p>Es necesario mencionar que estos archivos pueden añadirse en <a href="#Galerías_de_imágenes">galerías</a>, pero entonces no se puede especificar la página y siempre se mostrará la primera de cada documento.
+</p>

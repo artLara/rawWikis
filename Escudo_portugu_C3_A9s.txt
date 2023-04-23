@@ -1,0 +1,30 @@
+<p>El <b>escudo portugués</b> (código <a href="/wiki/ISO_4217" title="ISO 4217">ISO 4217</a> PTE) fue la moneda oficial de <a href="/wiki/Portugal" title="Portugal">Portugal</a> antes de la introducción del <a href="/wiki/Euro" title="Euro">Euro</a> el <a href="/wiki/1_de_enero" title="1 de enero">1 de enero</a> de <a href="/wiki/2002" title="2002">2002</a>. 100 <i>centavos</i> constituían un <i>escudo</i>. Su símbolo era el <i>cifrão</i> [[<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathrm {S} \!\!\!\Vert }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">S</mi>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {S} \!\!\!\Vert }</annotation>
+</semantics>
+</math></span><img alt="{\mathrm  {S}}\!\!\!\Vert " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8f85ec5f1c5816016c0d1e8986a965baa4193abc" style="vertical-align: -0.838ex; width:1.294ex; height:2.843ex;"/></span>]], similar al signo del <a href="/wiki/Peso_mexicano" title="Peso mexicano">peso mexicano</a> (<b>$</b>) pero con dos barras verticales en lugar de una.
+</p>
+<p>El escudo se introdujo por primera vez en 1911, tras la <a href="/wiki/Revoluci%C3%B3n_del_5_de_octubre_de_1910" title="Revolución del 5 de octubre de 1910">Revolución republicana de 1910</a>, para sustituir al <a href="/wiki/Real_portugu%C3%A9s" title="Real portugués">real</a> con una tasa de cambio de 1000 reales a 1 escudo. La expresión <i>mil réis</i>, que se refería a 1 escudo, se mantuvo hasta la década de los noventa. Un millón de reales era conocido como <i>conto do réis</i>, o simplemente <i>conto</i>, para referirse a 1000 escudos.
+</p>
+<p>Al principio el valor del escudo se fijó a 4,50 PTE = 1 GBP. Después de 1914 el valor del escudo cayó, fijándose en 1928 a 108,25 PTE = 1 GBP. En 1931 cambió a 110 PTE, y una nueva tasa de cambio se estableció en 1940 de 27,50 PTE = 1 USD, cambiando a 25 PTE = 1 USD en 1940 y 28,75 PTE en 1949.
+</p>
+<p>La inflación que perduró durante el siglo <span style="font-variant:small-caps;text-transform:lowercase">XX</span> hizo que los centavos perdieran todo su valor y llegaran a su fin. Con la entrada de <a href="/wiki/Portugal" title="Portugal">Portugal</a> en la eurozona, la conversión del escudo portugués frente al euro se fijó en 200,482 PTE = 1 EUR.
+</p>
+<p>En enero y febrero de 2002, se utilizó el escudo en las transacciones comerciales, junto con el euro.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+Los últimos billetes de escudo emitidos se pudieron cambiar hasta el 1 de marzo de 2022.<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>
+Las monedas en circulación antes del cambio al euro eran las de las denominaciones siguientes:</p>
+<p>La última serie de billetes portugueses fue emitida entre 1995 y 1997, y permaneció en vigencia hasta la entrada del euro. Los cinco billetes estaban dedicados a importantes navegantes de la época de los <a href="/wiki/Descubrimientos_portugueses" title="Descubrimientos portugueses">descubrimientos portugueses</a>. Los billetes en circulación eran los de las denominaciones que a continuación se detallan: 
+</p>

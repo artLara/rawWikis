@@ -1,0 +1,42 @@
+<p>Si deseas crear un artículo pero nunca antes lo has hecho es muy recomendable que utilices el <a href="/wiki/Wikipedia:Asistente_para_la_creaci%C3%B3n_de_art%C3%ADculos" title="Wikipedia:Asistente para la creación de artículos">asistente de Wikipedia</a>. El asistente te guiará paso a paso en la creación del artículo y te ayudará a entender qué contenidos son aceptables y cuales están sujetos a borrado. El asistente también proporciona esqueletos y ayudas para la redacción de los artículos.
+</p>
+<p>Puedes utilizar un artículo similar al que quieres crear para definir las secciones. También puedes utilizar un <a href="/wiki/Wikipedia:Modelos" title="Wikipedia:Modelos">modelo de artículo</a>, que sirve como molde para temas específicos.
+</p>
+<p>Si ya tienes experiencia en la creación de artículos y conoces el <a href="/wiki/Wikipedia:Asistente_para_la_creaci%C3%B3n_de_art%C3%ADculos" title="Wikipedia:Asistente para la creación de artículos">asistente</a>, existen otros métodos para crearlos, por ejemplo, puedes hacer clic en el enlace rojo a esa página. Esto te lleva al modo <a href="/wiki/Ayuda:Edici%C3%B3n" title="Ayuda:Edición">editar</a> de la nueva página, que te permite editar la página.
+</p>
+<p>Otra manera de empezar una nueva página, en la <a href="/wiki/Wikipedia_en_espa%C3%B1ol" title="Wikipedia en español">Wikipedia en español</a>, es hacer una búsqueda con el nuevo título con el botón «Ir». Cuando la búsqueda no encuentra el artículo, haz clic en el enlace rojo. 
+</p>
+<p>Los enlaces a páginas no existentes son comunes. Se crean típicamente para preparar la creación de una nueva página y para animar a otra gente a crearlos. Los enlaces no son solo prácticos para la navegación, sino también hace consciente a la gente de la nueva página (aquellos que leen una página relacionada y también aquellos que ponen en seguimiento la página relacionada).
+</p>
+<p>Si ya tienes experiencia en la creación de artículos y conoces el <a href="/wiki/Wikipedia:Asistente_para_la_creaci%C3%B3n_de_art%C3%ADculos" title="Wikipedia:Asistente para la creación de artículos">asistente</a>, existen otros métodos para crearlos, por ejemplo, puedes utilizar la barra de direcciones del <a href="/wiki/Navegador_web" title="Navegador web">navegador</a> para entrar la <a class="mw-redirect" href="/wiki/URL" title="URL">URL</a> de una nueva página. Aún más fácil es editar la parte del nombre en la URL de una página existente. Usando la URL para la nueva página se muestra el mensaje de «artículo inexistente». La página tiene varios enlaces <u><i>crear el artículo</i></u>, que pueden usarse para empezar a añadir contenido.
+</p>
+<p><b>No crees múltiples artículos con un texto idéntico y con diferentes títulos</b>. Si consideras probable que los lectores accedan a un artículo desde diferentes términos de búsqueda (ej. al artículo <a href="/wiki/Miguel_de_Cervantes" title="Miguel de Cervantes">Miguel de Cervantes</a> se accede también directamente buscando el término <a class="mw-redirect" href="/wiki/Cervantes" title="Cervantes">Cervantes</a>), puedes servirte de <a class="mw-redirect" href="/wiki/A:R" title="A:R">redirecciones</a>. 
+Para crear una redirección a un artículo existente basta con crear un artículo nuevo con el siguiente código:
+</p>
+<p><code>#REDIRECCIÓN [[Nombre del artículo destino]]</code>
+</p>
+<p>Si eres un usuario autoconfirmado (registrado desde hace más de 4 días y con un mínimo de 50 ediciones) también puedes trasladar un artículo a un nuevo título con la pestaña "trasladar" que encontrarás en la parte superior del artículo (entre "historial" y "vigilar"). Tras el traslado, el artículo original pasa a ser una simple redirección al título nuevo.
+</p>
+<p>Cuando crees un nuevo artículo, debes recordar que:
+</p>
+<p>Si deseas crear un artículo pero nunca antes lo has hecho es muy recomendable que utilices el <a href="/wiki/Wikipedia:Asistente_para_la_creaci%C3%B3n_de_art%C3%ADculos" title="Wikipedia:Asistente para la creación de artículos">asistente de Wikipedia</a>. El asistente te guiará paso a paso en la creación del artículo y te ayudará a entender qué contenidos son aceptables y cuales están sujetos a borrado. El asistente también proporciona esqueletos y ayudas para la redacción de los artículos.
+</p>
+<p>Puedes utilizar un artículo similar al que quieres crear para definir las secciones. También puedes utilizar un <a href="/wiki/Wikipedia:Modelos" title="Wikipedia:Modelos">modelo de artículo</a>, que sirve como molde para temas específicos.
+</p>
+<p>Si ya tienes experiencia en la creación de artículos y conoces el <a href="/wiki/Wikipedia:Asistente_para_la_creaci%C3%B3n_de_art%C3%ADculos" title="Wikipedia:Asistente para la creación de artículos">asistente</a>, existen otros métodos para crearlos, por ejemplo, puedes hacer clic en el enlace rojo a esa página. Esto te lleva al modo <a href="/wiki/Ayuda:Edici%C3%B3n" title="Ayuda:Edición">editar</a> de la nueva página, que te permite editar la página.
+</p>
+<p>Otra manera de empezar una nueva página, en la <a href="/wiki/Wikipedia_en_espa%C3%B1ol" title="Wikipedia en español">Wikipedia en español</a>, es hacer una búsqueda con el nuevo título con el botón «Ir». Cuando la búsqueda no encuentra el artículo, haz clic en el enlace rojo. 
+</p>
+<p>Los enlaces a páginas no existentes son comunes. Se crean típicamente para preparar la creación de una nueva página y para animar a otra gente a crearlos. Los enlaces no son solo prácticos para la navegación, sino también hace consciente a la gente de la nueva página (aquellos que leen una página relacionada y también aquellos que ponen en seguimiento la página relacionada).
+</p>
+<p>Si ya tienes experiencia en la creación de artículos y conoces el <a href="/wiki/Wikipedia:Asistente_para_la_creaci%C3%B3n_de_art%C3%ADculos" title="Wikipedia:Asistente para la creación de artículos">asistente</a>, existen otros métodos para crearlos, por ejemplo, puedes utilizar la barra de direcciones del <a href="/wiki/Navegador_web" title="Navegador web">navegador</a> para entrar la <a class="mw-redirect" href="/wiki/URL" title="URL">URL</a> de una nueva página. Aún más fácil es editar la parte del nombre en la URL de una página existente. Usando la URL para la nueva página se muestra el mensaje de «artículo inexistente». La página tiene varios enlaces <u><i>crear el artículo</i></u>, que pueden usarse para empezar a añadir contenido.
+</p>
+<p><b>No crees múltiples artículos con un texto idéntico y con diferentes títulos</b>. Si consideras probable que los lectores accedan a un artículo desde diferentes términos de búsqueda (ej. al artículo <a href="/wiki/Miguel_de_Cervantes" title="Miguel de Cervantes">Miguel de Cervantes</a> se accede también directamente buscando el término <a class="mw-redirect" href="/wiki/Cervantes" title="Cervantes">Cervantes</a>), puedes servirte de <a class="mw-redirect" href="/wiki/A:R" title="A:R">redirecciones</a>. 
+Para crear una redirección a un artículo existente basta con crear un artículo nuevo con el siguiente código:
+</p>
+<p><code>#REDIRECCIÓN [[Nombre del artículo destino]]</code>
+</p>
+<p>Si eres un usuario autoconfirmado (registrado desde hace más de 4 días y con un mínimo de 50 ediciones) también puedes trasladar un artículo a un nuevo título con la pestaña "trasladar" que encontrarás en la parte superior del artículo (entre "historial" y "vigilar"). Tras el traslado, el artículo original pasa a ser una simple redirección al título nuevo.
+</p>
+<p>Cuando crees un nuevo artículo, debes recordar que:
+</p>

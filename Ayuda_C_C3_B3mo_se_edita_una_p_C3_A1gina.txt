@@ -1,0 +1,576 @@
+<p><a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> es un <a href="/wiki/Wiki" title="Wiki">wiki</a>. Esto significa que cualquier persona puede editar fácilmente cualquier página (excepto las <a href="/wiki/Wikipedia:Pol%C3%ADtica_de_protecci%C3%B3n" title="Wikipedia:Política de protección">protegidas</a>) y sus cambios serán visibles inmediatamente. Aquí aprenderás <b>cómo se edita una página</b>. Las indicaciones que se dan sirven para cualquier tipo de página, aunque principalmente se editan artículos.
+</p>
+<p>Se explican algunas cosas sobre la sintaxis: cómo <a href="#Enlaces">crear enlaces</a>, los principales <a href="#Formatos_de_texto">formatos de texto</a>, estructurar el contenido en <a href="#Secciones">secciones</a>, cómo <a href="#Archivos">insertar imágenes</a>, hacer <a href="#Listas">listas</a> y <a href="#Tablas">tablas</a>, agregar <a href="#Referencias">referencias</a>, <a href="#Plantillas">plantillas</a>, <a href="#Categorías">categorías</a> e <a href="#Interwikis">interwikis</a>, y algunas cosas más avanzadas como las <a href="#Fórmulas">fórmulas</a> o <a href="#Líneas_de_tiempo">líneas de tiempo</a>.
+</p>
+<p>Además se detallan algunas peculiaridades de edición para <b><a href="#Otros_tipos_de_páginas">otros tipos de páginas</a></b> distintas a los artículos. Por último hay una serie de <b><a href="#Consejos_y_recomendaciones">consejos y recomendaciones</a></b> a seguir.
+</p>
+<p>Recuerda realizar las pruebas en la <a href="/wiki/Wikipedia:Zona_de_pruebas/3" title="Wikipedia:Zona de pruebas/3">zona de pruebas</a>. Después, puedes buscar una de las muchas <a href="/wiki/Ayuda:C%C3%B3mo_puedes_colaborar" title="Ayuda:Cómo puedes colaborar">tareas por hacer</a> y <a href="/wiki/Wikipedia:S%C3%A9_valiente_al_editar_p%C3%A1ginas" title="Wikipedia:Sé valiente al editar páginas">ser valiente editando páginas</a>. ¡Al hacer tu primera edición te conviertes en <a href="/wiki/Wikipedia:Wikipedistas" title="Wikipedia:Wikipedistas">wikipedista</a>!
+</p>
+<p>Para editar Wikipedia no es necesario estar registrado, aunque sí es cierto que registrarse conlleva una <a href="/wiki/Ayuda:Registro" title="Ayuda:Registro">serie de ventajas</a>. Decidas registrarte o no, el proceso de editar un artículo puede resumirse en <b>tres pasos</b>.
+</p>
+<p>Existe una página con una explicación detallada sobre <b><a href="/wiki/Ayuda:C%C3%B3mo_empezar_una_p%C3%A1gina" title="Ayuda:Cómo empezar una página">cómo empezar una página</a></b>. Básicamente hay dos formas:
+</p>
+<p>El modo recomendado es el primero. Se recomienda esto para que las páginas no queden sueltas, sino que haya algún enlace entre ellas y sea más fácil que el usuario las encuentre. A la hora de nombrar las páginas se recomienda seguir las <b><a href="/wiki/Wikipedia:Convenciones_de_t%C3%ADtulos" title="Wikipedia:Convenciones de títulos">convenciones de títulos</a></b>.
+</p>
+<p>En <a href="/wiki/Internet" title="Internet">Internet</a> se navega entre páginas a través de enlaces. En Wikipedia se sigue el mismo sistema. Existen principalmente dos tipos de enlaces: internos y <a href="/wiki/Wikipedia:Enlaces_externos" title="Wikipedia:Enlaces externos">externos</a>.
+</p>
+<p>Los <b>enlaces internos</b> son aquellos que llevan a otras páginas de Wikipedia. Los enlaces internos se crean siempre que el artículo destino aporte información de valor al artículo actual, permitiendo al lector navegar entre ambos.
+</p>
+<p>Por ejemplo, si estamos escribiendo sobre los planetas del <a href="/wiki/Sistema_solar" title="Sistema solar">sistema solar</a>:
+</p>
+<p>Quizás nos interese activar los enlaces internos hacia los artículos de cada planeta. En ese caso, pondremos dobles corchetes alrededor de cada palabra que queramos convertir en enlace, tomando en cuenta la gramática exacta del título del artículo al que queremos remitir:
+</p>
+<p>Automáticamente, las palabras actuarán como enlaces internos. Si el artículo existe, las palabras saldrán en azul; si el artículo no existe o el título se escribe con diferencia de acento o mayúsculas, las palabras saldrán en rojo. En este caso existen los dos artículos enlazados:
+</p>
+<p>Pero hay un problema. Mercurio es un planeta, pero también un elemento químico. Venus es un planeta, pero también una diosa de la mitología, etc. Por ello, <a class="mw-disambig" href="/wiki/Mercurio" title="Mercurio">Mercurio</a> y <a class="mw-disambig" href="/wiki/Venus" title="Venus">Venus</a> son <a href="/wiki/Wikipedia:Manual_de_estilo/P%C3%A1ginas_de_desambiguaci%C3%B3n" title="Wikipedia:Manual de estilo/Páginas de desambiguación">páginas de desambiguación</a> y contienen una lista de enlaces a todos los posibles significados de esos términos. Bastará consultar esas páginas para saber el título exacto de los artículos sobre el planeta Mercurio y Venus, en este caso: <a href="/wiki/Mercurio_(planeta)" title="Mercurio (planeta)">Mercurio (planeta)</a> y <a href="/wiki/Venus_(planeta)" title="Venus (planeta)">Venus (planeta)</a>. Entonces crearemos los enlaces de este modo (con una barra vertical «|» entre el título del artículo y el título del enlace):
+</p>
+<p>Y tendremos, ahora sí, los enlaces apuntando a los artículos correctos.
+</p>
+<p>Generalmente, los artículos que comparten un mismo título no son frecuentes, por lo que bastará con introducir los corchetes y listo (es el caso de <a href="/wiki/Sistema_solar" title="Sistema solar">sistema solar</a> y <a href="/wiki/Tierra" title="Tierra">Tierra</a>).
+</p>
+<p>Y obtendrás:
+</p>
+<p>Agrega las conexiones internas que creas necesarias, pero evita abusar de los enlaces: usa solamente los que sean realmente necesarios y no enlaces la misma palabra más de una vez en una misma sección del artículo.
+</p>
+<p>Los enlaces internos que comiencen por una <a href="/wiki/Barra_(tipograf%C3%ADa)" title="Barra (tipografía)">barra oblicua</a> (/) son interpretados como dirigidos a una subpágina. Así <span style="font-family: monospace">[[/Ejemplo]]</span> dará el mismo resultado que <span style="font-family: monospace">[[Ayuda:Cómo se edita una página/Ejemplo|/Ejemplo]]</span>. Si lo que deseas es que se interprete literalmente debes añadir al comienzo del mismo <a href="/wiki/Dos_puntos" title="Dos puntos">dos puntos</a>, así: <span style="font-family: monospace">[[:/Ejemplo]]</span>. Los dos puntos no son visibles en el enlace, lo que permite su integración natural en el texto. Otra alternativa es usar la <a href="/wiki/Anexo:Referencias_a_entidades_de_caracteres_XML_y_HTML" title="Anexo:Referencias a entidades de caracteres XML y HTML">entidad HTML</a> correspondiente al carácter de la barra oblicua (<span style="font-family: monospace">&amp;#47;</span>). Por ejemplo, <span style="font-family: monospace">[[&amp;#47;Ejemplo]]</span> será interpretado literalmente.
+</p>
+<p>También puede crear un enlace local a través de una página de <span class="plainlinks"><a class="external text" href="https://www.mediawiki.org/wiki/Help:Extension:GlobalUserPage">usuario global</a></span> (Meta) usando la barra oblicua en los enlaces, de esta forma:
+</p>
+<p>Sin embargo, si la página "Taller" no está creada debidamente en Meta, el enlace se mostrará en rojo sin importar si está creada en la wiki desde la cual lo observe. Por lo que se recomienda usar un color personalizado para esta clase de enlaces.
+</p>
+<p>Los enlaces que empiezan por dos barras oblicuas se rompen y no enlazan a ningún sitio. Así, vínculos como <span style="font-family: monospace">[[//]] o [[//Ejemplo]]</span> simplemente no sirven. La solución es la misma que para los enlaces a subpáginas, con el inconveniente de que siempre son interpretados literalmente. Sin embargo, aunque no es recomendable, sí es posible crear subpáginas que incluyan una doble barra, pero para enlazarlas es necesario escribir su nombre completo.
+</p>
+<p>Si el nombre de la página debería comenzar de la misma forma que un <a class="mw-redirect" href="/wiki/A:EN" title="A:EN">espacio de nombres</a>, entonces no podría distinguirse como perteneciente al espacio principal y caería dentro de las <a class="mw-redirect" href="/wiki/Wikipedia:RTT" title="Wikipedia:RTT">restricciones a los títulos</a>. De esa forma, un vínculo como <span style="font-family: monospace">[[Ayuda: ¡sálvanos!]]</span> conducirá siempre, aunque se le añadan dos puntos o se usen entidades HTML, al <a href="/wiki/Wikipedia:Espacio_de_nombres_Ayuda" title="Wikipedia:Espacio de nombres Ayuda">espacio Ayuda</a> y no a un artículo.
+</p>
+<p>Algunas palabras son interpretadas como una clave, llamada <b>prefijo</b>, que transforma el enlace interno en uno externo. Los prefijos pueden ser palabras completas o <a href="/wiki/Ap%C3%B3cope" title="Apócope">apócopes</a>, siempre seguido de dos puntos. Esta limitación es la más restrictiva, puesto que no es posible de ninguna forma enlazar a páginas que comiencen de la misma manera que un prefijo, no importa cuantos dos puntos se añadan ni si se usan entidades HTML. La razón es que <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> los considera un <a href="/wiki/Ayuda:Enlace_interling%C3%BC%C3%ADstico" title="Ayuda:Enlace interlingüístico">enlace interlingüístico</a> mientras que si se añaden los dos puntos iniciales se interpretan como enlaces externos.
+</p>
+<p>Por ejemplo <span style="font-family: monospace">[[en:]]</span> vincula la página en que se incluye con la portada de la <a href="/wiki/Wikipedia_en_ingl%C3%A9s" title="Wikipedia en inglés">Wikipedia en inglés</a>, mientras que <span style="font-family: monospace">[[:en:]]</span> y <span style="font-family: monospace">[[&amp;#58;en:]]</span> son enlaces externos que redirige a esa misma página.
+</p>
+<p>En <a href="/wiki/Especial:Enlaces_interling%C3%BC%C3%ADsticos" title="Especial:Enlaces interlingüísticos">Especial:Enlaces interlingüísticos</a> tienes una lista completa de los prefijos disponibles.
+</p>
+<p>IMPORTANTE: Recuerda que ni <a href="/wiki/Especial:Buscar" title="Especial:Buscar">el buscador</a> ni <a href="/wiki/Especial:P%C3%A1ginasPorPrefijo" title="Especial:PáginasPorPrefijo">Especial:PáginasPorPrefijo</a> encuentran páginas cuyo nombre empiece de la misma forma que un prefijo, ya que el <i>software</i> ni siquiera permite la creación de la página. Véase <a href="/wiki/Wikipedia:Restricciones_t%C3%A9cnicas_en_t%C3%ADtulos" title="Wikipedia:Restricciones técnicas en títulos">Wikipedia:Restricciones técnicas en títulos</a>.
+</p>
+<p>Muchas veces es necesario enlazar con otros sitios web de Internet. Por ello, este tipo de enlaces se llaman <b>enlaces externos</b>.
+</p>
+<p>Ten en cuenta que en los artículos, los enlaces externos se colocan en las secciones "Referencias" y "Enlaces externos". En el cuerpo del artículo, <a href="/wiki/Wikipedia:Manual_de_estilo#Enlaces" title="Wikipedia:Manual de estilo">solo coloca enlaces dentro de Wikipedia en español</a>.
+</p>
+<p>El sistema detecta automáticamente los enlaces externos que empiecen por <code>http://</code>. Por ejemplo, al introducir lo siguiente (sin necesidad de dobles corchetes, ni de barra vertical):
+</p>
+<p>Obtendremos directamente un enlace externo:
+</p>
+<p>Si queremos que la dirección web quede oculta bajo un texto que nosotros elijamos, procederemos del siguiente modo:
+</p>
+<p>Y resultará:
+</p>
+<p>También es posible crear un enlace externo de modo que aparezca como referencia numerada, encerrándola sin más entre corchetes simples (<code>[ ]</code>):
+</p>
+<p>Obtendremos:
+</p>
+<p>Existen estas otras variantes a los enlaces internos y externos.
+</p>
+<p>Los <b>formatos de texto</b> facilitan la lectura y resaltan los puntos más importantes. Los principales son las <b>negritas</b> y las <i>cursivas</i>. También existen otras opciones adicionales.
+</p>
+<p>Los formatos de texto, sobre todo los subrayados, tachados, líneas horizontales, distintos tamaños, fuentes y colores, pueden provocar un efecto negativo en la legibilidad del texto. Por ello ten en cuenta que no conviene abusar de los formatos de texto, e intenta utilizarlos lo menos posible. Mira otros artículos para entender cuándo se suele utilizar negritas y cursivas.
+</p>
+<p>Para convertir una palabra o frase en <b>negritas</b> debes rodearlo de <b>tres comillas simples</b> (<code>'''</code>), escribiéndolas a mano o presionando el botón <img alt="Negrita" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/c/ca/Vector_toolbar_bold_N_button.png" width="28"/> de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>. El código siguiente:
+</p>
+<p>Genera esto:
+</p>
+<p>Para convertir una palabra o frase en <i>cursivas</i> debes rodearlo de <b>dos comillas simples</b> (<code>''</code>), escribiéndolas a mano o presionando el botón <img alt="Negritas" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/5/50/Vector_toolbar_italic_C_button.png" width="28"/> de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>. El código siguiente:
+</p>
+<p>Genera esto:
+</p>
+<p>Además de las negritas y cursivas existen <b>otros formatos de texto</b>:
+</p>
+<p><code>...podemos subrayar &lt;u&gt;una parte&lt;/u&gt; de la oración...</code> → ...podemos subrayar <u>una parte</u> de la oración...
+</p>
+<p><code>...incluso tachar &lt;s&gt;un fragmento&lt;/s&gt; de otra...</code> → ...incluso tachar <s>un fragmento</s> de otra...
+</p>
+<p>La forma más simple de poner sangría al texto es escribir «dos puntos» (<code>:</code>) al inicio de la línea. Cuantos más signos de dos puntos pongas, más sangría tendrá la línea.
+</p>
+<p>Cuando hay mucha sangría se usa la plantilla <code>{{<a class="mw-redirect" href="/wiki/Plantilla:Quito_sangr%C3%ADa" title="Plantilla:Quito sangría">quito sangría</a>}}</code> y así se empieza desde el principio de la frase, y entre la nueva frase y la vieja aparece una línea como la siguiente. Hay que poner {{quito sangría|número de puntos}}, en <code>número de puntos</code> sustituirlo por la misma cantidad de puntos que la última frase, también se puede poner un número entero. Quedando así {{quito sangría|:::}} o {{quito sangría|3}} <br/>
+<span class="outdent-template" style="font-family:DejaVu Sans, sans-serif;"><span style="color:#808080">┌──────┘</span><br/></span>
+</p>
+<p>Para escribir un texto con una <a href="/wiki/Tipograf%C3%ADa" title="Tipografía">tipografía</a> de anchura fija de carácter, como «<a href="/wiki/Courier" title="Courier">Courier</a>», escribe uno o más espacios al principio de línea:
+</p>
+<p>Si quieres insertar fragmentos de código fuente puedes hacer su lectura más sencilla si usas el coloreado de sintaxis:
+</p>
+<p>Se verá así:
+</p>
+<p>Existen etiquetas para cambiar el tipo de fuente, de esta manera resalta sobre el texto normal.
+</p>
+<p>Puedes hacer una línea horizontal colocando cuatro guiones seguidos <code>----</code>. Conseguirás esto:
+</p>
+<p>Bastará con hacer uso de la plantilla destinada a tal efecto: <code>{{<a href="/wiki/Plantilla:Cita" title="Plantilla:Cita">Cita</a>}}</code>. Su sintaxis es <code>{{Cita|Texto a citar.|[[Autor]], ''Obra''}}</code>. Por ejemplo:
+<style data-mw-deduplicate="TemplateStyles:r149592375">.mw-parser-output .flexquote{display:flex;flex-direction:column;background-color:#F9F9F9;border-left:3px solid #c8ccd1;font-size:90%;margin:1em 4em;padding:.4em .8em}.mw-parser-output .flexquote>.flex{display:flex;flex-direction:row}.mw-parser-output .flexquote>.flex>.quote{width:100%}.mw-parser-output .flexquote>.flex>.separator{border-left:1px solid #c8ccd1;border-top:1px solid #c8ccd1;margin:.4em .8em}.mw-parser-output .flexquote>.cite{text-align:right}@media all and (max-width:600px){.mw-parser-output .flexquote>.flex{flex-direction:column}}</style>
+</p>
+<p>Puede que necesites usar caracteres especiales como: ü À α. Para acceder a un listado de los más comunes rápidamente, haz clic en la sección «Caracteres especiales» de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>. En <a href="/wiki/Ayuda:Caracteres_especiales" title="Ayuda:Caracteres especiales">Ayuda:Caracteres especiales</a> puedes consultar los que hay disponibles y algunas indicaciones adicionales.
+</p>
+<p>Con las etiquetas <code>&lt;sup&gt;&lt;/sup&gt;</code> y <code>&lt;sub&gt;&lt;/sub&gt;</code> respectivamente, insertando el texto dentro de ellas. Ejemplo: <code>&lt;sup&gt;texto arriba&lt;/sup&gt;</code> → <sup>texto arriba</sup> y <code>&lt;sub&gt;texto abajo&lt;/sub&gt;</code> → <sub>texto abajo</sub>. Recuerda que tienes a tu disposición los botones <img alt="Subíndice" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/d/d0/Vector_toolbar_subscript_button.png" width="28"/> <img alt="Superíndice" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/c/c8/Vector_toolbar_superscript_button.png" width="28"/> (subíndice / superíndice).
+</p>
+<p>Puedes modificarlo metiendo el texto entre las etiquetas <code>&lt;span style="font-size:"&gt;&lt;/span&gt;</code>. Un porcentaje menor a 100% lo reducirá y uno mayor, lo aumentará.
+</p>
+<p>Por ejemplo: <code>&lt;span style="font-size:85%"&gt;texto pequeño&lt;/span&gt;</code> → <span style="font-size:85%">texto pequeño</span> y <code>&lt;span style="font-size:115%"&gt;texto grande&lt;/span&gt;</code> → <span style="font-size:115%">texto grande</span>
+</p>
+<p>También puedes usar los botones <img alt="Texto grande" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/7/77/Vector_toolbar_big_text_button.png" width="28"/> <img alt="Texto pequeño" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/3/3c/Vector_toolbar_small_text_button.png" width="28"/> (agrandar/reducir tamaño del texto), para hacerlo sin mayores complicaciones.
+</p>
+<p>También puedes controlar el <font color="#00FF00"><b>c</b></font><font color="#0000FF"><b>o</b></font><font color="#00FFFF"><b>l</b></font><font color="#FF00FF"><b>o</b></font><font color="#FF8000"><b>r</b></font>. Por ejemplo: <code>&lt;span style="color: #FF00FF"&gt;este texto es rosa&lt;/span&gt;</code> → <span style="color: #FF00FF">este texto es rosa</span>. Para ver un listado de los colores que puedes usar, mira <a class="mw-redirect" href="/wiki/Colores_HTML" title="Colores HTML">Colores HTML</a>.
+</p>
+<p>Es posible colocar comentarios en la edición. En modo edición al insertar líneas comentadas, estas solo se verán al editar y no aparecerán en el artículo. Los comentarios son particularmente útiles cuando se traduce de una wiki de un idioma a otro, o cuando no se está seguro de hacer la traducción adecuada de un trozo de texto.
+</p>
+<p>Por ejemplo <code>&lt;!--mi comentario--&gt;</code>
+</p>
+<p>Cuando una página tiene bastante texto y la separación en párrafos no es suficiente, se crean <b>secciones</b> para estructurar el texto. Por ejemplo, el artículo <a href="/wiki/Historia_de_Francia" title="Historia de Francia">Historia de Francia</a> tiene una sección por cada época. A su vez, cada sección puede tener subsecciones.
+</p>
+<p>El título de la sección se sitúa entre dos o más signos de igual <code>== Sección ==</code>. Los espacios entre los signos de igual y el título no se tienen en cuenta. Es lo mismo poner <code>==Filmografía==</code> que <code>== Filmografía ==</code>. Aunque sí es obligatorio pegar el primer signo de igual al margen izquierdo.
+</p>
+<p>El número de signos de igual define el nivel de jerarquía de la sección del siguiente modo:
+</p>
+<p>También puedes crear secciones utilizando la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a> pulsando el menú desplegable «Encabezado».
+</p>
+<p>Junto a las secciones aparece un enlace [<font color="blue">editar</font>], que permite modificar solo esa sección. Esto facilita la edición de artículos largos.
+</p>
+<p>En el caso de que, por tener la página un diseño especial, no convenga que aparezcan esos enlaces, puedes eliminarlos poniendo <code>__NOEDITSECTION__</code>.
+</p>
+<p>En Wikipedia en español únicamente pueden utilizarse los <b>archivos</b> disponibles en el repositorio multimedia <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a>. Por ello, si quieres insertar una imagen o recurso en un artículo, antes debes subirlos a Wikimedia Commons (ir al <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Special:UploadWizard" title="commons:Special:UploadWizard">formulario de subida</a></b>).
+</p>
+<p>La mayoría de las imágenes y recursos de otros sitios web de Internet no son libres (si no indican nada, se consideran «Todos los derechos reservados»), por lo que no sirven para Wikipedia (y si los subes, serán borrados).
+</p>
+<p>Una vez que has subido el archivo a Wikimedia Commons, tienes que insertar un código en el artículo de Wikipedia para que se muestre. Este código se compone de dos partes fundamentales: el <b>nombre del archivo</b> y las <b>opciones</b> de visualización.
+</p>
+<p>Puedes hacerlo con el botón <img alt="Archivo empotrado" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/d/d8/Vector_toolbar_insert_image_button.png" width="28"/> que aparece en la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>. Escribe y selecciona el nombre del archivo y el texto alternativo —separados por una barra «|»— y pulsa el botón. Escribirá <span style="font-family: monospace"><b>[[Archivo:</b></span> adelante y <span style="font-family: monospace"><b>]]</b></span> detrás.
+</p>
+<p>El <b>nombre del archivo</b> siempre debe tener una extensión (la mayoría de las imágenes son <a class="mw-redirect" href="/wiki/JPG" title="JPG">JPG/JPEG</a>, <a class="mw-redirect" href="/wiki/PNG" title="PNG">PNG</a> o <a class="mw-redirect" href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a>; para audio o vídeo puedes usar <a class="mw-redirect" href="/wiki/OGG" title="OGG">OGG</a> y para documentos <a href="/wiki/PDF" title="PDF">PDF</a> o <a href="/wiki/DjVu" title="DjVu">DjVu</a>). Debes tener cuidado con las mayúsculas y minúsculas. Por ejemplo, si subes una imagen con el nombre «<i>Mi Imagen.jpg</i>» (atención a la «<i>i</i>» mayúscula) pero luego no escribes su nombre exactamente igual, no funcionará y dicha imagen no se verá (saldrá un enlace rojo indicando que la imagen no existe). Sin embargo, da igual escribir espacios o guiones bajos «<code>_</code>», los nombres «<i>Mi Imagen.jpg</i>» y «<i>Mi_Imagen.jpg</i>» son equivalentes.
+</p>
+<p>Algunas de las <b>opciones</b> de visualización avanzadas al insertar archivos son las siguientes:
+</p>
+<p>A un archivo se le puede pasar ninguna opción, una, varias o todas (y en cualquier orden, la única obligación es poner el nombre del archivo al principio y separar las opciones con barras verticales «|»).
+</p>
+<p>A continuación se detallan algunos ejemplos para insertar <b>imágenes</b> en artículos:
+</p>
+<p>Lo más recomendable es utilizar <code>[[Archivo:Mi imagen.jpg|thumb|La descripción de mi imagen.]]</code>. Debido al <code>thumb</code> se mostrará con un recuadro, a la derecha y a 180 píxeles. Si el lector ha elegido otros valores en sus preferencias, se mostrará con ellos, por lo que estamos dejándole esa libertad de elección (lo cual es bueno).
+</p>
+<p>En Wikipedia se utilizan únicamente los <a href="/wiki/Formato_abierto" title="Formato abierto">formatos abiertos</a> <a href="/wiki/Ogg" title="Ogg">Ogg</a> y <a href="/wiki/WebM" title="WebM">WebM</a> para recursos multimedia. Por ende, los archivos de sonido y vídeo que encuentres, usarán los códecs libres <a href="/wiki/Vorbis" title="Vorbis">Vorbis</a>, <a href="/wiki/Theora" title="Theora">Theora</a> y <a href="/wiki/WebM" title="WebM">WebM</a>, los cuales son similares en su funcionamiento a formatos más conocidos como <a href="/wiki/MP3" title="MP3">MP3</a> y <a href="/wiki/MPEG-2" title="MPEG-2">MPEG-2</a>/<a href="/wiki/MPEG-4" title="MPEG-4">4</a>. Dichos formatos (como el caso de MP3) están protegidos por patentes y derechos de autor por lo que no se permiten aquí.
+</p>
+<p>La manera más fácil de añadir un recurso multimedia (especialmente audio) es usando la plantilla <code>{{<a href="/wiki/Plantilla:Multimedia" title="Plantilla:Multimedia">Multimedia</a>}}</code>; haz clic en su enlace para ver una descripción detallada de cómo utilizarla. A continuación se resumen sus parámetros más comunes:
+</p>
+<p>Ejemplo (ver resultado a la derecha):
+</p>
+<p>Existen muchas otras plantillas de audio, utilizadas principalmente para demostrar la pronunciación de términos en idiomas extranjeros, como las plantillas <code>{{<a href="/wiki/Plantilla:Audio" title="Plantilla:Audio">audio</a>}}</code>/<code>{{<a class="mw-redirect" href="/wiki/Plantilla:Audio-IPA" title="Plantilla:Audio-IPA">audio-IPA</a>}}</code>. Además, la plantilla <code>{{<a href="/wiki/Plantilla:Wikipedia_grabada" title="Plantilla:Wikipedia grabada">Wikipedia grabada</a>}}</code> permite insertar fragmentos hablados en artículos, previa lectura y grabación (mira <a href="/wiki/Wikiproyecto:Wikipedia_grabada" title="Wikiproyecto:Wikipedia grabada">Wikiproyecto:Wikipedia grabada</a> para conocer más). Cuando añadas un archivo de sonido a un artículo, evita el uso de plantillas o código que enlacen al archivo de sonido directamente, ya que esto ocultaría la información de licencia que permite a los lectores ver quién creó el archivo, su fuente y la licencia bajo la que se publicó.
+</p>
+<p>En el caso de clips de <b>vídeo</b>, además de usar la plantilla <code>{{<a href="/wiki/Plantilla:Multimedia" title="Plantilla:Multimedia">multimedia</a>}}</code>, puedes usar la misma etiqueta <code>[[Archivo:]]</code> que con las imágenes. El resultado se muestra a la derecha.
+</p>
+<p>De manera predeterminada, se mostrará un <a href="/wiki/Fotograma" title="Fotograma">fotograma</a> perteneciente a la mitad del vídeo. Para usar uno distinto, utiliza el parámetro <code>thumbtime</code>. Por ejemplo:
+</p>
+<p>Específica el tiempo en segundos, o utiliza dos puntos «<code>:</code>» para separar horas, minutos y segundos «HH:MM:SS».
+</p>
+<p>Para dar un enlace al vídeo (sin permitir su visualización en el artículo), inserta dos puntos antes de la llamada al archivo:
+</p>
+<p>También se pueden insertar fragmentos de notación musical y secuencias de audio <a href="/wiki/MIDI" title="MIDI">MIDI</a> en Wikipedia usando las etiquetas <code>&lt;score&gt;&lt;/score&gt;</code> mediante el software <a href="/wiki/LilyPond" title="LilyPond">LilyPond</a> incorporado en el código de <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> (<a class="external text" href="https://www.mediawiki.org/wiki/Extension:Score/es">Score Extension</a>).
+</p>
+<p>Por ejemplo, el siguiente fragmento de código...
+</p>
+<p>...se convierte en la siguiente notación musical.
+</p>
+<p>El anterior ejemplo es una versión simplificada del <a class="new" href="/w/index.php?title=Solfeggietto&amp;action=edit&amp;redlink=1" title="Solfeggietto (aún no redactado)">Solfeggietto</a> en do menor de <a href="/wiki/Carl_Philipp_Emanuel_Bach" title="Carl Philipp Emanuel Bach">Carl Philipp Emanuel Bach</a>.
+</p>
+<p>Si se quiere generar un archivo de audio que coincida con el ejemplo, solo se debe agregar el parámetro <code>|vorbis=1</code> tras la etiqueta de apertura <code>&lt;score&gt;</code> y se hará automáticamente:
+</p>
+<p>Además de ejemplos cortos, es posible insertar notación musical o partituras más complejas (incluyendo letras de voz) usando códigos LilyPond. Puedes visitar <a class="external text" href="http://lilypond.org/doc/v2.14/Documentation/learning-big-page#common-notation" rel="nofollow">este enlace</a> para obtener más información sobre la notación corriente de LilyPond.
+</p>
+<p>También es posible agregar archivos <b>PDF y DjVu</b> a los artículos. Se sigue el mismo método que para las imágenes.
+</p>
+<p>El fichero de la derecha aunque parezca una imagen no lo es. Si pulsas sobre él, irás a una página donde se puede navegar por el documento completo. Se ha insertado con el código:
+</p>
+<p>Este tipo de archivos admite una opción especial llamada «<code>page</code>» que permite escoger qué página del documento se mostrará. Si en vez de la página 1 como se muestra por defecto, nos interesara mostrar la página 4, haríamos lo siguiente:
+</p>
+<p>La mayoría de las veces que añadas un fichero de este tipo, sus letras no quedarán lo suficientemente grandes como para permitir su lectura. No importa. La finalidad es mostrar que existe ese documento para que el usuario haga clic y lo cargue en otra página.
+</p>
+<p>El procedimiento para los ficheros PDF es análogo.
+</p>
+<p>Las <b>listas</b> permiten organizar visualmente la información.
+</p>
+<p>Las <b>listas numeradas</b> se crean utilizando el símbolo <code>#</code> pegado al margen izquierdo. Para añadir una fácilmente, utiliza el botón <img alt="Lista numerada" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/3/30/Vector_toolbar_numbered_list_button.png" width="28"/> situado en la sección «Avanzado» de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>.
+</p>
+<p>Las listas numeradas se utilizan cuando se necesita indicar la posición de cada elemento, por ejemplo al describir una secuencia de pasos.
+</p>
+<p>Este es un ejemplo de una lista numerada:
+</p>
+<p><code># Ítem uno</code><br/>
+<code># Ítem dos</code><br/>
+<code>## Se pueden anidar poniendo dos o más # seguidos</code><br/>
+<code>## Otra</code><br/>
+<code>### Todavía más...</code><br/>
+<code># Ítem tres</code><br/>
+</p>
+<p>Que genera lo siguiente:
+</p>
+<p>Las <b>listas no numeradas</b> (o viñeteadas) se crean con el signo de asterisco <code>*</code>. Si no quieres escribirlos a mano, utiliza el botón <img alt="Lista viñeteada" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/2/25/Vector_toolbar_bulleted_list_button.png" width="28"/> de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>.
+</p>
+<p>Las listas no numeradas son las más comunes, y se utilizan cuando el orden de los puntos no es relevante.
+</p>
+<p>Con el siguiente código para listas no numeradas:
+</p>
+<p><code>* Un punto</code><br/>
+<code>* Otro punto</code><br/>
+<code>** Podemos tener también sublistas (usando varios * seguidos)</code><br/>
+<code>*** Y seguir, y seguir...</code><br/>
+<code>* Último punto</code><br/>
+</p>
+<p>Tendremos esto:
+</p>
+<p>Las <b>listas de definición</b> se generan empezando la línea con el signo de punto y coma <code>;</code>. El resto de elementos de la lista se generan poniendo el signo de dos puntos <code>:</code> ya sea en la misma línea del título de la lista (si es de solo un elemento) o en una nueva línea. Si necesitas incluir los dos puntos como signo de puntuación dentro del título de la lista, tendrás que sustituirlo por su codificación en HTML (<code>&amp;#58;</code>).
+</p>
+<p>Las listas de definición se utilizan poco en artículos. En cambio, se utilizan para realizar comentarios en las páginas de discusión.
+</p>
+<p>Si introducimos este código:
+</p>
+<p><code>; Este es el título de la lista de definición : Este es un elemento.</code><br/>
+<code>: este es otro elemento.</code><br/>
+<code>:: uno más.</code><br/>
+<code>: y este otro.</code><br/>
+</p>
+<p>Veremos esta salida:
+</p>
+<p>Es posible crear <b>tablas</b> de dos formas, con la sintaxis propia de Wikipedia (forma recomendada) o a través de código <a href="/wiki/HTML" title="HTML">HTML</a> (<code>&lt;table&gt;&lt;/table&gt;</code>). Si encuentras alguna tabla en forma HTML, puedes usar este <a class="external text" href="http://www.uni-bonn.de/~manfear/html2wiki-tables.php#wiki" rel="nofollow">conversor automático</a> para pasarla a formato wiki.
+</p>
+<p>Para insertar una tabla personalizada fácilmente, haz clic en el botón <img alt="Tabla" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/d/dc/Vector_toolbar_insert_table_button.png" width="28"/>, el cual se encuentra bajo la sección «Avanzado» de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>.
+</p>
+<p>La tabla de la derecha se ha generado con el siguiente código:
+</p>
+<p>Como habrás observado, el diseño no es muy estilizado. Por ello existen «clases» que definen estilos predeterminados. Es el caso de la clase «wikitable», que se inserta con el código <code>class="wikitable"</code>.
+</p>
+<p>En esta misma página hay al principio un <b>índice</b>, pero si intentas editarlo, verás que no puedes. ¿Por qué? Los índices se generan automáticamente cuando hay más de tres <a href="#Secciones">secciones</a> en la página. Las secciones se numeran según la jerarquía. Se da el número 1 a la primera sección que haya, independientemente del nivel que tenga y será considerada la raíz del árbol jerárquico. Por eso esta página, aunque empieza en un nivel 2, en el índice aparece el título como 1 y no como 1.1.
+</p>
+<p>Para un control más preciso de los índices, hay una serie de órdenes que puedes poner en el texto del artículo. Se recomienda usarlas solo cuando el índice puede crear algún problema (por ejemplo, en listas de artículos o diseños especiales):
+</p>
+<p>En algunos artículos, por ejemplo los de matemáticos, es necesario incluir <b>fórmulas</b> más o menos complejas. Para ello se utiliza <a href="/wiki/TeX" title="TeX">TeX</a>. Por ejemplo, con el código <code>&lt;math&gt;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}&lt;/math&gt;</code>, se obtiene:
+</p>
+<p>Se pueden crear <b>líneas del tiempo</b> como esta, aunque su uso no está muy extendido por Wikipedia:
+</p>
+<p>Cómo agregar referencias.
+</p>
+<p>Cómo agregar plantillas.
+</p>
+<p>Cómo agregar categorías.
+</p>
+<p>Cómo enlazar interwikis a través de <a class="extiw" href="https://www.wikidata.org/wiki/" title="d:">Wikidata</a>.
+</p>
+<p>El contenido de la enciclopedia recae principalmente en los artículos, aunque existen <b>otros tipos de páginas</b> que sirven de apoyo y tienen otras finalidades, como las categorías, discusiones y plantillas.
+</p>
+<p>Jerarquía de categorías.
+</p>
+<p>Separación de conversaciones por secciones. Archivos de discusiones antiguas. Firmas.
+</p>
+<p>En muchos sitios de Wikipedia, como las <a href="/wiki/Wikipedia:P%C3%A1ginas_de_discusi%C3%B3n" title="Wikipedia:Páginas de discusión">páginas de discusión</a>, el <a href="/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café">Café</a>, y en los <a class="mw-redirect" href="/wiki/Wikipedia:Tabl%C3%B3n_de_anuncios_de_los_bibliotecarios/Portal2" title="Wikipedia:Tablón de anuncios de los bibliotecarios/Portal2">tablones de bibliotecario</a> como la lista de vandalizadas, cuando escribes un mensaje o comentario, se te pide que lo firmes. Para ello no tienes que hacerlo «a mano» sino poniendo cuatro <a href="/wiki/Virgulilla" title="Virgulilla">virgulillas</a> ~~~~. Este símbolo se corresponde con el <a href="/wiki/ASCII" title="ASCII">ASCII</a> 126 y puede consultar <a href="/wiki/Virgulilla#Escritura_con_teclado_de_ordenador" title="Virgulilla">aquí</a> como escribirlas en su teclado. Debido al uso frecuente del proceso de firma, Wikipedia permite que se firme, de forma más accesible, pulsando el botón <a class="image" href="/wiki/Archivo:OOjs_UI_icon_signature-ltr.svg" title="Firma y fecha"><img alt="Firma y fecha" data-file-height="20" data-file-width="20" decoding="async" height="22" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/OOjs_UI_icon_signature-ltr.svg/22px-OOjs_UI_icon_signature-ltr.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/OOjs_UI_icon_signature-ltr.svg/33px-OOjs_UI_icon_signature-ltr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/OOjs_UI_icon_signature-ltr.svg/44px-OOjs_UI_icon_signature-ltr.svg.png 2x" width="22"/></a> que encontrará en la barra de tareas cuando edite texto. En los artículos, sin embargo, no se espera que haya firmas y, de hecho, existe una política <a href="/wiki/Wikipedia:Acerca_de_firmar_art%C3%ADculos" title="Wikipedia:Acerca de firmar artículos">aprobada por la mayoría</a> de los colaboradores de Wikipedia en contra de las firmas en artículos.
+</p>
+<p>Adicionalmente, el uso de sangría puede mejorar considerablemente la distribución de una página de discusión, haciéndola más fácil de leer. Un estándar practicado en Wikipedia es poner sangría a tus comentarios un nivel más que el comentario de la persona a la que estás respondiendo. Puedes llevarlo a la práctica siguiendo las recomendaciones mencionadas en el apartado de <a href="#Sangría">sangría</a>.
+</p>
+<p>Noinclude, includeonly y onlyinclude.
+</p>
+<p>Si deseas redirigir el tráfico de una página hacia otra (alguna con un mejor título, por ejemplo), puedes usar el comando "<code>#REDIRECCIÓN: [[nombre de página]]</code>" al comienzo de la descripción de la página o bien, presionar el botón <img alt="Redirección" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/1/13/Vector_toolbar_redirect_button.png" width="28"/> para añadirlo automáticamente; este botón se encuentra bajo la sección «Avanzado» de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>.
+</p>
+<p>Ve a <a class="mw-redirect" href="/wiki/Patata" title="Patata">patata</a>, por ejemplo. Para consultar el historial de la página antigua, pulsa sobre el enlace <b>"Redirigido desde <u>página antigua</u>"</b> en la zona superior de la página nueva.
+</p>
+<p>Prohibido:
+</p>
+<p>Evita, dentro de los límites que dicta la lógica, escribir:
+</p>
+<p>Modifica sin miedo, pero con justificación:
+</p>
+<p>Si son datos variables en el tiempo: 
+</p>
+<p>Es de muy mal gusto:
+</p>
+<p>La virtud más apreciada es la <b>paciencia</b>. Encontrarás textos desviados, con malas ideas, provocadores, enjuiciadores, insultantes, vandálicos... a esto... paciencia. Y si quieres y puedes, corrígelo siguiendo las normas del <a href="/wiki/Wikipedia:Manual_de_estilo" title="Wikipedia:Manual de estilo">Manual de estilo</a> de la <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>.
+</p>
+<p>En Wikipedia suelen realizarse <a href="/wiki/Wikipedia:Votaciones" title="Wikipedia:Votaciones">votaciones</a>, sobre todo para buscar el consenso. Para eso debes de saber cómo funcionan. Se considera que con 500 ediciones y seis meses de antigüedad puedes votar. (Véase <a href="/wiki/Wikipedia:Votaciones/2015/Requisitos_m%C3%ADnimos_para_derecho_a_voto" title="Wikipedia:Votaciones/2015/Requisitos mínimos para derecho a voto">Wikipedia:Votaciones/2015/Requisitos mínimos para derecho a voto</a>.)
+</p>
+<p><a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> es un <a href="/wiki/Wiki" title="Wiki">wiki</a>. Esto significa que cualquier persona puede editar fácilmente cualquier página (excepto las <a href="/wiki/Wikipedia:Pol%C3%ADtica_de_protecci%C3%B3n" title="Wikipedia:Política de protección">protegidas</a>) y sus cambios serán visibles inmediatamente. Aquí aprenderás <b>cómo se edita una página</b>. Las indicaciones que se dan sirven para cualquier tipo de página, aunque principalmente se editan artículos.
+</p>
+<p>Se explican algunas cosas sobre la sintaxis: cómo <a href="#Enlaces">crear enlaces</a>, los principales <a href="#Formatos_de_texto">formatos de texto</a>, estructurar el contenido en <a href="#Secciones">secciones</a>, cómo <a href="#Archivos">insertar imágenes</a>, hacer <a href="#Listas">listas</a> y <a href="#Tablas">tablas</a>, agregar <a href="#Referencias">referencias</a>, <a href="#Plantillas">plantillas</a>, <a href="#Categorías">categorías</a> e <a href="#Interwikis">interwikis</a>, y algunas cosas más avanzadas como las <a href="#Fórmulas">fórmulas</a> o <a href="#Líneas_de_tiempo">líneas de tiempo</a>.
+</p>
+<p>Además se detallan algunas peculiaridades de edición para <b><a href="#Otros_tipos_de_páginas">otros tipos de páginas</a></b> distintas a los artículos. Por último hay una serie de <b><a href="#Consejos_y_recomendaciones">consejos y recomendaciones</a></b> a seguir.
+</p>
+<p>Recuerda realizar las pruebas en la <a href="/wiki/Wikipedia:Zona_de_pruebas/3" title="Wikipedia:Zona de pruebas/3">zona de pruebas</a>. Después, puedes buscar una de las muchas <a href="/wiki/Ayuda:C%C3%B3mo_puedes_colaborar" title="Ayuda:Cómo puedes colaborar">tareas por hacer</a> y <a href="/wiki/Wikipedia:S%C3%A9_valiente_al_editar_p%C3%A1ginas" title="Wikipedia:Sé valiente al editar páginas">ser valiente editando páginas</a>. ¡Al hacer tu primera edición te conviertes en <a href="/wiki/Wikipedia:Wikipedistas" title="Wikipedia:Wikipedistas">wikipedista</a>!
+</p>
+<p>Para editar Wikipedia no es necesario estar registrado, aunque sí es cierto que registrarse conlleva una <a href="/wiki/Ayuda:Registro" title="Ayuda:Registro">serie de ventajas</a>. Decidas registrarte o no, el proceso de editar un artículo puede resumirse en <b>tres pasos</b>.
+</p>
+<p>Existe una página con una explicación detallada sobre <b><a href="/wiki/Ayuda:C%C3%B3mo_empezar_una_p%C3%A1gina" title="Ayuda:Cómo empezar una página">cómo empezar una página</a></b>. Básicamente hay dos formas:
+</p>
+<p>El modo recomendado es el primero. Se recomienda esto para que las páginas no queden sueltas, sino que haya algún enlace entre ellas y sea más fácil que el usuario las encuentre. A la hora de nombrar las páginas se recomienda seguir las <b><a href="/wiki/Wikipedia:Convenciones_de_t%C3%ADtulos" title="Wikipedia:Convenciones de títulos">convenciones de títulos</a></b>.
+</p>
+<p>En <a href="/wiki/Internet" title="Internet">Internet</a> se navega entre páginas a través de enlaces. En Wikipedia se sigue el mismo sistema. Existen principalmente dos tipos de enlaces: internos y <a href="/wiki/Wikipedia:Enlaces_externos" title="Wikipedia:Enlaces externos">externos</a>.
+</p>
+<p>Los <b>enlaces internos</b> son aquellos que llevan a otras páginas de Wikipedia. Los enlaces internos se crean siempre que el artículo destino aporte información de valor al artículo actual, permitiendo al lector navegar entre ambos.
+</p>
+<p>Por ejemplo, si estamos escribiendo sobre los planetas del <a href="/wiki/Sistema_solar" title="Sistema solar">sistema solar</a>:
+</p>
+<p>Quizás nos interese activar los enlaces internos hacia los artículos de cada planeta. En ese caso, pondremos dobles corchetes alrededor de cada palabra que queramos convertir en enlace, tomando en cuenta la gramática exacta del título del artículo al que queremos remitir:
+</p>
+<p>Automáticamente, las palabras actuarán como enlaces internos. Si el artículo existe, las palabras saldrán en azul; si el artículo no existe o el título se escribe con diferencia de acento o mayúsculas, las palabras saldrán en rojo. En este caso existen los dos artículos enlazados:
+</p>
+<p>Pero hay un problema. Mercurio es un planeta, pero también un elemento químico. Venus es un planeta, pero también una diosa de la mitología, etc. Por ello, <a class="mw-disambig" href="/wiki/Mercurio" title="Mercurio">Mercurio</a> y <a class="mw-disambig" href="/wiki/Venus" title="Venus">Venus</a> son <a href="/wiki/Wikipedia:Manual_de_estilo/P%C3%A1ginas_de_desambiguaci%C3%B3n" title="Wikipedia:Manual de estilo/Páginas de desambiguación">páginas de desambiguación</a> y contienen una lista de enlaces a todos los posibles significados de esos términos. Bastará consultar esas páginas para saber el título exacto de los artículos sobre el planeta Mercurio y Venus, en este caso: <a href="/wiki/Mercurio_(planeta)" title="Mercurio (planeta)">Mercurio (planeta)</a> y <a href="/wiki/Venus_(planeta)" title="Venus (planeta)">Venus (planeta)</a>. Entonces crearemos los enlaces de este modo (con una barra vertical «|» entre el título del artículo y el título del enlace):
+</p>
+<p>Y tendremos, ahora sí, los enlaces apuntando a los artículos correctos.
+</p>
+<p>Generalmente, los artículos que comparten un mismo título no son frecuentes, por lo que bastará con introducir los corchetes y listo (es el caso de <a href="/wiki/Sistema_solar" title="Sistema solar">sistema solar</a> y <a href="/wiki/Tierra" title="Tierra">Tierra</a>).
+</p>
+<p>Y obtendrás:
+</p>
+<p>Agrega las conexiones internas que creas necesarias, pero evita abusar de los enlaces: usa solamente los que sean realmente necesarios y no enlaces la misma palabra más de una vez en una misma sección del artículo.
+</p>
+<p>Los enlaces internos que comiencen por una <a href="/wiki/Barra_(tipograf%C3%ADa)" title="Barra (tipografía)">barra oblicua</a> (/) son interpretados como dirigidos a una subpágina. Así <span style="font-family: monospace">[[/Ejemplo]]</span> dará el mismo resultado que <span style="font-family: monospace">[[Ayuda:Cómo se edita una página/Ejemplo|/Ejemplo]]</span>. Si lo que deseas es que se interprete literalmente debes añadir al comienzo del mismo <a href="/wiki/Dos_puntos" title="Dos puntos">dos puntos</a>, así: <span style="font-family: monospace">[[:/Ejemplo]]</span>. Los dos puntos no son visibles en el enlace, lo que permite su integración natural en el texto. Otra alternativa es usar la <a href="/wiki/Anexo:Referencias_a_entidades_de_caracteres_XML_y_HTML" title="Anexo:Referencias a entidades de caracteres XML y HTML">entidad HTML</a> correspondiente al carácter de la barra oblicua (<span style="font-family: monospace">&amp;#47;</span>). Por ejemplo, <span style="font-family: monospace">[[&amp;#47;Ejemplo]]</span> será interpretado literalmente.
+</p>
+<p>También puede crear un enlace local a través de una página de <span class="plainlinks"><a class="external text" href="https://www.mediawiki.org/wiki/Help:Extension:GlobalUserPage">usuario global</a></span> (Meta) usando la barra oblicua en los enlaces, de esta forma:
+</p>
+<p>Sin embargo, si la página "Taller" no está creada debidamente en Meta, el enlace se mostrará en rojo sin importar si está creada en la wiki desde la cual lo observe. Por lo que se recomienda usar un color personalizado para esta clase de enlaces.
+</p>
+<p>Los enlaces que empiezan por dos barras oblicuas se rompen y no enlazan a ningún sitio. Así, vínculos como <span style="font-family: monospace">[[//]] o [[//Ejemplo]]</span> simplemente no sirven. La solución es la misma que para los enlaces a subpáginas, con el inconveniente de que siempre son interpretados literalmente. Sin embargo, aunque no es recomendable, sí es posible crear subpáginas que incluyan una doble barra, pero para enlazarlas es necesario escribir su nombre completo.
+</p>
+<p>Si el nombre de la página debería comenzar de la misma forma que un <a class="mw-redirect" href="/wiki/A:EN" title="A:EN">espacio de nombres</a>, entonces no podría distinguirse como perteneciente al espacio principal y caería dentro de las <a class="mw-redirect" href="/wiki/Wikipedia:RTT" title="Wikipedia:RTT">restricciones a los títulos</a>. De esa forma, un vínculo como <span style="font-family: monospace">[[Ayuda: ¡sálvanos!]]</span> conducirá siempre, aunque se le añadan dos puntos o se usen entidades HTML, al <a href="/wiki/Wikipedia:Espacio_de_nombres_Ayuda" title="Wikipedia:Espacio de nombres Ayuda">espacio Ayuda</a> y no a un artículo.
+</p>
+<p>Algunas palabras son interpretadas como una clave, llamada <b>prefijo</b>, que transforma el enlace interno en uno externo. Los prefijos pueden ser palabras completas o <a href="/wiki/Ap%C3%B3cope" title="Apócope">apócopes</a>, siempre seguido de dos puntos. Esta limitación es la más restrictiva, puesto que no es posible de ninguna forma enlazar a páginas que comiencen de la misma manera que un prefijo, no importa cuantos dos puntos se añadan ni si se usan entidades HTML. La razón es que <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> los considera un <a href="/wiki/Ayuda:Enlace_interling%C3%BC%C3%ADstico" title="Ayuda:Enlace interlingüístico">enlace interlingüístico</a> mientras que si se añaden los dos puntos iniciales se interpretan como enlaces externos.
+</p>
+<p>Por ejemplo <span style="font-family: monospace">[[en:]]</span> vincula la página en que se incluye con la portada de la <a href="/wiki/Wikipedia_en_ingl%C3%A9s" title="Wikipedia en inglés">Wikipedia en inglés</a>, mientras que <span style="font-family: monospace">[[:en:]]</span> y <span style="font-family: monospace">[[&amp;#58;en:]]</span> son enlaces externos que redirige a esa misma página.
+</p>
+<p>En <a href="/wiki/Especial:Enlaces_interling%C3%BC%C3%ADsticos" title="Especial:Enlaces interlingüísticos">Especial:Enlaces interlingüísticos</a> tienes una lista completa de los prefijos disponibles.
+</p>
+<p>IMPORTANTE: Recuerda que ni <a href="/wiki/Especial:Buscar" title="Especial:Buscar">el buscador</a> ni <a href="/wiki/Especial:P%C3%A1ginasPorPrefijo" title="Especial:PáginasPorPrefijo">Especial:PáginasPorPrefijo</a> encuentran páginas cuyo nombre empiece de la misma forma que un prefijo, ya que el <i>software</i> ni siquiera permite la creación de la página. Véase <a href="/wiki/Wikipedia:Restricciones_t%C3%A9cnicas_en_t%C3%ADtulos" title="Wikipedia:Restricciones técnicas en títulos">Wikipedia:Restricciones técnicas en títulos</a>.
+</p>
+<p>Muchas veces es necesario enlazar con otros sitios web de Internet. Por ello, este tipo de enlaces se llaman <b>enlaces externos</b>.
+</p>
+<p>Ten en cuenta que en los artículos, los enlaces externos se colocan en las secciones "Referencias" y "Enlaces externos". En el cuerpo del artículo, <a href="/wiki/Wikipedia:Manual_de_estilo#Enlaces" title="Wikipedia:Manual de estilo">solo coloca enlaces dentro de Wikipedia en español</a>.
+</p>
+<p>El sistema detecta automáticamente los enlaces externos que empiecen por <code>http://</code>. Por ejemplo, al introducir lo siguiente (sin necesidad de dobles corchetes, ni de barra vertical):
+</p>
+<p>Obtendremos directamente un enlace externo:
+</p>
+<p>Si queremos que la dirección web quede oculta bajo un texto que nosotros elijamos, procederemos del siguiente modo:
+</p>
+<p>Y resultará:
+</p>
+<p>También es posible crear un enlace externo de modo que aparezca como referencia numerada, encerrándola sin más entre corchetes simples (<code>[ ]</code>):
+</p>
+<p>Obtendremos:
+</p>
+<p>Existen estas otras variantes a los enlaces internos y externos.
+</p>
+<p>Los <b>formatos de texto</b> facilitan la lectura y resaltan los puntos más importantes. Los principales son las <b>negritas</b> y las <i>cursivas</i>. También existen otras opciones adicionales.
+</p>
+<p>Los formatos de texto, sobre todo los subrayados, tachados, líneas horizontales, distintos tamaños, fuentes y colores, pueden provocar un efecto negativo en la legibilidad del texto. Por ello ten en cuenta que no conviene abusar de los formatos de texto, e intenta utilizarlos lo menos posible. Mira otros artículos para entender cuándo se suele utilizar negritas y cursivas.
+</p>
+<p>Para convertir una palabra o frase en <b>negritas</b> debes rodearlo de <b>tres comillas simples</b> (<code>'''</code>), escribiéndolas a mano o presionando el botón <img alt="Negrita" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/c/ca/Vector_toolbar_bold_N_button.png" width="28"/> de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>. El código siguiente:
+</p>
+<p>Genera esto:
+</p>
+<p>Para convertir una palabra o frase en <i>cursivas</i> debes rodearlo de <b>dos comillas simples</b> (<code>''</code>), escribiéndolas a mano o presionando el botón <img alt="Negritas" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/5/50/Vector_toolbar_italic_C_button.png" width="28"/> de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>. El código siguiente:
+</p>
+<p>Genera esto:
+</p>
+<p>Además de las negritas y cursivas existen <b>otros formatos de texto</b>:
+</p>
+<p><code>...podemos subrayar &lt;u&gt;una parte&lt;/u&gt; de la oración...</code> → ...podemos subrayar <u>una parte</u> de la oración...
+</p>
+<p><code>...incluso tachar &lt;s&gt;un fragmento&lt;/s&gt; de otra...</code> → ...incluso tachar <s>un fragmento</s> de otra...
+</p>
+<p>La forma más simple de poner sangría al texto es escribir «dos puntos» (<code>:</code>) al inicio de la línea. Cuantos más signos de dos puntos pongas, más sangría tendrá la línea.
+</p>
+<p>Cuando hay mucha sangría se usa la plantilla <code>{{<a class="mw-redirect" href="/wiki/Plantilla:Quito_sangr%C3%ADa" title="Plantilla:Quito sangría">quito sangría</a>}}</code> y así se empieza desde el principio de la frase, y entre la nueva frase y la vieja aparece una línea como la siguiente. Hay que poner {{quito sangría|número de puntos}}, en <code>número de puntos</code> sustituirlo por la misma cantidad de puntos que la última frase, también se puede poner un número entero. Quedando así {{quito sangría|:::}} o {{quito sangría|3}} <br/>
+<span class="outdent-template" style="font-family:DejaVu Sans, sans-serif;"><span style="color:#808080">┌──────┘</span><br/></span>
+</p>
+<p>Para escribir un texto con una <a href="/wiki/Tipograf%C3%ADa" title="Tipografía">tipografía</a> de anchura fija de carácter, como «<a href="/wiki/Courier" title="Courier">Courier</a>», escribe uno o más espacios al principio de línea:
+</p>
+<p>Si quieres insertar fragmentos de código fuente puedes hacer su lectura más sencilla si usas el coloreado de sintaxis:
+</p>
+<p>Se verá así:
+</p>
+<p>Existen etiquetas para cambiar el tipo de fuente, de esta manera resalta sobre el texto normal.
+</p>
+<p>Puedes hacer una línea horizontal colocando cuatro guiones seguidos <code>----</code>. Conseguirás esto:
+</p>
+<p>Bastará con hacer uso de la plantilla destinada a tal efecto: <code>{{<a href="/wiki/Plantilla:Cita" title="Plantilla:Cita">Cita</a>}}</code>. Su sintaxis es <code>{{Cita|Texto a citar.|[[Autor]], ''Obra''}}</code>. Por ejemplo:
+<style data-mw-deduplicate="TemplateStyles:r149592375">.mw-parser-output .flexquote{display:flex;flex-direction:column;background-color:#F9F9F9;border-left:3px solid #c8ccd1;font-size:90%;margin:1em 4em;padding:.4em .8em}.mw-parser-output .flexquote>.flex{display:flex;flex-direction:row}.mw-parser-output .flexquote>.flex>.quote{width:100%}.mw-parser-output .flexquote>.flex>.separator{border-left:1px solid #c8ccd1;border-top:1px solid #c8ccd1;margin:.4em .8em}.mw-parser-output .flexquote>.cite{text-align:right}@media all and (max-width:600px){.mw-parser-output .flexquote>.flex{flex-direction:column}}</style>
+</p>
+<p>Puede que necesites usar caracteres especiales como: ü À α. Para acceder a un listado de los más comunes rápidamente, haz clic en la sección «Caracteres especiales» de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>. En <a href="/wiki/Ayuda:Caracteres_especiales" title="Ayuda:Caracteres especiales">Ayuda:Caracteres especiales</a> puedes consultar los que hay disponibles y algunas indicaciones adicionales.
+</p>
+<p>Con las etiquetas <code>&lt;sup&gt;&lt;/sup&gt;</code> y <code>&lt;sub&gt;&lt;/sub&gt;</code> respectivamente, insertando el texto dentro de ellas. Ejemplo: <code>&lt;sup&gt;texto arriba&lt;/sup&gt;</code> → <sup>texto arriba</sup> y <code>&lt;sub&gt;texto abajo&lt;/sub&gt;</code> → <sub>texto abajo</sub>. Recuerda que tienes a tu disposición los botones <img alt="Subíndice" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/d/d0/Vector_toolbar_subscript_button.png" width="28"/> <img alt="Superíndice" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/c/c8/Vector_toolbar_superscript_button.png" width="28"/> (subíndice / superíndice).
+</p>
+<p>Puedes modificarlo metiendo el texto entre las etiquetas <code>&lt;span style="font-size:"&gt;&lt;/span&gt;</code>. Un porcentaje menor a 100% lo reducirá y uno mayor, lo aumentará.
+</p>
+<p>Por ejemplo: <code>&lt;span style="font-size:85%"&gt;texto pequeño&lt;/span&gt;</code> → <span style="font-size:85%">texto pequeño</span> y <code>&lt;span style="font-size:115%"&gt;texto grande&lt;/span&gt;</code> → <span style="font-size:115%">texto grande</span>
+</p>
+<p>También puedes usar los botones <img alt="Texto grande" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/7/77/Vector_toolbar_big_text_button.png" width="28"/> <img alt="Texto pequeño" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/3/3c/Vector_toolbar_small_text_button.png" width="28"/> (agrandar/reducir tamaño del texto), para hacerlo sin mayores complicaciones.
+</p>
+<p>También puedes controlar el <font color="#00FF00"><b>c</b></font><font color="#0000FF"><b>o</b></font><font color="#00FFFF"><b>l</b></font><font color="#FF00FF"><b>o</b></font><font color="#FF8000"><b>r</b></font>. Por ejemplo: <code>&lt;span style="color: #FF00FF"&gt;este texto es rosa&lt;/span&gt;</code> → <span style="color: #FF00FF">este texto es rosa</span>. Para ver un listado de los colores que puedes usar, mira <a class="mw-redirect" href="/wiki/Colores_HTML" title="Colores HTML">Colores HTML</a>.
+</p>
+<p>Es posible colocar comentarios en la edición. En modo edición al insertar líneas comentadas, estas solo se verán al editar y no aparecerán en el artículo. Los comentarios son particularmente útiles cuando se traduce de una wiki de un idioma a otro, o cuando no se está seguro de hacer la traducción adecuada de un trozo de texto.
+</p>
+<p>Por ejemplo <code>&lt;!--mi comentario--&gt;</code>
+</p>
+<p>Cuando una página tiene bastante texto y la separación en párrafos no es suficiente, se crean <b>secciones</b> para estructurar el texto. Por ejemplo, el artículo <a href="/wiki/Historia_de_Francia" title="Historia de Francia">Historia de Francia</a> tiene una sección por cada época. A su vez, cada sección puede tener subsecciones.
+</p>
+<p>El título de la sección se sitúa entre dos o más signos de igual <code>== Sección ==</code>. Los espacios entre los signos de igual y el título no se tienen en cuenta. Es lo mismo poner <code>==Filmografía==</code> que <code>== Filmografía ==</code>. Aunque sí es obligatorio pegar el primer signo de igual al margen izquierdo.
+</p>
+<p>El número de signos de igual define el nivel de jerarquía de la sección del siguiente modo:
+</p>
+<p>También puedes crear secciones utilizando la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a> pulsando el menú desplegable «Encabezado».
+</p>
+<p>Junto a las secciones aparece un enlace [<font color="blue">editar</font>], que permite modificar solo esa sección. Esto facilita la edición de artículos largos.
+</p>
+<p>En el caso de que, por tener la página un diseño especial, no convenga que aparezcan esos enlaces, puedes eliminarlos poniendo <code>__NOEDITSECTION__</code>.
+</p>
+<p>En Wikipedia en español únicamente pueden utilizarse los <b>archivos</b> disponibles en el repositorio multimedia <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a>. Por ello, si quieres insertar una imagen o recurso en un artículo, antes debes subirlos a Wikimedia Commons (ir al <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Special:UploadWizard" title="commons:Special:UploadWizard">formulario de subida</a></b>).
+</p>
+<p>La mayoría de las imágenes y recursos de otros sitios web de Internet no son libres (si no indican nada, se consideran «Todos los derechos reservados»), por lo que no sirven para Wikipedia (y si los subes, serán borrados).
+</p>
+<p>Una vez que has subido el archivo a Wikimedia Commons, tienes que insertar un código en el artículo de Wikipedia para que se muestre. Este código se compone de dos partes fundamentales: el <b>nombre del archivo</b> y las <b>opciones</b> de visualización.
+</p>
+<p>Puedes hacerlo con el botón <img alt="Archivo empotrado" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/d/d8/Vector_toolbar_insert_image_button.png" width="28"/> que aparece en la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>. Escribe y selecciona el nombre del archivo y el texto alternativo —separados por una barra «|»— y pulsa el botón. Escribirá <span style="font-family: monospace"><b>[[Archivo:</b></span> adelante y <span style="font-family: monospace"><b>]]</b></span> detrás.
+</p>
+<p>El <b>nombre del archivo</b> siempre debe tener una extensión (la mayoría de las imágenes son <a class="mw-redirect" href="/wiki/JPG" title="JPG">JPG/JPEG</a>, <a class="mw-redirect" href="/wiki/PNG" title="PNG">PNG</a> o <a class="mw-redirect" href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a>; para audio o vídeo puedes usar <a class="mw-redirect" href="/wiki/OGG" title="OGG">OGG</a> y para documentos <a href="/wiki/PDF" title="PDF">PDF</a> o <a href="/wiki/DjVu" title="DjVu">DjVu</a>). Debes tener cuidado con las mayúsculas y minúsculas. Por ejemplo, si subes una imagen con el nombre «<i>Mi Imagen.jpg</i>» (atención a la «<i>i</i>» mayúscula) pero luego no escribes su nombre exactamente igual, no funcionará y dicha imagen no se verá (saldrá un enlace rojo indicando que la imagen no existe). Sin embargo, da igual escribir espacios o guiones bajos «<code>_</code>», los nombres «<i>Mi Imagen.jpg</i>» y «<i>Mi_Imagen.jpg</i>» son equivalentes.
+</p>
+<p>Algunas de las <b>opciones</b> de visualización avanzadas al insertar archivos son las siguientes:
+</p>
+<p>A un archivo se le puede pasar ninguna opción, una, varias o todas (y en cualquier orden, la única obligación es poner el nombre del archivo al principio y separar las opciones con barras verticales «|»).
+</p>
+<p>A continuación se detallan algunos ejemplos para insertar <b>imágenes</b> en artículos:
+</p>
+<p>Lo más recomendable es utilizar <code>[[Archivo:Mi imagen.jpg|thumb|La descripción de mi imagen.]]</code>. Debido al <code>thumb</code> se mostrará con un recuadro, a la derecha y a 180 píxeles. Si el lector ha elegido otros valores en sus preferencias, se mostrará con ellos, por lo que estamos dejándole esa libertad de elección (lo cual es bueno).
+</p>
+<p>En Wikipedia se utilizan únicamente los <a href="/wiki/Formato_abierto" title="Formato abierto">formatos abiertos</a> <a href="/wiki/Ogg" title="Ogg">Ogg</a> y <a href="/wiki/WebM" title="WebM">WebM</a> para recursos multimedia. Por ende, los archivos de sonido y vídeo que encuentres, usarán los códecs libres <a href="/wiki/Vorbis" title="Vorbis">Vorbis</a>, <a href="/wiki/Theora" title="Theora">Theora</a> y <a href="/wiki/WebM" title="WebM">WebM</a>, los cuales son similares en su funcionamiento a formatos más conocidos como <a href="/wiki/MP3" title="MP3">MP3</a> y <a href="/wiki/MPEG-2" title="MPEG-2">MPEG-2</a>/<a href="/wiki/MPEG-4" title="MPEG-4">4</a>. Dichos formatos (como el caso de MP3) están protegidos por patentes y derechos de autor por lo que no se permiten aquí.
+</p>
+<p>La manera más fácil de añadir un recurso multimedia (especialmente audio) es usando la plantilla <code>{{<a href="/wiki/Plantilla:Multimedia" title="Plantilla:Multimedia">Multimedia</a>}}</code>; haz clic en su enlace para ver una descripción detallada de cómo utilizarla. A continuación se resumen sus parámetros más comunes:
+</p>
+<p>Ejemplo (ver resultado a la derecha):
+</p>
+<p>Existen muchas otras plantillas de audio, utilizadas principalmente para demostrar la pronunciación de términos en idiomas extranjeros, como las plantillas <code>{{<a href="/wiki/Plantilla:Audio" title="Plantilla:Audio">audio</a>}}</code>/<code>{{<a class="mw-redirect" href="/wiki/Plantilla:Audio-IPA" title="Plantilla:Audio-IPA">audio-IPA</a>}}</code>. Además, la plantilla <code>{{<a href="/wiki/Plantilla:Wikipedia_grabada" title="Plantilla:Wikipedia grabada">Wikipedia grabada</a>}}</code> permite insertar fragmentos hablados en artículos, previa lectura y grabación (mira <a href="/wiki/Wikiproyecto:Wikipedia_grabada" title="Wikiproyecto:Wikipedia grabada">Wikiproyecto:Wikipedia grabada</a> para conocer más). Cuando añadas un archivo de sonido a un artículo, evita el uso de plantillas o código que enlacen al archivo de sonido directamente, ya que esto ocultaría la información de licencia que permite a los lectores ver quién creó el archivo, su fuente y la licencia bajo la que se publicó.
+</p>
+<p>En el caso de clips de <b>vídeo</b>, además de usar la plantilla <code>{{<a href="/wiki/Plantilla:Multimedia" title="Plantilla:Multimedia">multimedia</a>}}</code>, puedes usar la misma etiqueta <code>[[Archivo:]]</code> que con las imágenes. El resultado se muestra a la derecha.
+</p>
+<p>De manera predeterminada, se mostrará un <a href="/wiki/Fotograma" title="Fotograma">fotograma</a> perteneciente a la mitad del vídeo. Para usar uno distinto, utiliza el parámetro <code>thumbtime</code>. Por ejemplo:
+</p>
+<p>Específica el tiempo en segundos, o utiliza dos puntos «<code>:</code>» para separar horas, minutos y segundos «HH:MM:SS».
+</p>
+<p>Para dar un enlace al vídeo (sin permitir su visualización en el artículo), inserta dos puntos antes de la llamada al archivo:
+</p>
+<p>También se pueden insertar fragmentos de notación musical y secuencias de audio <a href="/wiki/MIDI" title="MIDI">MIDI</a> en Wikipedia usando las etiquetas <code>&lt;score&gt;&lt;/score&gt;</code> mediante el software <a href="/wiki/LilyPond" title="LilyPond">LilyPond</a> incorporado en el código de <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> (<a class="external text" href="https://www.mediawiki.org/wiki/Extension:Score/es">Score Extension</a>).
+</p>
+<p>Por ejemplo, el siguiente fragmento de código...
+</p>
+<p>...se convierte en la siguiente notación musical.
+</p>
+<p>El anterior ejemplo es una versión simplificada del <a class="new" href="/w/index.php?title=Solfeggietto&amp;action=edit&amp;redlink=1" title="Solfeggietto (aún no redactado)">Solfeggietto</a> en do menor de <a href="/wiki/Carl_Philipp_Emanuel_Bach" title="Carl Philipp Emanuel Bach">Carl Philipp Emanuel Bach</a>.
+</p>
+<p>Si se quiere generar un archivo de audio que coincida con el ejemplo, solo se debe agregar el parámetro <code>|vorbis=1</code> tras la etiqueta de apertura <code>&lt;score&gt;</code> y se hará automáticamente:
+</p>
+<p>Además de ejemplos cortos, es posible insertar notación musical o partituras más complejas (incluyendo letras de voz) usando códigos LilyPond. Puedes visitar <a class="external text" href="http://lilypond.org/doc/v2.14/Documentation/learning-big-page#common-notation" rel="nofollow">este enlace</a> para obtener más información sobre la notación corriente de LilyPond.
+</p>
+<p>También es posible agregar archivos <b>PDF y DjVu</b> a los artículos. Se sigue el mismo método que para las imágenes.
+</p>
+<p>El fichero de la derecha aunque parezca una imagen no lo es. Si pulsas sobre él, irás a una página donde se puede navegar por el documento completo. Se ha insertado con el código:
+</p>
+<p>Este tipo de archivos admite una opción especial llamada «<code>page</code>» que permite escoger qué página del documento se mostrará. Si en vez de la página 1 como se muestra por defecto, nos interesara mostrar la página 4, haríamos lo siguiente:
+</p>
+<p>La mayoría de las veces que añadas un fichero de este tipo, sus letras no quedarán lo suficientemente grandes como para permitir su lectura. No importa. La finalidad es mostrar que existe ese documento para que el usuario haga clic y lo cargue en otra página.
+</p>
+<p>El procedimiento para los ficheros PDF es análogo.
+</p>
+<p>Las <b>listas</b> permiten organizar visualmente la información.
+</p>
+<p>Las <b>listas numeradas</b> se crean utilizando el símbolo <code>#</code> pegado al margen izquierdo. Para añadir una fácilmente, utiliza el botón <img alt="Lista numerada" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/3/30/Vector_toolbar_numbered_list_button.png" width="28"/> situado en la sección «Avanzado» de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>.
+</p>
+<p>Las listas numeradas se utilizan cuando se necesita indicar la posición de cada elemento, por ejemplo al describir una secuencia de pasos.
+</p>
+<p>Este es un ejemplo de una lista numerada:
+</p>
+<p><code># Ítem uno</code><br/>
+<code># Ítem dos</code><br/>
+<code>## Se pueden anidar poniendo dos o más # seguidos</code><br/>
+<code>## Otra</code><br/>
+<code>### Todavía más...</code><br/>
+<code># Ítem tres</code><br/>
+</p>
+<p>Que genera lo siguiente:
+</p>
+<p>Las <b>listas no numeradas</b> (o viñeteadas) se crean con el signo de asterisco <code>*</code>. Si no quieres escribirlos a mano, utiliza el botón <img alt="Lista viñeteada" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/2/25/Vector_toolbar_bulleted_list_button.png" width="28"/> de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>.
+</p>
+<p>Las listas no numeradas son las más comunes, y se utilizan cuando el orden de los puntos no es relevante.
+</p>
+<p>Con el siguiente código para listas no numeradas:
+</p>
+<p><code>* Un punto</code><br/>
+<code>* Otro punto</code><br/>
+<code>** Podemos tener también sublistas (usando varios * seguidos)</code><br/>
+<code>*** Y seguir, y seguir...</code><br/>
+<code>* Último punto</code><br/>
+</p>
+<p>Tendremos esto:
+</p>
+<p>Las <b>listas de definición</b> se generan empezando la línea con el signo de punto y coma <code>;</code>. El resto de elementos de la lista se generan poniendo el signo de dos puntos <code>:</code> ya sea en la misma línea del título de la lista (si es de solo un elemento) o en una nueva línea. Si necesitas incluir los dos puntos como signo de puntuación dentro del título de la lista, tendrás que sustituirlo por su codificación en HTML (<code>&amp;#58;</code>).
+</p>
+<p>Las listas de definición se utilizan poco en artículos. En cambio, se utilizan para realizar comentarios en las páginas de discusión.
+</p>
+<p>Si introducimos este código:
+</p>
+<p><code>; Este es el título de la lista de definición : Este es un elemento.</code><br/>
+<code>: este es otro elemento.</code><br/>
+<code>:: uno más.</code><br/>
+<code>: y este otro.</code><br/>
+</p>
+<p>Veremos esta salida:
+</p>
+<p>Es posible crear <b>tablas</b> de dos formas, con la sintaxis propia de Wikipedia (forma recomendada) o a través de código <a href="/wiki/HTML" title="HTML">HTML</a> (<code>&lt;table&gt;&lt;/table&gt;</code>). Si encuentras alguna tabla en forma HTML, puedes usar este <a class="external text" href="http://www.uni-bonn.de/~manfear/html2wiki-tables.php#wiki" rel="nofollow">conversor automático</a> para pasarla a formato wiki.
+</p>
+<p>Para insertar una tabla personalizada fácilmente, haz clic en el botón <img alt="Tabla" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/d/dc/Vector_toolbar_insert_table_button.png" width="28"/>, el cual se encuentra bajo la sección «Avanzado» de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>.
+</p>
+<p>La tabla de la derecha se ha generado con el siguiente código:
+</p>
+<p>Como habrás observado, el diseño no es muy estilizado. Por ello existen «clases» que definen estilos predeterminados. Es el caso de la clase «wikitable», que se inserta con el código <code>class="wikitable"</code>.
+</p>
+<p>En esta misma página hay al principio un <b>índice</b>, pero si intentas editarlo, verás que no puedes. ¿Por qué? Los índices se generan automáticamente cuando hay más de tres <a href="#Secciones">secciones</a> en la página. Las secciones se numeran según la jerarquía. Se da el número 1 a la primera sección que haya, independientemente del nivel que tenga y será considerada la raíz del árbol jerárquico. Por eso esta página, aunque empieza en un nivel 2, en el índice aparece el título como 1 y no como 1.1.
+</p>
+<p>Para un control más preciso de los índices, hay una serie de órdenes que puedes poner en el texto del artículo. Se recomienda usarlas solo cuando el índice puede crear algún problema (por ejemplo, en listas de artículos o diseños especiales):
+</p>
+<p>En algunos artículos, por ejemplo los de matemáticos, es necesario incluir <b>fórmulas</b> más o menos complejas. Para ello se utiliza <a href="/wiki/TeX" title="TeX">TeX</a>. Por ejemplo, con el código <code>&lt;math&gt;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}&lt;/math&gt;</code>, se obtiene:
+</p>
+<p>Se pueden crear <b>líneas del tiempo</b> como esta, aunque su uso no está muy extendido por Wikipedia:
+</p>
+<p>Cómo agregar referencias.
+</p>
+<p>Cómo agregar plantillas.
+</p>
+<p>Cómo agregar categorías.
+</p>
+<p>Cómo enlazar interwikis a través de <a class="extiw" href="https://www.wikidata.org/wiki/" title="d:">Wikidata</a>.
+</p>
+<p>El contenido de la enciclopedia recae principalmente en los artículos, aunque existen <b>otros tipos de páginas</b> que sirven de apoyo y tienen otras finalidades, como las categorías, discusiones y plantillas.
+</p>
+<p>Jerarquía de categorías.
+</p>
+<p>Separación de conversaciones por secciones. Archivos de discusiones antiguas. Firmas.
+</p>
+<p>En muchos sitios de Wikipedia, como las <a href="/wiki/Wikipedia:P%C3%A1ginas_de_discusi%C3%B3n" title="Wikipedia:Páginas de discusión">páginas de discusión</a>, el <a href="/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café">Café</a>, y en los <a class="mw-redirect" href="/wiki/Wikipedia:Tabl%C3%B3n_de_anuncios_de_los_bibliotecarios/Portal2" title="Wikipedia:Tablón de anuncios de los bibliotecarios/Portal2">tablones de bibliotecario</a> como la lista de vandalizadas, cuando escribes un mensaje o comentario, se te pide que lo firmes. Para ello no tienes que hacerlo «a mano» sino poniendo cuatro <a href="/wiki/Virgulilla" title="Virgulilla">virgulillas</a> ~~~~. Este símbolo se corresponde con el <a href="/wiki/ASCII" title="ASCII">ASCII</a> 126 y puede consultar <a href="/wiki/Virgulilla#Escritura_con_teclado_de_ordenador" title="Virgulilla">aquí</a> como escribirlas en su teclado. Debido al uso frecuente del proceso de firma, Wikipedia permite que se firme, de forma más accesible, pulsando el botón <a class="image" href="/wiki/Archivo:OOjs_UI_icon_signature-ltr.svg" title="Firma y fecha"><img alt="Firma y fecha" data-file-height="20" data-file-width="20" decoding="async" height="22" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/OOjs_UI_icon_signature-ltr.svg/22px-OOjs_UI_icon_signature-ltr.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/OOjs_UI_icon_signature-ltr.svg/33px-OOjs_UI_icon_signature-ltr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/OOjs_UI_icon_signature-ltr.svg/44px-OOjs_UI_icon_signature-ltr.svg.png 2x" width="22"/></a> que encontrará en la barra de tareas cuando edite texto. En los artículos, sin embargo, no se espera que haya firmas y, de hecho, existe una política <a href="/wiki/Wikipedia:Acerca_de_firmar_art%C3%ADculos" title="Wikipedia:Acerca de firmar artículos">aprobada por la mayoría</a> de los colaboradores de Wikipedia en contra de las firmas en artículos.
+</p>
+<p>Adicionalmente, el uso de sangría puede mejorar considerablemente la distribución de una página de discusión, haciéndola más fácil de leer. Un estándar practicado en Wikipedia es poner sangría a tus comentarios un nivel más que el comentario de la persona a la que estás respondiendo. Puedes llevarlo a la práctica siguiendo las recomendaciones mencionadas en el apartado de <a href="#Sangría">sangría</a>.
+</p>
+<p>Noinclude, includeonly y onlyinclude.
+</p>
+<p>Si deseas redirigir el tráfico de una página hacia otra (alguna con un mejor título, por ejemplo), puedes usar el comando "<code>#REDIRECCIÓN: [[nombre de página]]</code>" al comienzo de la descripción de la página o bien, presionar el botón <img alt="Redirección" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/1/13/Vector_toolbar_redirect_button.png" width="28"/> para añadirlo automáticamente; este botón se encuentra bajo la sección «Avanzado» de la <a class="mw-redirect" href="/wiki/Ayuda:Barra_de_herramientas" title="Ayuda:Barra de herramientas">barra de herramientas</a>.
+</p>
+<p>Ve a <a class="mw-redirect" href="/wiki/Patata" title="Patata">patata</a>, por ejemplo. Para consultar el historial de la página antigua, pulsa sobre el enlace <b>"Redirigido desde <u>página antigua</u>"</b> en la zona superior de la página nueva.
+</p>
+<p>Prohibido:
+</p>
+<p>Evita, dentro de los límites que dicta la lógica, escribir:
+</p>
+<p>Modifica sin miedo, pero con justificación:
+</p>
+<p>Si son datos variables en el tiempo: 
+</p>
+<p>Es de muy mal gusto:
+</p>
+<p>La virtud más apreciada es la <b>paciencia</b>. Encontrarás textos desviados, con malas ideas, provocadores, enjuiciadores, insultantes, vandálicos... a esto... paciencia. Y si quieres y puedes, corrígelo siguiendo las normas del <a href="/wiki/Wikipedia:Manual_de_estilo" title="Wikipedia:Manual de estilo">Manual de estilo</a> de la <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>.
+</p>
+<p>En Wikipedia suelen realizarse <a href="/wiki/Wikipedia:Votaciones" title="Wikipedia:Votaciones">votaciones</a>, sobre todo para buscar el consenso. Para eso debes de saber cómo funcionan. Se considera que con 500 ediciones y seis meses de antigüedad puedes votar. (Véase <a href="/wiki/Wikipedia:Votaciones/2015/Requisitos_m%C3%ADnimos_para_derecho_a_voto" title="Wikipedia:Votaciones/2015/Requisitos mínimos para derecho a voto">Wikipedia:Votaciones/2015/Requisitos mínimos para derecho a voto</a>.)
+</p>

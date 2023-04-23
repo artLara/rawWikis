@@ -1,0 +1,111 @@
+<p><b>Azul</b> o <b>blao</b><sup class="reference separada" id="cite_ref-RAE_1-0"><a href="#cite_note-RAE-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ es el <a href="/wiki/Color" title="Color">color</a> que se percibe ante la <a href="/wiki/Fotorreceptor" title="Fotorreceptor">fotorrecepción</a> de una <a href="/wiki/Luz" title="Luz">luz</a> cuya <a href="/wiki/Longitud_de_onda" title="Longitud de onda">longitud de onda</a> mide entre 460 y 482 <a href="/wiki/Nan%C3%B3metro" title="Nanómetro">nm</a>. Se asemeja a la coloración más característica del <a href="/wiki/Lapisl%C3%A1zuli" title="Lapislázuli">lapislázuli</a>.<sup class="reference separada" id="cite_ref-DicColor_2-0"><a href="#cite_note-DicColor-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Se encuentra estandarizado, sirviendo este azul «estándar» como modelo y referente para el color azul. El azul estándar puede verse en la imagen (recuadro de abajo); los valores que se dan al pie corresponden al mismo.
+La denominación de color «azul» abarca un conjunto de coloraciones similares al color estándar, <b>azuladas</b>.
+</p>
+<p>El azul es uno de los cuatro <a class="new" href="/w/index.php?title=Color_psicol%C3%B3gico&amp;action=edit&amp;redlink=1" title="Color psicológico (aún no redactado)">colores psicológicos</a> <a href="/wiki/Color_primario" title="Color primario">primarios</a>, junto con el <a href="/wiki/Rojo" title="Rojo">rojo</a>, el <a href="/wiki/Amarillo" title="Amarillo">amarillo</a> y el <a href="/wiki/Verde" title="Verde">verde</a>.<sup class="reference separada" id="cite_ref-DicColor_2-1"><a href="#cite_note-DicColor-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ Además, es considerado un <a class="mw-redirect" href="/wiki/Color_fr%C3%ADo" title="Color frío">color frío</a>, junto con el <a href="/wiki/Verde" title="Verde">verde</a> y el <a href="/wiki/Violeta_(color)" title="Violeta (color)">violeta</a>.
+</p>
+<p>En el sistema de síntesis <a href="/wiki/S%C3%ADntesis_sustractiva_de_color" title="Síntesis sustractiva de color">sustractiva</a> de color, donde los colores se crean mezclando <a href="/wiki/Pigmento" title="Pigmento">pigmentos</a> o <a href="/wiki/Tinte" title="Tinte">tintes</a> (pinturas, colorantes, tintas), los <a class="mw-redirect" href="/wiki/Colores_primarios" title="Colores primarios">colores primarios</a> son el <a class="mw-redirect" href="/wiki/Cian_(color)" title="Cian (color)">cian</a>, el <a href="/wiki/Magenta" title="Magenta">magenta</a> y el <a href="/wiki/Amarillo" title="Amarillo">amarillo</a>. El azul, junto con el <a href="/wiki/Rojo" title="Rojo">rojo</a> y el <a href="/wiki/Verde" title="Verde">verde</a>, es un <a class="mw-redirect" href="/wiki/Colores_secundarios" title="Colores secundarios">color secundario</a> en este sistema, es decir que cuando se trabaja con pigmentos de cualquier clase, para obtener azul se deben mezclar dos de los colores primarios sustractivos (específicamente, <a class="mw-redirect" href="/wiki/Cian_(color)" title="Cian (color)">cian</a> y <a href="/wiki/Magenta" title="Magenta">magenta</a>).
+</p>
+<p>El procedimiento de impresión por <a class="mw-redirect" href="/wiki/Cuatricrom%C3%ADa" title="Cuatricromía">cuatricromía</a> (que se usa para imprimir, por ejemplo, libros y revistas en color) emplea los colores primarios sustractivos con el agregado de negro. De allí que un color para cuatricromía se describa mediante el porcentaje de <a href="/wiki/Tinta" title="Tinta">tinta</a> de cada uno de estos cuatro colores que entra en su composición. Como el azul se forma con la adición de cian y magenta, un área impresa en un color azul mediano estará compuesta por C=100 (100 % de cian), M=45 (45 % de magenta), Y=0 (0 % de amarillo) y K=0 (0 % de negro). (Nótese que 100 % de cian más 100 % de magenta produce un azul purpúreo oscuro en lugar de un azul mediano.) <i>Véase <a class="mw-redirect" href="/wiki/CMYK" title="CMYK">CMYK</a>.</i>
+</p>
+<p>Durante mucho tiempo el azul tuvo estatus de color primario sustractivo. De hecho, ha formado parte de casi todos grupos de colores básicos, principales o primarios que diferentes estudiosos del tema propusieron a lo largo de la historia.<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​ Los estudios de <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> sobre la naturaleza de la luz y del color suscitaron numerosas teorías sobre el tema, no siempre correctas. A principios del <a href="/wiki/Siglo_XVIII" title="Siglo XVIII">siglo XVIII</a> algunos tratados de pintura habían adaptado el círculo de colores creado por Newton a las necesidades del arte pictórico y señalaban que los tres colores primarios eran el rojo, el amarillo y el azul del círculo newtoniano. La práctica de utilizar esta tríada de primarios en pintura continúa hasta el día de hoy.<sup class="reference separada" id="cite_ref-Handprint_8-0"><a href="#cite_note-Handprint-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Actualmente, tras varios siglos de desarrollo de pigmentos y estudios sobre el color, se considera que los tres colores primarios sustractivos óptimos son el cian, el magenta y el amarillo, pero en el ámbito del arte, por razones técnicas y tradicionales, generalmente se prefiere continuar usando los primarios «antiguos».<sup class="reference separada" id="cite_ref-Handprint_8-1"><a href="#cite_note-Handprint-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En este sistema de cromosíntesis, el <a href="/wiki/Colores_complementarios" title="Colores complementarios">color complementario</a> del azul es el <a href="/wiki/Naranja_(color)" title="Naranja (color)">naranja</a>.
+</p>
+<p>En el <a href="/wiki/S%C3%ADntesis_aditiva_de_color" title="Síntesis aditiva de color">sistema aditivo de síntesis de color</a>, en el cual los colores se obtienen mezclando luz de color en lugar de pigmentos, el azul es un <a class="mw-redirect" href="/wiki/Colores_secundarios" title="Colores secundarios">color primario</a>, junto con el <a href="/wiki/Rojo" title="Rojo">rojo</a> y el <a href="/wiki/Verde" title="Verde">verde</a>. Esto significa que cuando se trabaja con luz de color, basta con mezclar esos tres colores en diferentes proporciones para obtener todos los demás. Para crear las tonalidades claras y oscuras, se reduce o aumenta la luminosidad.
+</p>
+<p>Este sistema aditivo de colores luz es el que utilizan los monitores y televisores para producir colores. En este sistema, un color se describe con valores numéricos para cada uno de sus componentes (rojo, verde y azul), indicando al rojo con «R», al verde con «G» y al azul con «B». En una escala de valores de 0 a 255, el azul aditivo puro se expresa como R=0 (nada de rojo), G=0 (nada de verde) y B=255 (azul al valor máximo). <i>Véase <a class="mw-redirect" href="/wiki/Modelo_de_color_RGB" title="Modelo de color RGB">RGB</a>.</i>
+</p>
+<p>Este azul fue uno de los primeros colores que pudieron reproducir los <a href="/wiki/Computadora_personal" title="Computadora personal">ordenadores personales</a> al abandonar la monocromía, a principios de los años <a href="/wiki/1980" title="1980">1980</a>.
+</p>
+<p>En este sistema de cromosíntesis, el <a href="/wiki/Colores_complementarios" title="Colores complementarios">color complementario</a> del azul es el <a href="/wiki/Amarillo" title="Amarillo">amarillo</a>.<sup class="reference separada" id="cite_ref-DicColor_2-2"><a href="#cite_note-DicColor-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><b>Azul espectral</b> es, simplemente, el color azul de la región azul del <a href="/wiki/Espectro_electromagn%C3%A9tico" title="Espectro electromagnético">espectro electromagnético</a>. La <a href="/wiki/Longitud_de_onda" title="Longitud de onda">longitud de onda</a> de la luz azul es de alrededor de 470 <a href="/wiki/Nan%C3%B3metro" title="Nanómetro">nm</a>; las <a href="/wiki/Frecuencia" title="Frecuencia">frecuencias</a> más bajas que el azul se perciben como <a href="/wiki/Cian" title="Cian">cian</a>, y las más altas como <a href="/wiki/Violeta_(color)" title="Violeta (color)">violeta</a>.
+</p>
+<p>En Occidente, la interpretación tradicional del cromatismo del <a href="/wiki/Arco%C3%ADris" title="Arcoíris">arcoíris</a> sostiene que este contiene siete colores, que corresponden a los siete colores en que <a href="/wiki/Isaac_Newton" title="Isaac Newton">Newton</a> dividió el espectro de luz visible. En este contexto, se debe tomar en cuenta que Newton llamó al sexto color <i>índigo</i> en referencia a la franja azul oscura del <a href="/wiki/Isaac_Newton#Trabajos_sobre_la_luz" title="Isaac Newton">espectro newtoniano</a>, al igual que en el arcoíris;<sup class="reference separada" id="cite_ref-DicColor_2-3"><a href="#cite_note-DicColor-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ mientras que el quinto color <i>blue</i> es una referencia al cian y azules claros espectrales.
+</p>
+<p>Las personas con dificultades para distinguir el color azul se denominan tritanómalas. La <a href="/wiki/Tritanomal%C3%ADa" title="Tritanomalía">tritanomalía</a> puede consistir en una capacidad parcial de percepción del color azul o en una incapacidad total, dependiendo de la condición de los <a href="/wiki/Cono_(c%C3%A9lula)" title="Cono (célula)">conos S</a> del individuo tritanómalo. Los conos S son las células de la <a href="/wiki/Retina" title="Retina">retina</a> que perciben las longitudes de onda lumínicas cortas; si son defectuosos, producen una ceguera parcial al azul, y si faltan del todo producen una ceguera total a este color, o <a class="mw-redirect" href="/wiki/Tritanop%C3%ADa" title="Tritanopía">tritanopía</a>.<sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Otra denominación para estas afecciones es «acianopsia»<sup class="reference separada" id="cite_ref-DicColor_2-4"><a href="#cite_note-DicColor-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ o dicromacia azul.
+</p>
+<p>En los idiomas latín y griego clásicos, el color azul y sus variaciones se caracterizaron por estar pobremente representados lingüísticamente, al punto de que durante el <a href="/wiki/Siglo_XIX" title="Siglo XIX">siglo XIX</a> varios <a class="mw-redirect" href="/wiki/Fil%C3%B3logo" title="Filólogo">filólogos</a> plantearon la posibilidad de que ni los antiguos griegos ni los romanos fuesen capaces de ver el color azul. En la <a href="/wiki/Antigua_Grecia" title="Antigua Grecia">antigua Grecia</a>, por ejemplo, los términos <i>kyaneos</i> y <i>glaukos</i> designaban al azul oscuro y al azul claro respectivamente, pero podían indicar también otros colores oscuros o claros; en tanto que objetos evidentemente azules podían ser descritos por los autores griegos clásicos como rojos, verdes o negros. En <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a> persistió hasta el <a href="/wiki/Edad_Media" title="Edad Media">Medioevo</a> una situación similar: si bien había numerosas adjetivaciones para denotar el color azul (<i>aerius, caeruleus, caesius, cyaneus, ferreus, glaucus, lividus, venetus</i>), éstas no tenían un significado unívoco, no designaban tonos de azul precisos y tampoco se utilizaban consistentemente.<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El azul <a class="mw-redirect" href="/wiki/Her%C3%A1ldico" title="Heráldico">heráldico</a> se denomina <b><a href="/wiki/Azur" title="Azur">azur</a></b>. Los antiguos <a class="mw-redirect" href="/wiki/Armoriales" title="Armoriales">armoriales</a> que se conservan muestran que es uno de los <a href="/wiki/Esmalte_(her%C3%A1ldica)" title="Esmalte (heráldica)">esmaltes</a> heráldicos más antiguos.
+</p>
+<p>En los ejemplos bajo estas líneas: el <a href="/wiki/Escudo_de_Irlanda" title="Escudo de Irlanda">escudo de Irlanda</a>, cuyo azul se asocia con el santo patrono de ese país, <a class="mw-redirect" href="/wiki/San_Patricio" title="San Patricio">San Patricio</a>; las antiguas armas de los reyes de <a href="/wiki/Francia" title="Francia">Francia</a> (<a href="/wiki/Casa_de_los_Capetos" title="Casa de los Capetos">casa de los Capetos</a>), con campo del denominado «azul rey» (<i>bleu roi</i>); el escudo con leones de azur de <a href="/wiki/Escudo_de_Dinamarca" title="Escudo de Dinamarca">Dinamarca</a>, que se remonta a alrededor de <a href="/wiki/1190" title="1190">1190</a> y del cual deriva el <a href="/wiki/Escudo_de_Estonia" title="Escudo de Estonia">escudo de Estonia</a>.
+</p>
+<p>Escudo de Irlanda
+</p>
+<p>Antiguo escudo del Reino de Francia
+</p>
+<p>Escudo de Dinamarca
+</p>
+<p><i>France Ancien</i><br/> Siglo XII
+</p>
+<p>Escudo de Estonia
+</p>
+<p>En <a href="/wiki/Vexilolog%C3%ADa" title="Vexilología">vexilología</a>, el azul es un color muy frecuente. En algunas banderas nacionales la superficie azul es considerable, y otras incluso emplean al azul como color de fondo. Este color también se encuentra en el grupo de banderas eslavas que comparten colores nacionales por razones étnicas: los <a href="/wiki/Colores_paneslavos" title="Colores paneslavos">colores paneslavos</a>.
+</p>
+<p>En los ejemplos bajo estas líneas: la <a href="/wiki/Bandera_de_Israel" title="Bandera de Israel">bandera de Israel</a>, cuyas franjas azules provienen de las que tienen los mantos <a href="/wiki/Talit" title="Talit">talit</a>, que según el relato <a href="/wiki/Biblia" title="Biblia">bíblico</a> le fueron especificadas a <a href="/wiki/Mois%C3%A9s" title="Moisés">Moisés</a> por <a href="/wiki/Dios" title="Dios">Dios</a>; en la <a href="/wiki/Bandera_de_Islandia" title="Bandera de Islandia">bandera de Islandia</a>, el azul representa el color de las montañas de ese país; la <a href="/wiki/Bandera_de_Kosovo" title="Bandera de Kosovo">bandera de Kosovo</a> emplea el azul «paneslavo».
+</p>
+<p>Bandera de Israel
+</p>
+<p>Bandera de Islandia
+</p>
+<p>Bandera de Kosovo
+</p>
+<p>Bandera de Asturias
+</p>
+<p>Bandera de Estonia
+</p>
+<p>Bandera de Australia
+</p>
+<p>Bandera de Finlandia
+</p>
+<p>Bandera de Nueva Zelanda
+</p>
+<p>Bandera de Honduras (1949-2022)
+</p>
+<p>Bandera de Cabo Verde
+</p>
+<p>Bandera de Belice
+</p>
+<p>Bandera de Estados Unidos
+</p>
+<p>Bandera de Reino Unido
+</p>
+<p>Bandera de Francia
+</p>
+<p>Bandera de El Salvador
+</p>
+<p>Bandera de Chile
+</p>
+<p>Bandera de Nicaragua
+</p>
+<p>Bandera de Costa Rica
+</p>
+<p>El llamado <i>azzurro</i> (<small>pronunciación italiana:</small> <span class="nounderlines" style="white-space:nowrap;"><span class="unicode"><a href="/wiki/Archivo:It-Azzurro.oga" title="Acerca de este sonido"><img alt="Acerca de este sonido" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a> <a class="internal" href="//upload.wikimedia.org/wikipedia/commons/0/00/It-azzurro.oga" title="It-azzurro.oga"><span class="IPA" title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)">[ ad.'dzur.ro ]</span></a> <small class="metadata audiolinkinfo" style="cursor:help;">(<a href="/wiki/Ayuda:Multimedia" title="Ayuda:Multimedia"><span style="cursor:help;" title="¿Problemas al reproducir este archivo?">?</span></a>·<a href="/wiki/Archivo:It-Azzurro.oga" title="Archivo:It-Azzurro.oga"><span style="cursor:help;" title="Acerca de este sonido">i</span></a>)</small></span></span>) (‘<a href="/wiki/Azur" title="Azur">azur</a>’) es un azul saturado y claro, estrechamente ligado a la identidad nacional italiana. Proviene del azur de la <a href="/wiki/Casa_de_Saboya" title="Casa de Saboya">Casa de Saboya</a>, y desde <a href="/wiki/1911" title="1911">1911</a> se usa en la indumentaria de la <a href="/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Italia" title="Selección de fútbol de Italia">selección de fútbol de Italia</a>.<sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Algunos ejemplos de la variedad del azul:
+</p>
+<p>Los <a class="mw-redirect" href="/wiki/Color_HTML" title="Color HTML">colores HTML</a> establecidos por <a class="mw-redirect" href="/wiki/Protocolo_(inform%C3%A1tica)" title="Protocolo (informática)">protocolos informáticos</a> para su uso en <a href="/wiki/P%C3%A1gina_web" title="Página web">páginas web</a> incluyen el azul que se muestra debajo. Como se ve, coincide con el azul aditivo puro, y en programación se lo invoca con el nombre <i>blue</i> (azul). Para los demás azules HTML que se encuentran definidos por nombre, ver la <a class="mw-redirect" href="/wiki/Color_HTML#Tabla_de_colores" title="Color HTML">tabla de colores HTML</a>.
+</p>
+<p>Otros colores web X11:
+</p>
+<p>Flor de <i><a href="/wiki/Adenophora" title="Adenophora">Adenophora</a></i>
+</p>
+<p>Invierno en Oregón
+</p>
+<p><a class="mw-redirect" href="/wiki/Ar%C3%A1ndano_azul" title="Arándano azul">Arándano</a>s
+</p>
+<p>Ojos azules
+</p>
+<p>Iluminación azul en la cubierta de desembarco de una nave fluvial
+</p>
+<p>Porcelana tradicional china del siglo XVII, donde se usó <a class="mw-redirect" href="/wiki/Azul_de_cobalto" title="Azul de cobalto">azul de cobalto</a>
+</p>
+<p><a href="/wiki/Ftalocianina" title="Ftalocianina">Ftalocianina</a> azul
+</p>

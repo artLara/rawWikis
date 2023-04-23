@@ -1,0 +1,1487 @@
+<p>En <a href="/wiki/F%C3%ADsica" title="Física">física</a>, la <b>aceleración</b> es una magnitud derivada <a href="/wiki/Vector" title="Vector">vectorial</a> que nos indica la variación de <a href="/wiki/Velocidad" title="Velocidad">velocidad</a> por <a class="mw-redirect" href="/wiki/Unidad_de_tiempo" title="Unidad de tiempo">unidad de tiempo</a>. En el contexto de la <a href="/wiki/Mec%C3%A1nica_newtoniana" title="Mecánica newtoniana">mecánica vectorial newtoniana</a> se representa normalmente por <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {a}}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>a</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {a}}\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {a}}\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1d68eda50bd748cf4c65dacf137d34d1de6aaadd" style="vertical-align: -0.338ex; width:1.617ex; height:2.343ex;"/></span> o <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {a} \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {a} \,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {a} \,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd4df2e5485c9ffc33b197bdc2e8d93bbe559206" style="vertical-align: -0.338ex; width:1.687ex; height:1.676ex;"/></span> y su <a href="/wiki/M%C3%B3dulo_(vector)" title="Módulo (vector)">módulo</a> por <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a\,}</annotation>
+</semantics>
+</math></span><img alt="a\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1d73aa5354c24942dab5316be466465a9d171510" style="vertical-align: -0.338ex; width:1.617ex; height:1.676ex;"/></span>.
+</p>
+<p>Las aceleraciones son cantidades <a href="/wiki/Vector" title="Vector">vectoriales</a> (en el sentido de que tienen <a href="/wiki/Magnitud_(matem%C3%A1tica)" title="Magnitud (matemática)">magnitud</a> y <a href="/wiki/Direcci%C3%B3n_(geometr%C3%ADa)" title="Dirección (geometría)">dirección</a>).<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitud</a> de la aceleración de un objeto, como la describe la <a href="/wiki/Leyes_de_Newton" title="Leyes de Newton">Segunda Ley de Newton</a>,<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​ es el efecto combinado de dos causas:
+</p>
+<p>Sus dimensiones son <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle [L]\cdot [T^{-2}]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mo stretchy="false">[</mo>
+<mi>L</mi>
+<mo stretchy="false">]</mo>
+<mo>⋅<!-- ⋅ --></mo>
+<mo stretchy="false">[</mo>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msup>
+<mo stretchy="false">]</mo>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle [L]\cdot [T^{-2}]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle [L]\cdot [T^{-2}]}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/383ed5e1c01bbd79d73d86c5c465d1675f2a6964" style="vertical-align: -0.671ex; width:6.492ex; height:2.343ex;"/></span>. Su unidad en el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional</a> es <a href="/wiki/Metro_por_segundo_al_cuadrado" title="Metro por segundo al cuadrado">m/s²</a>.
+</p>
+<p>Por ejemplo, cuando un <a href="/wiki/Veh%C3%ADculo" title="Vehículo">vehículo</a> arranca estando detenido (velocidad cero, en un marco de referencia inercial) y viaja en línea recta a velocidades crecientes, está acelerando en la dirección de la marcha. Si el vehículo gira, se produce una aceleración hacia la nueva dirección y cambia su vector de movimiento. La aceleración del vehículo en su dirección actual de movimiento se llama aceleración lineal (o tangencial durante los movimientos circulares), la reacción que experimentan los pasajeros a bordo como una fuerza que los empuja hacia atrás en sus asientos. Al cambiar de dirección, la aceleración que efectúa se llama aceleración radial (ortogonal durante los movimientos circulares), la reacción que experimentan los pasajeros como una <a href="/wiki/Fuerza_centr%C3%ADfuga" title="Fuerza centrífuga">fuerza centrífuga</a>. Si la velocidad del vehículo disminuye, esto es una aceleración en la dirección opuesta y matemáticamente negativa, a veces llamada desaceleración, y los pasajeros experimentan la reacción a la desaceleración como una <a class="mw-redirect" href="/wiki/Fuerza_inercial" title="Fuerza inercial">fuerza inercial</a> que los empuja hacia adelante. Estas aceleraciones negativas a menudo se logran mediante la combustión de retrocohetes en naves espaciales.<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ Tanto la aceleración como la desaceleración se tratan de la misma manera, ambos son cambios de velocidad. Los pasajeros sienten cada una de estas aceleraciones (tangencial, radial, desaceleración) hasta que su velocidad relativa (diferencial) se neutraliza con respecto al vehículo.
+</p>
+<p>Así como la velocidad describe la modificación de la posición de un objeto en el tiempo, la aceleración describe la «modificación de la velocidad en el tiempo» (que las matemáticas formalizan con la noción de derivada ). En la vida cotidiana, hay tres casos que el físico agrupa bajo el concepto único de aceleración:
+</p>
+<p>desde un punto de vista matemático, la aceleración es positiva, es decir que el vector de aceleración tiene una componente en la dirección de la velocidad;
+</p>
+<p>la aceleración es negativa, o el vector de aceleración tiene una componente opuesta a la dirección de la velocidad;
+</p>
+<p>el vector de aceleración tiene una componente perpendicular a la velocidad; aquí nos interesa la variación de la dirección del vector velocidad, no la variación de su norma.
+</p>
+<p>Cuando una persona está sometida a una aceleración, se siente un esfuerzo: fuerza que presiona contra el asiento cuando el coche acelera (va más rápido), fuerza que empuja hacia el parabrisas cuando el coche frena, fuerza que empuja a un lado cuando el coche frena o está girando (fuerza centrífuga). Se siente esta tensión de manera similar al peso. La relación entre aceleración y esfuerzo es el dominio de la dinámica ; pero la aceleración es una noción de cinemática, es decir que se define solo a partir del movimiento, sin involucrar las fuerzas.
+</p>
+<p>Según la <a href="/wiki/Mec%C3%A1nica_newtoniana" title="Mecánica newtoniana">mecánica newtoniana</a>, una partícula no puede seguir una <a href="/wiki/Trayectoria" title="Trayectoria">trayectoria</a> curva a menos que sobre ella actúe una cierta aceleración como consecuencia de la acción de una fuerza, ya que si esta no existiese, su movimiento sería rectilíneo. Asimismo, una partícula en movimiento rectilíneo solo puede cambiar su <a href="/wiki/Velocidad" title="Velocidad">velocidad</a> bajo la acción de una aceleración en la misma dirección de su velocidad (dirigida en el mismo sentido si acelera; o en sentido contrario si desacelera).
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {a} ={\cfrac {d\,\mathbf {V} }{d\,t}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">V</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>t</mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {a} ={\cfrac {d\,\mathbf {V} }{d\,t}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {a} ={\cfrac {d\,\mathbf {V} }{d\,t}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ab588a9546b35d9e8fb77dde778fa3dbc9711b4a" style="vertical-align: -3.005ex; width:8.857ex; height:7.176ex;"/></span>
+</p>
+<p>En la mecánica newtoniana, para un cuerpo con <a href="/wiki/Masa" title="Masa">masa</a> constante, la aceleración del cuerpo medida por un <a href="/wiki/Sistema_de_referencia" title="Sistema de referencia">observador inercial</a> es proporcional a la <a href="/wiki/Fuerza" title="Fuerza">fuerza</a> que actúa sobre el mismo (<a class="mw-redirect" href="/wiki/Segunda_ley_de_Newton" title="Segunda ley de Newton">segunda ley de Newton</a>):
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =m\mathbf {a} \quad \to \quad \mathbf {a} ={\cfrac {\mathbf {F} }{m}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+<mspace width="1em"></mspace>
+<mo stretchy="false">→<!-- → --></mo>
+<mspace width="1em"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =m\mathbf {a} \quad \to \quad \mathbf {a} ={\cfrac {\mathbf {F} }{m}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =m\mathbf {a} \quad \to \quad \mathbf {a} ={\cfrac {\mathbf {F} }{m}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6ceef581af6a5bcbe7609646bea7b978c8f17d0f" style="vertical-align: -3.005ex; width:23.655ex; height:7.176ex;"/></span>
+</p>
+<p>donde <b>F</b> es la fuerza resultante que actúa sobre el cuerpo, <b>m</b> es la <a href="/wiki/Masa" title="Masa">masa</a> del cuerpo, y <b>a</b> es la aceleración. La relación anterior es válida en cualquier <a href="/wiki/Sistema_de_referencia_inercial" title="Sistema de referencia inercial">sistema de referencia inercial</a>.
+</p>
+<p>Algunos ejemplos del concepto de aceleración son:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v=at=gt=9,8\,t}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>v</mi>
+<mo>=</mo>
+<mi>a</mi>
+<mi>t</mi>
+<mo>=</mo>
+<mi>g</mi>
+<mi>t</mi>
+<mo>=</mo>
+<mn>9</mn>
+<mo>,</mo>
+<mn>8</mn>
+<mspace width="thinmathspace"></mspace>
+<mi>t</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v=at=gt=9,8\,t}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle v=at=gt=9,8\,t}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e67f6ff5c7969833c994dad24b2af3648571ba88" style="vertical-align: -0.671ex; width:19.034ex; height:2.509ex;"/></span>
+</p>
+<p>El vector de aceleración de un punto material en cualquier momento se encuentra mediante una diferenciación temporal única del vector velocidad de un punto material (o diferenciación doble del vector radio )
+</p>
+<p>Si se conocen las coordenadas del punto en la trayectoria <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {r}}(t_{0})={\vec {r}}_{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>r</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>r</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {r}}(t_{0})={\vec {r}}_{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {r}}(t_{0})={\vec {r}}_{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ab77c11fb281839248c7b5da2f1113204dbc038a" style="vertical-align: -0.838ex; width:10.302ex; height:2.843ex;"/></span> y el vector de velocidad <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {v}}(t_{0})={\vec {v}}_{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>v</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>v</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {v}}(t_{0})={\vec {v}}_{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {v}}(t_{0})={\vec {v}}_{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/251f7c662897b5adf276645c4f7b7f6fb963700c" style="vertical-align: -0.838ex; width:10.207ex; height:2.843ex;"/></span> en cualquier momento del tiempo <span class="texhtml"><i>t</i><sub>0</sub></span>,así como la dependencia de la aceleración en el tiempo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {a}}(t),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>a</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {a}}(t),}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {a}}(t),}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e3e5edb5a9dbf4f69e7607bee8f13307166482b9" style="vertical-align: -0.838ex; width:4.526ex; height:2.843ex;"/></span> al integrar esta ecuación, se pueden obtener las coordenadas y la velocidad del punto en cualquier momento del tiempo <span class="texhtml"><i>t</i></span> (tanto antes como después del momento <span class="texhtml"><i>t</i><sub>0</sub></span>)
+</p>
+<p>La derivada temporal de la aceleración, es decir, el valor que caracteriza la tasa de cambio en la aceleración, se llama <a href="/wiki/Sobreaceleraci%C3%B3n" title="Sobreaceleración">Sobreaceleración</a>:
+</p>
+<p>Para cada instante o punto de la <a href="/wiki/Trayectoria" title="Trayectoria">trayectoria</a>, queda definido un vector velocidad que, en general, cambia tanto en módulo como en dirección al pasar de un punto a otro de la trayectoria. La dirección de la velocidad cambiará debido a que la velocidad es tangente a la trayectoria y esta, por lo general, no es rectilínea. En la Figura se representan los vectores velocidad correspondientes a los instantes <i>t</i> y <i>t</i>+Δ<i>t</i>, cuando la partícula pasa por los puntos P y Q, respectivamente. El cambio vectorial en la velocidad de la partícula durante ese intervalo de tiempo está indicado por Δ<b>v</b>, en el triángulo vectorial al pie de la figura. Se define la <b>aceleración media</b> de la partícula, en el intervalo de tiempo Δ<i>t</i>, como el cociente:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \langle \mathbf {a} \rangle =\mathbf {\bar {a}} ={\frac {\Delta \mathbf {v} }{\Delta t}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">a</mi>
+<mo mathvariant="bold" stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \langle \mathbf {a} \rangle =\mathbf {\bar {a}} ={\frac {\Delta \mathbf {v} }{\Delta t}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \langle \mathbf {a} \rangle =\mathbf {\bar {a}} ={\frac {\Delta \mathbf {v} }{\Delta t}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b103dce2fc8a61f4f4d8dcf26fb9feb4b2c8bd3d" style="vertical-align: -2.005ex; width:14.825ex; height:5.509ex;"/></span>
+</p>
+<p>Que es un vector paralelo a Δ<b>v</b> y dependerá de la duración del intervalo de tiempo Δ<b>t</b> considerado. La aceleración instantánea se la define como el límite al que tiende el cociente incremental Δ<b>v</b>/Δ<i>t</i> cuando Δ<i>t</i>→0; esto es la <a href="/wiki/Derivada" title="Derivada">derivada</a> del vector velocidad con respecto al tiempo:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {a} =\lim _{\Delta t\to 0}{\frac {\Delta \mathbf {v} }{\Delta t}}={\frac {d\mathbf {v} }{dt}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+<mo>=</mo>
+<munder>
+<mo form="prefix" movablelimits="true">lim</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {a} =\lim _{\Delta t\to 0}{\frac {\Delta \mathbf {v} }{\Delta t}}={\frac {d\mathbf {v} }{dt}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {a} =\lim _{\Delta t\to 0}{\frac {\Delta \mathbf {v} }{\Delta t}}={\frac {d\mathbf {v} }{dt}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e5da6a34e126a8a995bdf96bb87e1720dee39363" style="vertical-align: -2.171ex; width:19.957ex; height:5.676ex;"/></span>
+</p>
+<p>Puesto que la velocidad instantánea <b>v</b> a su vez es la derivada del vector <a href="/wiki/Posici%C3%B3n" title="Posición">posición</a> <b>r</b> respecto al tiempo, la aceleración es la derivada segunda de la posición con respecto del tiempo:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {a} ={\frac {d^{2}\mathbf {r} }{dt^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<msup>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {a} ={\frac {d^{2}\mathbf {r} }{dt^{2}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {a} ={\frac {d^{2}\mathbf {r} }{dt^{2}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8347390d425e6e1a4e93542f5db9762b3a80fb1f" style="vertical-align: -2.171ex; width:8.608ex; height:6.009ex;"/></span>
+</p>
+<p>De igual forma se puede definir la velocidad instantánea a partir de la aceleración como:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} -\mathbf {v} _{0}=\int _{t_{0}}^{t}\left({\mathrm {d} \mathbf {v}  \over \mathrm {d} t}\right)\,\mathrm {d} t}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mo>−<!-- − --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msubsup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>t</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} -\mathbf {v} _{0}=\int _{t_{0}}^{t}\left({\mathrm {d} \mathbf {v}  \over \mathrm {d} t}\right)\,\mathrm {d} t}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {v} -\mathbf {v} _{0}=\int _{t_{0}}^{t}\left({\mathrm {d} \mathbf {v}  \over \mathrm {d} t}\right)\,\mathrm {d} t}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3f17f2717483eef43e3bcf4174452c3cba959268" style="vertical-align: -2.671ex; width:23.359ex; height:6.509ex;"/></span>
+</p>
+<p>Se puede obtener la velocidad a partir de la aceleración mediante <a href="/wiki/Integraci%C3%B3n" title="Integración">integración</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} =\int _{0}^{t}\mathbf {a} \ \mathrm {d} t+\mathbf {v} _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>t</mi>
+<mo>+</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} =\int _{0}^{t}\mathbf {a} \ \mathrm {d} t+\mathbf {v} _{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {v} =\int _{0}^{t}\mathbf {a} \ \mathrm {d} t+\mathbf {v} _{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6b60c77a651f6754beff8185feb03213e2ec24a" style="vertical-align: -2.338ex; width:17.505ex; height:6.176ex;"/></span>
+</p>
+<p>La medida de la aceleración puede hacerse con un sistema de adquisición de datos y un simple <a href="/wiki/Aceler%C3%B3metro" title="Acelerómetro">acelerómetro</a>. Los acelerómetros electrónicos son fabricados para medir la aceleración en una, dos o tres direcciones. Cuentan con dos elementos conductivos, separados por un material que varía su conductividad en función de las medidas, que a su vez serán relativas a la aceleración del conjunto.
+</p>
+<p>Las unidades de la aceleración son:
+</p>
+<p>Valores de las aceleraciones de varios movimientos:<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><small>Nota: aquí <span class="texhtml"><i>g</i></span> ≈ 10 m/s².</small>
+</p>
+<p>En tanto que el vector velocidad <b>v</b> es tangente a la trayectoria, el vector aceleración <b>a</b> puede descomponerse en dos componentes (llamadas componentes intrínsecas) mutuamente perpendiculares: una componente tangencial <b>a</b><sub>t</sub> (en la dirección de la tangente a la trayectoria), llamada <a class="mw-redirect" href="/wiki/Aceleraci%C3%B3n_tangencial" title="Aceleración tangencial">aceleración tangencial</a>, y una componente normal <b>a</b><sub>n</sub> (en la dirección de la normal principal a la trayectoria), llamada <a class="mw-redirect" href="/wiki/Aceleraci%C3%B3n_normal" title="Aceleración normal">aceleración normal</a> o <a href="/wiki/Aceleraci%C3%B3n_centr%C3%ADpeta" title="Aceleración centrípeta">centrípeta</a> (este último nombre en razón a que siempre está dirigida hacia el centro de curvatura).
+</p>
+<p>Derivando la velocidad con respecto al tiempo, teniendo en cuenta que el vector tangente cambia de dirección al pasar de un punto a otro de la trayectoria (esto significa que no es constante) obtenemos
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {a} ={\frac {d\mathbf {v} }{dt}}={\frac {d}{dt}}(v\,\mathbf {\hat {e}} _{t})={\frac {dv}{dt}}\mathbf {\hat {e}} _{t}+v{\frac {d\mathbf {\hat {e}} _{t}}{dt}}=a_{t}\mathbf {\hat {e}} _{t}+v({\boldsymbol {\omega }}\times \mathbf {\hat {e}} _{\text{t}})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>v</mi>
+<mspace width="thinmathspace"></mspace>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">e</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>v</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">e</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">e</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">e</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi>v</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">ω<!-- ω --></mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">e</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>t</mtext>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {a} ={\frac {d\mathbf {v} }{dt}}={\frac {d}{dt}}(v\,\mathbf {\hat {e}} _{t})={\frac {dv}{dt}}\mathbf {\hat {e}} _{t}+v{\frac {d\mathbf {\hat {e}} _{t}}{dt}}=a_{t}\mathbf {\hat {e}} _{t}+v({\boldsymbol {\omega }}\times \mathbf {\hat {e}} _{\text{t}})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {a} ={\frac {d\mathbf {v} }{dt}}={\frac {d}{dt}}(v\,\mathbf {\hat {e}} _{t})={\frac {dv}{dt}}\mathbf {\hat {e}} _{t}+v{\frac {d\mathbf {\hat {e}} _{t}}{dt}}=a_{t}\mathbf {\hat {e}} _{t}+v({\boldsymbol {\omega }}\times \mathbf {\hat {e}} _{\text{t}})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6844f2dfc07abf2d4c5101b22a78befb7f5bf202" style="vertical-align: -2.005ex; width:55.773ex; height:5.509ex;"/></span>
+</p>
+<p>siendo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {\hat {e}} _{t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">e</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {\hat {e}} _{t}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {\hat {e}} _{t}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec84d40c16c253b2bd6b56b2310425d17d9a4d32" style="vertical-align: -0.671ex; width:2.163ex; height:2.676ex;"/></span> el <b>vector unitario tangente</b> a la trayectoria en la misma dirección que la velocidad y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\boldsymbol {\omega }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold-italic">ω<!-- ω --></mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\boldsymbol {\omega }}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\boldsymbol {\omega }}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7cb8af7a2f64af348e559652b6b1f0d2415ba444" style="vertical-align: -0.338ex; width:1.669ex; height:1.676ex;"/></span> la velocidad angular. Resulta conveniente escribir la expresión anterior en la forma
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {a} ={\frac {d\mathbf {v} }{dt}}=a_{t}\mathbf {\hat {e}} _{t}+{\frac {v^{2}}{\rho }}\mathbf {\hat {e}} _{n}=a_{t}\mathbf {\hat {e}} _{t}+a_{n}\mathbf {\hat {e}} _{\text{n}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">e</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">e</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">e</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">e</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>n</mtext>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {a} ={\frac {d\mathbf {v} }{dt}}=a_{t}\mathbf {\hat {e}} _{t}+{\frac {v^{2}}{\rho }}\mathbf {\hat {e}} _{n}=a_{t}\mathbf {\hat {e}} _{t}+a_{n}\mathbf {\hat {e}} _{\text{n}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {a} ={\frac {d\mathbf {v} }{dt}}=a_{t}\mathbf {\hat {e}} _{t}+{\frac {v^{2}}{\rho }}\mathbf {\hat {e}} _{n}=a_{t}\mathbf {\hat {e}} _{t}+a_{n}\mathbf {\hat {e}} _{\text{n}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6a182cab7e868070e51d68b27eb2ed9c726c7814" style="vertical-align: -2.338ex; width:38.68ex; height:6.176ex;"/></span>
+</p>
+<p>siendo
+</p>
+<p>Las magnitudes de estas dos componentes de la aceleración son:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a_{t}={\frac {dv}{dt}}\qquad \qquad \qquad a_{n}={\frac {v^{2}}{\rho }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>v</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mspace width="2em"></mspace>
+<mspace width="2em"></mspace>
+<mspace width="2em"></mspace>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a_{t}={\frac {dv}{dt}}\qquad \qquad \qquad a_{n}={\frac {v^{2}}{\rho }}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a_{t}={\frac {dv}{dt}}\qquad \qquad \qquad a_{n}={\frac {v^{2}}{\rho }}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3df22f013a8e3cd71e6c1a88154839e8d02562c7" style="vertical-align: -2.338ex; width:30.834ex; height:6.176ex;"/></span>
+</p>
+<p>Cada una de estas dos componentes de la aceleración tiene un significado físico bien definido. Cuando una partícula se mueve, su <a href="/wiki/Velocidad" title="Velocidad">velocidad</a> puede cambiar y este cambio lo mide la aceleración tangencial. Pero si la trayectoria es curva también cambia la dirección de la velocidad y este cambio lo mide la aceleración normal.
+</p>
+<p>Los vectores que aparecen en las expresiones anteriores son los vectores del <a href="/wiki/Geometr%C3%ADa_diferencial_de_curvas#Vectores_tangente,_normal_y_binormal:_Triedro_de_Frênet-Serret" title="Geometría diferencial de curvas">triedro de Frênet</a> que aparece en la <a href="/wiki/Geometr%C3%ADa_diferencial_de_curvas" title="Geometría diferencial de curvas">geometría diferencial de curvas</a> del siguiente modo:
+</p>
+<p>Un movimiento circular uniforme es aquel en el que la partícula recorre una trayectoria circular de radio <i>R</i> con rapidez constante, es decir, que la distancia recorrida en cada intervalo de tiempo igual es la misma. Para ese tipo de movimiento el vector de velocidad mantiene su módulo y va variando la dirección siguiendo una trayectoria circular. Si se aplican las fórmulas anteriores, se tiene que la aceleración tangencial es nula y la aceleración normal es constante: a esta aceleración normal se la llama «aceleración centrípeta». En este tipo de movimiento la aceleración aplicada al objeto se encarga de modificar la trayectoria del objeto y no en modificar su velocidad.
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {a} ={\frac {d\mathbf {v} }{dt}}={\frac {dv}{dt}}\mathbf {\hat {e}} _{t}+{\frac {v^{2}}{R}}\mathbf {\hat {e}} _{n}=0\cdot \mathbf {\hat {e}} _{t}+{\frac {v^{2}}{R}}{\hat {\mathbf {e} }}_{n}=\omega ^{2}R\ {\hat {\mathbf {e} }}_{n}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>v</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">e</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>R</mi>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">e</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>0</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">e</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>R</mi>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msup>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>R</mi>
+<mtext> </mtext>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {a} ={\frac {d\mathbf {v} }{dt}}={\frac {dv}{dt}}\mathbf {\hat {e}} _{t}+{\frac {v^{2}}{R}}\mathbf {\hat {e}} _{n}=0\cdot \mathbf {\hat {e}} _{t}+{\frac {v^{2}}{R}}{\hat {\mathbf {e} }}_{n}=\omega ^{2}R\ {\hat {\mathbf {e} }}_{n}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {a} ={\frac {d\mathbf {v} }{dt}}={\frac {dv}{dt}}\mathbf {\hat {e}} _{t}+{\frac {v^{2}}{R}}\mathbf {\hat {e}} _{n}=0\cdot \mathbf {\hat {e}} _{t}+{\frac {v^{2}}{R}}{\hat {\mathbf {e} }}_{n}=\omega ^{2}R\ {\hat {\mathbf {e} }}_{n}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/29fee726bdb0275d7d6f5246abf0c29050418fa8" style="vertical-align: -2.005ex; width:51.507ex; height:5.843ex;"/></span>
+</p>
+<p>Si se aplican las fórmulas anteriores al movimiento rectilíneo, en el que solo existe aceleración tangencial, al estar todos los vectores contenidos en la trayectoria, podemos prescindir de la notación vectorial y escribir simplemente:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a={\frac {dv}{dt}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>v</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a={\frac {dv}{dt}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a={\frac {dv}{dt}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdc68e21cfa9e1bbb7f366143c8588aea3025d3a" style="vertical-align: -2.005ex; width:7.508ex; height:5.509ex;"/></span>
+</p>
+<p>Ya que en ese tipo de movimiento los vectores <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle \mathbf {a} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle \mathbf {a} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle \mathbf {a} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/56538347f601a045196d34b924d6697cf87b1551" style="vertical-align: -0.338ex; width:0.919ex; height:1.343ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle \mathbf {v} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle \mathbf {v} }</annotation>
+</semantics>
+</math></span><img alt="\scriptstyle {\mathbf  {v}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba4856e5181b4ddb4046b8120c164dd2cfd463c8" style="vertical-align: -0.338ex; width:0.998ex; height:1.343ex;"/></span> son paralelos, satisfaciendo también la relación:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v(t)=v_{0}+\int _{0}^{t}a(\tau )\ d\tau }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>v</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msubsup>
+<mi>a</mi>
+<mo stretchy="false">(</mo>
+<mi>τ<!-- τ --></mi>
+<mo stretchy="false">)</mo>
+<mtext> </mtext>
+<mi>d</mi>
+<mi>τ<!-- τ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v(t)=v_{0}+\int _{0}^{t}a(\tau )\ d\tau }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle v(t)=v_{0}+\int _{0}^{t}a(\tau )\ d\tau }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aafa833d692147a8738e7049865fc2154ed7ec5b" style="vertical-align: -2.338ex; width:22.814ex; height:6.176ex;"/></span>
+</p>
+<p>La coordenadas de posición viene dada en este caso por:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x(t)=x_{0}+v_{0}t+\int _{0}^{t}(t-\tau )a(\tau )\ d\tau }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mi>t</mi>
+<mo>+</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo>−<!-- − --></mo>
+<mi>τ<!-- τ --></mi>
+<mo stretchy="false">)</mo>
+<mi>a</mi>
+<mo stretchy="false">(</mo>
+<mi>τ<!-- τ --></mi>
+<mo stretchy="false">)</mo>
+<mtext> </mtext>
+<mi>d</mi>
+<mi>τ<!-- τ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x(t)=x_{0}+v_{0}t+\int _{0}^{t}(t-\tau )a(\tau )\ d\tau }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x(t)=x_{0}+v_{0}t+\int _{0}^{t}(t-\tau )a(\tau )\ d\tau }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/230811a0f9bdcfb62c8e68dca14c3f845fbae75d" style="vertical-align: -2.338ex; width:35.384ex; height:6.176ex;"/></span>
+</p>
+<p>Un caso particular de movimiento rectilíneo acelerado es el <a href="/wiki/Movimiento_rectil%C3%ADneo_uniformemente_acelerado" title="Movimiento rectilíneo uniformemente acelerado">movimiento rectilíneo uniformemente acelerado</a> donde la aceleración es además constante y por tanto la velocidad y la coordenadas de posición vienen dados por:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v(t)=v_{0}+at,\qquad x(t)=x_{0}+v_{0}t+{\frac {at^{2}}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>v</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi>a</mi>
+<mi>t</mi>
+<mo>,</mo>
+<mspace width="2em"></mspace>
+<mi>x</mi>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mi>t</mi>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>a</mi>
+<msup>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v(t)=v_{0}+at,\qquad x(t)=x_{0}+v_{0}t+{\frac {at^{2}}{2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle v(t)=v_{0}+at,\qquad x(t)=x_{0}+v_{0}t+{\frac {at^{2}}{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5a9d4d499ad40dfc6b236f6c73547937f7b21e58" style="vertical-align: -1.838ex; width:41.769ex; height:5.676ex;"/></span>
+</p>
+<p>El análogo de la aceleración en <a href="/wiki/Teor%C3%ADa_de_la_relatividad" title="Teoría de la relatividad">mecánica relativista</a> se llama cuadriaceleración y es un <a href="/wiki/Cuadrivector" title="Cuadrivector">cuadrivector</a> cuyas tres componentes espaciales para pequeñas velocidades coinciden con las de la aceleración newtoniana (la componente temporal para pequeñas velocidades resulta proporcional a la potencia de la fuerza dividida por la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a> y la masa de la partícula).
+</p>
+<p>En mecánica relativista la cuadrivelocidad y la cuadriaceleración son siempre ortogonales, eso se sigue de que la cuadrivelocidad tiene un (pseudo)módulo constante:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {U} \cdot \mathbf {U} =c^{2}\Rightarrow 2\mathbf {U} \cdot {\frac {d\mathbf {U} }{d\tau }}=0\Rightarrow 2\mathbf {U} \cdot \mathbf {A} =0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">U</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">U</mi>
+</mrow>
+<mo>=</mo>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo stretchy="false">⇒<!-- ⇒ --></mo>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">U</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">U</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>τ<!-- τ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+<mo stretchy="false">⇒<!-- ⇒ --></mo>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">U</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {U} \cdot \mathbf {U} =c^{2}\Rightarrow 2\mathbf {U} \cdot {\frac {d\mathbf {U} }{d\tau }}=0\Rightarrow 2\mathbf {U} \cdot \mathbf {A} =0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {U} \cdot \mathbf {U} =c^{2}\Rightarrow 2\mathbf {U} \cdot {\frac {d\mathbf {U} }{d\tau }}=0\Rightarrow 2\mathbf {U} \cdot \mathbf {A} =0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47adad45a5a61d7c9b479432fa6c33b72a82202f" style="vertical-align: -2.005ex; width:42.627ex; height:5.509ex;"/></span>
+</p>
+<p>Donde <i>c</i> es la velocidad de la luz y el producto anterior es el producto asociado a la <a class="mw-redirect" href="/wiki/M%C3%A9trica_de_Minkowski" title="Métrica de Minkowski">métrica de Minkowski</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V\cdot W:=\eta (V,W)=\eta _{\mu \nu }V^{\mu }V^{\nu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>W</mi>
+<mo>:=</mo>
+<mi>η<!-- η --></mi>
+<mo stretchy="false">(</mo>
+<mi>V</mi>
+<mo>,</mo>
+<mi>W</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mi>η<!-- η --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<msup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+</mrow>
+</msup>
+<msup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V\cdot W:=\eta (V,W)=\eta _{\mu \nu }V^{\mu }V^{\nu }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V\cdot W:=\eta (V,W)=\eta _{\mu \nu }V^{\mu }V^{\nu }}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/634ce606f2d2635ce2da9920f326bbef9071e675" style="vertical-align: -1.005ex; width:30.391ex; height:3.009ex;"/></span>
+</p>
+<p>En <a class="mw-redirect" href="/wiki/Teor%C3%ADa_general_de_la_relatividad" title="Teoría general de la relatividad">teoría general de la relatividad</a> el caso de la aceleración es más complicado, ya que debido a que el propio <a href="/wiki/Espacio-tiempo" title="Espacio-tiempo">espacio-tiempo</a> es curvo (ver <a href="/wiki/Curvatura_del_espacio-tiempo" title="Curvatura del espacio-tiempo">curvatura del espacio-tiempo</a>), una partícula sobre la que no actúa ninguna fuerza puede seguir una trayectoria curva, de hecho la línea curva que sigue una partícula sobre la que no actúa ninguna fuerza exterior es una línea <a href="/wiki/Geod%C3%A9sica" title="Geodésica">geodésica</a>, de hecho en relatividad general la fuerza gravitatoria no se interpreta como una fuerza sino como un efecto de la curvatura del espacio-tiempo que hace que las partículas no trayectorias rectas sino líneas geodéscias. En este contexto la aceleración no geodésica de una partícula es un vector cuyas cuatro componentes se calulan como:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A^{\alpha }={\frac {dU^{\alpha }}{d\tau }}+\sum _{\beta ,\gamma }\Gamma _{\beta \gamma }^{\alpha }U^{\beta }U^{\gamma }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<msup>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>τ<!-- τ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+<mo>,</mo>
+<mi>γ<!-- γ --></mi>
+</mrow>
+</munder>
+<msubsup>
+<mi mathvariant="normal">Γ<!-- Γ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+<mi>γ<!-- γ --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+</mrow>
+</msup>
+<msup>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A^{\alpha }={\frac {dU^{\alpha }}{d\tau }}+\sum _{\beta ,\gamma }\Gamma _{\beta \gamma }^{\alpha }U^{\beta }U^{\gamma }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A^{\alpha }={\frac {dU^{\alpha }}{d\tau }}+\sum _{\beta ,\gamma }\Gamma _{\beta \gamma }^{\alpha }U^{\beta }U^{\gamma }}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/30d87410f31dc4af0c3a43a9a5f1cfece30e9ed9" style="vertical-align: -3.505ex; width:27.387ex; height:7.009ex;"/></span>
+</p>
+<p>Aquí <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle \alpha =0,1,2,3}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mn>2</mn>
+<mo>,</mo>
+<mn>3</mn>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle \alpha =0,1,2,3}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle \alpha =0,1,2,3}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/719736cd86c2fcd2b4c89308f7e23336250baab0" style="vertical-align: -0.505ex; width:6.991ex; height:1.843ex;"/></span> (componente temporal y tres componentes espaciales). Se aprecia que cuando los <a href="/wiki/S%C3%ADmbolos_de_Christoffel" title="Símbolos de Christoffel">símbolos de Christoffel</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Gamma _{\beta \gamma }^{\alpha }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi mathvariant="normal">Γ<!-- Γ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+<mi>γ<!-- γ --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Gamma _{\beta \gamma }^{\alpha }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Gamma _{\beta \gamma }^{\alpha }}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/31a158e5d11243983ae8f632a8e22f440c7774bb" style="vertical-align: -1.338ex; width:3.52ex; height:3.176ex;"/></span> una partícula puede tener aceleración cero aunque su cuadrivelocidad no sea constante, eso sucede cuando la partícula sigue una línea geodésica de un espacio-tiempo de curvatura no nula.
+</p>
+<p>La ingeniería mecánica es el diseño y fabricación de máquinas , es decir, sistemas que realizan movimientos. Una parte importante es el dimensionamiento, es decir la elección de actuadores ( gatos , motores ) y piezas que soportan las fuerzas. Si las masas puestas en movimiento y / o las aceleraciones son grandes, los efectos dinámicos - las fuerzas necesarias para crear las aceleraciones, o las fuerzas resultantes de las aceleraciones - no son despreciables. Por tanto, determinar la aceleración instantánea durante un movimiento es fundamental para que las piezas resistan y para determinar el consumo energético del sistema.
+<style data-mw-deduplicate="TemplateStyles:r149592375">.mw-parser-output .flexquote{display:flex;flex-direction:column;background-color:#F9F9F9;border-left:3px solid #c8ccd1;font-size:90%;margin:1em 4em;padding:.4em .8em}.mw-parser-output .flexquote>.flex{display:flex;flex-direction:row}.mw-parser-output .flexquote>.flex>.quote{width:100%}.mw-parser-output .flexquote>.flex>.separator{border-left:1px solid #c8ccd1;border-top:1px solid #c8ccd1;margin:.4em .8em}.mw-parser-output .flexquote>.cite{text-align:right}@media all and (max-width:600px){.mw-parser-output .flexquote>.flex{flex-direction:column}}</style>
+</p>
+<p>En muchos casos, la especificación es "llevar un objeto del punto A al punto B en un tiempo <i>t</i>, con el tiempo <i>t</i> a veces expresado como una tasa (realizando el movimiento <i>n</i> veces por hora). El diseño consiste en :
+</p>

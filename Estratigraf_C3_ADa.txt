@@ -1,0 +1,16 @@
+<p>La <b>estratigrafía</b> (del <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a> <i>stratum</i>, 'lecho', y del <a class="mw-redirect" href="/wiki/Idioma_griego_antiguo" title="Idioma griego antiguo">griego</a> <i>γραφή</i> [graphḗ], 'escritura') es la rama de la <a href="/wiki/Geolog%C3%ADa" title="Geología">geología</a> que trata del estudio e interpretación de las <a href="/wiki/Roca_sedimentaria" title="Roca sedimentaria">rocas sedimentarias</a>, <a href="/wiki/Roca_metam%C3%B3rfica" title="Roca metamórfica">metamórficas</a> y <a href="/wiki/Roca_volc%C3%A1nica" title="Roca volcánica">volcánicas</a> <a href="/wiki/Estrato" title="Estrato">estratificadas</a>, así como de la identificación, descripción, secuencia, tanto vertical como horizontal, cartografía y correlación de las unidades estratificadas de rocas.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La estratigrafía se puede dividir en diferentes áreas especializadas, todas interrelacionadas entre sí y con otras ciencias:
+</p>
+<p>Sobre la base de las unidades bioestratigráficas, cronoestratigráficas y geocronométricas se establecen las <a href="/wiki/Unidad_geocronol%C3%B3gica" title="Unidad geocronológica">unidades geocronológicas</a>, y su compendio integra la <a href="/wiki/Escala_temporal_geol%C3%B3gica" title="Escala temporal geológica">escala temporal geológica</a>, otro de los objetivos de la estratigrafía.
+</p>
+<p>Ordena los estratos y acontecimientos en una secuencia según su antigüedad.
+</p>
+<p>Permite hallar la edad de un estrato o acontecimiento geológico determinado, por los métodos:
+</p>
+<p>La inversión estratigráfica consiste en la formación de un pliegue inclinado hasta tal punto que, en alguna parte del corte estratigráfico, los estratos más antiguos se encuentran dispuestos sobre los más modernos.
+</p>
+<p>La discontinuidad o <a class="mw-disambig" href="/wiki/Discordancia" title="Discordancia">discordancia</a> estratigráfica es la separación entre dos series estratigráficas, debida a la existencia de una laguna estratigráfica. Hay varios tipos:
+</p>
+<p>Esto supone una etapa de plegamiento posterior al depósito de los materiales más antiguos, una etapa de erosión, y finalmente la sedimentación de los materiales modernos.
+</p>

@@ -1,0 +1,209 @@
+<p>En <a href="/wiki/F%C3%ADsica" title="Física">física</a>, se denomina <b> espectro electromagnético</b> a la distribución energética del conjunto de las <a class="mw-redirect" href="/wiki/Onda_electromagn%C3%A9tica" title="Onda electromagnética">ondas electromagnéticas</a>. Referido a un objeto se denomina <i>espectro electromagnético</i> o simplemente <i>espectro</i> a la <a href="/wiki/Radiaci%C3%B3n_electromagn%C3%A9tica" title="Radiación electromagnética">radiación electromagnética</a> que emite (<a href="/wiki/Espectro_de_emisi%C3%B3n" title="Espectro de emisión">espectro de emisión</a>) o absorbe (<a href="/wiki/Espectro_de_absorci%C3%B3n" title="Espectro de absorción">espectro de absorción</a>) una sustancia. Dicha radiación sirve para identificar la sustancia de manera análoga a una <a href="/wiki/Huella_dactilar" title="Huella dactilar">huella dactilar</a>. Los espectros se pueden observar mediante <a class="mw-redirect" href="/wiki/Espectroscopio" title="Espectroscopio">espectroscopios</a> que, además de permitir ver el espectro, permiten realizar medidas sobre el mismo, como son la <a href="/wiki/Longitud_de_onda" title="Longitud de onda">longitud de onda</a>, la <a href="/wiki/Frecuencia" title="Frecuencia">frecuencia</a> y la intensidad de la radiación.
+</p>
+<p>El espectro electromagnético se extiende desde la radiación de menor longitud de onda, como los <a href="/wiki/Rayos_gamma" title="Rayos gamma">rayos gamma</a> y los <a href="/wiki/Rayos_X" title="Rayos X">rayos X</a>, pasando por la <a href="/wiki/Radiaci%C3%B3n_ultravioleta" title="Radiación ultravioleta">radiación ultravioleta</a>, la <a href="/wiki/Luz" title="Luz">luz visible</a> y la <a href="/wiki/Radiaci%C3%B3n_infrarroja" title="Radiación infrarroja">radiación infrarroja</a>, hasta las ondas electromagnéticas de mayor longitud de onda, como son las <a href="/wiki/Radiofrecuencia" title="Radiofrecuencia">ondas de radio</a>. Si bien el límite para la longitud de onda más pequeña posible no sería la <a href="/wiki/Longitud_de_Planck" title="Longitud de Planck">longitud de Planck</a> (porque el tiempo característico de cada modalidad de interacción es unas 10<sup>20</sup> veces mayor al <a href="/wiki/Tiempo_de_Planck" title="Tiempo de Planck">instante de Planck</a> y, en la presente etapa <a href="/wiki/Cosmolog%C3%ADa_f%C3%ADsica" title="Cosmología física">cosmológica</a>, ninguna de ellas podría oscilar con la frecuencia necesaria para alcanzar aquella longitud de onda), se cree que el límite máximo sería el <a href="/wiki/Universo_observable" title="Universo observable">tamaño del Universo</a> (véase <a href="/wiki/Cosmolog%C3%ADa_f%C3%ADsica" title="Cosmología física">Cosmología física</a>) aunque formalmente el espectro electromagnético es <a href="/wiki/Infinito" title="Infinito">infinito</a> y continuo.
+</p>
+<p>El espectro electromagnético cubre <a href="/wiki/Longitud_de_onda" title="Longitud de onda">longitudes de onda</a> muy variadas. Existen <a href="/wiki/Frecuencia" title="Frecuencia">frecuencias</a> de 30 <a href="/wiki/Hercio" title="Hercio">Hz</a> y menores que son relevantes en el estudio de ciertas <a href="/wiki/Nebulosa" title="Nebulosa">nebulosas</a>.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Por otro lado se conocen frecuencias cercanas a 2,9×10<sup>27</sup> Hz, que han sido detectadas provenientes de fuentes astrofísicas.<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La energía electromagnética en una particular <a href="/wiki/Longitud_de_onda" title="Longitud de onda">longitud de onda</a> <a href="/wiki/%CE%9B" title="Λ">λ</a> (en el <a class="mw-redirect" href="/wiki/Vac%C3%ADo_(f%C3%ADsica)" title="Vacío (física)">vacío</a>) tiene una frecuencia <i>f</i> asociada y una <a class="mw-redirect" href="/wiki/Energ%C3%ADa_de_fot%C3%B3n" title="Energía de fotón">energía de fotón</a> <i>E</i>. Por tanto, el espectro electromagnético puede ser expresado igualmente en cualquiera de esos términos. Se relacionan en las siguientes ecuaciones:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c=f\lambda \,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+<mi>f</mi>
+<mi>λ<!-- λ --></mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c=f\lambda \,\!}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c=f\lambda \,\!}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/048303d1838738901fa47df6a2cd32e270408d0e" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:7.126ex; height:2.509ex;"/></span>, o lo que es lo mismo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \lambda ={\frac {c}{f}}\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>λ<!-- λ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>c</mi>
+<mi>f</mi>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \lambda ={\frac {c}{f}}\,\!}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \lambda ={\frac {c}{f}}\,\!}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e2496fb8df7091f3561ad8e386d408b8b42aacac" style="vertical-align: -2.338ex; margin-right: -0.387ex; width:6.956ex; height:5.176ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E=hf\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mi>h</mi>
+<mi>f</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=hf\,\!}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E=hf\,\!}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0889fca6ef788beeef5c5fb9d8674e878c3eceef" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:7.879ex; height:2.509ex;"/></span>, o lo que es lo mismo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E={\frac {hc}{\lambda }}\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>h</mi>
+<mi>c</mi>
+</mrow>
+<mi>λ<!-- λ --></mi>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E={\frac {hc}{\lambda }}\,\!}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E={\frac {hc}{\lambda }}\,\!}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a678d8d032cf9c966569127bb91924ada8f5466c" style="vertical-align: -2.005ex; margin-right: -0.387ex; width:8.443ex; height:5.509ex;"/></span>
+</p>
+<p>Donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c=299.792.458\ \mathrm {m/s} \,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+<mn>299.792.458</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi mathvariant="normal">s</mi>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c=299.792.458\ \mathrm {m/s} \,\!}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c=299.792.458\ \mathrm {m/s} \,\!}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8f3d3a21e76e568cc26b63a2293eacc931a31899" style="vertical-align: -0.838ex; margin-right: -0.387ex; width:20.843ex; height:2.843ex;"/></span> (<a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>) y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h\,\!}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle h\,\!}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cce181c419109da6a5ef53d7bc85d964fa293bd0" style="vertical-align: -0.338ex; margin-right: -0.387ex; width:1.726ex; height:2.176ex;"/></span> es la <a href="/wiki/Constante_de_Planck" title="Constante de Planck">constante de Planck</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (h\approx 6,626069\cdot 10^{-34}\ {\mbox{J}}\cdot {\mbox{s}}\approx 4,13567\ \mathrm {\mu } {\mbox{eV}}/{\mbox{GHz}})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mi>h</mi>
+<mo>≈<!-- ≈ --></mo>
+<mn>6</mn>
+<mo>,</mo>
+<mn>626069</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>34</mn>
+</mrow>
+</msup>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>J</mtext>
+</mstyle>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>s</mtext>
+</mstyle>
+</mrow>
+<mo>≈<!-- ≈ --></mo>
+<mn>4</mn>
+<mo>,</mo>
+<mn>13567</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>eV</mtext>
+</mstyle>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>GHz</mtext>
+</mstyle>
+</mrow>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (h\approx 6,626069\cdot 10^{-34}\ {\mbox{J}}\cdot {\mbox{s}}\approx 4,13567\ \mathrm {\mu } {\mbox{eV}}/{\mbox{GHz}})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (h\approx 6,626069\cdot 10^{-34}\ {\mbox{J}}\cdot {\mbox{s}}\approx 4,13567\ \mathrm {\mu } {\mbox{eV}}/{\mbox{GHz}})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec194b9e7704e7b6a5f50a09097989c92dd5cbcc" style="vertical-align: -0.838ex; width:48.575ex; height:3.176ex;"/></span>.
+</p>
+<p>Por lo tanto, las ondas electromagnéticas de alta frecuencia tienen una longitud de onda corta y mucha energía mientras que las ondas de baja frecuencia tienen grandes longitudes de onda y poca energía.
+</p>
+<p>Por lo general, las radiaciones electromagnéticas se clasifican basándose en su longitud de la onda en <a class="mw-redirect" href="/wiki/Onda_de_radio" title="Onda de radio">ondas de radio</a>, <a href="/wiki/Microondas" title="Microondas">microondas</a>, <a href="/wiki/Radiaci%C3%B3n_infrarroja" title="Radiación infrarroja">infrarrojos</a>, visible –que percibimos como <a href="/wiki/Luz" title="Luz">luz</a> <a class="mw-redirect" href="/wiki/Visible" title="Visible">visible</a>–, <a href="/wiki/Radiaci%C3%B3n_ultravioleta" title="Radiación ultravioleta">ultravioleta</a>, <a href="/wiki/Rayos_X" title="Rayos X">rayos X</a> y <a href="/wiki/Rayos_gamma" title="Rayos gamma">rayos gamma</a>.
+</p>
+<p>El comportamiento de las radiaciones electromagnéticas depende de su longitud de onda. Cuando la radiación electromagnética interactúa con átomos y moléculas puntuales, su comportamiento también depende de la cantidad de energía por quantum que lleve. Al igual que las ondas de <a href="/wiki/Sonido" title="Sonido">sonido</a>, la radiación electromagnética puede dividirse en <a href="/wiki/Octava" title="Octava">octavas</a>.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La <a href="/wiki/Espectroscopia" title="Espectroscopia">espectroscopia</a> puede detectar una región mucho más amplia del espectro electromagnético que el rango visible de 400 a 700 nm. Un <a href="/wiki/Espectr%C3%B3metro" title="Espectrómetro">espectrómetro</a> de laboratorio común y corriente detecta longitudes de onda de 2 a 2500 <a class="mw-redirect" href="/wiki/Nm" title="Nm">nm</a>.
+</p>
+<p>Para su estudio, el espectro electromagnético se divide en segmentos o <a href="/wiki/Bandas_de_frecuencia" title="Bandas de frecuencia">bandas</a>, aunque esta división es inexacta. Existen ondas que tienen una frecuencia, pero varios usos, por lo que algunas frecuencias pueden quedar en ocasiones incluidas en dos rangos.
+</p>
+<p>En radiocomunicaciones, los rangos se abrevian con sus siglas en inglés. Los rangos son:
+</p>
+<p>Frecuencias menores no han sido detectadas o hasta ahora (y tal vez nunca) no se pueden usar(estas son las TLF)
+</p>
+<p>La definición del espectro de microondas depende de la fuente. Varios autores consideran que las microondas abarcan las frecuencias entre 300 MHz y 300 GHz, pero los estándares <a href="/wiki/Comisi%C3%B3n_Electrot%C3%A9cnica_Internacional" title="Comisión Electrotécnica Internacional">IEC 60050</a> e <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">IEEE 100</a> sitúan el espectro entre 1 GHz y 300 GHz.<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ Estas frecuencias abarcan parte del rango de UHF y todo el rango de SHF y EHF. Estas ondas se utilizan en numerosos sistemas, como múltiples dispositivos de transmisión de datos, radares y hornos microondas.
+</p>
+<p>Las ondas infrarrojas están en el rango de 0,7 a 1000 micrómetros. La radiación infrarroja se asocia generalmente con el <a href="/wiki/Calor" title="Calor">calor</a>. Ellas son producidas por cuerpos que generan calor, aunque a veces pueden ser generadas por algunos <a href="/wiki/Diodo" title="Diodo">diodos</a> emisores de luz y algunos <a href="/wiki/L%C3%A1ser" title="Láser">láseres</a>.
+</p>
+<p>Las señales son usadas para algunos sistemas especiales de comunicaciones, como en <a href="/wiki/Astronom%C3%ADa" title="Astronomía">astronomía</a> para detectar <a class="mw-redirect" href="/wiki/Estrellas" title="Estrellas">estrellas</a> y otros cuerpos en los que se usan detectores de calor para descubrir cuerpos móviles en la oscuridad. También se usan en los <a class="mw-redirect" href="/wiki/Mando_a_distancia" title="Mando a distancia">mandos a distancia</a> de los <a href="/wiki/Televisor" title="Televisor">televisores</a> y otros aparatos, en los que un transmisor de estas ondas envía una señal codificada al receptor del televisor. En últimas fechas se ha estado implementando conexiones de área local <a href="/wiki/Red_de_%C3%A1rea_local" title="Red de área local">LAN</a> por medio de dispositivos que trabajan con infrarrojos, pero debido a los nuevos estándares de comunicación estas conexiones han perdido su versatilidad.
+</p>
+<p>Por encima de la frecuencia de las radiaciones infrarrojas se encuentra lo que comúnmente es llamado luz, un tipo especial de radiación electromagnética que tiene una longitud de onda en el intervalo de 0,4 a 0,8 micrómetros. Este es el rango en el que el sol y las estrellas similares emiten la mayor parte de su radiación. Probablemente, no es una coincidencia que el ojo humano sea sensible a las longitudes de onda que emite el sol con más fuerza. Las unidades usuales para expresar las longitudes de onda son el <a class="mw-redirect" href="/wiki/Angstrom" title="Angstrom">Angstrom</a> y el <a href="/wiki/Nan%C3%B3metro" title="Nanómetro">nanómetro</a>. La luz que vemos con nuestros ojos es realmente una parte muy pequeña del espectro electromagnético. La radiación electromagnética con una longitud de onda entre 380 nm y 760 nm (790-400 terahercios) es detectada por el ojo humano y se percibe como luz visible. Otras longitudes de onda, especialmente en el infrarrojo cercano (más de 760 nm) y ultravioleta (menor de 380 nm) también se refiere a veces como la luz, aun cuando la visibilidad a los seres humanos no es relevante. Si la radiación que tiene una frecuencia en la región visible del espectro electromagnético se refleja en un objeto, por ejemplo, un tazón de fruta, y luego golpea los ojos, esto da lugar a la percepción visual de la escena. Nuestro sistema visual del cerebro procesa la multitud de frecuencias que se reflejan en diferentes tonos y matices, y a través de este fenómeno psicofísico, no del todo entendido, la mayoría de la gente percibe un tazón de fruta; un arco iris muestra la óptica (visible) del espectro electromagnético. En la mayoría de las longitudes de onda, sin embargo, la radiación electromagnética no es visible directamente, aunque existe tecnología capaz de manipular y visualizar una amplia gama de longitudes de onda.
+</p>
+<p>La luz puede usarse para diferentes tipos de comunicaciones. Las ondas electromagnéticas pueden modularse y transmitirse a través de <a href="/wiki/Fibra_%C3%B3ptica" title="Fibra óptica">fibras ópticas</a>, lo cual resulta en una menor atenuación de la señal con respecto a la transmisión por el espacio libre.
+</p>
+<p>La luz ultravioleta cubre el intervalo de 4 a 400 nm. El <a href="/wiki/Sol" title="Sol">Sol</a> es una importante fuente emisora de rayos en esta frecuencia, los cuales causan <a href="/wiki/C%C3%A1ncer_de_piel" title="Cáncer de piel">cáncer de piel</a> a exposiciones prolongadas. Este tipo de onda no se usa en las telecomunicaciones, sus aplicaciones son principalmente en el campo de la <a href="/wiki/Medicina" title="Medicina">medicina</a>.
+</p>
+<p>La denominación rayos X designa a una radiación electromagnética, invisible, capaz de atravesar cuerpos opacos y de impresionar las películas <a href="/wiki/Fotograf%C3%ADa" title="Fotografía">fotográficas</a>. La longitud de onda está entre 10 a 0,01 nanómetros, correspondiendo a frecuencias en el rango de 30 a 30 000 PHz (de 50 a 5000 veces la frecuencia de la luz visible).
+</p>
+<p>La radiación gamma es un tipo de radiación electromagnética producida generalmente por elementos <a href="/wiki/Radiactividad" title="Radiactividad">radiactivos</a> o procesos subatómicos como la aniquilación de un par <a href="/wiki/Positr%C3%B3n" title="Positrón">positrón</a>-<a href="/wiki/Electr%C3%B3n" title="Electrón">electrón</a>. Este tipo de radiación de tal magnitud también es producida en fenómenos astrofísicos de gran violencia.
+</p>
+<p>Debido a las altas energías que poseen, los rayos gamma constituyen un tipo de radiación ionizante capaz de penetrar en la materia más profundamente que la radiación <a href="/wiki/Desintegraci%C3%B3n_alfa" title="Desintegración alfa">alfa</a> o <a href="/wiki/Desintegraci%C3%B3n_beta" title="Desintegración beta">beta</a>. Dada su alta energía pueden causar grave daño al núcleo de las <a href="/wiki/C%C3%A9lula" title="Célula">células</a>, por lo que son usados para <a href="/wiki/Esterilizaci%C3%B3n_(microbiolog%C3%ADa)" title="Esterilización (microbiología)">esterilizar</a> equipos médicos y <a href="/wiki/Alimento" title="Alimento">alimentos</a>.
+</p>
+<p>Cuando se analiza el espectro electromagnético de la luz de una estrella o galaxia, se puede apreciar en este un <a href="/wiki/Corrimiento_al_rojo" title="Corrimiento al rojo">corrimiento al rojo</a> o un <a href="/wiki/Corrimiento_al_azul" title="Corrimiento al azul">corrimiento al azul</a> es decir los colores visibles se desplazan hacia un extremo u otro del espectro visible. Esto ocurre gracias al <a href="/wiki/Efecto_Doppler" title="Efecto Doppler">efecto Doppler</a>, llamado así por el físico austríaco <a href="/wiki/Christian_Andreas_Doppler" title="Christian Andreas Doppler">Christian Andreas Doppler</a>, es el aparente cambio de frecuencia de una onda producido por el movimiento relativo de la fuente respecto a su observador. Doppler propuso este efecto en 1842 en su tratado <i>Über das farbige Licht der Doppelsterne und einige andere Gestirne des Himmels</i> (<i>Sobre el color de la luz en estrellas binarias y otros astros</i>). 
+</p>
+<p>En el caso del <a href="/wiki/Espectro_visible" title="Espectro visible">espectro visible</a> de la <a href="/wiki/Radiaci%C3%B3n_electromagn%C3%A9tica" title="Radiación electromagnética">radiación electromagnética</a>, si el objeto se aleja, su luz se desplaza a longitudes de onda más largas, desplazándose hacia el rojo. Si el objeto se acerca, su luz presenta una longitud de onda más corta, desplazándose hacia el azul. Esta desviación hacia el rojo o el azul es muy leve incluso para velocidades elevadas, como las velocidades relativas entre estrellas o entre galaxias, y el ojo humano no puede captarlo, solamente medirlo indirectamente utilizando instrumentos de precisión como <a href="/wiki/Espectr%C3%B3metro" title="Espectrómetro">espectrómetros</a>. Si el objeto emisor se moviera a fracciones significativas de la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>, sí sería apreciable de forma directa la variación de longitud de onda. 
+</p>
+<p>El primer corrimiento al rojo Doppler fue descrito en <a href="/wiki/1848" title="1848">1848</a> por el físico francés <a href="/wiki/Hippolyte_Fizeau" title="Hippolyte Fizeau">Hippolyte Fizeau</a>, que indicó que el desplazamiento en <a href="/wiki/L%C3%ADnea_espectral" title="Línea espectral">líneas espectrales</a> visto en las estrellas era debido al efecto Doppler.  En <a href="/wiki/1868" title="1868">1868</a>, el astrónomo británico <a href="/wiki/William_Huggins" title="William Huggins">William Huggins</a> fue el primero en determinar la velocidad de una estrella alejándose de la Tierra mediante este método.<sup class="reference separada" id="cite_ref-Huggins_7-0"><a href="#cite_note-Huggins-7"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La abundancia de corrimiento al rojo en el universo ha permitido crear la teoría de la expansión del universo. El corrimiento al azul del espectro, se observa en la <a href="/wiki/Galaxia_de_Andr%C3%B3meda" title="Galaxia de Andrómeda">galaxia de Andrómeda</a> lo que indica que se acerca y en algunos brazos de galaxias lo que permite descubrir su giro.
+</p>

@@ -1,0 +1,69 @@
+<p>La <b>litosfera</b> o <b>litósfera</b><sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ (del <a class="mw-redirect" href="/wiki/Idioma_griego_antiguo" title="Idioma griego antiguo">griego</a> λίθος, <i>lithos</i>, ‘piedra’ y σφαίρα, <i>sphaíra</i>, ‘esfera’) es la capa superficial sólida de la <a href="/wiki/Tierra" title="Tierra">Tierra</a>, caracterizada por su rigidez.<sup class="reference separada" id="cite_ref-Arti1_2-0"><a href="#cite_note-Arti1-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ Está formada por la <a href="/wiki/Corteza_terrestre" title="Corteza terrestre">corteza</a> y la zona más externa del <a href="/wiki/Manto_terrestre" title="Manto terrestre">manto</a>, y mantiene un <a href="/wiki/Isostasia" title="Isostasia">equilibrio isostático</a> sobre la <a href="/wiki/Astenosfera" title="Astenosfera">astenosfera</a>, una capa «plástica» que forma parte del manto superior.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​ La litosfera suele tener un espesor aproximado de 50 a 100 km,<sup class="reference separada" id="cite_ref-Arti1_2-1"><a href="#cite_note-Arti1-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ siendo su límite externo la superficie terrestre.<sup class="reference separada" id="cite_ref-Arti4_4-0"><a href="#cite_note-Arti4-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ El límite inferior varía dependiendo de la definición de litosfera que se ocupe. Para este caso, teniendo en cuenta el espesor mencionado, es la <a href="/wiki/Astenosfera" title="Astenosfera">astenosfera</a>.<sup class="reference separada" id="cite_ref-Arti4_4-1"><a href="#cite_note-Arti4-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La litosfera está fragmentada en una serie de <a href="/wiki/Placa_tect%C3%B3nica" title="Placa tectónica">placas tectónicas</a> o litosféricas en cuyos bordes se concentran los fenómenos geológicos endógenos, como el <a href="/wiki/Magma" title="Magma">magmatismo</a>, la <a href="/wiki/Sismicidad" title="Sismicidad">sismicidad</a> o la <a href="/wiki/Orog%C3%A9nesis" title="Orogénesis">orogénesis</a>.<sup class="reference separada" id="cite_ref-brit_5-0"><a href="#cite_note-brit-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-SNL_6-0"><a href="#cite_note-SNL-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En la práctica no es fácil establecer un espesor concreto para la litosfera.<sup class="reference separada" id="cite_ref-Arti4_4-2"><a href="#cite_note-Arti4-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ Se aplican distintas aproximaciones a:
+</p>
+<p>Las litosferas térmica y sísmica tienen espesores equivalentes. En general, el espesor de la litosfera elástica es mayor a los otros dos.<sup>[<i><a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">cita requerida</a></i>]</sup>
+</p>
+<p>Según el tipo de <a href="/wiki/Corteza_terrestre" title="Corteza terrestre">corteza</a> que la forme, distinguimos dos tipos:
+</p>
+<p>La litosfera oceánica está formada principalmente por corteza <a class="mw-redirect" href="/wiki/M%C3%A1fica" title="Máfica">máfica</a> y manto <a href="/wiki/Roca_ultram%C3%A1fica" title="Roca ultramáfica">ultramáfica</a> (<a href="/wiki/Peridotita" title="Peridotita">peridotita</a>) y es más densa que la litosfera continental. La litosfera oceánica joven, que se encuentra en las <a href="/wiki/Dorsal_mediooce%C3%A1nica" title="Dorsal mediooceánica">dorsales oceánicas</a>, no es más gruesa que la corteza, pero la litosfera oceánica se engrosa a medida que envejece y se aleja de la dorsal oceánica. La litosfera oceánica más antigua suele tener un grosor de unos 140 kilómetros (87,0 mi).<sup class="reference separada" id="cite_ref-lithothick_9-0"><a href="#cite_note-lithothick-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​
+Este engrosamiento se produce por el enfriamiento conductivo, que convierte la astenosfera caliente en manto litosférico y hace que la litosfera oceánica sea cada vez más gruesa y densa con la edad. De hecho, la litosfera oceánica es una capa límite térmica para la <a href="/wiki/Convecci%C3%B3n_del_manto" title="Convección del manto">convección</a><sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​ en el manto.  El espesor de la parte del manto de la litosfera oceánica puede aproximarse como una capa límite térmica que se engrosa con la raíz cuadrada del tiempo.
+<div class="mwe-math-element"><div class="mwe-math-mathml-display mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h\,\sim \,2\,{\sqrt {\kappa t}}}" display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+<mspace width="thinmathspace"></mspace>
+<mo>∼<!-- ∼ --></mo>
+<mspace width="thinmathspace"></mspace>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>κ<!-- κ --></mi>
+<mi>t</mi>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h\,\sim \,2\,{\sqrt {\kappa t}}}</annotation>
+</semantics>
+</math></div><img alt="{\displaystyle h\,\sim \,2\,{\sqrt {\kappa t}}}" aria-hidden="true" class="mwe-math-fallback-image-display" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b00b65fa989f526d6e6465b40d265f8438cdad98" style="vertical-align: -0.838ex; width:10.876ex; height:3.009ex;"/></div>
+</p>
+<p>Aquí, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h}</annotation>
+</semantics>
+</math></span><img alt="h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" style="vertical-align: -0.338ex; width:1.339ex; height:2.176ex;"/></span> es el espesor de la litosfera del manto oceánico, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \kappa }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>κ<!-- κ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \kappa }</annotation>
+</semantics>
+</math></span><img alt="\kappa " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54ddec2e922c5caea4e47d04feef86e782dc8e6d" style="vertical-align: -0.338ex; width:1.339ex; height:1.676ex;"/></span> es la <a href="/wiki/Difusividad_t%C3%A9rmica" title="Difusividad térmica">difusividad térmica</a> (aproximadamente 10<sup>-6</sup> m<sup>2</sup>/s) para las rocas de silicato, y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle t}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>t</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+</semantics>
+</math></span><img alt="t" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560" style="vertical-align: -0.338ex; width:0.84ex; height:2.009ex;"/></span> es la edad de la parte dada de la litosfera. La edad suele ser igual a L/V, donde L es la distancia desde el centro de propagación de la <a href="/wiki/Dorsal_mediooce%C3%A1nica" title="Dorsal mediooceánica">dorsal mediooceánica</a>, y V es la velocidad de la placa litosférica.<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La litosfera oceánica es menos densa que la astenosfera durante unas decenas de millones de años, pero después se vuelve cada vez más densa que la astenosfera. Mientras que la corteza oceánica químicamente diferenciada es más ligera que la astenosfera, la <a class="mw-redirect" href="/wiki/Contracci%C3%B3n_t%C3%A9rmica" title="Contracción térmica">contracción térmica</a> de la litosfera del manto la hace más densa que la astenosfera. La inestabilidad gravitatoria de la litosfera oceánica madura hace que, en las <a class="new" href="/w/index.php?title=Zonas_de_subducci%C3%B3n&amp;action=edit&amp;redlink=1" title="Zonas de subducción (aún no redactado)">zonas de subducción</a>, la litosfera oceánica se hunda invariablemente bajo la litosfera dominante, que puede ser oceánica o continental. En las dorsales oceánicas se produce constantemente nueva litosfera oceánica, que se recicla en el manto en las zonas de subducción. Como resultado, la litosfera oceánica es mucho más joven que la continental: la litosfera oceánica más antigua tiene unos 170 millones de años, mientras que partes de la litosfera continental tienen miles de millones de años. <sup class="reference separada" id="cite_ref-Composición_y_desarrollo_de_la_12-0"><a href="#cite_note-Composición_y_desarrollo_de_la-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-Doilithos_13-0"><a href="#cite_note-Doilithos-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Los estudios geofísicos de principios del siglo XXI postulan que grandes trozos de la litosfera han sido subducidos en el manto a una profundidad de 2900 kilómetros (1802,0 mi) hasta cerca del límite entre el núcleo y el manto,<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​ mientras que otros "flotan" en el manto superior.<sup class="reference separada" id="cite_ref-15"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-16"><a href="#cite_note-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​ Sin embargo, otros se adentran en el manto hasta 400km pero permanecen "adheridos" a la placa continental superior,<sup class="reference separada" id="cite_ref-Doilithos_13-1"><a href="#cite_note-Doilithos-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​ similar a la extensión de la "tectosfera" propuesta por Jordan en 1988. <sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​ La litosfera en subducción se mantiene rígida (como demuestran los <a class="mw-redirect" href="/wiki/Terremotos" title="Terremotos">terremotos</a> profundos a lo largo de la <a class="new" href="/w/index.php?title=Zona_Wadati-Benioff&amp;action=edit&amp;redlink=1" title="Zona Wadati-Benioff (aún no redactado)">zona Wadati-Benioff</a>) hasta una profundidad de unos 600km.<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Los geocientíficos pueden estudiar directamente la naturaleza del manto subcontinental examinando los <a href="/wiki/Xenolito" title="Xenolito">xenolitos</a> del manto<sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​ que aparecen en la <a href="/wiki/Kimberlita" title="Kimberlita">kimberlita</a>, la <a class="mw-redirect" href="/wiki/Lamproita" title="Lamproita">lamproita</a> y otros tubos volcánicos. La historia de estos xenolitos ha sido investigada por muchos métodos, incluyendo análisis de abundancia de isótopos de <a href="/wiki/Osmio" title="Osmio">osmio</a> y <a href="/wiki/Renio" title="Renio">renio</a>. Dichos estudios han confirmado que las litosferas del manto situadas bajo algunos <a class="mw-redirect" href="/wiki/Craton" title="Craton">cratones</a> han persistido durante periodos superiores a los 3.000 millones de años, a pesar del flujo del manto que acompaña a la tectónica de placas.<sup class="reference separada" id="cite_ref-20"><a href="#cite_note-20"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>​
+</p>

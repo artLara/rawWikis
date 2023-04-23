@@ -1,0 +1,23 @@
+<p>La <b>lógica intuicionista</b>, o <b>lógica constructivista</b>, es el <a href="/wiki/Sistema_formal" title="Sistema formal">sistema lógico</a> originalmente desarrollado por <a href="/wiki/Arend_Heyting" title="Arend Heyting">Arend Heyting</a> para proveer una base formal para el <a href="/wiki/Intuicionismo" title="Intuicionismo">proyecto intuicionista</a> de <a href="/wiki/Luitzen_Egbertus_Jan_Brouwer" title="Luitzen Egbertus Jan Brouwer">Brouwer</a>. El sistema enfatiza las pruebas, en vez de la verdad, a lo largo de las transformaciones de las proposiciones.
+</p>
+<p>La lógica intuicionista rechaza el <a href="/wiki/Principio_del_tercero_excluido" title="Principio del tercero excluido">principio del tercero excluido</a>, pero conserva el <a href="/wiki/Principio_de_explosi%C3%B3n" title="Principio de explosión">principio de explosión</a>. Esto se debe a una observación de Brouwer de que si enfatizamos las pruebas en vez de la verdad, entonces en los conjuntos infinitos el principio del tercero excluido falla cuando se aplica a una proposición para la que no existe demostración, ni de su verdad ni de su falsedad. En los conjuntos finitos siempre es posible verificar si una proposición es cierta o falsa; en los infinitos, no. 
+</p>
+<p>En la <a href="/wiki/Sem%C3%A1ntica" title="Semántica">semántica</a> de la <a href="/wiki/L%C3%B3gica_cl%C3%A1sica" title="Lógica clásica">lógica clásica</a>, se asignan <a href="/wiki/Valor_de_verdad" title="Valor de verdad">valores de verdad</a> a fórmulas proposicionales del conjunto de dos elementos <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \{\top ,\bot \}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo fence="false" stretchy="false">{</mo>
+<mi mathvariant="normal">⊤<!-- ⊤ --></mi>
+<mo>,</mo>
+<mi mathvariant="normal">⊥<!-- ⊥ --></mi>
+<mo fence="false" stretchy="false">}</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \{\top ,\bot \}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \{\top ,\bot \}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/02ccf58345b8b31d226065b4f07a6476b0ecc22e" style="vertical-align: -0.838ex; width:6.975ex; height:2.843ex;"/></span> ("verdadero y "falso" respectivamente) independientemente si se tiene evidencia directa para cada caso. Esto se refiere a el <a href="/wiki/Principio_del_tercero_excluido" title="Principio del tercero excluido">Principio del tercero excluido</a>, que excluye la posibilidad para cualquier valor verdadero aparte de "verdadero" o "falso", evitando así un enunciado <a href="/wiki/Contradicci%C3%B3n" title="Contradicción">contradictorio</a>. En contraste, las fórmulas proposicionales en lógica intuicionista <i>no</i> tienen un valor definitivo de verdad asignado y solo son únicamente consideradas como "verdaderas" cuando se tiene <a href="/wiki/Demostraci%C3%B3n_en_matem%C3%A1tica#Demostraci.C3.B3n_directa" title="Demostración en matemática">evidencia directa.</a>
+</p>
+<p>La lógica intuicionista es una de las maneras de abordar el <a class="mw-redirect" href="/wiki/Constructivismo_(matem%C3%A1ticas)" title="Constructivismo (matemáticas)">Constructivismo</a> en matemáticas. El uso de Lógicas constructivistas en general han sido vistas como un tema controvertido entre matemáticos y filósofos.
+</p>
+<p>La objeción más reconocida que tiene es que excluye el principio del tercero excluido y la eliminación de doble negación, las cuales han sido reglas centrales para el <a href="/wiki/L%C3%B3gica_proposicional" title="Lógica proposicional">Cálculo proposicional</a>, y que <a href="/wiki/David_Hilbert" title="David Hilbert">David Hilbert</a> escribió de ellas: "Quitar el Principio del tercero excluido a un matemático, sería lo mismo que quitar un telescopio a un astrónomo o los guantes a un boxeador. Prohibir la existencia a enunciados y el principio de exclusión es equivalente a renunciar a toda la ciencia de las matemáticas."
+</p>

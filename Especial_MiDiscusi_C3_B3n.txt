@@ -1,0 +1,4 @@
+<p>Los usuarios de Wikipedia pueden utilizar esta <a href="/wiki/Wikipedia:P%C3%A1gina_de_usuario" title="Wikipedia:Página de usuario">página de discusión</a> para enviar un mensaje público sobre las ediciones realizadas desde la dirección IP que estás utilizando actualmente.
+</p>
+<p>Muchas direcciones IP cambian periódicamente y a veces son compartidas por varias personas. Puedes <a class="external text" href="https://es.wikipedia.org/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Usuario+discusi%C3%B3n%3A34.138.175.124&amp;returntoquery=">crear una cuenta</a> o <a class="external text" href="https://es.wikipedia.org/w/index.php?title=Especial:Entrar&amp;returnto=Usuario+discusi%C3%B3n%3A34.138.175.124&amp;returntoquery=">iniciar sesión</a> para evitar futuras confusiones con otros usuarios desconectados. La creación de una cuenta también oculta tu dirección IP.
+</p>

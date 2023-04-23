@@ -1,0 +1,420 @@
+<p>Esta página es una guía de estilo que describe cómo añadir <b>referencias</b> a artículos. <b>Proporcionar fuentes bibliográficas</b> al editarlos es obligatorio según las políticas de Wikipedia, como se expresa claramente en <a href="/wiki/Wikipedia:Wikipedia_no_es_una_fuente_primaria" title="Wikipedia:Wikipedia no es una fuente primaria">Wikipedia:Wikipedia no es una fuente primaria</a> y <a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">Wikipedia:Verificabilidad</a>. Esto implica que cualquier elemento introducido que haya sido puesto en cuestión puede ser eliminado por cualquier usuario.
+</p>
+<p>Las <b>referencias a otras obras</b> son una parte muy importante en la literatura de muchas profesiones; cada una de ellas ha diseñado su propia manera de incluir esta información en el texto, y estas han dado lugar a formatos estandarizados de cita. Dado que la <a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">verificabilidad</a> de la información es uno de los principios inamovibles de Wikipedia, es necesario que los artículos citen fuentes para indicar el origen de su contenido.
+</p>
+<p>Si bien sería posible incluir toda la información de la fuente yuxtapuesta al texto referenciado, las continuas interrupciones dificultarían la lectura; es por ello por lo que las referencias se reseñan en una sección aparte, al final del texto. Para indicar con precisión de qué obra de las incluidas en la bibliografía se ha extraído la información, hay dos métodos ampliamente utilizados; el más frecuente en la literatura tradicional, y aún ampliamente utilizado en las ciencias humanas, es el de emplear llamadas de nota; otro, más común en la literatura científica, es el de mencionar entre paréntesis el autor y año de la obra citada mediante, por ejemplo, el llamado <i><a href="/wiki/Estilo_Harvard_de_citas" title="Estilo Harvard de citas">estilo Harvard</a></i>. En cualquiera de los casos, la referencia parentética o al pie debe permitir identificar sin ambigüedad la obra citada en la sección de referencias.
+</p>
+<p>Aunque debería respetarse la decisión del autor original de un artículo, las llamadas de nota son el sistema preferencial. Las llamadas de nota, en particular, plantean algunos problemas técnicos, que se discuten en la sección de <a href="#Notas_al_pie_(llamadas_de_nota)_y_su_combinación_con_referencias">llamadas de nota</a> más abajo. Recuerda que, en todo caso, lo más importante es incluir toda la información necesaria para que el lector pueda encontrar la fuente original fácilmente.
+</p>
+<p>La forma más habitual de crear una cita embebida es con una nota al pie. Puedes crear una nota al pie de página con wikitexto, agregando etiquetas ref alrededor de tu fuente, de esta manera:
+</p>
+<p>Y el resultado sería: 
+</p>
+<p><sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Todas las obras consultadas deben figurar en la sección «Referencias», detalladas con suficiente precisión como para que otros lectores y editores puedan consultarlas fácilmente. Si bien los detalles necesarios no son siempre los mismos, una <a href="/wiki/Norma_(tecnolog%C3%ADa)" title="Norma (tecnología)">norma</a> <a class="mw-redirect" href="/wiki/Organizaci%C3%B3n_Internacional_para_la_Estandarizaci%C3%B3n" title="Organización Internacional para la Estandarización">ISO</a> (la <a href="/wiki/ISO_690" title="ISO 690">ISO 690</a>) establece el formato más usual y extendido para transcribir referencias. Puedes consultar la norma completa en <a class="external text" href="http://web.archive.org/web/20120728094612/http://biblioteca.ucv.cl/herramientas/citasbibliograficas/iso690/iso690.htm" rel="nofollow">este sitio</a> o en su <a class="external text" href="https://web.archive.org/web/20181224205707/https://www.mondragon.edu/es/web/biblioteka/norma-une-iso-690" rel="nofollow">versión actualizada (año 2013)</a>, pero los principios generales se detallan aquí de manera sencilla.
+</p>
+<p>Como mínimo, para identificar una obra es necesario conocer su autor, su título y los detalles de su publicación. En el caso de un artículo incluido en una revista, eso implica dar también el título de la revista, el número de la misma y la fecha de publicación; en el caso de un libro, la editorial, la fecha, el lugar de su edición y el número <a href="/wiki/ISBN" title="ISBN">ISBN</a>, en caso de conocerse. Otros formatos tienen otros requisitos.
+</p>
+<p>Wikipedia no puede citarse a sí misma, deben aportarse siempre referencias externas. Es decir, no se pueden emplear otros artículos de Wikipedia como referencias. Los <a href="/wiki/Ayuda:Enlace_interling%C3%BC%C3%ADstico" title="Ayuda:Enlace interlingüístico">enlaces interlingüisticos</a> (también conocidos como interwikis) tampoco deben usarse para referenciar un artículo, puesto que <a href="/wiki/Wikipedia:Wikipedia_no_es_una_fuente_primaria#Fuentes_primarias.2C_secundarias_y_terciarias" title="Wikipedia:Wikipedia no es una fuente primaria">Wikipedia es fuente terciaria</a>.  
+</p>
+<p>Una serie de plantillas ayuda a recordar cuál es la información necesaria y a darle el formato correcto; aunque <b>su uso es optativo</b> (siempre puedes lograr el mismo resultado manualmente), está recomendado para usuarios nuevos para asegurar que no dejan nada a medias. Las plantillas son las siguientes:
+</p>
+<p>Para citar un libro, puedes copiar y pegar el siguiente código, rellenar los parámetros que puedas y luego quitar los que no uses:
+</p>
+<p>No siempre es posible obtener la información para todos los parámetros, pero hay algunos que son básicos. Por ejemplo, para citar la primera edición de <i><a href="/wiki/El_capital" title="El capital">El capital</a></i> de <a href="/wiki/Karl_Marx" title="Karl Marx">Karl Marx</a>, la referencia es la siguiente:
+</p>
+<p>Y el resultado sería:
+</p>
+<p>A la hora de citar libros, se recomienda incluir el identificador <a href="/wiki/ISBN" title="ISBN">ISBN</a> (en caso de que exista) de la publicación, para facilitar así una identificación inequívoca de la referencia aportada. En este caso particular, como el libro no llevaba un ISBN, se ha añadido la referencia al número del catálogo del <a class="mw-redirect" href="/wiki/Online_Computer_Library_Center" title="Online Computer Library Center">Online Computer Library Center</a> (conocido como «worldcat»), muy útil cuando se carece de ISBN. Las búsquedas se pueden realizar en <a class="external text" href="http://www.worldcat.org/advancedsearch" rel="nofollow">esta página</a>. En el caso de obras publicadas usando otros alfabetos, lo mejor es colocar la transcripción estandarizada inmediatamente después de los datos originales; en todo caso, es recomendable citar obras en castellano siempre que sea posible.
+</p>
+<p>Para más parámetros y usos más avanzados de esta plantilla, véase <code>{{<a href="/wiki/Plantilla:Cita_libro" title="Plantilla:Cita libro">Cita libro</a>}}</code>.
+</p>
+<p>Para citar un artículo publicado en una revista o periódico, puedes copiar y pegar el siguiente código, rellenar los parámetros que puedas y luego quitar los que no uses:
+</p>
+<p>Por ejemplo, para citar el artículo original en el que Watson y Crick describieron por primera vez la estructura del <a class="mw-redirect" href="/wiki/ADN" title="ADN">ADN</a>, la referencia es la siguiente:
+</p>
+<p>Y el resultado sería:
+</p>
+<p>Para más parámetros y usos más avanzados de la plantilla, véase <a href="/wiki/Plantilla:Cita_publicaci%C3%B3n" title="Plantilla:Cita publicación">Plantilla:Cita publicación</a>.
+</p>
+<p>Para citar un artículo publicado en una página de Internet, puedes copiar y pegar el siguiente código, rellenar los parámetros que puedas y luego quitar los que no uses:
+</p>
+<p>Por ejemplo, para citar el artículo de <a class="new" href="/w/index.php?title=Paul_Roberts&amp;action=edit&amp;redlink=1" title="Paul Roberts (aún no redactado)">Paul Roberts</a> sobre <a class="mw-redirect" href="/wiki/WebTV" title="WebTV">WebTV</a>, la referencia es la siguiente:
+</p>
+<p>Y el resultado sería:
+</p>
+<p>Para más parámetros y usos más avanzados de la plantilla (incluyendo la prevención de <a href="/wiki/Enlace_roto" title="Enlace roto">enlaces rotos</a>), véase <a href="/wiki/Plantilla:Cita_web" title="Plantilla:Cita web">Plantilla:Cita web</a>.
+</p>
+<p>Las plantillas de referencia mencionadas más arriba son tres de las más utilizadas. Sin embargo, existen varias otras plantillas de referencia que pueden utilizarse para citar otros tipos de obras. Por ejemplo, <a href="/wiki/Plantilla:Cita_enciclopedia" title="Plantilla:Cita enciclopedia">entradas de enciclopedias</a>, <a href="/wiki/Plantilla:Cita_conferencia" title="Plantilla:Cita conferencia">conferencias</a>, <a class="mw-redirect" href="/wiki/Plantilla:Cita_v%C3%ADdeo" title="Plantilla:Cita vídeo">vídeos</a> o <a href="/wiki/Plantilla:Cita_episodio" title="Plantilla:Cita episodio">episodios de radio o televisión</a>. Además, algunas obras muy citadas tienen plantillas de referencia propias. Por ejemplo, el <a class="mw-redirect" href="/wiki/Plantilla:Cita_DRAE" title="Plantilla:Cita DRAE">diccionario de la Real Academia Española</a>, la <a href="/wiki/Plantilla:Biblia" title="Plantilla:Biblia">Biblia</a> o las <a href="/wiki/Plantilla:Cita_Tolkien" title="Plantilla:Cita Tolkien">obras de Tolkien</a>. Para un listado completo de todas las plantillas de referencia disponibles, véase <a href="/wiki/Categor%C3%ADa:Wikipedia:Plantillas_de_referencias" title="Categoría:Wikipedia:Plantillas de referencias">Categoría:Wikipedia:Plantillas de referencias</a>.
+</p>
+<p>No existe consenso sobre cómo agrupar las referencias y las notas al pie en un artículo, y por ello en los artículos de Wikipedia se observa cierta diversidad. Se ha desarrollado un procedimiento que consiste en crear una sección única de Notas más otra sección única Referencias (título de segundo nivel) que incluya como subsecciones las diferentes formas de información referencial, por ejemplo mediante el siguiente esquema:
+</p>
+<p>Una versión simplificada sin notas, únicamente con Referencias y Bibliografía, sería:
+</p>
+<p>Para el uso múltiple de la misma cita en línea o nota al pie, puede usar la función de referencia con nombre (también llamada nominada), elegir un nombre para identificar la cita y escribir <code class="nowrap">&lt;ref name="<var>nombre</var>"&gt;texto de la cita&lt;/ref&gt;</code>. 
+</p>
+<p>
+A partir de ese momento, la misma referencia nominada puede ser reutilizada cualquier número de veces, ya sea antes o después de la definición de uso, escribiendo el nombre de referencia previo, de esta forma: </p>
+<p>El uso de la barra inclinada <b>/</b> antes de <code>&gt;</code> ("<a href="/wiki/Signo_mayor_que" title="Signo mayor que">signo mayor que</a>" o angulado a la derecha) significa que la etiqueta es autocerrante y que no se debe usar &lt;/ref&gt;, como ocurre para cerrar otras referencias.
+</p>
+<p>Por favor observe que el nombre de la referencia no puede ser un número entero, ya que el sistema no lo acepta y, por ello, debe contener al menos una letra; por ejemplo, no puede ser name="1234" pero sí name="1234a". Una vez hecho esto, es posible insertar una cita a esa obra desde cualquier otra parte del texto escribiendo simplemente <code>&lt;ref name="Nombre" /&gt;</code>. También se puede usar sin comillas <code>&lt;ref name=Nombre&gt;</code>, pero no funcionan las palabras que contienen letras que no son del <a class="mw-redirect" href="/wiki/Abecedario_ingl%C3%A9s" title="Abecedario inglés">abecedario inglés</a>.
+</p>
+<p>Por ejemplo, si debajo del texto introducimos <code>{{listaref}}</code>:
+</p>
+<p>Dará como resultado:
+</p>
+<p><big><big>Referencias</big></big>
+</p>
+<p>Las dos letras «a» y «b» a la izquierda de la segunda referencia indican que fue citada dos veces. Haciendo clic en las letras, el lector puede ir directamente a las distintas partes del texto donde fue citado el trabajo.
+</p>
+<p>Si se desea citar varias páginas dispersas de un mismo texto impreso, ya sea una revista o un libro, es recomendable identificar completamente la fuente con <code>{{<a href="/wiki/Plantilla:Cita_libro" title="Plantilla:Cita libro">cita libro</a>}}</code> y <code>{{<a href="/wiki/Plantilla:Cita_publicaci%C3%B3n" title="Plantilla:Cita publicación">cita publicación</a>}}</code> en la sección Bibliografía, para luego citar cada página con <code>{{<a href="/wiki/Plantilla:Harvnp" title="Plantilla:Harvnp">Harvnp</a>}}</code> junto a la información que se desee referenciar. Esto es solo válido para los textos impresos con año de publicación, si se utiliza una página web como fuente el sistema no vinculará la referencia con la cita y se deberán referenciar cada uno de sus enlaces.
+</p>
+<p>Las secciones precedentes explicaban cómo organizar el apartado de bibliografía al final del texto. En adelante, explicaremos las dos maneras más habituales de indicar en el texto cuál de las referencias citadas es la fuente para una afirmación particular; de ese modo, incluso en el caso de un artículo denso y prolijamente documentado, la relación con cada una de las fuentes bibliográficas queda clara en todo momento. Los dos métodos son mediante llamadas de nota y mediante referencias en el estilo Harvard. Las llamadas de nota usan enlaces para conectar el texto con la cita, y tienen la ventaja de no tomar mucho espacio en el texto. Las referencias en el estilo Harvard incluyen la información más importante de la cita en el texto principal mismo, haciendo que el lector sepa directamente el origen de la información, pero tiene la desventaja de que el texto principal pierde continuidad.
+</p>
+<p>Además de las referencias, es posible insertar aclaraciones al cuerpo del artículo como notas al pie. Dichas aclaraciones son pertinentes pero se introducen a través de llamadas de nota para no sobrecargar el texto y su contenido puede y debe estar referenciado según el caso (véase <a href="#Notas_al_pie_con_referencias">Notas al pie con referencias</a>). Se recomienda que estén separadas de las referencias con una sección o subsección separada denominada <i>Notas</i> que debe ir colocada antes de la sección <i>Referencias</i>. 
+</p>
+<p>Para introducir una referencia de este tipo, se debe seguir el siguiente procedimiento:
+</p>
+<p>Insertar el comentario o aclaración entre las etiquetas <code><code>{{<a href="/wiki/Plantilla:Refn" title="Plantilla:Refn">refn</a>|group="nota"|&lt;Texto&gt;}}</code></code> en cualquier parte del texto. También es posible mediante la introducción del siguiente código: <code>&lt;ref group="nota"&gt;Texto.&lt;/ref&gt;</code>. En el caso de que coincida con un signo de puntuación (punto, coma, punto y coma, etc.) sitúa el cursor inmediatamente después del signo.<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>Nota 1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Otra alternativa para distinguir las notas de las referencias, es utilizar para las notas el código <code>&lt;ref group=lower-alpha&gt;Texto.&lt;/ref&gt;</code>.
+</p>
+<p>Si necesariamente se debe insertar la referencia <i>en el medio del texto</i> y la llamada queda demasiado cerca del mismo (por ejemplo porque está en cursiva, como en <i>control</i><sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></sup> o porque está en mayúsculas, como en TV<sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></sup>), se puede agregar un espacio delgado –no uno normal– mediante &amp;thinsp;<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>Nota 2<span class="corchete-llamada">]</span></a></sup>​ antes de la etiqueta, así: <code>TV&amp;thinsp;&lt;ref&gt;&lt;/ref&gt;</code>; lo que resultará en <i>control</i> <sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></sup> y TV <sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></sup> respectivamente.
+</p>
+<p>La nota será desplegada cuando se inserte la plantilla <b><code>{{<a href="/wiki/Plantilla:Listaref" title="Plantilla:Listaref">Listaref</a>|group="nota"}}</code></b> o <code>&lt;references group="nota" /&gt;</code> en la sección «Notas» o bien la subsección «Notas» en la sección «Referencias». De este modo, se pueden separar y distinguir las referencias de las notas.
+</p>
+<p>Las notas también pueden tener un nombre que las identifique, al igual que las referencias, usando el parámetro <code>name=</code>. No olvidar colocarlo entre comillas. Ejemplo: <code><code>{{<a href="/wiki/Plantilla:Refn" title="Plantilla:Refn">refn</a>|group="nota"|name="2011A"|&lt;Texto&gt;}}</code></code>. Y se reutilizaría: <code><code>{{<a href="/wiki/Plantilla:Refn" title="Plantilla:Refn">refn</a>|group="nota"|name="2011A"|}}</code></code>. (Por favor, recordar que el nombre de la referencia no puede ser un número entero, ya que el sistema no lo acepta y, por ello, debe contener al menos una letra). También es posible mediante la introducción del siguiente código: <code>&lt;ref group="nota" name="ejemplo"&gt;Texto.&lt;/ref&gt;</code>.
+</p>
+<p>Por último, comprueba si existe la sección  == <b>Referencias</b> == al final del artículo (para su correcta colocación, véase <a class="mw-redirect" href="/wiki/Wikipedia:EA" title="Wikipedia:EA">WP:EA</a>), y verifica que en ella se encuentre la plantilla <code>{{<a href="/wiki/Plantilla:Listaref" title="Plantilla:Listaref">listaref</a>}}</code>. De no ser así, crea dicha sección e incluye en ella la plantilla. Al guardar los cambios, todo el texto que esté contenido entre las etiquetas <code class="nowrap">&lt;ref&gt;&lt;/ref&gt;</code> se desplegará con un formato adecuado en la sección «Notas y referencias».
+</p>
+<p>El siguiente ejemplo ilustra esta técnica, combinada con el uso de notas:
+</p>
+<p>Esto aparece como:
+</p>
+<p>Este código tendrá como resultado, además del título de la sección, lo siguiente:
+</p>
+<p><big><big>Referencias</big></big>
+</p>
+<p>Para distinguir las notas de las referencias, también es posible utilizar para las notas el código <code>&lt;ref group=lower-alpha&gt;Texto.&lt;/ref&gt;</code>. De este modo la nota aparece en el texto, como una letra volada.
+</p>
+<p>Con esta alternativa, el ejemplo anterior se vería así:
+</p>
+<p>Este código tendrá como resultado, además del título de la sección, lo siguiente:
+</p>
+<p><big><big>Referencias</big></big>
+</p>
+<p>Si una nota contiene la etiqueta &lt;ref&gt; en su interior, es necesario usar la plantilla <code>{{refn}}</code>.
+</p>
+<p>Por ejemplo:
+<code>{{refn|group="nota"|Una nota.&lt;ref&gt;Una referencia dentro de la nota&lt;/ref&gt;}}</code>
+</p>
+<p>Luego, al igual que con las notas sin referencias, se crea la sección «Notas» y se inserta la plantilla <code>{{<a href="/wiki/Plantilla:Listaref" title="Plantilla:Listaref">listaref</a>|group=nota}}</code>.
+</p>
+<p>En caso de que la nota al pie tenga que tener nombre, para referenciarla más de una vez, se usa el parámetro de plantilla "name"; por ejemplo:
+</p>
+<p><code>{{refn|group="nota"|name="primero"|Una nota.&lt;ref&gt;Una referencia dentro de la nota.&lt;/ref&gt;}}</code>
+</p>
+<p>Puede ocurrir que varias partes del texto citen a una misma nota al pie. Para lograr esto, siguiendo con la plantilla <code>{{refn}}</code> 
+se hace los siguiente:
+</p>
+<p>Creamos la nota al pie de página y le asignamos un nombre:
+<code>{{refn|group=nota|name="CitaSing&amp;Ernst2008" |Singh &amp; Ernst (2008) dijeron: «Los científicos aún no han podido encontrar la más mínima evidencia que apoye la existencia de los meridianos o el Ch'i».&lt;ref&gt;{{harvnb|Singh &amp; Ernst2008|2008|p= 72}}&lt;/ref&gt;</code>
+</p>
+<p>En este caso incluye un cita harvard, pero puede ser también otro tipo de cita.
+</p>
+<p>En el texto se llama a la cita de la siguiente forma:
+<code>{{ep|refn|group{{=}}"nota"|name{{=}}"CitaSing&amp;Ernst2008"{{!}}}}</code>
+o
+<code>{{refn|group{{=}}nota|name{{=}}"CitaSing&amp;Ernst2008"}}</code>
+</p>
+<p>Una tercer alternativa sería
+<code>&lt;ref group="nota" name="CitaSing&amp;Ernst2008" /&gt;</code>
+</p>
+<p>Ejemplo:
+<code>
+
+Las investigaciones científicas no han encontrado ninguna evidencia histológica o fisiológica que respalde la existencia del qi, meridianos, puntos acupunturales, o el o yin y yang.{{refn|group=nota|name="CitaSing&amp;Ernst2008"}}
+
+</code>
+<br/>
+<br/>
+<code>
+
+{{refn|group=notas|name="CitaSing&amp;Ernst2008" |Singh &amp; Ernst (2008) dijeron: «Los científicos aún no han podido encontrar la más mínima evidencia que apoye la existencia de los meridianos o el Ch'i».&lt;ref&gt;{{harvnb|Singh &amp; Ernst|2008|p= 72}}&lt;/ref&gt;}}
+
+</code>
+</p>
+<p>El parámetro «refs» de la plantilla <code>{{<a href="/wiki/Plantilla:Listaref" title="Plantilla:Listaref">listaref</a>}}</code> sirve para listar las referencias presentes en el artículo. La ventaja de este método es que resulta más fácil de leer y editar el texto del cuerpo del artículo ya que no está tan sobrecargado del código wiki relativo a las referencias. Se realiza de la siguiente forma:
+</p>
+<p>Las llamadas de nota se insertan en el texto de la misma manera que para <a href="#Cómo_referenciar_más_de_una_vez_la_misma_obra">citar varias veces la misma obra</a>: <code>&lt;ref name="nombre" /&gt;</code> Ejemplo:
+</p>
+<p>Esto da como resultado lo siguiente:
+</p>
+<p>Los fósiles son los restos o señales de la actividad de organismos pasados.<sup class="reference separada" id="cite_ref-Oldman2009_12-0"><a href="#cite_note-Oldman2009-12"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ La ciencia que se ocupa del estudio de los fósiles es la paleontología.<sup class="reference separada" id="cite_ref-Belardo2007_13-0"><a href="#cite_note-Belardo2007-13"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Si el artículo posee una gran cantidad de referencias, podría ser conveniente desplegarlas en dos o más columnas. Para lograr esto, basta con insertar el número de columnas deseado (2, 3, 4) en el parámetro de la plantilla <code>{{<a href="/wiki/Plantilla:Listaref" title="Plantilla:Listaref">listaref</a>}}</code>. Por ejemplo, supongamos el siguiente código:
+</p>
+<p>Este código produce el siguiente texto:
+</p>
+<p><br/><br/>
+<big><big>Referencias</big></big>
+</p>
+<p>Sin embargo, es necesario tener en cuenta que la función de columnas no está soportada en todos los navegadores web y no es recomendable el uso de valores superiores a 2. Consulta la <a href="/wiki/Plantilla:Listaref/doc" title="Plantilla:Listaref/doc">Plantilla:Listaref/doc</a> para conocer más detalles.
+</p>
+<p>En ocasiones, la lectura del artículo se facilita si varias referencias se agrupan en una única llamada. Por ejemplo, si existen múltiples fuentes para una sola afirmación y cada una de ellas aplica a toda la frase, entonces las fuentes se pueden colocar al final de la frase como en este ejemplo,<sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></sup><sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></sup><sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></sup><sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></sup> o pueden agruparse en una sola al final de la frase o párrafo como este otro ejemplo.<sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></sup>
+</p>
+<p>El agrupado es útil si las fuentes referencian diferentes partes del texto precedente o si todas las fuentes referencian el mismo texto. Existen varias ventajas:
+</p>
+<p>Existen diferentes modos de dar formato a múltiples citas en una única llamada, como se ilustra debajo (en general, usando viñetas, saltos de línea, o condensando en un único párrafo). Se debe procurar usar un único estilo dentro de un artículo para dar homogeneidad.
+</p>
+<p>El Sol es muy grande, pero la Luna no tanto. El Sol también es muy caliente.<sup class="reference" id="nbFoot01a"><a href="#noteFoot01a">[1]</a></sup>
+<br/><br/>
+<font size="3">Notas</font>
+</p>
+<p>El <a href="/wiki/Estilo_Harvard_de_citas" title="Estilo Harvard de citas">estilo Harvard</a> (conocido también como sistema de autor-fecha) es un sistema de citas desarrollado por la <a href="/wiki/Universidad_de_Harvard" title="Universidad de Harvard">Universidad de Harvard</a> y empleado hoy extensamente en las ciencias físicas, naturales y sociales. En el estilo Harvard, una forma abreviada de la referencia (compuesta por el apellido de los autores y el año de publicación) se intercala en el texto inmediatamente después del material citado; la referencia completa se encuentra en una sección aparte, tal como hemos detallado más arriba.
+</p>
+<p>La referencia debe contener la suficiente información para ubicar la obra consultada en la sección de bibliografía; el número de la página en la obra original es opcional, aunque recomendable. Por ejemplo, para citar el libro de Marx mencionado más arriba, podríamos hacer lo siguiente:
+</p>
+<p>Utilizando la plantilla <code>{{<a href="/wiki/Plantilla:Cita_Harvard" title="Plantilla:Cita Harvard">Cita Harvard</a>}}</code> en combinación con el uso de <code>{{<a href="/wiki/Plantilla:Cita_libro" title="Plantilla:Cita libro">cita libro</a>}}</code> en la bibliografía, se crea un enlace interno desde la cita hasta el libro del mismo autor y año incluido en la misma.  Si se usa <code>{{<a href="/wiki/Plantilla:Harvnp" title="Plantilla:Harvnp">harvnp</a>}}</code> en lugar de <code>{{<a href="/wiki/Plantilla:Cita_Harvard" title="Plantilla:Cita Harvard">Cita Harvard</a>}}</code> se crea una nota al pie y la referencia se muestra en la sección respectiva. Esta es la forma recomendada cuando se usa recurrentemente una misma fuente y se quiere referenciar múltiples afirmaciones o citar diversas páginas.
+</p>
+<p>Existen algunas reglas adicionales:
+</p>
+<p>La sección <code>==Enlaces externos==</code> se sitúa tras la de referencias, y ofrece libros, artículos y enlaces a sitios web relacionados con el asunto que puedan ser de interés al lector, pero que <u><i>no han sido empleados como fuentes para el artículo</i></u>.  
+</p>
+<p>Una <a class="mw-redirect" href="/wiki/URL" title="URL">URL</a> rodeada de unos corchetes simples se visualizará como un número entre corchetes que conducen a la página mencionada en la URL. Por ejemplo, [http://es.wikipedia.org/wiki/Wikipedia:Referencias] se verá <a class="external text" href="https://es.wikipedia.org/wiki/Wikipedia:Referencias">[3]</a>. Nótese que los enlaces de este tipo se sitúan después de un punto y seguido, como aquí. <a class="external text" href="http://www.elmundo.es/elmundo/2006/01/27/espana/1138389451.html" rel="nofollow">[4]</a>
+</p>
+<p>Una referencia de estilo Harvard puede ser visualizada como un enlace externo si el trabajo referenciado se encuentra en la Red.
+</p>
+<p>Atribución a la cita, es el tipo de atribución que se realiza dentro de una sentencia o material hacia su propia fuente, además de una citación en la línea luego de la sentencia. Atribución a la cita debe ser usada en un <a href="/wiki/Estilo_directo" title="Estilo directo">estilo directo</a> (palabras de la fuente entre comillas o como una cita); <a href="/wiki/Estilo_indirecto" title="Estilo indirecto">estilo indirecto</a> (palabras de la fuente modificadas y sin comillas) y <a href="/wiki/Par%C3%A1frasis" title="Paráfrasis">Paráfrasis mecánica</a>. También se puede utilizar cuando se necesita resumir un poco, en tus propias palabras, la postura adoptada por la fuente. Evita el plagio involuntario y ayuda al lector a ver de dónde viene una postura. La cita debe venir después de la atribución, por lo general al final de la frase o párrafo en cuestión.
+</p>
+<p>Cuando se utiliza la atribución a la cita, asegúrese de que no estás cometiendo una violación de neutralidad involuntaria. Por ejemplo, la siguiente implica la paridad entre las fuentes, sin dejar claro que la posición de Darwin es la opinión de la mayoría:
+</p>
+<p>Diferencias en cuestiones de neutralidad, existen otras maneras en que la Atribución a la cita puede inducir a error. La siguiente oración sugiere que <i>The New York Times</i> ha hecho por sí solo este importante descubrimiento:
+</p>
+<p>Lo mejor es no saturar artículos con demasiada información, es mejor dejar eso a las referencias. Los lectores interesados ​​pueden hacer clic en la referencia y averiguar el periódico que realizó la publicación:
+</p>
+<p>Hechos simples como este pueden tener citas en línea a fuentes confiables como una ayuda para el lector, pero normalmente el texto en sí es mejor dejarlo como una afirmación clara y sin atribución a la cita:
+</p>
+<p>Cuando uno de los enlaces de la sección «Enlaces externos»/«Para más información» se vuelve inválido, puede ser perfectamente eliminado del artículo. En cambio, los enlaces de la sección de Referencias (esto es, enlaces a fuentes usadas en la escritura del artículo) deben ser conservados. En general, merece la pena seguir manteniendo la estructura referencial del artículo; muy a menudo se podrá encontrar un sustituto activo y en la mayor parte de los casos estos sucedáneos son considerados fuentes válidas:
+</p>
+<p>Si ninguna de estas estrategias ha tenido éxito, no eliminar las referencias inactivas: registrar la fecha en que el enlace original fue encontrado «muerto». Incluso en este estado indica las fuentes empleadas y es posible que sigan existiendo copias impresas, o bien la probabilidad de que la página se dé de alta en Internet Archive, pues mantiene un retraso deliberado de seis meses o más. Nótese también que mientras muchas fuentes impresas acaban obsoletas o desclasificadas, los investigadores siguen referenciándolas.
+</p>
+<p>Si un artículo necesita fuentes pero no eres capaz de encontrarlas, puedes etiquetarlo con la plantilla<code><code>{{<a href="/wiki/Plantilla:Referencias" title="Plantilla:Referencias">referencias</a>}}</code></code>. Es más útil indicar los lugares específicos que necesitan de referencias añadiéndoles al margen<code><code>{{<a href="/wiki/Plantilla:Cita_requerida" title="Plantilla:Cita requerida">cita requerida</a>}}</code></code> o <code><code>{{<a class="mw-redirect" href="/wiki/Plantilla:Cr" title="Plantilla:Cr">cr</a>}}</code></code>, que puede colocarse en el mismo lugar donde se ubicarían referencias intercaladas.
+</p>
+<p>También puedes dejar un aviso al autor del artículo sin referencias. Lo recomendable es un breve comentario al autor si este es veterano. Para autores noveles puede usarse la plantilla de aviso al usuario <code>{{sust:<a href="/wiki/Plantilla:Aviso_referencias" title="Plantilla:Aviso referencias">aviso referencias</a>|nombre del artículo}}</code>. El uso de esta plantilla es siempre consecuencia de la utilización de alguna de las dos plantillas anteriores.
+</p>
+<p>Si quieres colaborar en la mejora de artículos con esta deficiencia puedes visitar <a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_que_necesitan_referencias" title="Categoría:Wikipedia:Artículos que necesitan referencias">esta categoría</a> en la que se agrupan todos aquellos artículos que han sido marcados con la plantilla que las solicita.
+</p>
+<p>Para citar a Wikipedia <b>en otros trabajos</b>, véase <a href="/wiki/Wikipedia:Citar_Wikipedia" title="Wikipedia:Citar Wikipedia">Wikipedia:Citar Wikipedia</a>. La herramienta <b><a href="/wiki/Especial:Citar" title="Especial:Citar">Especial:Citar</a></b> también está disponible como ayuda. Asimismo, en el cuadro de herramientas, a la izquierda de todos los artículos, se encuentra un enlace llamado «Citar este artículo» que conduce a una lista de posibles modos de referenciar la versión estática visible en el momento; por ejemplo, el artículo <a class="external text" href="https://es.wikipedia.org/w/index.php?title=Especial:Cite&amp;page=Multiculturalismo&amp;id=2160185">Multiculturalismo</a>, en su edición de 28 de enero de 2006.
+</p>
+<p>Esta página es una guía de estilo que describe cómo añadir <b>referencias</b> a artículos. <b>Proporcionar fuentes bibliográficas</b> al editarlos es obligatorio según las políticas de Wikipedia, como se expresa claramente en <a href="/wiki/Wikipedia:Wikipedia_no_es_una_fuente_primaria" title="Wikipedia:Wikipedia no es una fuente primaria">Wikipedia:Wikipedia no es una fuente primaria</a> y <a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">Wikipedia:Verificabilidad</a>. Esto implica que cualquier elemento introducido que haya sido puesto en cuestión puede ser eliminado por cualquier usuario.
+</p>
+<p>Las <b>referencias a otras obras</b> son una parte muy importante en la literatura de muchas profesiones; cada una de ellas ha diseñado su propia manera de incluir esta información en el texto, y estas han dado lugar a formatos estandarizados de cita. Dado que la <a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">verificabilidad</a> de la información es uno de los principios inamovibles de Wikipedia, es necesario que los artículos citen fuentes para indicar el origen de su contenido.
+</p>
+<p>Si bien sería posible incluir toda la información de la fuente yuxtapuesta al texto referenciado, las continuas interrupciones dificultarían la lectura; es por ello por lo que las referencias se reseñan en una sección aparte, al final del texto. Para indicar con precisión de qué obra de las incluidas en la bibliografía se ha extraído la información, hay dos métodos ampliamente utilizados; el más frecuente en la literatura tradicional, y aún ampliamente utilizado en las ciencias humanas, es el de emplear llamadas de nota; otro, más común en la literatura científica, es el de mencionar entre paréntesis el autor y año de la obra citada mediante, por ejemplo, el llamado <i><a href="/wiki/Estilo_Harvard_de_citas" title="Estilo Harvard de citas">estilo Harvard</a></i>. En cualquiera de los casos, la referencia parentética o al pie debe permitir identificar sin ambigüedad la obra citada en la sección de referencias.
+</p>
+<p>Aunque debería respetarse la decisión del autor original de un artículo, las llamadas de nota son el sistema preferencial. Las llamadas de nota, en particular, plantean algunos problemas técnicos, que se discuten en la sección de <a href="#Notas_al_pie_(llamadas_de_nota)_y_su_combinación_con_referencias">llamadas de nota</a> más abajo. Recuerda que, en todo caso, lo más importante es incluir toda la información necesaria para que el lector pueda encontrar la fuente original fácilmente.
+</p>
+<p>La forma más habitual de crear una cita embebida es con una nota al pie. Puedes crear una nota al pie de página con wikitexto, agregando etiquetas ref alrededor de tu fuente, de esta manera:
+</p>
+<p>Y el resultado sería: 
+</p>
+<p><sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Todas las obras consultadas deben figurar en la sección «Referencias», detalladas con suficiente precisión como para que otros lectores y editores puedan consultarlas fácilmente. Si bien los detalles necesarios no son siempre los mismos, una <a href="/wiki/Norma_(tecnolog%C3%ADa)" title="Norma (tecnología)">norma</a> <a class="mw-redirect" href="/wiki/Organizaci%C3%B3n_Internacional_para_la_Estandarizaci%C3%B3n" title="Organización Internacional para la Estandarización">ISO</a> (la <a href="/wiki/ISO_690" title="ISO 690">ISO 690</a>) establece el formato más usual y extendido para transcribir referencias. Puedes consultar la norma completa en <a class="external text" href="http://web.archive.org/web/20120728094612/http://biblioteca.ucv.cl/herramientas/citasbibliograficas/iso690/iso690.htm" rel="nofollow">este sitio</a> o en su <a class="external text" href="https://web.archive.org/web/20181224205707/https://www.mondragon.edu/es/web/biblioteka/norma-une-iso-690" rel="nofollow">versión actualizada (año 2013)</a>, pero los principios generales se detallan aquí de manera sencilla.
+</p>
+<p>Como mínimo, para identificar una obra es necesario conocer su autor, su título y los detalles de su publicación. En el caso de un artículo incluido en una revista, eso implica dar también el título de la revista, el número de la misma y la fecha de publicación; en el caso de un libro, la editorial, la fecha, el lugar de su edición y el número <a href="/wiki/ISBN" title="ISBN">ISBN</a>, en caso de conocerse. Otros formatos tienen otros requisitos.
+</p>
+<p>Wikipedia no puede citarse a sí misma, deben aportarse siempre referencias externas. Es decir, no se pueden emplear otros artículos de Wikipedia como referencias. Los <a href="/wiki/Ayuda:Enlace_interling%C3%BC%C3%ADstico" title="Ayuda:Enlace interlingüístico">enlaces interlingüisticos</a> (también conocidos como interwikis) tampoco deben usarse para referenciar un artículo, puesto que <a href="/wiki/Wikipedia:Wikipedia_no_es_una_fuente_primaria#Fuentes_primarias.2C_secundarias_y_terciarias" title="Wikipedia:Wikipedia no es una fuente primaria">Wikipedia es fuente terciaria</a>.  
+</p>
+<p>Una serie de plantillas ayuda a recordar cuál es la información necesaria y a darle el formato correcto; aunque <b>su uso es optativo</b> (siempre puedes lograr el mismo resultado manualmente), está recomendado para usuarios nuevos para asegurar que no dejan nada a medias. Las plantillas son las siguientes:
+</p>
+<p>Para citar un libro, puedes copiar y pegar el siguiente código, rellenar los parámetros que puedas y luego quitar los que no uses:
+</p>
+<p>No siempre es posible obtener la información para todos los parámetros, pero hay algunos que son básicos. Por ejemplo, para citar la primera edición de <i><a href="/wiki/El_capital" title="El capital">El capital</a></i> de <a href="/wiki/Karl_Marx" title="Karl Marx">Karl Marx</a>, la referencia es la siguiente:
+</p>
+<p>Y el resultado sería:
+</p>
+<p>A la hora de citar libros, se recomienda incluir el identificador <a href="/wiki/ISBN" title="ISBN">ISBN</a> (en caso de que exista) de la publicación, para facilitar así una identificación inequívoca de la referencia aportada. En este caso particular, como el libro no llevaba un ISBN, se ha añadido la referencia al número del catálogo del <a class="mw-redirect" href="/wiki/Online_Computer_Library_Center" title="Online Computer Library Center">Online Computer Library Center</a> (conocido como «worldcat»), muy útil cuando se carece de ISBN. Las búsquedas se pueden realizar en <a class="external text" href="http://www.worldcat.org/advancedsearch" rel="nofollow">esta página</a>. En el caso de obras publicadas usando otros alfabetos, lo mejor es colocar la transcripción estandarizada inmediatamente después de los datos originales; en todo caso, es recomendable citar obras en castellano siempre que sea posible.
+</p>
+<p>Para más parámetros y usos más avanzados de esta plantilla, véase <code>{{<a href="/wiki/Plantilla:Cita_libro" title="Plantilla:Cita libro">Cita libro</a>}}</code>.
+</p>
+<p>Para citar un artículo publicado en una revista o periódico, puedes copiar y pegar el siguiente código, rellenar los parámetros que puedas y luego quitar los que no uses:
+</p>
+<p>Por ejemplo, para citar el artículo original en el que Watson y Crick describieron por primera vez la estructura del <a class="mw-redirect" href="/wiki/ADN" title="ADN">ADN</a>, la referencia es la siguiente:
+</p>
+<p>Y el resultado sería:
+</p>
+<p>Para más parámetros y usos más avanzados de la plantilla, véase <a href="/wiki/Plantilla:Cita_publicaci%C3%B3n" title="Plantilla:Cita publicación">Plantilla:Cita publicación</a>.
+</p>
+<p>Para citar un artículo publicado en una página de Internet, puedes copiar y pegar el siguiente código, rellenar los parámetros que puedas y luego quitar los que no uses:
+</p>
+<p>Por ejemplo, para citar el artículo de <a class="new" href="/w/index.php?title=Paul_Roberts&amp;action=edit&amp;redlink=1" title="Paul Roberts (aún no redactado)">Paul Roberts</a> sobre <a class="mw-redirect" href="/wiki/WebTV" title="WebTV">WebTV</a>, la referencia es la siguiente:
+</p>
+<p>Y el resultado sería:
+</p>
+<p>Para más parámetros y usos más avanzados de la plantilla (incluyendo la prevención de <a href="/wiki/Enlace_roto" title="Enlace roto">enlaces rotos</a>), véase <a href="/wiki/Plantilla:Cita_web" title="Plantilla:Cita web">Plantilla:Cita web</a>.
+</p>
+<p>Las plantillas de referencia mencionadas más arriba son tres de las más utilizadas. Sin embargo, existen varias otras plantillas de referencia que pueden utilizarse para citar otros tipos de obras. Por ejemplo, <a href="/wiki/Plantilla:Cita_enciclopedia" title="Plantilla:Cita enciclopedia">entradas de enciclopedias</a>, <a href="/wiki/Plantilla:Cita_conferencia" title="Plantilla:Cita conferencia">conferencias</a>, <a class="mw-redirect" href="/wiki/Plantilla:Cita_v%C3%ADdeo" title="Plantilla:Cita vídeo">vídeos</a> o <a href="/wiki/Plantilla:Cita_episodio" title="Plantilla:Cita episodio">episodios de radio o televisión</a>. Además, algunas obras muy citadas tienen plantillas de referencia propias. Por ejemplo, el <a class="mw-redirect" href="/wiki/Plantilla:Cita_DRAE" title="Plantilla:Cita DRAE">diccionario de la Real Academia Española</a>, la <a href="/wiki/Plantilla:Biblia" title="Plantilla:Biblia">Biblia</a> o las <a href="/wiki/Plantilla:Cita_Tolkien" title="Plantilla:Cita Tolkien">obras de Tolkien</a>. Para un listado completo de todas las plantillas de referencia disponibles, véase <a href="/wiki/Categor%C3%ADa:Wikipedia:Plantillas_de_referencias" title="Categoría:Wikipedia:Plantillas de referencias">Categoría:Wikipedia:Plantillas de referencias</a>.
+</p>
+<p>No existe consenso sobre cómo agrupar las referencias y las notas al pie en un artículo, y por ello en los artículos de Wikipedia se observa cierta diversidad. Se ha desarrollado un procedimiento que consiste en crear una sección única de Notas más otra sección única Referencias (título de segundo nivel) que incluya como subsecciones las diferentes formas de información referencial, por ejemplo mediante el siguiente esquema:
+</p>
+<p>Una versión simplificada sin notas, únicamente con Referencias y Bibliografía, sería:
+</p>
+<p>Para el uso múltiple de la misma cita en línea o nota al pie, puede usar la función de referencia con nombre (también llamada nominada), elegir un nombre para identificar la cita y escribir <code class="nowrap">&lt;ref name="<var>nombre</var>"&gt;texto de la cita&lt;/ref&gt;</code>. 
+</p>
+<p>
+A partir de ese momento, la misma referencia nominada puede ser reutilizada cualquier número de veces, ya sea antes o después de la definición de uso, escribiendo el nombre de referencia previo, de esta forma: </p>
+<p>El uso de la barra inclinada <b>/</b> antes de <code>&gt;</code> ("<a href="/wiki/Signo_mayor_que" title="Signo mayor que">signo mayor que</a>" o angulado a la derecha) significa que la etiqueta es autocerrante y que no se debe usar &lt;/ref&gt;, como ocurre para cerrar otras referencias.
+</p>
+<p>Por favor observe que el nombre de la referencia no puede ser un número entero, ya que el sistema no lo acepta y, por ello, debe contener al menos una letra; por ejemplo, no puede ser name="1234" pero sí name="1234a". Una vez hecho esto, es posible insertar una cita a esa obra desde cualquier otra parte del texto escribiendo simplemente <code>&lt;ref name="Nombre" /&gt;</code>. También se puede usar sin comillas <code>&lt;ref name=Nombre&gt;</code>, pero no funcionan las palabras que contienen letras que no son del <a class="mw-redirect" href="/wiki/Abecedario_ingl%C3%A9s" title="Abecedario inglés">abecedario inglés</a>.
+</p>
+<p>Por ejemplo, si debajo del texto introducimos <code>{{listaref}}</code>:
+</p>
+<p>Dará como resultado:
+</p>
+<p><big><big>Referencias</big></big>
+</p>
+<p>Las dos letras «a» y «b» a la izquierda de la segunda referencia indican que fue citada dos veces. Haciendo clic en las letras, el lector puede ir directamente a las distintas partes del texto donde fue citado el trabajo.
+</p>
+<p>Si se desea citar varias páginas dispersas de un mismo texto impreso, ya sea una revista o un libro, es recomendable identificar completamente la fuente con <code>{{<a href="/wiki/Plantilla:Cita_libro" title="Plantilla:Cita libro">cita libro</a>}}</code> y <code>{{<a href="/wiki/Plantilla:Cita_publicaci%C3%B3n" title="Plantilla:Cita publicación">cita publicación</a>}}</code> en la sección Bibliografía, para luego citar cada página con <code>{{<a href="/wiki/Plantilla:Harvnp" title="Plantilla:Harvnp">Harvnp</a>}}</code> junto a la información que se desee referenciar. Esto es solo válido para los textos impresos con año de publicación, si se utiliza una página web como fuente el sistema no vinculará la referencia con la cita y se deberán referenciar cada uno de sus enlaces.
+</p>
+<p>Las secciones precedentes explicaban cómo organizar el apartado de bibliografía al final del texto. En adelante, explicaremos las dos maneras más habituales de indicar en el texto cuál de las referencias citadas es la fuente para una afirmación particular; de ese modo, incluso en el caso de un artículo denso y prolijamente documentado, la relación con cada una de las fuentes bibliográficas queda clara en todo momento. Los dos métodos son mediante llamadas de nota y mediante referencias en el estilo Harvard. Las llamadas de nota usan enlaces para conectar el texto con la cita, y tienen la ventaja de no tomar mucho espacio en el texto. Las referencias en el estilo Harvard incluyen la información más importante de la cita en el texto principal mismo, haciendo que el lector sepa directamente el origen de la información, pero tiene la desventaja de que el texto principal pierde continuidad.
+</p>
+<p>Además de las referencias, es posible insertar aclaraciones al cuerpo del artículo como notas al pie. Dichas aclaraciones son pertinentes pero se introducen a través de llamadas de nota para no sobrecargar el texto y su contenido puede y debe estar referenciado según el caso (véase <a href="#Notas_al_pie_con_referencias">Notas al pie con referencias</a>). Se recomienda que estén separadas de las referencias con una sección o subsección separada denominada <i>Notas</i> que debe ir colocada antes de la sección <i>Referencias</i>. 
+</p>
+<p>Para introducir una referencia de este tipo, se debe seguir el siguiente procedimiento:
+</p>
+<p>Insertar el comentario o aclaración entre las etiquetas <code><code>{{<a href="/wiki/Plantilla:Refn" title="Plantilla:Refn">refn</a>|group="nota"|&lt;Texto&gt;}}</code></code> en cualquier parte del texto. También es posible mediante la introducción del siguiente código: <code>&lt;ref group="nota"&gt;Texto.&lt;/ref&gt;</code>. En el caso de que coincida con un signo de puntuación (punto, coma, punto y coma, etc.) sitúa el cursor inmediatamente después del signo.<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>Nota 1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Otra alternativa para distinguir las notas de las referencias, es utilizar para las notas el código <code>&lt;ref group=lower-alpha&gt;Texto.&lt;/ref&gt;</code>.
+</p>
+<p>Si necesariamente se debe insertar la referencia <i>en el medio del texto</i> y la llamada queda demasiado cerca del mismo (por ejemplo porque está en cursiva, como en <i>control</i><sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></sup> o porque está en mayúsculas, como en TV<sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></sup>), se puede agregar un espacio delgado –no uno normal– mediante &amp;thinsp;<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>Nota 2<span class="corchete-llamada">]</span></a></sup>​ antes de la etiqueta, así: <code>TV&amp;thinsp;&lt;ref&gt;&lt;/ref&gt;</code>; lo que resultará en <i>control</i> <sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></sup> y TV <sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></sup> respectivamente.
+</p>
+<p>La nota será desplegada cuando se inserte la plantilla <b><code>{{<a href="/wiki/Plantilla:Listaref" title="Plantilla:Listaref">Listaref</a>|group="nota"}}</code></b> o <code>&lt;references group="nota" /&gt;</code> en la sección «Notas» o bien la subsección «Notas» en la sección «Referencias». De este modo, se pueden separar y distinguir las referencias de las notas.
+</p>
+<p>Las notas también pueden tener un nombre que las identifique, al igual que las referencias, usando el parámetro <code>name=</code>. No olvidar colocarlo entre comillas. Ejemplo: <code><code>{{<a href="/wiki/Plantilla:Refn" title="Plantilla:Refn">refn</a>|group="nota"|name="2011A"|&lt;Texto&gt;}}</code></code>. Y se reutilizaría: <code><code>{{<a href="/wiki/Plantilla:Refn" title="Plantilla:Refn">refn</a>|group="nota"|name="2011A"|}}</code></code>. (Por favor, recordar que el nombre de la referencia no puede ser un número entero, ya que el sistema no lo acepta y, por ello, debe contener al menos una letra). También es posible mediante la introducción del siguiente código: <code>&lt;ref group="nota" name="ejemplo"&gt;Texto.&lt;/ref&gt;</code>.
+</p>
+<p>Por último, comprueba si existe la sección  == <b>Referencias</b> == al final del artículo (para su correcta colocación, véase <a class="mw-redirect" href="/wiki/Wikipedia:EA" title="Wikipedia:EA">WP:EA</a>), y verifica que en ella se encuentre la plantilla <code>{{<a href="/wiki/Plantilla:Listaref" title="Plantilla:Listaref">listaref</a>}}</code>. De no ser así, crea dicha sección e incluye en ella la plantilla. Al guardar los cambios, todo el texto que esté contenido entre las etiquetas <code class="nowrap">&lt;ref&gt;&lt;/ref&gt;</code> se desplegará con un formato adecuado en la sección «Notas y referencias».
+</p>
+<p>El siguiente ejemplo ilustra esta técnica, combinada con el uso de notas:
+</p>
+<p>Esto aparece como:
+</p>
+<p>Este código tendrá como resultado, además del título de la sección, lo siguiente:
+</p>
+<p><big><big>Referencias</big></big>
+</p>
+<p>Para distinguir las notas de las referencias, también es posible utilizar para las notas el código <code>&lt;ref group=lower-alpha&gt;Texto.&lt;/ref&gt;</code>. De este modo la nota aparece en el texto, como una letra volada.
+</p>
+<p>Con esta alternativa, el ejemplo anterior se vería así:
+</p>
+<p>Este código tendrá como resultado, además del título de la sección, lo siguiente:
+</p>
+<p><big><big>Referencias</big></big>
+</p>
+<p>Si una nota contiene la etiqueta &lt;ref&gt; en su interior, es necesario usar la plantilla <code>{{refn}}</code>.
+</p>
+<p>Por ejemplo:
+<code>{{refn|group="nota"|Una nota.&lt;ref&gt;Una referencia dentro de la nota&lt;/ref&gt;}}</code>
+</p>
+<p>Luego, al igual que con las notas sin referencias, se crea la sección «Notas» y se inserta la plantilla <code>{{<a href="/wiki/Plantilla:Listaref" title="Plantilla:Listaref">listaref</a>|group=nota}}</code>.
+</p>
+<p>En caso de que la nota al pie tenga que tener nombre, para referenciarla más de una vez, se usa el parámetro de plantilla "name"; por ejemplo:
+</p>
+<p><code>{{refn|group="nota"|name="primero"|Una nota.&lt;ref&gt;Una referencia dentro de la nota.&lt;/ref&gt;}}</code>
+</p>
+<p>Puede ocurrir que varias partes del texto citen a una misma nota al pie. Para lograr esto, siguiendo con la plantilla <code>{{refn}}</code> 
+se hace los siguiente:
+</p>
+<p>Creamos la nota al pie de página y le asignamos un nombre:
+<code>{{refn|group=nota|name="CitaSing&amp;Ernst2008" |Singh &amp; Ernst (2008) dijeron: «Los científicos aún no han podido encontrar la más mínima evidencia que apoye la existencia de los meridianos o el Ch'i».&lt;ref&gt;{{harvnb|Singh &amp; Ernst2008|2008|p= 72}}&lt;/ref&gt;</code>
+</p>
+<p>En este caso incluye un cita harvard, pero puede ser también otro tipo de cita.
+</p>
+<p>En el texto se llama a la cita de la siguiente forma:
+<code>{{ep|refn|group{{=}}"nota"|name{{=}}"CitaSing&amp;Ernst2008"{{!}}}}</code>
+o
+<code>{{refn|group{{=}}nota|name{{=}}"CitaSing&amp;Ernst2008"}}</code>
+</p>
+<p>Una tercer alternativa sería
+<code>&lt;ref group="nota" name="CitaSing&amp;Ernst2008" /&gt;</code>
+</p>
+<p>Ejemplo:
+<code>
+
+Las investigaciones científicas no han encontrado ninguna evidencia histológica o fisiológica que respalde la existencia del qi, meridianos, puntos acupunturales, o el o yin y yang.{{refn|group=nota|name="CitaSing&amp;Ernst2008"}}
+
+</code>
+<br/>
+<br/>
+<code>
+
+{{refn|group=notas|name="CitaSing&amp;Ernst2008" |Singh &amp; Ernst (2008) dijeron: «Los científicos aún no han podido encontrar la más mínima evidencia que apoye la existencia de los meridianos o el Ch'i».&lt;ref&gt;{{harvnb|Singh &amp; Ernst|2008|p= 72}}&lt;/ref&gt;}}
+
+</code>
+</p>
+<p>El parámetro «refs» de la plantilla <code>{{<a href="/wiki/Plantilla:Listaref" title="Plantilla:Listaref">listaref</a>}}</code> sirve para listar las referencias presentes en el artículo. La ventaja de este método es que resulta más fácil de leer y editar el texto del cuerpo del artículo ya que no está tan sobrecargado del código wiki relativo a las referencias. Se realiza de la siguiente forma:
+</p>
+<p>Las llamadas de nota se insertan en el texto de la misma manera que para <a href="#Cómo_referenciar_más_de_una_vez_la_misma_obra">citar varias veces la misma obra</a>: <code>&lt;ref name="nombre" /&gt;</code> Ejemplo:
+</p>
+<p>Esto da como resultado lo siguiente:
+</p>
+<p>Los fósiles son los restos o señales de la actividad de organismos pasados.<sup class="reference separada" id="cite_ref-Oldman2009_12-0"><a href="#cite_note-Oldman2009-12"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ La ciencia que se ocupa del estudio de los fósiles es la paleontología.<sup class="reference separada" id="cite_ref-Belardo2007_13-0"><a href="#cite_note-Belardo2007-13"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Si el artículo posee una gran cantidad de referencias, podría ser conveniente desplegarlas en dos o más columnas. Para lograr esto, basta con insertar el número de columnas deseado (2, 3, 4) en el parámetro de la plantilla <code>{{<a href="/wiki/Plantilla:Listaref" title="Plantilla:Listaref">listaref</a>}}</code>. Por ejemplo, supongamos el siguiente código:
+</p>
+<p>Este código produce el siguiente texto:
+</p>
+<p><br/><br/>
+<big><big>Referencias</big></big>
+</p>
+<p>Sin embargo, es necesario tener en cuenta que la función de columnas no está soportada en todos los navegadores web y no es recomendable el uso de valores superiores a 2. Consulta la <a href="/wiki/Plantilla:Listaref/doc" title="Plantilla:Listaref/doc">Plantilla:Listaref/doc</a> para conocer más detalles.
+</p>
+<p>En ocasiones, la lectura del artículo se facilita si varias referencias se agrupan en una única llamada. Por ejemplo, si existen múltiples fuentes para una sola afirmación y cada una de ellas aplica a toda la frase, entonces las fuentes se pueden colocar al final de la frase como en este ejemplo,<sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></sup><sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></sup><sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></sup><sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></sup> o pueden agruparse en una sola al final de la frase o párrafo como este otro ejemplo.<sup class="reference separada nowrap ltr" style="color:#002bb8;"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></sup>
+</p>
+<p>El agrupado es útil si las fuentes referencian diferentes partes del texto precedente o si todas las fuentes referencian el mismo texto. Existen varias ventajas:
+</p>
+<p>Existen diferentes modos de dar formato a múltiples citas en una única llamada, como se ilustra debajo (en general, usando viñetas, saltos de línea, o condensando en un único párrafo). Se debe procurar usar un único estilo dentro de un artículo para dar homogeneidad.
+</p>
+<p>El Sol es muy grande, pero la Luna no tanto. El Sol también es muy caliente.<sup class="reference" id="nbFoot01a"><a href="#noteFoot01a">[1]</a></sup>
+<br/><br/>
+<font size="3">Notas</font>
+</p>
+<p>El <a href="/wiki/Estilo_Harvard_de_citas" title="Estilo Harvard de citas">estilo Harvard</a> (conocido también como sistema de autor-fecha) es un sistema de citas desarrollado por la <a href="/wiki/Universidad_de_Harvard" title="Universidad de Harvard">Universidad de Harvard</a> y empleado hoy extensamente en las ciencias físicas, naturales y sociales. En el estilo Harvard, una forma abreviada de la referencia (compuesta por el apellido de los autores y el año de publicación) se intercala en el texto inmediatamente después del material citado; la referencia completa se encuentra en una sección aparte, tal como hemos detallado más arriba.
+</p>
+<p>La referencia debe contener la suficiente información para ubicar la obra consultada en la sección de bibliografía; el número de la página en la obra original es opcional, aunque recomendable. Por ejemplo, para citar el libro de Marx mencionado más arriba, podríamos hacer lo siguiente:
+</p>
+<p>Utilizando la plantilla <code>{{<a href="/wiki/Plantilla:Cita_Harvard" title="Plantilla:Cita Harvard">Cita Harvard</a>}}</code> en combinación con el uso de <code>{{<a href="/wiki/Plantilla:Cita_libro" title="Plantilla:Cita libro">cita libro</a>}}</code> en la bibliografía, se crea un enlace interno desde la cita hasta el libro del mismo autor y año incluido en la misma.  Si se usa <code>{{<a href="/wiki/Plantilla:Harvnp" title="Plantilla:Harvnp">harvnp</a>}}</code> en lugar de <code>{{<a href="/wiki/Plantilla:Cita_Harvard" title="Plantilla:Cita Harvard">Cita Harvard</a>}}</code> se crea una nota al pie y la referencia se muestra en la sección respectiva. Esta es la forma recomendada cuando se usa recurrentemente una misma fuente y se quiere referenciar múltiples afirmaciones o citar diversas páginas.
+</p>
+<p>Existen algunas reglas adicionales:
+</p>
+<p>La sección <code>==Enlaces externos==</code> se sitúa tras la de referencias, y ofrece libros, artículos y enlaces a sitios web relacionados con el asunto que puedan ser de interés al lector, pero que <u><i>no han sido empleados como fuentes para el artículo</i></u>.  
+</p>
+<p>Una <a class="mw-redirect" href="/wiki/URL" title="URL">URL</a> rodeada de unos corchetes simples se visualizará como un número entre corchetes que conducen a la página mencionada en la URL. Por ejemplo, [http://es.wikipedia.org/wiki/Wikipedia:Referencias] se verá <a class="external text" href="https://es.wikipedia.org/wiki/Wikipedia:Referencias">[3]</a>. Nótese que los enlaces de este tipo se sitúan después de un punto y seguido, como aquí. <a class="external text" href="http://www.elmundo.es/elmundo/2006/01/27/espana/1138389451.html" rel="nofollow">[4]</a>
+</p>
+<p>Una referencia de estilo Harvard puede ser visualizada como un enlace externo si el trabajo referenciado se encuentra en la Red.
+</p>
+<p>Atribución a la cita, es el tipo de atribución que se realiza dentro de una sentencia o material hacia su propia fuente, además de una citación en la línea luego de la sentencia. Atribución a la cita debe ser usada en un <a href="/wiki/Estilo_directo" title="Estilo directo">estilo directo</a> (palabras de la fuente entre comillas o como una cita); <a href="/wiki/Estilo_indirecto" title="Estilo indirecto">estilo indirecto</a> (palabras de la fuente modificadas y sin comillas) y <a href="/wiki/Par%C3%A1frasis" title="Paráfrasis">Paráfrasis mecánica</a>. También se puede utilizar cuando se necesita resumir un poco, en tus propias palabras, la postura adoptada por la fuente. Evita el plagio involuntario y ayuda al lector a ver de dónde viene una postura. La cita debe venir después de la atribución, por lo general al final de la frase o párrafo en cuestión.
+</p>
+<p>Cuando se utiliza la atribución a la cita, asegúrese de que no estás cometiendo una violación de neutralidad involuntaria. Por ejemplo, la siguiente implica la paridad entre las fuentes, sin dejar claro que la posición de Darwin es la opinión de la mayoría:
+</p>
+<p>Diferencias en cuestiones de neutralidad, existen otras maneras en que la Atribución a la cita puede inducir a error. La siguiente oración sugiere que <i>The New York Times</i> ha hecho por sí solo este importante descubrimiento:
+</p>
+<p>Lo mejor es no saturar artículos con demasiada información, es mejor dejar eso a las referencias. Los lectores interesados ​​pueden hacer clic en la referencia y averiguar el periódico que realizó la publicación:
+</p>
+<p>Hechos simples como este pueden tener citas en línea a fuentes confiables como una ayuda para el lector, pero normalmente el texto en sí es mejor dejarlo como una afirmación clara y sin atribución a la cita:
+</p>
+<p>Cuando uno de los enlaces de la sección «Enlaces externos»/«Para más información» se vuelve inválido, puede ser perfectamente eliminado del artículo. En cambio, los enlaces de la sección de Referencias (esto es, enlaces a fuentes usadas en la escritura del artículo) deben ser conservados. En general, merece la pena seguir manteniendo la estructura referencial del artículo; muy a menudo se podrá encontrar un sustituto activo y en la mayor parte de los casos estos sucedáneos son considerados fuentes válidas:
+</p>
+<p>Si ninguna de estas estrategias ha tenido éxito, no eliminar las referencias inactivas: registrar la fecha en que el enlace original fue encontrado «muerto». Incluso en este estado indica las fuentes empleadas y es posible que sigan existiendo copias impresas, o bien la probabilidad de que la página se dé de alta en Internet Archive, pues mantiene un retraso deliberado de seis meses o más. Nótese también que mientras muchas fuentes impresas acaban obsoletas o desclasificadas, los investigadores siguen referenciándolas.
+</p>
+<p>Si un artículo necesita fuentes pero no eres capaz de encontrarlas, puedes etiquetarlo con la plantilla<code><code>{{<a href="/wiki/Plantilla:Referencias" title="Plantilla:Referencias">referencias</a>}}</code></code>. Es más útil indicar los lugares específicos que necesitan de referencias añadiéndoles al margen<code><code>{{<a href="/wiki/Plantilla:Cita_requerida" title="Plantilla:Cita requerida">cita requerida</a>}}</code></code> o <code><code>{{<a class="mw-redirect" href="/wiki/Plantilla:Cr" title="Plantilla:Cr">cr</a>}}</code></code>, que puede colocarse en el mismo lugar donde se ubicarían referencias intercaladas.
+</p>
+<p>También puedes dejar un aviso al autor del artículo sin referencias. Lo recomendable es un breve comentario al autor si este es veterano. Para autores noveles puede usarse la plantilla de aviso al usuario <code>{{sust:<a href="/wiki/Plantilla:Aviso_referencias" title="Plantilla:Aviso referencias">aviso referencias</a>|nombre del artículo}}</code>. El uso de esta plantilla es siempre consecuencia de la utilización de alguna de las dos plantillas anteriores.
+</p>
+<p>Si quieres colaborar en la mejora de artículos con esta deficiencia puedes visitar <a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_que_necesitan_referencias" title="Categoría:Wikipedia:Artículos que necesitan referencias">esta categoría</a> en la que se agrupan todos aquellos artículos que han sido marcados con la plantilla que las solicita.
+</p>
+<p>Para citar a Wikipedia <b>en otros trabajos</b>, véase <a href="/wiki/Wikipedia:Citar_Wikipedia" title="Wikipedia:Citar Wikipedia">Wikipedia:Citar Wikipedia</a>. La herramienta <b><a href="/wiki/Especial:Citar" title="Especial:Citar">Especial:Citar</a></b> también está disponible como ayuda. Asimismo, en el cuadro de herramientas, a la izquierda de todos los artículos, se encuentra un enlace llamado «Citar este artículo» que conduce a una lista de posibles modos de referenciar la versión estática visible en el momento; por ejemplo, el artículo <a class="external text" href="https://es.wikipedia.org/w/index.php?title=Especial:Cite&amp;page=Multiculturalismo&amp;id=2160185">Multiculturalismo</a>, en su edición de 28 de enero de 2006.
+</p>

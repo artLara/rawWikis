@@ -1,0 +1,1169 @@
+<p>En <a href="/wiki/Qu%C3%ADmica" title="Química">química</a>, una <b>molécula</b> (del <a class="mw-redirect" href="/wiki/Nuevo_lat%C3%ADn" title="Nuevo latín">nuevo latín</a> <i>molecula</i>, que es un diminutivo de la palabra <i>moles</i>, '<a href="/wiki/Masa" title="Masa">masa</a>') es un grupo <a href="/wiki/Carga_el%C3%A9ctrica" title="Carga eléctrica">eléctricamente</a> <a class="mw-redirect" href="/wiki/Neutro" title="Neutro">neutro</a> y suficientemente estable de al menos dos <a class="mw-redirect" href="/wiki/%C3%81tomos" title="Átomos">átomos</a> en una configuración definida, unidos por <a class="mw-redirect" href="/wiki/Enlace_qu%C3%ADmico" title="Enlace químico">enlaces químicos</a> fuertes <a href="/wiki/Enlace_covalente" title="Enlace covalente">covalentes</a>.<sup class="reference separada" id="cite_ref-IUPAC_4-0"><a href="#cite_note-IUPAC-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-8"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En este estricto sentido, las moléculas se diferencian de los <a href="/wiki/Ion_poliat%C3%B3mico" title="Ion poliatómico">iones poliatómicos</a>. En la <a href="/wiki/Qu%C3%ADmica_org%C3%A1nica" title="Química orgánica">química orgánica</a> y la <a href="/wiki/Bioqu%C3%ADmica" title="Bioquímica">bioquímica</a>, el término "molécula" se utiliza de manera menos estricta y se aplica también a los <a href="/wiki/Compuesto_org%C3%A1nico" title="Compuesto orgánico">compuestos orgánicos</a> (moléculas orgánicas) y en las <a class="mw-redirect" href="/wiki/Biomol%C3%A9culas" title="Biomoléculas">biomoléculas</a>.
+</p>
+<p>Antes, se definía la molécula de forma menos general y precisa, como la más pequeña parte de una <a href="/wiki/Sustancia_qu%C3%ADmica" title="Sustancia química">sustancia</a> que podía tener existencia independiente y estable conservando aún sus propiedades fisicoquímicas. De acuerdo con esta definición, podían existir moléculas monoatómicas. En la <a class="mw-redirect" href="/wiki/Teor%C3%ADa_cin%C3%A9tica" title="Teoría cinética">teoría cinética</a> de los <a href="/wiki/Gas" title="Gas">gases</a>, el término <i>molécula</i> se aplica a cualquier partícula gaseosa con independencia de su composición. De acuerdo con esta definición, los <a class="mw-redirect" href="/wiki/%C3%81tomos" title="Átomos">átomos</a> de un <a class="mw-redirect" href="/wiki/Gas_noble" title="Gas noble">gas noble</a> se considerarían moléculas aunque se componen de átomos no enlazados.<sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Una molécula puede consistir en varios átomos de un único <a href="/wiki/Elemento_qu%C3%ADmico" title="Elemento químico">elemento químico</a>, como en el caso del <a href="/wiki/Ox%C3%ADgeno" title="Oxígeno">oxígeno</a> diatómico (O<sub>2</sub>),<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​ o de diferentes elementos, como en el caso del <a href="/wiki/Agua" title="Agua">agua</a> (H<sub>2</sub>O).<sup class="reference separada" id="cite_ref-12"><a href="#cite_note-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​ Los átomos y complejos unidos por enlaces no covalentes como los <a href="/wiki/Enlace_de_hidr%C3%B3geno" title="Enlace de hidrógeno">enlaces de hidrógeno</a> o los <a href="/wiki/Enlace_i%C3%B3nico" title="Enlace iónico">enlaces iónicos</a> no se suelen considerar como moléculas individuales.
+</p>
+<p>Las moléculas como componentes de la materia son comunes en las sustancias orgánicas (y por tanto en la <a href="/wiki/Bioqu%C3%ADmica" title="Bioquímica">bioquímica</a>). También conforman la mayor parte de los <a href="/wiki/Oc%C3%A9ano" title="Océano">océanos</a> y de la <a href="/wiki/Atm%C3%B3sfera_terrestre" title="Atmósfera terrestre">atmósfera</a>. Sin embargo, un gran número de sustancias sólidas familiares, que incluyen la mayor parte de los <a href="/wiki/Mineral" title="Mineral">minerales</a> que componen la <a href="/wiki/Corteza_terrestre" title="Corteza terrestre">corteza</a>, el <a href="/wiki/Manto_terrestre" title="Manto terrestre">manto</a> y el <a href="/wiki/N%C3%BAcleo_de_la_Tierra" title="Núcleo de la Tierra">núcleo</a> de la <a href="/wiki/Tierra" title="Tierra">Tierra</a>, contienen muchos enlaces químicos, pero no están formados por moléculas. Además, ninguna molécula típica puede ser definida en los <a class="mw-redirect" href="/wiki/Red_de_Bravais" title="Red de Bravais">cristales</a> iónicos (<a href="/wiki/Sal_(qu%C3%ADmica)" title="Sal (química)">sales</a>) o en cristales covalentes, aunque estén compuestos por <a class="new" href="/w/index.php?title=Celda_fundamental&amp;action=edit&amp;redlink=1" title="Celda fundamental (aún no redactado)">celdas unitarias</a> que se repiten, ya sea en un plano (como en el <a href="/wiki/Grafito" title="Grafito">grafito</a>) o en tres dimensiones (como en el <a href="/wiki/Diamante" title="Diamante">diamante</a> o el <a href="/wiki/Cloruro_de_sodio" title="Cloruro de sodio">cloruro de sodio</a>). Este sistema de repetir una estructura unitaria varias veces también es válida para la mayoría de las <a class="mw-redirect" href="/wiki/Estado_de_la_materia" title="Estado de la materia">fases condensadas</a> de la <a href="/wiki/Materia" title="Materia">materia</a> con <a href="/wiki/Enlace_met%C3%A1lico" title="Enlace metálico">enlaces metálicos</a>, lo que significa que los metales sólidos tampoco están compuestos por moléculas. En el <a href="/wiki/Vidrio" title="Vidrio">vidrio</a> (sólidos que presentan un estado vítreo desordenado), los átomos también pueden estar unidos por enlaces químicos sin que se pueda identificar ningún tipo de molécula, pero tampoco existe la regularidad de la repetición de unidades que caracteriza a los <a href="/wiki/Cristal" title="Cristal">cristales</a>.
+</p>
+<p>Casi toda la <a href="/wiki/Qu%C3%ADmica_org%C3%A1nica" title="Química orgánica">química orgánica</a> y buena parte de la <a href="/wiki/Qu%C3%ADmica_inorg%C3%A1nica" title="Química inorgánica">química inorgánica</a> se ocupan de la <a href="/wiki/S%C3%ADntesis_qu%C3%ADmica" title="Síntesis química">síntesis</a> y <a href="/wiki/Reactividad" title="Reactividad">reactividad</a> de moléculas y <a href="/wiki/Compuesto_qu%C3%ADmico" title="Compuesto químico">compuestos moleculares</a>. La <a class="mw-redirect" href="/wiki/Qu%C3%ADmica_f%C3%ADsica" title="Química física">química física</a> y, especialmente, la <a href="/wiki/Qu%C3%ADmica_cu%C3%A1ntica" title="Química cuántica">química cuántica</a> también estudian, cuantitativamente, en su caso, las propiedades y <a href="/wiki/Reacci%C3%B3n_qu%C3%ADmica" title="Reacción química">reactividad</a> de las moléculas. La <a href="/wiki/Bioqu%C3%ADmica" title="Bioquímica">bioquímica</a> está íntimamente relacionada con la <a href="/wiki/Biolog%C3%ADa_molecular" title="Biología molecular">biología molecular</a>, ya que ambas estudian a los seres vivos a nivel molecular. El estudio de las interacciones específicas entre moléculas, incluyendo el <a href="/wiki/Fuerza_intermolecular" title="Fuerza intermolecular">reconocimiento molecular</a> es el campo de estudio de la <a href="/wiki/Qu%C3%ADmica_supramolecular" title="Química supramolecular">química supramolecular</a>. Estas fuerzas explican las propiedades físicas como la <a href="/wiki/Solubilidad" title="Solubilidad">solubilidad</a> o el <a href="/wiki/Punto_de_ebullici%C3%B3n" title="Punto de ebullición">punto de ebullición</a> de un compuesto molecular.<sup class="reference separada" id="cite_ref-13"><a href="#cite_note-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Las moléculas rara vez se encuentran sin interacción entre ellas, salvo en gases enrarecidos y en los <a class="mw-redirect" href="/wiki/Gas_noble" title="Gas noble">gases nobles</a>. Así, pueden encontrarse en <a class="mw-redirect" href="/wiki/Red_cristalina" title="Red cristalina">redes cristalinas</a>, como el caso de las moléculas de H<sub>2</sub>O en el hielo o con interacciones intensas, pero que cambian rápidamente de direccionalidad, como en el agua líquida. En orden creciente de intensidad, las fuerzas intermoleculares más relevantes son: las <a href="/wiki/Fuerzas_de_Van_der_Waals" title="Fuerzas de Van der Waals">fuerzas de Van der Waals</a> y los <a class="mw-redirect" href="/wiki/Puentes_de_hidr%C3%B3geno" title="Puentes de hidrógeno">puentes de hidrógeno</a>.
+</p>
+<p>La <a href="/wiki/Din%C3%A1mica_molecular" title="Dinámica molecular">dinámica molecular</a> es un método de simulación por computadora que utiliza estas fuerzas para tratar de explicar las propiedades de las moléculas.
+</p>
+<p>No se puede definir una molécula típica para <a href="/wiki/Sal_(qu%C3%ADmica)" title="Sal (química)"> sales</a> ni para <a class="mw-redirect" href="/wiki/Cristales_covalentes" title="Cristales covalentes">cristales covalentes</a>, aunque estos a menudo se componen de células unitarias repetidas que se extienden en un plano, por ejemplo, el <a href="/wiki/Grafeno" title="Grafeno">grafeno</a> ; o tridimensionalmente, por ejemplo, el <a href="/wiki/Diamante" title="Diamante">diamante</a>, el <a href="/wiki/Cuarzo" title="Cuarzo">cuarzo</a>, o el <a href="/wiki/Cloruro_de_sodio" title="Cloruro de sodio">cloruro de sodio</a>. El tema de la estructura celular unitaria repetida también se aplica a la mayoría de los metales que son fases condensadas con enlaces metálicos. Por tanto, los metales sólidos no están hechos de moléculas.
+</p>
+<p>En los vidrios, que son sólidos que existen en un estado vítreo desordenado, los átomos se mantienen unidos por enlaces químicos sin presencia de ninguna molécula definible, ni ninguna de la regularidad de la estructura celular unitaria repetida que caracteriza a las sales, cristales covalentes y rieles.
+</p>
+<p>La ciencia de las moléculas se denomina <i>química molecular</i> o <i><a href="/wiki/F%C3%ADsica_molecular" title="Física molecular">física molecular</a></i>, dependiendo de si se centra en la química o en la física. La química molecular se ocupa de las leyes que rigen la interacción entre las moléculas que da lugar a la formación y ruptura de <a class="mw-redirect" href="/wiki/Enlaces_qu%C3%ADmicos" title="Enlaces químicos">enlaces químicos</a>, mientras que la física molecular se ocupa de las leyes que rigen su estructura y propiedades. En la práctica, sin embargo, esta distinción es imprecisa. En las ciencias moleculares, una molécula consiste en un sistema estable (<a class="new" href="/w/index.php?title=Estado_ligado&amp;action=edit&amp;redlink=1" title="Estado ligado (aún no redactado)">estado ligado</a>) compuesto por dos o más <a class="mw-redirect" href="/wiki/%C3%81tomos" title="Átomos">átomos</a>. Los <a class="new" href="/w/index.php?title=Iones_poliat%C3%B3micos&amp;action=edit&amp;redlink=1" title="Iones poliatómicos (aún no redactado)">iones poliatómicos</a> pueden considerarse a veces como moléculas cargadas eléctricamente. El término <i>molécula inestable</i> se utiliza para especies muy <a class="new" href="/w/index.php?title=Reactivas_(qu%C3%ADmica)&amp;action=edit&amp;redlink=1" title="Reactivas (química) (aún no redactado)">reactivas</a>, es decir, conjuntos de corta duración (<a href="/wiki/Resonancia_(qu%C3%ADmica)" title="Resonancia (química)">resonancias</a>) de electrones y <a href="/wiki/N%C3%BAcleo_at%C3%B3mico" title="Núcleo atómico">núcleos</a>, como <a href="/wiki/Radical_(qu%C3%ADmica)" title="Radical (química)">radicales</a>, <a class="mw-redirect" href="/wiki/Iones" title="Iones">iones</a> moleculares, <a class="new" href="/w/index.php?title=Mol%C3%A9culas_de_Rydberg&amp;action=edit&amp;redlink=1" title="Moléculas de Rydberg (aún no redactado)">moléculas de Rydberg</a>, <a class="mw-redirect" href="/wiki/Estados_de_transici%C3%B3n" title="Estados de transición">estados de transición</a>, <a class="new" href="/w/index.php?title=Enlaces_de_van_der_Waals&amp;action=edit&amp;redlink=1" title="Enlaces de van der Waals (aún no redactado)">complejos de van der Waals</a>, o sistemas de átomos en colisión como en el <a href="/wiki/Condensado_de_Bose-Einstein" title="Condensado de Bose-Einstein">condensado de Bose-Einstein</a>.
+</p>
+<p>Según la Real Academia Española el vocablo «molécula» deriva del <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a> <i>moles</i> 'mole' o 'masa' y el sufijo diminutivo -<i>ula</i> 'masa pequeña'.<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La definición de molécula ha ido evolucionando a medida que ha aumentado el conocimiento de la estructura de las moléculas. Las definiciones anteriores eran menos precisas, y definían las moléculas como las <a class="mw-redirect" href="/wiki/Lista_de_part%C3%ADculas#Moléculas" title="Lista de partículas">partículas</a> más pequeñas de <a href="/wiki/Sustancia_qu%C3%ADmica" title="Sustancia química">sustancia químicas</a> puras que aún conservan su <a href="/wiki/Compuesto_qu%C3%ADmico" title="Compuesto químico">composición</a> y sus propiedades químicas.<sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​ Esta definición a menudo se rompe ya que muchas sustancias en la experiencia ordinaria, como <a class="mw-redirect" href="/wiki/Roca_(geolog%C3%ADa)" title="Roca (geología)">rocas</a>, <a href="/wiki/Sal_(qu%C3%ADmica)" title="Sal (química)">sales</a>, y <a href="/wiki/Metal" title="Metal">metales</a>, se componen de grandes redes cristalinas de átomos de <a class="mw-redirect" href="/wiki/Enlace_qu%C3%ADmico" title="Enlace químico">enlace químico</a> o <a href="/wiki/Ion" title="Ion">iones</a>, pero no están hechas de moléculas discretas.
+</p>
+<p>De manera menos general y precisa, se ha definido molécula como la parte más pequeña de una <a href="/wiki/Sustancia_qu%C3%ADmica" title="Sustancia química">sustancia química</a> que conserva sus propiedades químicas, y a partir de la cual se puede reconstituir la sustancia sin <a href="/wiki/Reacci%C3%B3n_qu%C3%ADmica" title="Reacción química">reacciones químicas</a>. De acuerdo con esta definición, que resulta razonablemente útil para aquellas sustancias puras constituidas por moléculas, podrían existir las "moléculas monoatómicas" de <a class="mw-redirect" href="/wiki/Gas_noble" title="Gas noble">gases nobles</a>, mientras que las <a class="mw-redirect" href="/wiki/Red_cristalina" title="Red cristalina">redes cristalinas</a>, <a class="mw-redirect" href="/wiki/Sal" title="Sal">sales</a>, <a href="/wiki/Metal" title="Metal">metales</a> y la mayoría de <a href="/wiki/Vidrio" title="Vidrio">vidrios</a> quedarían en una situación confusa.
+</p>
+<p>Las moléculas <a class="new" href="/w/index.php?title=L%C3%A1bil&amp;action=edit&amp;redlink=1" title="Lábil (aún no redactado)">lábiles</a> pueden perder su consistencia en tiempos relativamente cortos, pero si el <a class="new" href="/w/index.php?title=Tiempo_de_vida_medio&amp;action=edit&amp;redlink=1" title="Tiempo de vida medio (aún no redactado)">tiempo de vida medio</a> es del orden de unas pocas <a href="/wiki/Vibraci%C3%B3n_molecular" title="Vibración molecular">vibraciones moleculares</a>, estamos ante un estado de <a href="/wiki/Intermedio_de_reacci%C3%B3n" title="Intermedio de reacción">transición</a> que no se puede considerar molécula. Actualmente, es posible el uso de <a class="new" href="/w/index.php?title=L%C3%A1ser_pulsado&amp;action=edit&amp;redlink=1" title="Láser pulsado (aún no redactado)">láser pulsado</a> para el estudio de la química de estos sistemas.
+</p>
+<p>Las entidades que comparten la definición de las moléculas, pero tienen carga eléctrica se denominan <b><a href="/wiki/Ion_poliat%C3%B3mico" title="Ion poliatómico">iones poliatómicos</a></b>, <b>iones moleculares</b> o <b>moléculas ion</b>. Las sales compuestas por iones poliatómicos se clasifican habitualmente dentro de los materiales de base molecular o materiales moleculares.
+</p>
+<p>Las moléculas están formadas por partículas. Una molécula viene a ser la porción de materia más pequeña que aún conserva las propiedades de la materia original. Las moléculas se encuentran fuertemente enlazadas con la finalidad de formar materia. Las moléculas están formadas por átomos unidos por medio de <a class="mw-redirect" href="/wiki/Enlace_qu%C3%ADmico" title="Enlace químico">enlaces químicos</a>.
+</p>
+<p>Una molécula es una unidad de sustancia que puede ser monoatómica o poliatómica. La unidad de todas las sustancias gaseosas es la molécula.<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Las moléculas se pueden clasificar en:
+</p>
+<p>Molécula de dinitrógeno, el <a href="/wiki/Gas" title="Gas">gas</a> que es el componente mayoritario del <a href="/wiki/Aire" title="Aire">aire</a>
+</p>
+<p>Molécula de <a href="/wiki/Fullereno" title="Fullereno">fullereno</a>, tercera forma estable del <a href="/wiki/Carbono" title="Carbono">carbono</a> tras el <a href="/wiki/Diamante" title="Diamante">diamante</a> y el <a href="/wiki/Grafito" title="Grafito">grafito</a>
+</p>
+<p><a href="/wiki/Mol%C3%A9cula_de_agua" title="Molécula de agua">Molécula de agua</a>, «disolvente universal», de importancia fundamental en innumerables procesos bioquímicos e <a href="/wiki/Industria" title="Industria">industriales</a>
+</p>
+<p>Representación poliédrica del anión de Keggin, un <a href="/wiki/Polioxometalato" title="Polioxometalato">polianión</a> molecular
+</p>
+<p>Representación de un fragmento de <a class="mw-redirect" href="/wiki/ADN" title="ADN">ADN</a>, un polímero de importancia fundamental en la <a href="/wiki/Gen%C3%A9tica" title="Genética">genética</a>
+</p>
+<p><a href="/wiki/Enlace_pept%C3%ADdico" title="Enlace peptídico">Enlace peptídico</a> que une los <a class="mw-redirect" href="/wiki/P%C3%A9ptidos" title="Péptidos">péptidos</a> para formar <a href="/wiki/Prote%C3%ADna" title="Proteína">proteínas</a>
+</p>
+<p>Representación de un fragmento lineal de <a href="/wiki/Polietileno" title="Polietileno">polietileno</a>, el <a href="/wiki/Pl%C3%A1stico" title="Plástico">plástico</a> más usado
+</p>
+<p>Primera generación de un <a href="/wiki/Dendr%C3%ADmero" title="Dendrímero">dendrímero</a>, un tipo especial de polímero que crece de forma <a href="/wiki/Fractal" title="Fractal">fractal</a>
+</p>
+<p>Los <a href="/wiki/%C3%81tomo" title="Átomo">átomos</a> que forman las moléculas se mantienen juntos mediante <a class="mw-redirect" href="/wiki/Enlaces_covalentes" title="Enlaces covalentes">enlaces covalentes</a> o <a href="/wiki/Enlace_i%C3%B3nico" title="Enlace iónico">enlaces iónicos</a>. Varios tipos de <a class="mw-redirect" href="/wiki/Elementos_no_met%C3%A1licos" title="Elementos no metálicos">elementos no metálicos</a> existen solo como moléculas en el medio ambiente. Por ejemplo, el <a href="/wiki/Hidr%C3%B3geno" title="Hidrógeno">hidrógeno</a> solo existe como molécula de hidrógeno. Una molécula de un compuesto está formada por dos o más elementos.<sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​ Una <a href="/wiki/Mol%C3%A9cula_homonuclear" title="Molécula homonuclear">molécula homonuclear</a> está formada por dos o más átomos de un solo elemento.
+</p>
+<p>Mientras que algunas personas dicen que un cristal metálico puede considerarse una sola molécula gigante unida por <a href="/wiki/Enlace_met%C3%A1lico" title="Enlace metálico">enlaces metálicos</a>,<sup class="reference separada" id="cite_ref-20"><a href="#cite_note-20"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>​ otros señalan que los metales actúan de manera muy diferente a las moléculas. <sup class="reference separada" id="cite_ref-21"><a href="#cite_note-21"><span class="corchete-llamada">[</span>21<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Un <a href="/wiki/Enlace_covalente" title="Enlace covalente">enlace covalente</a> es un <a class="mw-redirect" href="/wiki/Enlace_qu%C3%ADmico" title="Enlace químico">enlace químico</a> que implica el intercambio de pares de <a class="mw-redirect" href="/wiki/Electron" title="Electron">electrones</a> entre átomos. Estos pares de electrones se denominan <i>pares compartidos</i> o <i>pares de enlace</i>, y el equilibrio estable de fuerzas atractivas y repulsivas entre átomos, cuando comparten electrones, se denomina <i>enlace covalente</i>.<sup class="reference separada" id="cite_ref-22"><a href="#cite_note-22"><span class="corchete-llamada">[</span>22<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El <a href="/wiki/Enlace_i%C3%B3nico" title="Enlace iónico">enlace iónico</a> es un tipo de enlace químico que implica la <a class="mw-redirect" href="/wiki/Atracci%C3%B3n_electrost%C3%A1tica" title="Atracción electrostática">atracción electrostática</a> entre iones con <a href="/wiki/Carga_el%C3%A9ctrica" title="Carga eléctrica">carga eléctrica</a> opuesta y es la interacción principal que se produce en los compuestos iónicos. Los iones son átomos que han perdido uno o más electrones (denominados <a class="mw-redirect" href="/wiki/Cation" title="Cation">cationes</a>) y átomos que han ganado uno o más electrones (denominados <a class="mw-redirect" href="/wiki/Anion" title="Anion">aniones</a>).<sup class="reference separada" id="cite_ref-23"><a href="#cite_note-23"><span class="corchete-llamada">[</span>23<span class="corchete-llamada">]</span></a></sup>​ Esta transferencia de electrones se denomina <a class="new" href="/w/index.php?title=Electrovalencia&amp;action=edit&amp;redlink=1" title="Electrovalencia (aún no redactado)">electrovalencia</a> en contraste con la covalencia. En el caso más simple, el catión es un átomo de metal y el anión es un átomo no  metálico, pero estos iones pueden ser de naturaleza más complicada, por ejemplo, iones moleculares como NH<sub>4</sub><sup>+</sup> o SO<sub>4</sub> <sup>2−</sup>.
+</p>
+<p>A temperaturas y presiones normales, la unión iónica crea principalmente <a href="/wiki/S%C3%B3lido" title="Sólido">sólidos</a> (u ocasionalmente <a href="/wiki/L%C3%ADquido" title="Líquido">líquidos</a>) sin moléculas identificables separadas, pero la <a href="/wiki/Vaporizaci%C3%B3n" title="Vaporización">vaporización</a>/<a href="/wiki/Sublimaci%C3%B3n" title="Sublimación">sublimación</a> de tales materiales produce pequeñas moléculas separadas donde los electrones aún se transfieren lo suficiente como para que los enlaces se consideren iónicos en lugar de covalentes.
+</p>
+<p>La estructura molecular puede ser descrita de diferentes formas. La <a href="/wiki/F%C3%B3rmula_molecular" title="Fórmula molecular">fórmula molecular</a> es útil para moléculas sencillas, como H<sub>2</sub>O para el <a href="/wiki/Agua" title="Agua">agua</a> o NH<sub>3</sub> para el <a class="mw-redirect" href="/wiki/Amoniaco" title="Amoniaco">amoniaco</a>. Contiene los <a href="/wiki/S%C3%ADmbolo_qu%C3%ADmico" title="Símbolo químico">símbolos</a> de los elementos presentes en la molécula, así como su proporción indicada por los subíndices.
+</p>
+<p>Para moléculas más complejas, como las que se encuentran comúnmente en <a href="/wiki/Qu%C3%ADmica_org%C3%A1nica" title="Química orgánica">química orgánica</a>, la fórmula química no es suficiente, y vale la pena usar una <a href="/wiki/F%C3%B3rmula_estructural" title="Fórmula estructural">fórmula estructural</a> o una <a href="/wiki/F%C3%B3rmula_esqueletal" title="Fórmula esqueletal">fórmula esqueletal</a>, las que indican gráficamente la disposición espacial de los distintos <a href="/wiki/Grupo_funcional" title="Grupo funcional">grupos funcionales</a>.
+</p>
+<p>Cuando se quieren mostrar variadas propiedades moleculares, o se trata de sistemas muy complejos como <a href="/wiki/Prote%C3%ADna" title="Proteína">proteínas</a>, <a class="mw-redirect" href="/wiki/ADN" title="ADN">ADN</a> o <a href="/wiki/Pol%C3%ADmero" title="Polímero">polímeros</a>, se utilizan representaciones especiales, como los modelos tridimensionales (físicos o representados por ordenador). En proteínas, por ejemplo, cabe distinguir entre estructura primaria (orden de los aminoácidos), secundaria (primer plegamiento en hélices, hojas, giros…), terciaria (plegamiento de las estructuras tipo hélice/hoja/giro para dar glóbulos) y cuaternaria (organización espacial entre los diferentes glóbulos).
+</p>
+<p>La <a href="/wiki/Mec%C3%A1nica_cl%C3%A1sica" title="Mecánica clásica">mecánica clásica</a> y el <a href="/wiki/Electromagnetismo" title="Electromagnetismo">electromagnetismo</a> clásico no podían explicar la existencia y estabilidad de las moléculas, ya que de acuerdo con sus ecuaciones una carga eléctrica acelerada emitiría radiación por lo que los electrones necesariamente perderían energía cinética por radiación hasta caer sobre el <a href="/wiki/N%C3%BAcleo_at%C3%B3mico" title="Núcleo atómico">núcleo atómico</a>. La <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a> proveyó el primer modelo cualitativamente correcto que además predecía la existencia de átomos estables y proporcionaba explicación cuantitativa muy aproximada para fenómenos empíricos como los <a href="/wiki/Espectro_de_emisi%C3%B3n" title="Espectro de emisión">espectros de emisión característicos</a> de cada elemento químico.
+</p>
+<p>En mecánica cuántica una molécula o un ion poliatómico se describe como un sistema formado por <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="N" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span> electrones de masa <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+</semantics>
+</math></span><img alt="m" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle M}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>M</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M}</annotation>
+</semantics>
+</math></span><img alt="M" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f82cade9898ced02fdd08712e5f0c0151758a0dd" style="vertical-align: -0.338ex; width:2.442ex; height:2.176ex;"/></span> núcleos de masas <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m_{j}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m_{j}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle m_{j}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/14f2b12b1676ba2f42ad8d2c9ee6aa46e7667b73" style="vertical-align: -1.005ex; width:2.95ex; height:2.343ex;"/></span>. En mecánica cuántica las interacciones físicas de estos elementos se presentan por un <a class="mw-redirect" href="/wiki/Hamiltoniano_cu%C3%A1ntico" title="Hamiltoniano cuántico">hamiltoniano cuántico</a>, cuyos <a class="mw-redirect" href="/wiki/Autovalor" title="Autovalor">autovalores</a> serán las energías permitidas del sistema y cuyas <a class="mw-redirect" href="/wiki/Vector_propio_y_valor_propio" title="Vector propio y valor propio">autofunciones</a> describirán los <a href="/wiki/Orbital_molecular" title="Orbital molecular">orbitales moleculares</a> de la molécula, y de esos objetos se podrán deducir las propiedades químicas de la molécula. En lo que sigue se designará mediante <i>e</i>, la carga de cada electrón, mientras que la de cada núcleo, con <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Z_{j}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Z_{j}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Z_{j}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d64717aa20b0ceb8c112f8a94cac1a3acd1ea58a" style="vertical-align: -1.005ex; width:2.497ex; height:2.843ex;"/></span> protones, será <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Z_{j}e}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mi>e</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Z_{j}e}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Z_{j}e}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e5072c3e4207de12da7cac9c2e85ab0a277b984b" style="vertical-align: -1.005ex; width:3.581ex; height:2.843ex;"/></span>. Para estudiar este sistema es necesario analizar el siguiente <a class="mw-redirect" href="/wiki/Hamiltoniano_cu%C3%A1ntico" title="Hamiltoniano cuántico">hamiltoniano cuántico</a>:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_1" style="font-style: normal;"><a href="#Eqnref_1">1</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\hat {H}}_{mol}=-\sum _{j=1}^{N}{\frac {\hbar ^{2}}{2m}}\nabla _{x_{j}}^{2}-\sum _{j=1}^{M}{\frac {\hbar ^{2}}{2m_{j}}}\nabla _{y_{j}}^{2}+V(x,y)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>H</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+<mi>o</mi>
+<mi>l</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mn>2</mn>
+<mi>m</mi>
+</mrow>
+</mfrac>
+</mrow>
+<msubsup>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>M</mi>
+</mrow>
+</munderover>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mn>2</mn>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<msubsup>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mi>y</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\hat {H}}_{mol}=-\sum _{j=1}^{N}{\frac {\hbar ^{2}}{2m}}\nabla _{x_{j}}^{2}-\sum _{j=1}^{M}{\frac {\hbar ^{2}}{2m_{j}}}\nabla _{y_{j}}^{2}+V(x,y)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\hat {H}}_{mol}=-\sum _{j=1}^{N}{\frac {\hbar ^{2}}{2m}}\nabla _{x_{j}}^{2}-\sum _{j=1}^{M}{\frac {\hbar ^{2}}{2m_{j}}}\nabla _{y_{j}}^{2}+V(x,y)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2957549721b866df709f3660fac07d56ef891a33" style="vertical-align: -3.338ex; width:47.099ex; height:7.676ex;"/></span>
+</p>
+<p>definido sobre el espacio de funciones antisimetrizadas de cuadrado integrable <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle L_{sym}^{2}(\mathbb {R} ^{3(N+M)})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>L</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+<mi>y</mi>
+<mi>m</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo stretchy="false">(</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+<mo stretchy="false">(</mo>
+<mi>N</mi>
+<mo>+</mo>
+<mi>M</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle L_{sym}^{2}(\mathbb {R} ^{3(N+M)})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle L_{sym}^{2}(\mathbb {R} ^{3(N+M)})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/052f2cec6994d8d15faec2b85c564bc8b2ec00e0" style="vertical-align: -1.005ex; width:15.132ex; height:3.509ex;"/></span>, las coordenadas asociadas a las posiciones de los electrones vienen dadas por <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x=(x_{\dot {a}}2,\dots ,x_{N})\in \mathbb {R} ^{3N}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>a</mi>
+<mo>˙<!-- ˙ --></mo>
+</mover>
+</mrow>
+</mrow>
+</msub>
+<mn>2</mn>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>∈<!-- ∈ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+<mi>N</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x=(x_{\dot {a}}2,\dots ,x_{N})\in \mathbb {R} ^{3N}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x=(x_{\dot {a}}2,\dots ,x_{N})\in \mathbb {R} ^{3N}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b5d36961a3bbef835850f67018799fb7f29719b3" style="vertical-align: -1.005ex; width:25.063ex; height:3.343ex;"/></span> y la de los núcleos atómicos vienen dadas por <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle y=(y_{1},\dots ,y_{M})\in \mathbb {R} ^{3M}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>y</mi>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>M</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>∈<!-- ∈ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+<mi>M</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle y=(y_{1},\dots ,y_{M})\in \mathbb {R} ^{3M}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle y=(y_{1},\dots ,y_{M})\in \mathbb {R} ^{3M}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8e3455c3c0cd5de8542c1c8713ce3c371a4b7e51" style="vertical-align: -0.838ex; width:23.833ex; height:3.176ex;"/></span>. Y las interacciones electrostáticas entre electrones y núcleos vienen dadas por el potencial <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V(x,y)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mi>y</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V(x,y)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V(x,y)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9b75fe0337e5b345c13f913c0f40439b00480921" style="vertical-align: -0.838ex; width:7.116ex; height:2.843ex;"/></span> que se puede escribir como:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_2" style="font-style: normal;"><a href="#Eqnref_2">2</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V(x,y)={\frac {1}{2}}\sum _{i\neq j}{\frac {e^{2}}{\|x_{i}-x_{j}\|}}-\sum _{i,j}{\frac {Z_{j}e^{2}}{\|x_{i}-y_{j}\|}}+{\frac {1}{2}}\sum _{i\neq j}{\frac {Z_{i}Z_{j}e^{2}}{\|y_{i}-y_{j}\|}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mi>y</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>≠<!-- ≠ --></mo>
+<mi>j</mi>
+</mrow>
+</munder>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>,</mo>
+<mi>j</mi>
+</mrow>
+</munder>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>≠<!-- ≠ --></mo>
+<mi>j</mi>
+</mrow>
+</munder>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V(x,y)={\frac {1}{2}}\sum _{i\neq j}{\frac {e^{2}}{\|x_{i}-x_{j}\|}}-\sum _{i,j}{\frac {Z_{j}e^{2}}{\|x_{i}-y_{j}\|}}+{\frac {1}{2}}\sum _{i\neq j}{\frac {Z_{i}Z_{j}e^{2}}{\|y_{i}-y_{j}\|}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V(x,y)={\frac {1}{2}}\sum _{i\neq j}{\frac {e^{2}}{\|x_{i}-x_{j}\|}}-\sum _{i,j}{\frac {Z_{j}e^{2}}{\|x_{i}-y_{j}\|}}+{\frac {1}{2}}\sum _{i\neq j}{\frac {Z_{i}Z_{j}e^{2}}{\|y_{i}-y_{j}\|}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/956a8d6a25ed5515fd151d690fe1404fdc62ef1b" style="vertical-align: -3.505ex; width:62.432ex; height:7.509ex;"/></span>
+</p>
+<p>donde el primer término representa la interacción de los electrones entre sí, el segundo la interacción de los electrones con los núcleos atómicos, y el tercero las interacciones de los núcleos entre sí. En una molécula neutra se tendrá obviamente que:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \sum _{j=1}^{M}Z_{j}=N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>M</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sum _{j=1}^{M}Z_{j}=N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \sum _{j=1}^{M}Z_{j}=N}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6640fe2e23f59332561122df8d6c3011866cd035" style="vertical-align: -3.338ex; width:11.401ex; height:7.676ex;"/></span>
+</p>
+<p>Si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle M=1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>M</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M=1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle M=1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ca00f82608101fe96e18b56e5a0626193feff2c6" style="vertical-align: -0.338ex; width:6.703ex; height:2.176ex;"/></span> se tendrá un <a class="new" href="/w/index.php?title=%C3%81tomo_polielectr%C3%B3nico&amp;action=edit&amp;redlink=1" title="Átomo polielectrónico (aún no redactado)">átomo polielectrónico</a> si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Z_{1}&gt;1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>&gt;</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Z_{1}&gt;1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Z_{1}&gt;1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7931a3634a1df66cb4141af88fc9ab5d3804f2eb" style="vertical-align: -0.671ex; width:6.903ex; height:2.509ex;"/></span>, y un <a href="/wiki/%C3%81tomo_hidrogenoide" title="Átomo hidrogenoide">átomo hidrogenoide</a> si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Z_{1}=1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Z_{1}=1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Z_{1}=1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8ffe7a198fc2433bf841fcf86d43dcba93976a87" style="vertical-align: -0.671ex; width:6.903ex; height:2.509ex;"/></span>.
+</p>
+<p>Resolver el problema de <a class="mw-redirect" href="/wiki/Vector_propio_y_valor_propio" title="Vector propio y valor propio">autovalores y autofunciones</a> para el hamiltoniano cuántico dado por (<span class="plainlinks neverexpand" id="Eqnref_1"><a class="external text" href="https://es.wikipedia.org/wiki/Mol%C3%A9cula#Equation_1">1</a></span>) es un problema matemático difícil, por lo que es común simplificarlo de alguna manera. Así dado que los núcleos atómicos son mucho más pesados que los electrones (entre 10<sup>3</sup> y 10<sup>5</sup> veces más) puede suponerse que los núcleos atómicos apenas se mueven comparados con los electrones, por lo que se considera que están congelados en posiciones fijas, con lo cual se puede aproximar el hamiltoniano (<span class="plainlinks neverexpand" id="Eqnref_1"><a class="external text" href="https://es.wikipedia.org/wiki/Mol%C3%A9cula#Equation_1">1</a></span>) por la aproximación de <a href="/wiki/Max_Born" title="Max Born">Born</a>-<a href="/wiki/Robert_Oppenheimer" title="Robert Oppenheimer">Oppenheimer</a> dada por:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_3" style="font-style: normal;"><a href="#Eqnref_3">3</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\hat {H}}_{mol,N}^{BO}(y)=-\sum _{j=1}^{N}{\frac {\hbar ^{2}}{2m}}\nabla _{x_{j}}^{2}+V(x,y)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>H</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+<mi>o</mi>
+<mi>l</mi>
+<mo>,</mo>
+<mi>N</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+<mi>O</mi>
+</mrow>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>y</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mn>2</mn>
+<mi>m</mi>
+</mrow>
+</mfrac>
+</mrow>
+<msubsup>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<mi>V</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mi>y</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\hat {H}}_{mol,N}^{BO}(y)=-\sum _{j=1}^{N}{\frac {\hbar ^{2}}{2m}}\nabla _{x_{j}}^{2}+V(x,y)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\hat {H}}_{mol,N}^{BO}(y)=-\sum _{j=1}^{N}{\frac {\hbar ^{2}}{2m}}\nabla _{x_{j}}^{2}+V(x,y)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0096ac9dd0b91aebc7830affbc6272923e9822b2" style="vertical-align: -3.338ex; width:36.761ex; height:7.676ex;"/></span>
+</p>
+<p>definido sobre el espacio de funciones <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle L_{sym}^{2}(\mathbb {R} ^{3N})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>L</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+<mi>y</mi>
+<mi>m</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo stretchy="false">(</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+<mi>N</mi>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle L_{sym}^{2}(\mathbb {R} ^{3N})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle L_{sym}^{2}(\mathbb {R} ^{3N})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/78826591cfbf3e245ec10c511fecbc8c66257d6f" style="vertical-align: -1.005ex; width:10.847ex; height:3.343ex;"/></span> y donde 
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle y\in \mathbb {R} ^{3M}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>y</mi>
+<mo>∈<!-- ∈ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+<mi>M</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle y\in \mathbb {R} ^{3M}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle y\in \mathbb {R} ^{3M}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8ed7fdbed67271406255edf382073733897e01ed" style="vertical-align: -0.671ex; width:8.455ex; height:3.009ex;"/></span> es la posición de los núcleos que para el análisis se considera fija. El resultado básico de este análisis viene dado por el siguiente resultado matemático:
+</p>
+<p><b>Teorema de Kato</b></p>
+<p>Los operadores <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\hat {H}}_{m}ol}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>H</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mi>o</mi>
+<mi>l</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\hat {H}}_{m}ol}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\hat {H}}_{m}ol}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5b2012a3149ae18cf3f864bb24df2ec3e9658c23" style="vertical-align: -0.671ex; width:5.56ex; height:3.176ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\hat {H}}_{mol,N}^{BO}(y)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>H</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+<mi>o</mi>
+<mi>l</mi>
+<mo>,</mo>
+<mi>N</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+<mi>O</mi>
+</mrow>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>y</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\hat {H}}_{mol,N}^{BO}(y)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\hat {H}}_{mol,N}^{BO}(y)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1ea1d92812d5157d9b38c01f1572ec880f8ff5fc" style="vertical-align: -1.171ex; width:9.908ex; height:4.176ex;"/></span> son <a class="mw-redirect" href="/wiki/Operador_autoadjunto" title="Operador autoadjunto">autoadjuntos</a> y acotados inferiormente.
+</p>
+<p><br/></p>
+<p>La propiedad de ser autoadjunto implicará que las energías son cantidades reales, y el que sean acotados inferiormente implicará que existe un <a class="mw-redirect" href="/wiki/Estado_fundamental" title="Estado fundamental">estado fundamental</a> de mínima energía por debajo del cual los electrones no pueden decaer, y por tanto, las moléculas serán estables, ya que los electrones no pueden perder y perder energía como parecían predecir las ecuaciones del electromagnetismo clásico. Dos resultados matemáticos adicionales nos dicen como son las energías permitidas de los electrones dentro de una molécula:<sup class="reference separada" id="cite_ref-ion_24-0"><a href="#cite_note-ion-24"><span class="corchete-llamada">[</span>24<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><b>Teorema HVZ para átomos y moléculas BO</b></p>
+<p>El <a href="/wiki/Espectro_de_un_operador#Espectro_esencial" title="Espectro de un operador">espectro esencial</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \sigma _{ess}({\hat {H}}_{mol,N}^{BO})=[\Sigma _{N},\infty )}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>s</mi>
+<mi>s</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>H</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+<mi>o</mi>
+<mi>l</mi>
+<mo>,</mo>
+<mi>N</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+<mi>O</mi>
+</mrow>
+</msubsup>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mo stretchy="false">[</mo>
+<msub>
+<mi mathvariant="normal">Σ<!-- Σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<mi mathvariant="normal">∞<!-- ∞ --></mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sigma _{ess}({\hat {H}}_{mol,N}^{BO})=[\Sigma _{N},\infty )}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \sigma _{ess}({\hat {H}}_{mol,N}^{BO})=[\Sigma _{N},\infty )}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/94f5ef8bd9cd67579b44d142f201bba28ea7d2e1" style="vertical-align: -1.171ex; width:23.997ex; height:4.176ex;"/></span>, donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Sigma _{N}=\inf({\hat {H}}_{mol,N-1}^{BO})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi mathvariant="normal">Σ<!-- Σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo form="prefix" movablelimits="true">inf</mo>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>H</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+<mi>o</mi>
+<mi>l</mi>
+<mo>,</mo>
+<mi>N</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+<mi>O</mi>
+</mrow>
+</msubsup>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Sigma _{N}=\inf({\hat {H}}_{mol,N-1}^{BO})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Sigma _{N}=\inf({\hat {H}}_{mol,N-1}^{BO})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/893b03697b90cd1566e983db592f15aee5cec949" style="vertical-align: -1.171ex; width:19.972ex; height:4.176ex;"/></span>, la energía <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Sigma _{N}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi mathvariant="normal">Σ<!-- Σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Sigma _{N}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Sigma _{N}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3148ddc8041ad8b9d6b2f4638b526157e7abffe0" style="vertical-align: -0.671ex; width:3.37ex; height:2.509ex;"/></span> se denomina umbral de ionización.
+</p>
+<p><br/></p>
+<p>Además dentro de la mecánica cuántica puede demostrarse que pueden existir iones positivos (cationes, con carga positiva comparable al núcleo atómico), mientras que no es igual de fácil tener iones negativos (<a href="/wiki/Ani%C3%B3n" title="Anión">aniones</a>), el siguiente resultado matemático implica tiene que ver con la posibilidad de cationes y aniones:<sup class="reference separada" id="cite_ref-ion_24-1"><a href="#cite_note-ion-24"><span class="corchete-llamada">[</span>24<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><b>Teorema</b></p>
+<p>Para <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N&lt;\sum _{j}Z_{j}+1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+<mo>&lt;</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</munder>
+<msub>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N&lt;\sum _{j}Z_{j}+1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N&lt;\sum _{j}Z_{j}+1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/611981a4a198c69cec16c4d1936844595fde94e1" style="vertical-align: -3.338ex; width:15.404ex; height:5.843ex;"/></span>, el hamiltoniano <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\hat {H}}_{mol,N}^{BO}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>H</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+<mi>o</mi>
+<mi>l</mi>
+<mo>,</mo>
+<mi>N</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+<mi>O</mi>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\hat {H}}_{mol,N}^{BO}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\hat {H}}_{mol,N}^{BO}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f4dffd18e9dbe1da057de4ee1da978ec6c52c9bc" style="vertical-align: -1.171ex; width:6.943ex; height:4.176ex;"/></span> tiene un número infinito de autovalores (energías permitidas) por debajo del umbral de ionización <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Sigma _{N}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi mathvariant="normal">Σ<!-- Σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Sigma _{N}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Sigma _{N}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3148ddc8041ad8b9d6b2f4638b526157e7abffe0" style="vertical-align: -0.671ex; width:3.37ex; height:2.509ex;"/></span>, además los <a class="new" href="/w/index.php?title=Estado_ligado&amp;action=edit&amp;redlink=1" title="Estado ligado (aún no redactado)">estados ligados</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Psi _{N}^{(i)}(x_{1},x_{2},\dots ,x_{N})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi mathvariant="normal">Ψ<!-- Ψ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Psi _{N}^{(i)}(x_{1},x_{2},\dots ,x_{N})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Psi _{N}^{(i)}(x_{1},x_{2},\dots ,x_{N})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1d5df6cacf4ff8aa34d6c70d56a6874dfdfd6e35" style="vertical-align: -1.005ex; width:19.698ex; height:3.676ex;"/></span>, con energías <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{N}^{(i)}&lt;\Sigma _{N}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msubsup>
+<mo>&lt;</mo>
+<msub>
+<mi mathvariant="normal">Σ<!-- Σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{N}^{(i)}&lt;\Sigma _{N}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E_{N}^{(i)}&lt;\Sigma _{N}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/57a9b0f7ded3c034f7a9e855f063f5b123b61638" style="vertical-align: -1.005ex; width:10.341ex; height:3.676ex;"/></span> satisfacen la cota exponencial
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \int _{\mathbb {R} ^{3N}}|\Psi _{N}^{(i)}(x)|^{2}e^{2\alpha \|x\|}d^{3N}x&lt;\infty ,\qquad \forall \alpha &lt;{\sqrt {\Sigma _{N}-E_{N}^{(i)}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+<mi>N</mi>
+</mrow>
+</msup>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msubsup>
+<mi mathvariant="normal">Ψ<!-- Ψ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>α<!-- α --></mi>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+<mi>x</mi>
+<mo fence="false" stretchy="false">‖<!-- ‖ --></mo>
+</mrow>
+</msup>
+<msup>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+<mi>N</mi>
+</mrow>
+</msup>
+<mi>x</mi>
+<mo>&lt;</mo>
+<mi mathvariant="normal">∞<!-- ∞ --></mi>
+<mo>,</mo>
+<mspace width="2em"></mspace>
+<mi mathvariant="normal">∀<!-- ∀ --></mi>
+<mi>α<!-- α --></mi>
+<mo>&lt;</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msub>
+<mi mathvariant="normal">Σ<!-- Σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msubsup>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \int _{\mathbb {R} ^{3N}}|\Psi _{N}^{(i)}(x)|^{2}e^{2\alpha \|x\|}d^{3N}x&lt;\infty ,\qquad \forall \alpha &lt;{\sqrt {\Sigma _{N}-E_{N}^{(i)}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \int _{\mathbb {R} ^{3N}}|\Psi _{N}^{(i)}(x)|^{2}e^{2\alpha \|x\|}d^{3N}x&lt;\infty ,\qquad \forall \alpha &lt;{\sqrt {\Sigma _{N}-E_{N}^{(i)}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cfc532aed8527c1124f4a0d0b4e65f0eecb95c94" style="vertical-align: -2.338ex; width:54.71ex; height:5.676ex;"/></span>
+</p>

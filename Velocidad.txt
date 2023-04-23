@@ -1,0 +1,1569 @@
+<p>La <b>velocidad</b> es el cambio de posición de un objeto con respecto al <a href="/wiki/Tiempo" title="Tiempo">tiempo</a>. En <a href="/wiki/F%C3%ADsica" title="Física">física</a> se representa con: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} \,}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f9a0b99f33337761cdf1577409d136ec3719a50" style="vertical-align: -0.338ex; width:1.798ex; height:1.676ex;"/></span>o   <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {v}}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>v</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {v}}\,}</annotation>
+</semantics>
+</math></span><img alt="{\vec  {v}}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a34b5a95c7be71f5808f48b570cef9177096701b" style="vertical-align: -0.338ex; width:1.562ex; height:2.343ex;"/></span>. En <a href="/wiki/An%C3%A1lisis_dimensional" title="Análisis dimensional">análisis dimensional</a> sus dimensiones son: [<a href="/wiki/Longitud" title="Longitud">L</a>]/[<a href="/wiki/Tiempo" title="Tiempo">t</a>].<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ Su unidad en el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a> es el <a href="/wiki/Metro_por_segundo" title="Metro por segundo">metro por segundo</a> (símbolo, m/s).
+</p>
+<p>En <a class="mw-redirect" href="/wiki/Vector_(geometr%C3%ADa)" title="Vector (geometría)">matemática vectorial</a> se puede entender por velocidad que esta incluye a la dirección del movimiento, de modo que dos objetos moviéndose en direcciones opuestas pero igual velocidad pueden tener un vector de velocidad distinto. A veces, y en estos contextos, para distinguir esta ambigüedad se proponen los términos rapidez o celeridad para referirse a la <a class="mw-redirect" href="/wiki/Magnitud_(matem%C3%A1ticas)" title="Magnitud (matemáticas)">magnitud</a>, o <a href="/wiki/Valor_absoluto" title="Valor absoluto">valor absoluto</a> del vector velocidad.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​ Por ejemplo, "5 metros por segundo" es una velocidad, mientras que "5 metros por segundo al oeste" también es una velocidad, vectorial. Si al pasar el tiempo la velocidad se mide como "5 metros por segundo al norte", entonces el objeto tiene una velocidad cambiante, pero una rapidez constante, y se considera que está sufriendo una <i><a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a></i>.
+</p>
+<p><a href="/wiki/Arist%C3%B3teles" title="Aristóteles">Aristóteles</a> estudió los fenómenos físicos sin llegar a conceptualizar una noción de velocidad. En efecto, sus explicaciones (que posteriormente se demostrarían incorrectas) solo describían los fenómenos inherentes al movimiento sin usar las <a href="/wiki/Matem%C3%A1ticas" title="Matemáticas">matemáticas</a> como herramienta.
+</p>
+<p>Fue <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a> quien, estudiando el movimiento de los cuerpos en un <a href="/wiki/Plano_inclinado" title="Plano inclinado">plano inclinado</a>, formuló el concepto de velocidad.  Para ello, fijó un patrón de unidad de tiempo, como por ejemplo 1 segundo, y midió la distancia recorrida por un cuerpo en cada unidad de tiempo. De esta manera, Galileo desarrolló el concepto de la velocidad como la distancia recorrida por unidad de tiempo. A pesar del gran avance que representó la introducción de esta nueva noción, sus alcances se limitaban a los alcances mismos de las matemáticas. Por ejemplo, era relativamente sencillo calcular la velocidad de un móvil que se desplazase a velocidad constante, puesto que en cada unidad de tiempo recorre distancias iguales. También lo era calcular la velocidad de un móvil con <a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a> constante, como es el caso un cuerpo en <a href="/wiki/Ca%C3%ADda_libre" title="Caída libre">caída libre</a>. Sin embargo, cuando la velocidad del objeto variaba de forma más complicada, Galileo no disponía de herramientas matemáticas que le permitiesen determinar  la velocidad instantánea de un cuerpo. 
+</p>
+<p>Fue recién en el <a href="/wiki/Siglo_XVI" title="Siglo XVI">siglo XVI</a>, con el desarrollo del <a href="/wiki/C%C3%A1lculo" title="Cálculo">cálculo</a> por parte de <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> y <a href="/wiki/Gottfried_Leibniz" title="Gottfried Leibniz">Gottfried Leibniz</a>, cuando se pudo solucionar la cuestión de obtener la velocidad instantánea de un cuerpo. Esta está determinada por la <a href="/wiki/Derivada" title="Derivada">derivada</a> del vector de posición del objeto respecto del tiempo.
+</p>
+<p>Las aplicaciones de la velocidad, con el uso de Cálculo, es una herramienta fundamental en <a href="/wiki/F%C3%ADsica" title="Física">Física</a> e <a href="/wiki/Ingenier%C3%ADa" title="Ingeniería">Ingeniería</a>, extendiéndose en prácticamente todo fenómeno que implique cambios de posición respecto del tiempo, esto es, que implique <a href="/wiki/Movimiento_(f%C3%ADsica)" title="Movimiento (física)">movimiento</a>.
+</p>
+<p>Un término relacionado con la velocidad es el de <a href="/wiki/Celeridad" title="Celeridad">celeridad</a>. En el lenguaje cotidiano se emplea frecuentemente el término velocidad para referirse a la <a href="/wiki/Celeridad" title="Celeridad">celeridad</a>. En física se hace una distinción entre ambas, ya que la celeridad es una magnitud escalar que representa el módulo de la velocidad. De manera muy sencilla, si se dice que una partícula se mueve con una velocidad de 10 m/s, se está haciendo referencia a su celeridad; por el contrario, si además se especifica la dirección en que se mueve, se está haciendo referencia a su velocidad.
+</p>
+<p>Inicialmente, la noción de velocidad se basó la noción de velocidad media en un intervalo. Con el advenimiento del <a href="/wiki/C%C3%A1lculo_diferencial" title="Cálculo diferencial">cálculo diferencial</a> se introdujo la noción moderna. Dividir una distancia entre un tiempo parecía tan falso como la suma de estos dos valores podría parecer hoy. Así, para saber si un cuerpo iba más rápido que otro, Galileo (1564-1642) comparó la relación de las distancias recorridas por estos cuerpos con la relación de los tiempos correspondientes. Por ello aplicó la siguiente equivalencia:
+</p>
+<p>La noción de velocidad instantánea fue definida formalmente por primera vez por Pierre Varignon (1654-1722) el 5 de julio de 1698, como la relación de una longitud infinitamente pequeña dx respecto a un tiempo infinitamente pequeño d<i>t</i> emprendido en el reconocimiento de esta longitud. Por ello, sirve el formalismo del círculo diferencial que ha sido planteado en el punto, catorce años antes de <a class="mw-redirect" href="/wiki/Leibniz" title="Leibniz">Leibniz</a>. (<a href="/wiki/1646" title="1646">1646</a>-<a href="/wiki/1716" title="1716">1716</a>).
+</p>
+<p>Para tener una <i>velocidad constante</i>, un objeto debe tener una velocidad constante en una dirección constante. La dirección constante obliga al objeto a moverse en una trayectoria recta, por lo que una velocidad constante significa un movimiento en línea recta a una velocidad constante.
+</p>
+<p>Por ejemplo, un coche que se mueve a una velocidad constante de 20 kilómetros por hora en una trayectoria circular tiene una velocidad angular constante, pero no tiene una velocidad constante porque su dirección cambia. Por lo tanto, se considera que el coche está sufriendo una aceleración.
+</p>
+<p>La <a class="mw-redirect" href="/wiki/Rapidez" title="Rapidez">rapidez</a> (o celeridad) es el <a href="/wiki/M%C3%B3dulo_(vector)" title="Módulo (vector)">módulo</a> del vector de velocidad, denota únicamente la celeridad con la que se mueve un objeto.<sup class="reference separada" id="cite_ref-Wolf2019_4-0"><a href="#cite_note-Wolf2019-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-Bidwell1901_5-0"><a href="#cite_note-Bidwell1901-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La <i>velocidad media</i> se define como el cambio de posición durante un intervalo de tiempo considerado. Se calcula dividiendo el <a href="/wiki/Vector" title="Vector">vector</a> <a href="/wiki/Desplazamiento_(vector)" title="Desplazamiento (vector)">desplazamiento</a> (Δ<b>r</b>) entre el <a href="/wiki/Escalar_(matem%C3%A1tica)" title="Escalar (matemática)"> escalar</a> <a href="/wiki/Tiempo" title="Tiempo">tiempo</a> (Δt) empleado en efectuarlo:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {\bar {v}} ={\frac {\Delta \mathbf {r} }{\Delta t}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">v</mi>
+<mo mathvariant="bold" stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {\bar {v}} ={\frac {\Delta \mathbf {r} }{\Delta t}}}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {{\bar  {v}}}}={\frac  {\Delta {\mathbf  {r}}}{\Delta t}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0979878d1ed95ba6c52254a05d33f44eda9a9df6" style="vertical-align: -2.005ex; width:8.384ex; height:5.509ex;"/></span>
+</p>
+<p>De acuerdo con esta definición, la velocidad media es una magnitud vectorial (ya que es el resultado de dividir un vector entre un escalar).
+</p>
+<p>Por otra parte, si se considera la distancia recorrida sobre la <a href="/wiki/Trayectoria" title="Trayectoria">trayectoria</a> durante un intervalo de tiempo dado, tenemos la <i>velocidad media sobre la trayectoria</i> o <i>celeridad media</i>, la cual es una magnitud escalar. La expresión anterior se escribe en la forma:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\bar {v}}={\frac {\Delta s}{\Delta t}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>v</mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>s</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\bar {v}}={\frac {\Delta s}{\Delta t}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\bar {v}}={\frac {\Delta s}{\Delta t}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26019597d7ec5dbbf0c85d0e48e4c8b7a5d22f5" style="vertical-align: -2.005ex; width:8.188ex; height:5.509ex;"/></span>
+</p>
+<p>El módulo del vector velocidad media, en general, es diferente al valor de la velocidad media sobre la trayectoria. Solo serán iguales si la trayectoria es rectilínea y si el móvil solo avanza (en uno u otro sentido) sin retroceder.
+</p>
+<p>Por ejemplo, si un objeto recorre una distancia de 10 m sobre la trayectoria en un lapso de 3 s, el módulo de su velocidad media sobre la trayectoria es:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v={\frac {\Delta s}{\Delta t}}={\frac {10}{3}}=3,{\hat {3}}\,\,{\text{m/s}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>v</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>s</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>10</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>3</mn>
+<mo>,</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mn>3</mn>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>m/s</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v={\frac {\Delta s}{\Delta t}}={\frac {10}{3}}=3,{\hat {3}}\,\,{\text{m/s}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle v={\frac {\Delta s}{\Delta t}}={\frac {10}{3}}=3,{\hat {3}}\,\,{\text{m/s}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3f402b0bb2ab3cc3d3954a09044fc7aa630116bc" style="vertical-align: -2.005ex; width:25.594ex; height:5.509ex;"/></span>
+</p>
+<p>La <i>velocidad instantánea</i> es un vector tangente a la trayectoria, corresponde a la derivada del vector posición respecto al tiempo.
+</p>
+<p>Permite conocer la velocidad de un móvil que se desplaza sobre una trayectoria cuando el intervalo de tiempo es infinitamente pequeño, siendo entonces el espacio recorrido también muy pequeño, representando un punto de la trayectoria. La velocidad instantánea es siempre tangente a la trayectoria.
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} =\lim _{\Delta t\to 0}{\frac {\Delta \mathbf {r} }{\Delta t}}={\frac {d{\mathbf {r} }}{dt}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mo>=</mo>
+<munder>
+<mo form="prefix" movablelimits="true">lim</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} =\lim _{\Delta t\to 0}{\frac {\Delta \mathbf {r} }{\Delta t}}={\frac {d{\mathbf {r} }}{dt}}}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  v}=\lim _{{\Delta t\to 0}}{\frac  {\Delta {\mathbf  r}}{\Delta t}}={\frac  {d{{\mathbf  r}}}{dt}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f1cb9b3027060de943986bd4c5821a3bd4f4ed52" style="vertical-align: -2.171ex; width:19.451ex; height:5.676ex;"/></span>
+</p>
+<p>En forma vectorial, la velocidad es la <a href="/wiki/Derivada" title="Derivada">derivada</a> del vector <a href="/wiki/Posici%C3%B3n" title="Posición">posición</a> respecto al tiempo:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} ={\frac {ds}{dt}}\ \mathbf {u} _{t}={\frac {d{\mathbf {r} }}{dt}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} ={\frac {ds}{dt}}\ \mathbf {u} _{t}={\frac {d{\mathbf {r} }}{dt}}}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  v}={\frac  {ds}{dt}}\ {\mathbf  u}_{t}={\frac  {d{{\mathbf  r}}}{dt}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a41cf0852fafe74de93c6d198a4b870b1017c3f5" style="vertical-align: -2.005ex; width:16.796ex; height:5.509ex;"/></span>
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {u} _{t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {u} _{t}}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  u}_{t}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59434a6d5cff544b93f9ccaf33ba477c26e4646f" style="vertical-align: -0.671ex; width:2.311ex; height:2.009ex;"/></span> es un vector (<a class="mw-redirect" href="/wiki/Vector_(f%C3%ADsica)" title="Vector (física)">vector</a> de módulo unidad) de dirección tangente a la <a href="/wiki/Trayectoria" title="Trayectoria">trayectoria</a> del cuerpo en cuestión y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {r} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {r} }</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  r}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eca0f46511c4c986c48b254073732c0bd98ae0c1" style="vertical-align: -0.338ex; width:1.102ex; height:1.676ex;"/></span> es el vector posición, ya que en el límite los diferenciales de espacio recorrido y posición coinciden.
+</p>
+<p>donde
+</p>
+<p>La <i>velocidad promedio</i> es el promedio de la magnitud de la velocidad final e inicial concluyendo a la aceleración constante:
+</p>
+<p>La <i>celeridad o rapidez instantánea</i> es una magnitud escalar definida como el módulo de la velocidad instantánea, esto es, el módulo del vector velocidad en un instante dado. Se la expresa como:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_6" style="font-style: normal;"><a href="#Eqnref_6">6</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\text{celeridad}}=v=\left|\mathbf {v} \right|=\left|{\frac {d\mathbf {r} }{dt}}\right|={\frac {ds}{dt}}{{\mathbf {u} }_{t}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>celeridad</mtext>
+</mrow>
+<mo>=</mo>
+<mi>v</mi>
+<mo>=</mo>
+<mrow>
+<mo>|</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>|</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>s</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{celeridad}}=v=\left|\mathbf {v} \right|=\left|{\frac {d\mathbf {r} }{dt}}\right|={\frac {ds}{dt}}{{\mathbf {u} }_{t}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\text{celeridad}}=v=\left|\mathbf {v} \right|=\left|{\frac {d\mathbf {r} }{dt}}\right|={\frac {ds}{dt}}{{\mathbf {u} }_{t}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/616635b7ddb59f718ff2ab2784e13f1c3d713163" style="vertical-align: -2.338ex; width:35.178ex; height:5.843ex;"/></span>
+</p>
+<p>de modo que también podemos expresar la velocidad en función de la celeridad en la forma:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_7" style="font-style: normal;"><a href="#Eqnref_7">7</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} =v\,{{\mathbf {u} }_{t}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mo>=</mo>
+<mi>v</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} =v\,{{\mathbf {u} }_{t}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {v} =v\,{{\mathbf {u} }_{t}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/99f1691a52a32a5b45070f083bd241efe3449ef7" style="vertical-align: -0.671ex; width:8.335ex; height:2.009ex;"/></span>
+</p>
+<p>siendo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {u} _{t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {u} _{t}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {u} _{t}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59434a6d5cff544b93f9ccaf33ba477c26e4646f" style="vertical-align: -0.671ex; width:2.311ex; height:2.009ex;"/></span> el <a class="mw-redirect" href="/wiki/Versor" title="Versor">versor</a> tangente a la trayectoria en ese instante.
+</p>
+<p>El cálculo de velocidades relativas en <a href="/wiki/Mec%C3%A1nica_cl%C3%A1sica" title="Mecánica clásica">mecánica clásica</a> es aditivo y encaja con la intuición común sobre velocidades; de esta propiedad de la aditividad surge el <a href="/wiki/M%C3%A9todo_de_la_velocidad_relativa" title="Método de la velocidad relativa">método de la velocidad relativa</a>. La velocidad relativa entre dos <a href="/wiki/Observador" title="Observador">observadores</a> A y B es el valor de la velocidad de un observador medida por el otro. Las velocidades relativas medidas por A y B serán iguales en valor absoluto, pero de signo contrario. Denotaremos al valor la velocidad relativa de un observador B respecto a otro observador A como <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} _{\text{BA}}\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>BA</mtext>
+</mrow>
+</msub>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} _{\text{BA}}\;}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  v}_{{\text{BA}}}\;" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/995685ae97397d70e2e7ea7200631c15c8e23e95" style="vertical-align: -0.671ex; width:4.685ex; height:2.009ex;"/></span>.
+</p>
+<p>Dadas dos partículas A y B, cuyas velocidades medidas por un cierto observador son <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} _{\text{A}}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} _{\text{A}}\,}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}_{{\text{A}}}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/46663a5b9ae2536f2137d3f90b58233cc4d34c89" style="vertical-align: -0.671ex; width:3.263ex; height:2.009ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} _{\text{B}}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} _{\text{B}}\,}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}_{{\text{B}}}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/728893ee122e9ecdcfca8c9cdbea58455315929c" style="vertical-align: -0.671ex; width:3.194ex; height:2.009ex;"/></span>, la velocidad relativa de B con respecto a A se denota como <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} _{\text{BA}}\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>BA</mtext>
+</mrow>
+</msub>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} _{\text{BA}}\;}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}_{{\text{BA}}}\;" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/995685ae97397d70e2e7ea7200631c15c8e23e95" style="vertical-align: -0.671ex; width:4.685ex; height:2.009ex;"/></span> y viene dada por:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_8" style="font-style: normal;"><a href="#Eqnref_8">8</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} _{\text{BA}}=\mathbf {v} _{\text{B}}-\mathbf {v} _{\text{A}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>BA</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} _{\text{BA}}=\mathbf {v} _{\text{B}}-\mathbf {v} _{\text{A}}}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}_{{\text{BA}}}={\mathbf  {v}}_{{\text{B}}}-{\mathbf  {v}}_{{\text{A}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c70f74b0672befe6ee3c2f2678f489c34ad0c04" style="vertical-align: -0.671ex; width:15.661ex; height:2.343ex;"/></span>
+</p>
+<p>Naturalmente, la velocidad relativa de A con respecto a B se denota como <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} _{\text{AB}}\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>AB</mtext>
+</mrow>
+</msub>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} _{\text{AB}}\;}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}_{{\text{AB}}}\;" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/61b24906c0c0058024642585f47fa6251ed08213" style="vertical-align: -0.671ex; width:4.685ex; height:2.009ex;"/></span> y viene dada por:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_9" style="font-style: normal;"><a href="#Eqnref_9">9</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} _{\text{AB}}=\mathbf {v} _{\text{A}}-\mathbf {v} _{\text{B}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>AB</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} _{\text{AB}}=\mathbf {v} _{\text{A}}-\mathbf {v} _{\text{B}}}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}_{{\text{AB}}}={\mathbf  {v}}_{{\text{A}}}-{\mathbf  {v}}_{{\text{B}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d8111879e0a0086fe3684b66693cfaee7db79630" style="vertical-align: -0.671ex; width:15.661ex; height:2.343ex;"/></span>
+</p>
+<p>de modo que las velocidades relativas <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} _{\text{BA}}\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>BA</mtext>
+</mrow>
+</msub>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} _{\text{BA}}\;}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}_{{\text{BA}}}\;" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/995685ae97397d70e2e7ea7200631c15c8e23e95" style="vertical-align: -0.671ex; width:4.685ex; height:2.009ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} _{\text{AB}}\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>AB</mtext>
+</mrow>
+</msub>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} _{\text{AB}}\;}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}_{{\text{AB}}}\;" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/61b24906c0c0058024642585f47fa6251ed08213" style="vertical-align: -0.671ex; width:4.685ex; height:2.009ex;"/></span> tienen el mismo módulo, pero dirección contraria.
+</p>
+<p>De la expresiones anteriores obtenemos:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_10" style="font-style: normal;"><a href="#Eqnref_10">10</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}&amp;{{\mathbf {v} }_{\text{A}}}={{\mathbf {v} }_{\text{AB}}}+{{\mathbf {v} }_{\text{B}}}\\&amp;{{\mathbf {v} }_{\text{B}}}={{\mathbf {v} }_{\text{BA}}}+{{\mathbf {v} }_{\text{A}}}\\\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd></mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>AB</mtext>
+</mrow>
+</msub>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+</msub>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>BA</mtext>
+</mrow>
+</msub>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+</msub>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}&amp;{{\mathbf {v} }_{\text{A}}}={{\mathbf {v} }_{\text{AB}}}+{{\mathbf {v} }_{\text{B}}}\\&amp;{{\mathbf {v} }_{\text{B}}}={{\mathbf {v} }_{\text{BA}}}+{{\mathbf {v} }_{\text{A}}}\\\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{aligned}&amp;{{\mathbf {v} }_{\text{A}}}={{\mathbf {v} }_{\text{AB}}}+{{\mathbf {v} }_{\text{B}}}\\&amp;{{\mathbf {v} }_{\text{B}}}={{\mathbf {v} }_{\text{BA}}}+{{\mathbf {v} }_{\text{A}}}\\\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/be38b33c6c2a2d45af045793c3775341954ede3d" style="vertical-align: -2.338ex; width:16.412ex; height:5.843ex;"/></span>
+</p>
+<p>que nos permiten calcular vectorialmente la velocidad de A cuando se conoce su velocidad respecto de B y la velocidad de B. A estas expresiones se las denomina <i>ley de adición de velocidades</i>.
+</p>
+<p>La <a href="/wiki/Velocidad_angular" title="Velocidad angular">velocidad angular</a> no es propiamente una velocidad en el sentido anteriormente definido, ya que no se refiere al desplazamiento de un cuerpo sobre una trayectoria a un <a href="/wiki/Movimiento_de_rotaci%C3%B3n" title="Movimiento de rotación">movimiento de rotación</a>. Aunque no es propiamente una velocidad una vez conocida la velocidad de un punto de un sólido y la velocidad angular del sólido se puede determinar la velocidad instantánea del resto de puntos del sólido.
+</p>
+<p>En el tratamiento angular de los movimientos circulares, se produce una <a href="/wiki/Velocidad_angular" title="Velocidad angular">velocidad angular</a> a la <i>variación del <a href="/wiki/%C3%81ngulo" title="Ángulo">ángulo</a> -o posición angular- en el tiempo</i>. La velocidad angular se representa por la letra griega <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \omega }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ω<!-- ω --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \omega }</annotation>
+</semantics>
+</math></span><img alt="\omega " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48eff443f9de7a985bb94ca3bde20813ea737be8" style="vertical-align: -0.338ex; width:1.446ex; height:1.676ex;"/></span> y se mide, en el SI, en <a class="mw-redirect" href="/wiki/Radian" title="Radian">radianes</a> por segundo (rad/s). Se define matemáticamente como:
+</p>
+<p>Porque la velocidad angular ya está completamente determinada y no tiene que ver con el valor que se ha expresado antes. Falta identificar en qué lugar de la trayectoria está el punto y en qué sentimiento gira. Esto se hace con el vector velocidad angular. La magnitud anterior es el módulo de este vector. La dirección es la de la recta perpendicular al plano de la trayectoria y el sentido de avance que gira en el mismo sentido que el punto.
+</p>
+<p>En un movimiento circular la velocidad angular se relaciona con la velocidad tangencial a través de las expresiones:
+</p>
+<p>Donde <i>R</i> es el radio de la circunferencia que describe la trayectoria y la velocidad angular está expresada en radianes por segundo.
+</p>
+<p>La composición de velocidades consiste en calcular la velocidad que tiene un punto medido en un determinado <a href="/wiki/Sistema_de_referencia" title="Sistema de referencia">sistema de referencia</a>, por ejemplo un <a class="new" href="/w/index.php?title=Sistema_galileano&amp;action=edit&amp;redlink=1" title="Sistema galileano (aún no redactado)">sistema galileano</a>, respecto del que se dice que es la velocidad absoluta <i>v</i><sub>ab</sub>, a partir de la velocidad respectiva de un otro sistema de referencia que se hace respecto a la primera velocidad relativa anomenada <i>v</i> <sub>rel</sub> saben el movimiento del sistema de referencia relativo respecto al absoluto.
+</p>
+<p>En general es té:<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>donde '<i>v</i><sub>arr</sub> se  denomina 'velocidad de arrastre'.
+</p>
+<p>La velocidad de arrastre es la velocidad que vincula el punto respecto a la referencia absoluta si se fija respecto a la referencia relativa. Se puede calcular con la fórmula:
+</p>
+<p>donde 
+</p>
+<p>Para obtener la expresión que permite calcular la velocidad absoluta a partir de la velocidad relativa y del movimiento de la referencia relativa respecto de la referencia absoluta, es parte de la expresión que permite calcular el vector de posición medido en la referencia absoluta a partir del medido en la referencia relativa:
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overset {\to }{\mathop {P} }}\,_{abs}\left(O\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<mi>P</mi>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+<mi>b</mi>
+<mi>s</mi>
+</mrow>
+</msub>
+<mrow>
+<mo>(</mo>
+<mi>O</mi>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overset {\to }{\mathop {P} }}\,_{abs}\left(O\right)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\overset {\to }{\mathop {P} }}\,_{abs}\left(O\right)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54dc35bb3ea5123ded675dd264a497db5f7360fc" style="vertical-align: -0.838ex; width:8.713ex; height:3.343ex;"/></span> es el vector posición del origen de la referencia relativa respecto de la referencia absoluta.
+</p>
+<p>Derivando respecto al tiempo para obtener la velocidad se obtiene:
+</p>
+<p>El significado de la derivada temporal de la posición del origen de la referencia relativa es claro, es la velocidad del origen de la referencia relativa, por tanto:
+</p>
+<p>Para entender el significado de la derivada de la posición relativa respecto al tiempo hay que tener presente que la posición relativa es un vector tal que sus componentes están multiplicados por los vectores directores de la base móvil, por lo que, para derivarlo respecto al tiempo, se tiene:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}{\overset {\to }{\mathop {P} }}\,_{rel}&amp;=x{\overset {\to }{\mathop {e_{x}} }}\,+y{\overset {\to }{\mathop {e_{y}} }}\,+z{\overset {\to }{\mathop {e_{z}} }}\,\\{\frac {d}{dt}}{\overset {\to }{\mathop {P} }}\,_{rel}&amp;={\frac {d}{dt}}\left(x{\overset {\to }{\mathop {e_{x}} }}\,\right)+{\frac {d}{dt}}\left(y{\overset {\to }{\mathop {e_{y}} }}\,\right)+{\frac {d}{dt}}\left(z{\overset {\to }{\mathop {e_{z}} }}\,\right)\\&amp;=\left({\frac {d}{dt}}x\right){\overset {\to }{\mathop {e_{x}} }}\,+\left({\frac {d}{dt}}y\right){\overset {\to }{\mathop {e_{y}} }}\,+\left({\frac {d}{dt}}z\right){\overset {\to }{\mathop {e_{z}} }}\,+x{\frac {d}{dt}}{\overset {\to }{\mathop {e_{x}} }}\,+y{\frac {d}{dt}}{\overset {\to }{\mathop {e_{y}} }}\,+z{\frac {d}{dt}}{\overset {\to }{\mathop {e_{z}} }}\,\\\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<mi>P</mi>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+<mi>e</mi>
+<mi>l</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>+</mo>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>+</mo>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<mi>P</mi>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+<mi>e</mi>
+<mi>l</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mi>x</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mi>y</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mi>z</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>+</mo>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>+</mo>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>+</mo>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}{\overset {\to }{\mathop {P} }}\,_{rel}&amp;=x{\overset {\to }{\mathop {e_{x}} }}\,+y{\overset {\to }{\mathop {e_{y}} }}\,+z{\overset {\to }{\mathop {e_{z}} }}\,\\{\frac {d}{dt}}{\overset {\to }{\mathop {P} }}\,_{rel}&amp;={\frac {d}{dt}}\left(x{\overset {\to }{\mathop {e_{x}} }}\,\right)+{\frac {d}{dt}}\left(y{\overset {\to }{\mathop {e_{y}} }}\,\right)+{\frac {d}{dt}}\left(z{\overset {\to }{\mathop {e_{z}} }}\,\right)\\&amp;=\left({\frac {d}{dt}}x\right){\overset {\to }{\mathop {e_{x}} }}\,+\left({\frac {d}{dt}}y\right){\overset {\to }{\mathop {e_{y}} }}\,+\left({\frac {d}{dt}}z\right){\overset {\to }{\mathop {e_{z}} }}\,+x{\frac {d}{dt}}{\overset {\to }{\mathop {e_{x}} }}\,+y{\frac {d}{dt}}{\overset {\to }{\mathop {e_{y}} }}\,+z{\frac {d}{dt}}{\overset {\to }{\mathop {e_{z}} }}\,\\\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{aligned}{\overset {\to }{\mathop {P} }}\,_{rel}&amp;=x{\overset {\to }{\mathop {e_{x}} }}\,+y{\overset {\to }{\mathop {e_{y}} }}\,+z{\overset {\to }{\mathop {e_{z}} }}\,\\{\frac {d}{dt}}{\overset {\to }{\mathop {P} }}\,_{rel}&amp;={\frac {d}{dt}}\left(x{\overset {\to }{\mathop {e_{x}} }}\,\right)+{\frac {d}{dt}}\left(y{\overset {\to }{\mathop {e_{y}} }}\,\right)+{\frac {d}{dt}}\left(z{\overset {\to }{\mathop {e_{z}} }}\,\right)\\&amp;=\left({\frac {d}{dt}}x\right){\overset {\to }{\mathop {e_{x}} }}\,+\left({\frac {d}{dt}}y\right){\overset {\to }{\mathop {e_{y}} }}\,+\left({\frac {d}{dt}}z\right){\overset {\to }{\mathop {e_{z}} }}\,+x{\frac {d}{dt}}{\overset {\to }{\mathop {e_{x}} }}\,+y{\frac {d}{dt}}{\overset {\to }{\mathop {e_{y}} }}\,+z{\frac {d}{dt}}{\overset {\to }{\mathop {e_{z}} }}\,\\\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b08cfba67384cc7313cf02ff7517f0774babb703" style="vertical-align: -6.933ex; margin-bottom: -0.238ex; width:77.525ex; height:15.509ex;"/></span>
+</p>
+<p>Los tres primeros componentes son las derivaciones de los componentes de la posición respecto a la referencia relativa multiplicados por los vectores directores de la referencia relativa, por lo tanto, es el vector velocidad relativa <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\overset {\to }{\mathop {v_{rel}} }}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+<mi>e</mi>
+<mi>l</mi>
+</mrow>
+</msub>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\overset {\to }{\mathop {v_{rel}} }}\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\overset {\to }{\mathop {v_{rel}} }}\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dc64fcc3531587e960007790b415d4f5df591652" style="vertical-align: -0.671ex; width:3.745ex; height:3.343ex;"/></span>. Substituyéndolo queda de la siguiente manera:
+</p>
+<p>Al derivar cada uno de los vectores directores de la referencia relativa respecto al tiempo en general se obtiene un vector por cada uno que tiene tres componentes:
+</p>
+<p>En la nota matricial también se pueden expresar los tres últimos componentes como:
+</p>
+<p>Sin embargo, el hecho de que los directores de vectores tengan un módulo constante (=1) debe ser ω<sub>xx</sub> = ω<sub>yy</sub> = ω<sub>zz</sub> = 0.
+</p>
+<p>Además de ser perpendiculares entre ellos y seguir siéndolo en todo momento ha de ser ω<sub>yx</sub> = -ω<sub>xy</sub>, ω<sub>zx</sub> = -ω<sub>xz</sub> i ω<sub>zy</sub> = -ω<sub>yz</sub>, por lo que la expresión se puede escribir:
+</p>
+<p>Sustituyendo en <b>(1)</b> queda:
+</p>
+<p>Que es lo que se pretendía demostrar.
+</p>
+<p>En mecánica relativista puede definirse la velocidad de manera análoga a como se hace en <a href="/wiki/Mec%C3%A1nica_cl%C3%A1sica" title="Mecánica clásica">mecánica clásica</a> sin embargo la velocidad así definida no tiene las mismas propiedades que su análogo clásico:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_11" style="font-style: normal;"><a href="#Eqnref_11">11</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle U^{i}={\frac {v_{i}}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}\quad i\in \{1,2,3\},\qquad \qquad U^{0}={\frac {c}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msqrt>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</msqrt>
+</mfrac>
+</mrow>
+<mspace width="1em"></mspace>
+<mi>i</mi>
+<mo>∈<!-- ∈ --></mo>
+<mo fence="false" stretchy="false">{</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mn>2</mn>
+<mo>,</mo>
+<mn>3</mn>
+<mo fence="false" stretchy="false">}</mo>
+<mo>,</mo>
+<mspace width="2em"></mspace>
+<mspace width="2em"></mspace>
+<msup>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>c</mi>
+<msqrt>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</msqrt>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U^{i}={\frac {v_{i}}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}\quad i\in \{1,2,3\},\qquad \qquad U^{0}={\frac {c}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}}</annotation>
+</semantics>
+</math></span><img alt="U^{i}={\frac  {v_{i}}{{\sqrt  {1-{\frac  {v^{2}}{c^{2}}}}}}}\quad i\in \{1,2,3\},\qquad \qquad U^{0}={\frac  {c}{{\sqrt  {1-{\frac  {v^{2}}{c^{2}}}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dab3648a714adfaddd2f5c3e27f22a29a5999567" style="vertical-align: -4.671ex; width:55.159ex; height:7.509ex;"/></span>
+</p>
+<p>Además esta cuadrivelocidad tiene propiedades de transformación adecuadamente <a class="mw-redirect" href="/wiki/Covariancia_y_contravariancia" title="Covariancia y contravariancia">covariantes</a> y es proporcional al <a href="/wiki/Cuadrimomento" title="Cuadrimomento">cuadrimomento</a> lineal.
+</p>
+<p>En mecánica relativista <b>la velocidad relativa no es aditiva</b>, ya que de lo contrario podría superarse la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>. La falta de adtividad implica que si consideramos dos observadores, A y B, moviéndose sobre una misma recta a velocidades diferentes <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v_{\text{AO}},v_{\text{BO}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>AO</mtext>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>BO</mtext>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v_{\text{AO}},v_{\text{BO}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle v_{\text{AO}},v_{\text{BO}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cbae0a917e4d62291bc0c0e57dbb392ead5be2a7" style="vertical-align: -0.671ex; width:8.707ex; height:2.009ex;"/></span>, respecto de un tercer observador O, sucede que:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_12" style="font-style: normal;"><a href="#Eqnref_12">12</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v_{\text{BO}}\neq v_{\text{BA}}+v_{\text{AO}}\qquad v_{\text{AO}}\neq v_{\text{AB}}+v_{\text{BO}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>BO</mtext>
+</mrow>
+</msub>
+<mo>≠<!-- ≠ --></mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>BA</mtext>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>AO</mtext>
+</mrow>
+</msub>
+<mspace width="2em"></mspace>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>AO</mtext>
+</mrow>
+</msub>
+<mo>≠<!-- ≠ --></mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>AB</mtext>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>BO</mtext>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v_{\text{BO}}\neq v_{\text{BA}}+v_{\text{AO}}\qquad v_{\text{AO}}\neq v_{\text{AB}}+v_{\text{BO}}}</annotation>
+</semantics>
+</math></span><img alt="v_{{\text{BO}}}\neq v_{{\text{BA}}}+v_{{\text{AO}}}\qquad v_{{\text{AO}}}\neq v_{{\text{AB}}}+v_{{\text{BO}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4cfd8c6b893dd6ab0cca182de1b71836a767ddc1" style="vertical-align: -0.838ex; width:39.381ex; height:2.676ex;"/></span>
+</p>
+<p>Siendo la velocidad <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v_{\text{BA}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>BA</mtext>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v_{\text{BA}}}</annotation>
+</semantics>
+</math></span><img alt="v_{{\text{BA}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/02c7fcd74c98e2e98b50ee19c27052df8160d0c3" style="vertical-align: -0.671ex; width:3.756ex; height:2.009ex;"/></span> de B medida por A y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v_{\text{AB}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>AB</mtext>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v_{\text{AB}}}</annotation>
+</semantics>
+</math></span><img alt="v_{{\text{AB}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6693a1461e39795612c56641caf760928622d1bb" style="vertical-align: -0.671ex; width:3.756ex; height:2.009ex;"/></span> la velocidad de A medida por B.
+Esto sucede porque tanto la medida de velocidades, como el transcurso del tiempo para los observadores A y B no es el mismo debido a que tienen diferentes velocidades, y como es sabido el paso del tiempo depende de la velocidad de un sistema en relación con la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>. Cuando se tiene en cuenta esto, resulta que el cálculo de velocidades relativas no es aditiva. A diferencia de lo que sucede en la mecánica clásica, donde el paso del tiempo es idéntico para todos los observadores con independencia de su estado de movimiento. Otra forma de verlo es la siguiente: si las velocidades relativas fuera simplemente aditiva en relatividad llegaríamos a contradicciones. Para verlo, consideremos un objeto pequeño que se mueve respecto a otro mayor a una velocidad superior a la mitad de la luz. Y consideremos que ese otro objeto mayor se moviera a más de la velocidad de la luz respecto a un observador fijo. La aditividad implicaría que el objeto pequeño se movería a una velocidad superior a la de la luz respecto al observador fijo, pero eso no es posible porque todos los objetos materiales convencionales tienen velocidades inferiores a la de luz. Sin embargo, aunque las velocidades no son aditivas en relatividad, para velocidades pequeñas comparadas con la velocidad de la luz, las desigualdades se cumplen de modo aproximado, es decir:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_13" style="font-style: normal;"><a href="#Eqnref_13">13</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v_{\text{B}}\approx v_{\text{BA}}+v_{\text{A}}\qquad v_{\text{A}}\approx v_{\text{AB}}+v_{\text{B}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+</msub>
+<mo>≈<!-- ≈ --></mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>BA</mtext>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+</msub>
+<mspace width="2em"></mspace>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+</msub>
+<mo>≈<!-- ≈ --></mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>AB</mtext>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v_{\text{B}}\approx v_{\text{BA}}+v_{\text{A}}\qquad v_{\text{A}}\approx v_{\text{AB}}+v_{\text{B}}}</annotation>
+</semantics>
+</math></span><img alt="v_{{\text{B}}}\approx v_{{\text{BA}}}+v_{{\text{A}}}\qquad v_{{\text{A}}}\approx v_{{\text{AB}}}+v_{{\text{B}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9c98784d2688dda3193bd20049cd193974d296eb" style="vertical-align: -0.671ex; width:34.267ex; height:2.343ex;"/></span>
+</p>
+<p>Siendo inadecuada esta aproximación para valores de las velocidades no despreciables frente a la velocidad de la luz.
+</p>
+<p>En <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a> no relativista el estado de una partícula se describe mediante una <a href="/wiki/Funci%C3%B3n_de_onda" title="Función de onda">función de onda</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \psi (x)\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ψ<!-- ψ --></mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \psi (x)\,}</annotation>
+</semantics>
+</math></span><img alt="\psi (x)\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dae09e431d5c01fcf49371fe467d1463c9d7b28f" style="vertical-align: -0.838ex; width:5.039ex; height:2.843ex;"/></span> que satisface la <a href="/wiki/Ecuaci%C3%B3n_de_Schr%C3%B6dinger" title="Ecuación de Schrödinger">ecuación de Schrödinger</a>. La velocidad de propagación promedio de la partícula viene dada por la expresión:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_14" style="font-style: normal;"><a href="#Eqnref_14">14</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} ={\frac {i\hbar }{2m}}\left({\frac {{\boldsymbol {\nabla }}\psi ^{*}}{\psi ^{*}}}-{\frac {{\boldsymbol {\nabla }}\psi }{\psi }}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>i</mi>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mi>m</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">∇<!-- ∇ --></mi>
+</mrow>
+<msup>
+<mi>ψ<!-- ψ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msup>
+</mrow>
+<msup>
+<mi>ψ<!-- ψ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∗<!-- ∗ --></mo>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">∇<!-- ∇ --></mi>
+</mrow>
+<mi>ψ<!-- ψ --></mi>
+</mrow>
+<mi>ψ<!-- ψ --></mi>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} ={\frac {i\hbar }{2m}}\left({\frac {{\boldsymbol {\nabla }}\psi ^{*}}{\psi ^{*}}}-{\frac {{\boldsymbol {\nabla }}\psi }{\psi }}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}={\frac  {i\hbar }{2m}}\left({\frac  {{\boldsymbol  {\nabla }}\psi ^{*}}{\psi ^{*}}}-{\frac  {{\boldsymbol  {\nabla }}\psi }{\psi }}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/510b952f2a7c24bb838391944e1a0fb5a530ec58" style="vertical-align: -2.505ex; width:25.402ex; height:6.176ex;"/></span>
+</p>
+<p>Obviamente la velocidad solo será diferente de cero cuando la función de onda es compleja, siendo idénticamente nula la velocidad de los estados ligados estacionarios, cuya función de onda es <a href="/wiki/N%C3%BAmero_real" title="Número real">real</a>. Esto último se debe a que los estados estacionarios representan estados que no varían con el tiempo y, por tanto, no se propagan.
+</p>
+<p>En mecánica cuántica relativista se postula que por ejemplo un electrón podría tener junto con una velocidad media macroscópica (medida entre dos instantes diferentes) un movimiento de agitación u oscilación muy rápida adicional conocido como <i><a href="/wiki/Zitterbewegung" title="Zitterbewegung">Zitterbewegung</a></i>, de acuerdo con esa interpretación adicional no existe una relación entre el momento de la partícula y la velocidad asignable a dicho movimiento.
+</p>
+<p><br/>
+</p>

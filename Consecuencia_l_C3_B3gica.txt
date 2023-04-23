@@ -1,0 +1,86 @@
+<p>En <a href="/wiki/L%C3%B3gica" title="Lógica">lógica</a>, la <b>consecuencia lógica</b> es la relación entre las <a class="mw-redirect" href="/wiki/Premisas" title="Premisas">premisas</a> y la <a href="/wiki/Conclusi%C3%B3n" title="Conclusión">conclusión</a> de un argumento deductivamente <a href="/wiki/Validez_(l%C3%B3gica)" title="Validez (lógica)">válido</a>.<sup class="reference separada" id="cite_ref-SEP_1-0"><a href="#cite_note-SEP-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ La relación de consecuencia lógica es un concepto central a la lógica.<sup class="reference separada" id="cite_ref-SEP_1-1"><a href="#cite_note-SEP-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Dos características generalmente aceptadas de la relación de consecuencia lógica son que es «necesaria» y además «formal».<sup class="reference separada" id="cite_ref-SEP_1-2"><a href="#cite_note-SEP-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Se dice que una <a href="/wiki/F%C3%B3rmula_bien_formada" title="Fórmula bien formada">fórmula bien formada</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau }</annotation>
+</semantics>
+</math></span><img alt="\tau " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38a7dcde9730ef0853809fefc18d88771f95206c" style="vertical-align: -0.338ex; width:1.202ex; height:1.676ex;"/></span> es consecuencia semántica de un conjunto de fórmulas <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Gamma }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Γ<!-- Γ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Gamma }</annotation>
+</semantics>
+</math></span><img alt="\Gamma" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4cfde86a3f7ec967af9955d0988592f0693d2b19" style="vertical-align: -0.338ex; width:1.453ex; height:2.176ex;"/></span> si y solo si toda asignación de verdad de las proposiciones atómicas que forman parte de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Gamma }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Γ<!-- Γ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Gamma }</annotation>
+</semantics>
+</math></span><img alt="\Gamma" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4cfde86a3f7ec967af9955d0988592f0693d2b19" style="vertical-align: -0.338ex; width:1.453ex; height:2.176ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau }</annotation>
+</semantics>
+</math></span><img alt="\tau " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38a7dcde9730ef0853809fefc18d88771f95206c" style="vertical-align: -0.338ex; width:1.202ex; height:1.676ex;"/></span> <a href="/wiki/Satisfacibilidad" title="Satisfacibilidad">satisface</a> a todas las fórmulas de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Gamma }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Γ<!-- Γ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Gamma }</annotation>
+</semantics>
+</math></span><img alt="\Gamma" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4cfde86a3f7ec967af9955d0988592f0693d2b19" style="vertical-align: -0.338ex; width:1.453ex; height:2.176ex;"/></span> y a la fórmula <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau }</annotation>
+</semantics>
+</math></span><img alt="\tau " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38a7dcde9730ef0853809fefc18d88771f95206c" style="vertical-align: -0.338ex; width:1.202ex; height:1.676ex;"/></span>,
+</p>
+<p>En esta sección se introducen algunas explicaciones conocidas de la noción de consecuencia lógica.
+</p>
+<p>Una manera estándar de caracterizar a la noción de consecuencia lógica es a través como de <a href="/wiki/Teor%C3%ADa_de_modelos" title="Teoría de modelos">teoría de modelos</a>.<sup class="reference separada" id="cite_ref-SEP_1-3"><a href="#cite_note-SEP-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ A la noción de consecuencia lógica definida de esta manera se la llama <b>consecuencia semántica</b>, para distinguirla de otras concepciones de la misma noción. Según esta estrategia, una conclusión es una consecuencia lógica de las premisas cuando es imposible que las premisas sean verdaderas y la conclusión falsa. O dicho más precisamente, cuando toda <a href="/wiki/Interpretaci%C3%B3n_(l%C3%B3gica)" title="Interpretación (lógica)">interpretación</a> que hace verdaderas a las premisas también hace verdadera a la conclusión.<sup class="reference separada" id="cite_ref-SEP_1-4"><a href="#cite_note-SEP-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Es decir, cuando todo <i>modelo</i> de las premisas es también un modelo de la conclusión.<sup class="reference separada" id="cite_ref-SEP_1-5"><a href="#cite_note-SEP-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Cuando una conclusión <i>A</i> es una consecuencia semántica de un conjunto de premisas <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Gamma }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Γ<!-- Γ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Gamma }</annotation>
+</semantics>
+</math></span><img alt="\Gamma" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4cfde86a3f7ec967af9955d0988592f0693d2b19" style="vertical-align: -0.338ex; width:1.453ex; height:2.176ex;"/></span> en un <a href="/wiki/Lenguaje_formal" title="Lenguaje formal">lenguaje formal</a> <i>L</i>, se escribe:
+</p>
+<p>Otra manera de caracterizar a la relación de consecuencia lógica es a través de la <a href="/wiki/Teor%C3%ADa_de_la_demostraci%C3%B3n" title="Teoría de la demostración">teoría de la demostración</a>.<sup class="reference separada" id="cite_ref-SEP_1-6"><a href="#cite_note-SEP-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ A la noción de consecuencia lógica definida de esta manera se la llama <b>consecuencia sintáctica</b>, para distinguirla de otras concepciones de la misma noción. Según esta estrategia, una conclusión es una consecuencia lógica de las premisas cuando existe una demostración de la conclusión a partir de las premisas.<sup class="reference separada" id="cite_ref-SEP_1-7"><a href="#cite_note-SEP-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Es decir cuando, usando solamente las premisas, los axiomas y las reglas de inferencia permitidas, es posible construir una derivación de la conclusión.
+</p>
+<p>Cuando una conclusión <i>A</i> es una consecuencia sintáctica de un conjunto de premisas <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Gamma }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Γ<!-- Γ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Gamma }</annotation>
+</semantics>
+</math></span><img alt="\Gamma" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4cfde86a3f7ec967af9955d0988592f0693d2b19" style="vertical-align: -0.338ex; width:1.453ex; height:2.176ex;"/></span> en un <a href="/wiki/Sistema_formal" title="Sistema formal">sistema formal</a> <i>S</i>, se escribe:
+</p>

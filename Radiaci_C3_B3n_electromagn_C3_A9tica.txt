@@ -1,0 +1,279 @@
+<p>La <b>radiación electromagnética</b> es un tipo de <a href="/wiki/Campo_electromagn%C3%A9tico" title="Campo electromagnético">campo electromagnético</a> variable, es decir, una combinación de <a href="/wiki/Campo_el%C3%A9ctrico" title="Campo eléctrico">campos eléctricos</a> y <a href="/wiki/Campo_magn%C3%A9tico" title="Campo magnético">magnéticos</a> oscilantes, que se propagan a través del espacio transportando <a href="/wiki/Energ%C3%ADa" title="Energía">energía</a> de un lugar a otro.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Desde el punto de vista clásico, la radiación electromagnética son las ondas electromagnéticas generadas por las fuentes del campo electromagnético y que se propagan a la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>. La generación y la propagación de estas ondas son compatibles con el modelo de ecuaciones matemáticas definido en las <a href="/wiki/Ecuaciones_de_Maxwell" title="Ecuaciones de Maxwell">ecuaciones de Maxwell</a>.
+</p>
+<p>La radiación de tipo electromagnético puede manifestarse de diversas maneras, como <a href="/wiki/Ondas_de_radio" title="Ondas de radio">ondas de radio</a>, <a href="/wiki/Microondas" title="Microondas">microondas</a>, <a href="/wiki/Radiaci%C3%B3n_infrarroja" title="Radiación infrarroja">radiación infrarroja</a>, <a class="mw-redirect" href="/wiki/Luz_visible" title="Luz visible">luz visible</a>, <a href="/wiki/Radiaci%C3%B3n_ultravioleta" title="Radiación ultravioleta">radiación ultravioleta</a>, <a href="/wiki/Rayos_X" title="Rayos X">rayos X</a> y <a href="/wiki/Rayos_gamma" title="Rayos gamma">rayos gamma</a>. A diferencia de otros tipos de <a class="mw-redirect" href="/wiki/Onda_(f%C3%ADsica)" title="Onda (física)">onda</a>, como el <a href="/wiki/Sonido" title="Sonido">sonido</a>, que necesitaran un medio material para propagarse, la radiación electromagnética se puede propagar en el <a class="mw-redirect" href="/wiki/Vac%C3%ADo_(f%C3%ADsica)" title="Vacío (física)">vacío</a>. En el siglo <span style="font-variant:small-caps;text-transform:lowercase">XIX</span> se pensaba que existía una sustancia indetectable, llamada <a href="/wiki/%C3%89ter_(f%C3%ADsica)" title="Éter (física)">éter</a>, que ocupaba el vacío y servía de medio de propagación de las ondas electromagnéticas. El estudio teórico de la radiación electromagnética se denomina <a href="/wiki/Electrodin%C3%A1mica" title="Electrodinámica">electrodinámica</a> y es un subcampo del <a href="/wiki/Electromagnetismo" title="Electromagnetismo">electromagnetismo</a>.
+</p>
+<p>Las <a href="/wiki/Ondas_electromagn%C3%A9ticas_planas" title="Ondas electromagnéticas planas">ondas electromagnéticas</a> pueden ser generadas por distintas fuentes como son: cargas aceleradas, dipolos oscilantes, corrientes variables en distintos tipos de antenas, entre otras. La forma de las ondas electromagnéticas depende de la fuente que las genera y de la distancia recorrida por las mismas.<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La radiación electromagnética de longitudes de onda distintas a las de la <a class="mw-redirect" href="/wiki/Luz_visible" title="Luz visible">luz visible</a> se descubrió a principios del siglo <span style="font-variant:small-caps;text-transform:lowercase">XIX</span>. El descubrimiento de la <a href="/wiki/Radiaci%C3%B3n_infrarroja" title="Radiación infrarroja">radiación infrarroja</a> se atribuye al astrónomo <a href="/wiki/William_Herschel" title="William Herschel">William Herschel</a>, quien publicó sus resultados en 1800 ante la <a class="mw-redirect" href="/wiki/Royal_Society_of_London" title="Royal Society of London">Royal Society of London</a>.<sup class="reference separada" id="cite_ref-HerschelRSIR_3-0"><a href="#cite_note-HerschelRSIR-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​ Herschel utilizó un prisma de vidrio para refractar la luz del Sol y detectó rayos invisibles que provocaban un calentamiento más allá de la parte roja del espectro, mediante un aumento de la temperatura registrada con un termómetro. Estos «rayos caloríficos» se denominaron posteriormente infrarrojos.<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En 1801, el físico alemán <a href="/wiki/Johann_Wilhelm_Ritter" title="Johann Wilhelm Ritter">Johann Wilhelm Ritter</a> descubrió la <a class="mw-redirect" href="/wiki/Luz_ultravioleta" title="Luz ultravioleta">luz ultravioleta</a> en un experimento similar al de Herschel, utilizando luz solar y un prisma de vidrio. Ritter notó que los rayos invisibles cerca del borde violeta de un espectro solar dispersado por un prisma triangular oscurecían las preparaciones de cloruro de plata más rápidamente que la luz violeta. Los experimentos de Ritter fueron los primeros precursores de lo que se convertiría en la <a href="/wiki/Fotograf%C3%ADa" title="Fotografía">fotografía</a>. Ritter señaló que los rayos ultravioleta (que al principio se llamaron «rayos químicos») eran capaces de provocar reacciones químicas.<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En 1862-1864, <a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">James Clerk Maxwell</a> desarrolló ecuaciones para el campo electromagnético que sugerían que las ondas en el campo viajarían con una velocidad muy cercana a la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>. Por lo tanto, Maxwell sugirió que la luz visible (así como los rayos infrarrojos y ultravioleta invisibles por inferencia) consistían en propagar perturbaciones (o radiación) en el campo electromagnético. Las ondas de radio fueron producidas deliberadamente por primera vez por <a class="mw-redirect" href="/wiki/Heinrich_Hertz" title="Heinrich Hertz">Heinrich Hertz</a> en 1887, utilizando circuitos eléctricos calculados para producir oscilaciones a una frecuencia mucho más baja que la de la luz visible. Hertz también desarrolló formas de detectar estas ondas y produjo y caracterizó lo que luego se denominaron ondas de radio y microondas.<sup class="reference separada" id="cite_ref-Jeans_6-0"><a href="#cite_note-Jeans-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><a href="/wiki/Wilhelm_R%C3%B6ntgen" title="Wilhelm Röntgen">Wilhelm Röntgen</a> descubrió y nombró radiografías. Después de experimentar con altos voltajes aplicados a un tubo de vacío el 8 de noviembre de 1895, notó una fluorescencia en una placa cercana de vidrio revestido. En un mes, descubrió las principales propiedades de los <a href="/wiki/Rayos_X" title="Rayos X">rayos X</a>.<sup class="reference separada" id="cite_ref-Jeans_6-1"><a href="#cite_note-Jeans-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La última parte del espectro electromagnético que se descubrió se asoció con la radiactividad. <a href="/wiki/Henri_Becquerel" title="Henri Becquerel">Henri Becquerel</a> descubrió que las sales de <a href="/wiki/Uranio" title="Uranio">uranio</a> causaban el empañamiento de una placa fotográfica no expuesta a través de un papel de cobertura de una manera similar a los rayos X, y <a href="/wiki/Marie_Curie" title="Marie Curie">Marie Curie</a> descubrió que solo ciertos elementos emitían estos rayos de energía, y pronto descubrió la intensa radiación del <a href="/wiki/Radio_(elemento)" title="Radio (elemento)">radio</a>. La radiación de la pechblenda fue diferenciada en <a class="mw-redirect" href="/wiki/Rayos_alfa" title="Rayos alfa">rayos alfa</a> (partículas alfa) y <a class="mw-redirect" href="/wiki/Rayos_beta" title="Rayos beta">rayos beta</a> (partículas beta) por <a href="/wiki/Ernest_Rutherford" title="Ernest Rutherford">Ernest Rutherford</a> a través de una simple experimentación en 1899, pero se demostró que eran tipos de radiación de partículas cargadas. Sin embargo, en 1900, el científico francés <a class="mw-redirect" href="/wiki/Paul_Villard" title="Paul Villard">Paul Villard</a> descubrió un tercer tipo de radiación de radio con carga neutra y especialmente penetrante, y después de describirlo, Rutherford se dio cuenta de que debía ser un tercer tipo de radiación, que en 1903 denominó <a href="/wiki/Rayos_gamma" title="Rayos gamma">rayos gamma</a>. En 1910, el físico británico <a href="/wiki/William_Henry_Bragg" title="William Henry Bragg">William Henry Bragg</a> demostró que los rayos gamma son radiación electromagnética, no partículas, y en 1914 Rutherford y Edward Andrade midieron sus longitudes de onda, encontrando que eran similares a los rayos X pero con longitudes de onda más cortas y mayor frecuencia.<sup class="reference separada" id="cite_ref-Jeans_6-2"><a href="#cite_note-Jeans-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Existen multitud de fenómenos físicos asociados con la radiación electromagnética que pueden ser estudiados de manera unificada, como la interacción de ondas electromagnéticas y partículas cargadas presentes en la materia. Entre estos fenómenos están por ejemplo la luz visible, el calor radiado, las ondas de radio y televisión o ciertos tipos de <a class="mw-redirect" href="/wiki/Radiaci%C3%B3n_gamma" title="Radiación gamma">radioactividad</a> por citar algunos de los fenómenos más destacados. Todos estos fenómenos consisten en la emisión de radiación electromagnética en diferentes rangos de frecuencias (o equivalentemente diferentes longitudes de onda), siendo el rango de frecuencia o <a href="/wiki/Longitud_de_onda" title="Longitud de onda">longitud de onda</a> el más usado para clasificar los diferentes tipos de radiación electromagnética. La ordenación de los diversos tipos de radiación electromagnética por frecuencia recibe el nombre de <a href="#Espectro_electromagnético">espectro electromagnético</a>.
+</p>
+<p>La luz visible está formada por la radiación electromagnética cuyas longitudes de onda están comprendidas entre 400 y 700 <a href="/wiki/Nan%C3%B3metro" title="Nanómetro">nm</a>. La luz es producida en la <a class="mw-redirect" href="/wiki/Corteza_at%C3%B3mica" title="Corteza atómica">corteza atómica</a> de los átomos, cuando un átomo por diversos motivos recibe energía puede que algunos de sus electrones pasen a <a href="/wiki/Capa_electr%C3%B3nica" title="Capa electrónica">capas electrónicas</a> de mayor energía. Los <a href="/wiki/Electr%C3%B3n" title="Electrón">electrones</a> son inestables en capas altas de mayor energía si existen niveles energéticos inferiores desocupados, por lo que tienden a caer hacia estos, pero al decaer hacia niveles inferiores la conservación de la energía requiere la emisión de <a href="/wiki/Fot%C3%B3n" title="Fotón">fotones</a>, cuyas frecuencias suelen caer en los rangos asociados a la luz visible. Eso es precisamente lo que sucede en fenómenos de emisión primaria tan diversos como la llama del fuego, un filamento incandescente de una lámpara o la luz procedente del sol. Secundariamente la luz procedente de emisión primaria puede ser reflejada, refractada, absorbida parcialmente y esa es la razón por la cual objetos que no son fuentes de emisión primaria son visibles.
+</p>
+<p>Cuando se somete algún metal y otras sustancias a fuentes de calor estas se calientan y llegan a emitir luz visible. Para un metal este fenómeno se denomina calentar "al rojo vivo", ya que la luz emitida inicialmente es rojiza-anaranjada, si la temperatura se eleva más blanca-amarillenta. Conviene señalar que antes que la luz emitida por metales y otras sustancias sobrecalentadas sea visible, estos mismos cuerpos irradian calor en forma de <a href="/wiki/Radiaci%C3%B3n_infrarroja" title="Radiación infrarroja">radiación infrarroja</a> que es un tipo de radiación electromagnética no visible directamente por el ojo humano.
+</p>
+<p>Cuando un <a href="/wiki/Alambre" title="Alambre">alambre</a> o cualquier objeto <a href="/wiki/Conductor_el%C3%A9ctrico" title="Conductor eléctrico">conductor</a>, tal como una <a href="/wiki/Antena" title="Antena">antena</a>, conduce <a href="/wiki/Corriente_alterna" title="Corriente alterna">corriente alterna</a>, la <b>radiación electromagnética</b> se propaga en la misma <a href="/wiki/Frecuencia" title="Frecuencia">frecuencia</a> que la <a href="/wiki/Corriente_el%C3%A9ctrica" title="Corriente eléctrica">corriente</a>.
+</p>
+<p>De forma similar, cuando una <b>radiación electromagnética</b> incide en un <a href="/wiki/Conductor_el%C3%A9ctrico" title="Conductor eléctrico">conductor eléctrico</a>, hace que los electrones de su superficie oscilen, generándose de esta forma una corriente alterna cuya frecuencia es la misma que la de la radiación incidente. Este efecto se usa en las antenas, que pueden actuar como emisores o receptores de radiación electromagnética.
+</p>
+<p>Se puede obtener mucha información acerca de las propiedades físicas de un objeto a través del estudio de su espectro electromagnético, ya sea por la luz emitida (<a href="/wiki/Cuerpo_negro" title="Cuerpo negro">radiación de cuerpo negro</a>) o absorbida por él. Esto es la <a href="/wiki/Espectroscopia" title="Espectroscopia">espectroscopia</a> y se usa ampliamente en <a href="/wiki/Astrof%C3%ADsica" title="Astrofísica">astrofísica</a> y química. Por ejemplo, los átomos de <a href="/wiki/Hidr%C3%B3geno" title="Hidrógeno">hidrógeno</a> tienen una frecuencia natural de oscilación, por lo que emiten ondas de radio, las cuales tiene una longitud de onda de 21,12 cm.
+</p>
+<p>En función de la frecuencia, las ondas electromagnéticas pueden no atravesar medios conductores. Esta es la razón por la cual las transmisiones de radio no funcionan bajo el mar y los teléfonos móviles se queden sin cobertura dentro de una caja de metal. Sin embargo, como la energía no se crea ni se destruye, cuando una onda electromagnética choca con un conductor pueden suceder dos cosas. La primera es que se transformen en <a href="/wiki/Calor" title="Calor">calor</a>: este efecto tiene aplicación en los hornos de <a class="mw-redirect" href="/wiki/Microondas_(electrodom%C3%A9stico)" title="Microondas (electrodoméstico)">microondas</a>. La segunda es que se <a href="/wiki/Reflexi%C3%B3n_(f%C3%ADsica)" title="Reflexión (física)">reflejen</a> en la superficie del conductor (como en un <a href="/wiki/Espejo" title="Espejo">espejo</a>).
+</p>
+<p>La velocidad de propagación de la radiación electromagnética en el vacío es «c». La teoría electromagnética establece que:
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon _{0}}</annotation>
+</semantics>
+</math></span><img alt="\varepsilon _{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/acb0a8377db20e42274444cb181d51b5532b5844" style="vertical-align: -0.671ex; width:2.138ex; height:2.009ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mu _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mu _{0}}</annotation>
+</semantics>
+</math></span><img alt="\mu _{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe2fd9b8decb38a3cd158e7b6c0c6e2d987fefcc" style="vertical-align: -0.838ex; width:2.456ex; height:2.176ex;"/></span> son la <a class="mw-redirect" href="/wiki/Permitividad_el%C3%A9ctrica" title="Permitividad eléctrica">permitividad eléctrica</a> y la <a href="/wiki/Permeabilidad_magn%C3%A9tica" title="Permeabilidad magnética">permeabilidad magnética</a> del vacío respectivamente.
+</p>
+<p>En un medio material la permitividad eléctrica <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon }</annotation>
+</semantics>
+</math></span><img alt="\varepsilon " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a30c89172e5b88edbd45d3e2772c7f5e562e5173" style="vertical-align: -0.338ex; width:1.083ex; height:1.676ex;"/></span> tiene un valor diferente a <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon _{0}}</annotation>
+</semantics>
+</math></span><img alt="\varepsilon _{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/acb0a8377db20e42274444cb181d51b5532b5844" style="vertical-align: -0.671ex; width:2.138ex; height:2.009ex;"/></span>. Lo mismo ocurre con la permeabilidad magnética <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>μ<!-- μ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mu }</annotation>
+</semantics>
+</math></span><img alt="\mu" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161" style="vertical-align: -0.838ex; width:1.402ex; height:2.176ex;"/></span> y, por lo tanto, la velocidad de la luz en ese medio <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>v</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v}</annotation>
+</semantics>
+</math></span><img alt="v" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e07b00e7fc0847fbd16391c778d65bc25c452597" style="vertical-align: -0.338ex; width:1.128ex; height:1.676ex;"/></span> será diferente a c. La velocidad de propagación de la luz en medios diferentes al vacío es siempre inferior a c.
+</p>
+<p>Cuando la luz cambia de un medio a otro experimenta una desviación que depende del ángulo con que incide en la superficie que separa a los dos medios. Se habla, entonces, de un ángulo incidente y de un ángulo de transmisión. Este fenómeno, denominado <a href="/wiki/Refracci%C3%B3n" title="Refracción">refracción</a>, es claramente apreciable en la desviación que presentan los haces de luz cuando inciden en el agua. La velocidad de la luz en un medio se puede calcular a partir de su permitividad eléctrica y de su permeabilidad magnética de la siguiente manera:
+</p>
+<p>La permitividad eléctrica y la permeabilidad magnética de un medio diferente del vacío dependen, además de la naturaleza del medio, de la longitud de onda de la radiación. De esto se desprende que la velocidad de propagación de la radiación electromagnética en un medio depende también de la longitud de onda de dicha radiación. Por tanto, la desviación de un rayo de luz al cambiar de medio será diferente para cada color (para cada longitud de onda). El ejemplo más claro es el de un haz de luz blanca que se "descompone" en colores al pasar por un prisma. La luz blanca es realmente la suma de haces de luz de distintas longitudes de onda, que son desviadas de manera diferente. Este fenómeno se llama <a href="/wiki/Dispersi%C3%B3n_refractiva" title="Dispersión refractiva">dispersión</a>. Es el causante de la <a href="/wiki/Aberraci%C3%B3n_crom%C3%A1tica" title="Aberración cromática">aberración cromática</a>, el halo de colores que se puede apreciar alrededor de los objetos al observarlos con instrumentos que utilizan lentes como <a href="/wiki/Prism%C3%A1ticos" title="Prismáticos">prismáticos</a> o <a href="/wiki/Telescopio" title="Telescopio">telescopios</a>.
+</p>
+<p>Una consecuencia importante de la <a href="/wiki/Electrodin%C3%A1mica" title="Electrodinámica">electrodinámica clásica</a> es que una partícula cargada en movimiento acelerado (rectilíneo, circular o de otro tipo) debe emitir ondas electromagnéticas siendo la potencia emitida proporcional al cuadrado de su aceleración, de hecho la <a href="/wiki/F%C3%B3rmula_de_Larmor" title="Fórmula de Larmor">fórmula de Larmor</a> para la potencia emitida viene dada por:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P={\frac {q^{2}a^{2}}{6\pi \varepsilon _{0}{\text{c}}^{3}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>6</mn>
+<mi>π<!-- π --></mi>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>c</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P={\frac {q^{2}a^{2}}{6\pi \varepsilon _{0}{\text{c}}^{3}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P={\frac {q^{2}a^{2}}{6\pi \varepsilon _{0}{\text{c}}^{3}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dea2568df0d861dd9f1acf2a73e4da666052df15" style="vertical-align: -2.505ex; width:12.399ex; height:6.343ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>Un ejemplo de este fenómeno de emisión de radiación por parte de partículas cargadas es la <a href="/wiki/Radiaci%C3%B3n_de_sincrotr%C3%B3n" title="Radiación de sincrotrón">radiación de sincrotrón</a>.
+</p>
+<p>Atendiendo a su longitud de onda, la radiación electromagnética recibe diferentes nombres, y varía desde los energéticos <a href="/wiki/Rayos_gamma" title="Rayos gamma">rayos gamma</a> (con una longitud de onda del orden de <a href="/wiki/Pic%C3%B3metro" title="Picómetro">picómetros</a>) hasta las ondas de radio (longitudes de onda del orden de <a href="/wiki/Kil%C3%B3metro" title="Kilómetro">kilómetros</a>), pasando por el <a href="/wiki/Espectro_visible" title="Espectro visible">espectro visible</a> (cuya longitud de onda está en el rango de las décimas de <a href="/wiki/Micr%C3%B3metro_(unidad_de_longitud)" title="Micrómetro (unidad de longitud)">micrómetro</a>). El rango completo de longitudes de onda es lo que se denomina el <a href="/wiki/Espectro_electromagn%C3%A9tico" title="Espectro electromagnético">espectro electromagnético</a>.
+</p>
+<p>El espectro visible es un minúsculo intervalo que va desde la longitud de onda correspondiente al color <a href="/wiki/Violeta_(color)" title="Violeta (color)">violeta</a> (aproximadamente 400 <a href="/wiki/Nan%C3%B3metro" title="Nanómetro">nanómetros</a>) hasta la longitud de onda correspondiente al color <a href="/wiki/Rojo" title="Rojo">rojo</a> (aproximadamente 700 <a class="mw-redirect" href="/wiki/Nm" title="Nm">nm</a>).
+</p>
+<p>En telecomunicaciones se clasifican las ondas mediante un convenio internacional de frecuencias en función del empleo al que están destinadas como se observa en la tabla, además se debe considerar un tipo especial llamado microondas, que se sitúan su rango de frecuencias entre 1 GHz y 300 GHz, es decir, longitudes de onda de entre 30 centímetros a 1 milímetro, que tienen la capacidad de atravesar la ionosfera terrestre, permitiendo la comunicación satelital.
+</p>
+<p><a href="/wiki/Red_de_%C3%A1rea_local_inal%C3%A1mbrica" title="Red de área local inalámbrica">WLAN</a><sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El <a href="/wiki/Electromagnetismo#Electrodinámica_clásica" title="Electromagnetismo">electromagnetismo clásico</a> y la <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a> ofrecen descripciones diferentes de la radiación electromagnética. En el electromagnetismo clásico la radiación es un campo oscilante que se propaga desde la fuente emisora, mientras que en la mecánica cuántica la radiación es interpretada en términos de partículas (<a href="/wiki/Fot%C3%B3n" title="Fotón">fotones</a>) emitidas por una fuente. Esas dos descripciones, sin embargo, son complementarias y para situaciones macroscópicas no son cualitativamente diferentes.
+</p>
+<p><a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">Maxwell</a> asoció varias ecuaciones, actualmente denominadas <i><a href="/wiki/Ecuaciones_de_Maxwell" title="Ecuaciones de Maxwell">ecuaciones de Maxwell</a></i>, de las que se desprende que un campo eléctrico variable en el tiempo genera un campo magnético y, recíprocamente, la variación temporal del campo magnético genera un campo eléctrico. Se puede comprobar que esta "inducción" mutua hace que las ecuaciones de Maxwell admitan una solución en forma de <a class="mw-redirect" href="/wiki/Onda_(f%C3%ADsica)" title="Onda (física)">onda</a> que se propaga desde una fuente. Esta solución teórica fue la que llevó a postular que existirían ondas electromagnéticas y radiación electromagnética, e incluso a postular que la propia <a href="/wiki/Luz" title="Luz">luz</a> era una onda electromagnética.
+</p>
+<p>Se puede visualizar la radiación electromagnética como dos campos que se generan mutuamente, por lo que no necesitan de ningún medio material para propagarse. Las ecuaciones de Maxwell también predicen la velocidad de propagación en el vacío (que se representa <i>c</i>, por la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>, con un valor de 299.792.458 m/s), y su dirección de propagación (perpendicular a las oscilaciones del campo eléctrico y magnético que, a su vez, son perpendiculares entre sí).
+</p>
+<p>Dependiendo del fenómeno estudiado, la radiación electromagnética se puede considerar no como una serie de ondas sino como un haz o flujo de partículas, llamadas fotones. Esta dualidad onda-corpúsculo hace que cada <a href="/wiki/Fot%C3%B3n" title="Fotón">fotón</a> tenga una energía directamente proporcional a la <a href="/wiki/Frecuencia" title="Frecuencia">frecuencia</a> de la onda asociada, dada por la relación de <a href="/wiki/Max_Planck" title="Max Planck">Planck</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E=h\nu \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mi>h</mi>
+<mi>ν<!-- ν --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=h\nu \,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E=h\nu \,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb9d655a84c46d31c444941ef5886e4b5a0b430f" style="vertical-align: -0.338ex; width:7.832ex; height:2.176ex;"/></span>
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E}</annotation>
+</semantics>
+</math></span><img alt="E" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4232c9de2ee3eec0a9c0a19b15ab92daa6223f9b" style="vertical-align: -0.338ex; width:1.776ex; height:2.176ex;"/></span> es la energía del fotón, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h}</annotation>
+</semantics>
+</math></span><img alt="h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" style="vertical-align: -0.338ex; width:1.339ex; height:2.176ex;"/></span> es la <a href="/wiki/Constante_de_Planck" title="Constante de Planck">constante de Planck</a> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+</semantics>
+</math></span><img alt="\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;"/></span> es la frecuencia de la onda.
+</p>
+<p><i>Valor de la constante de Planck</i>
+</p>
+<p>Así mismo, considerando la radiación electromagnética como onda, la longitud de onda <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \lambda }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>λ<!-- λ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \lambda }</annotation>
+</semantics>
+</math></span><img alt="\lambda " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b43d0ea3c9c025af1be9128e62a18fa74bedda2a" style="vertical-align: -0.338ex; width:1.355ex; height:2.176ex;"/></span> y la frecuencia de oscilación <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+</semantics>
+</math></span><img alt="\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;"/></span> están relacionadas por una constante, la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a> en el medio (c en el vacío):
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\text{c}}=\lambda \nu \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>c</mtext>
+</mrow>
+<mo>=</mo>
+<mi>λ<!-- λ --></mi>
+<mi>ν<!-- ν --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{c}}=\lambda \nu \,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\text{c}}=\lambda \nu \,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d9e314e19c7ed29a79ad76216212b8770843ccc1" style="vertical-align: -0.338ex; width:7.105ex; height:2.176ex;"/></span>
+</p>
+<p>A mayor <a href="/wiki/Longitud_de_onda" title="Longitud de onda">longitud de onda</a> menor frecuencia (y menor energía según la relación de Planck).
+</p>
+<p><br/>
+Un ejemplos de onda electromagnética sería la de la radio puesto que la señal se va propagando por esta hasta llegar al receptor que en este caso sería la radio ya que se propagan a través de un espacio transportando energía de un lugar a otro.
+</p>
+<p>El <a href="/wiki/Bioelectromagnetismo" title="Bioelectromagnetismo">bioelectromagnetismo</a> es el estudio de las interacciones y los efectos de la radiación electromagnética en los organismos vivos. Los efectos de la radiación electromagnética sobre las células vivas, incluidas las humanas, dependen de la potencia y la frecuencia de la radiación. En el caso de la radiación de baja frecuencia (ondas de radio a luz visible), los efectos que se comprenden mejor son los debidos únicamente a la potencia de la radiación, que actúa a través del calentamiento cuando se absorbe la radiación. Para estos efectos térmicos, la frecuencia es importante ya que afecta la intensidad de la radiación y la penetración en el organismo (por ejemplo, las microondas penetran mejor que los infrarrojos). Está ampliamente aceptado que los campos de baja frecuencia que son demasiado débiles para causar un calentamiento significativo no podrían tener ningún efecto biológico.<sup class="reference separada" id="cite_ref-Binhi_8-0"><a href="#cite_note-Binhi-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>A pesar de los resultados comúnmente aceptados, se han realizado algunas investigaciones para demostrar que los campos electromagnéticos no térmicos más débiles, y los campos de radiofrecuencias y microondas modulados tienen efectos biológicos.<sup class="reference separada" id="cite_ref-Aalto_S,_Haarala_C,_Brück_A,_Sipilä_H,_Hämäläinen_H,_Rinne_JO_2006_885–90_9-0"><a href="#cite_note-Aalto_S,_Haarala_C,_Brück_A,_Sipilä_H,_Hämäläinen_H,_Rinne_JO_2006_885–90-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​ Los mecanismos fundamentales de la interacción entre el material biológico y los campos electromagnéticos a niveles no térmicos no se comprenden completamente.<sup class="reference separada" id="cite_ref-Binhi_8-1"><a href="#cite_note-Binhi-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La <a href="/wiki/Organizaci%C3%B3n_Mundial_de_la_Salud" title="Organización Mundial de la Salud">Organización Mundial de la Salud</a> ha clasificado la radiación electromagnética de radiofrecuencia en el <a href="/wiki/Anexo:Agentes_del_Grupo_2A_del_IARC_-_Probablemente_cancer%C3%ADgenos_para_humanos" title="Anexo:Agentes del Grupo 2A del IARC - Probablemente cancerígenos para humanos">Grupo 2B</a>, posiblemente cancerígeno.<sup class="reference separada" id="cite_ref-12"><a href="#cite_note-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-13"><a href="#cite_note-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​ Este grupo contiene posibles carcinógenos como plomo, DDT y estireno. Por ejemplo, los estudios epidemiológicos que buscan una relación entre el uso de teléfonos celulares y el desarrollo de cáncer de cerebro, no han sido en gran parte concluyentes, salvo para demostrar que el efecto, si existe, no puede ser grande.
+</p>
+<p>A frecuencias más altas (visibles y más allá), los efectos de los fotones individuales comienzan a ser importantes, ya que estos ahora tienen suficiente energía individualmente para dañar directa o indirectamente las moléculas biológicas.<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​ Todas las frecuencias ultravioletas han sido clasificadas como carcinógenos del Grupo 1 por la Organización Mundial de la Salud. La radiación ultravioleta de la exposición al sol es la causa principal de cáncer de piel.<sup class="reference separada" id="cite_ref-15"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-Review05_16-0"><a href="#cite_note-Review05-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Así, a frecuencias ultravioleta y más altas,<sup class="reference separada" id="cite_ref-r1_17-0"><a href="#cite_note-r1-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​ la radiación electromagnética causa más daño a los sistemas biológicos de lo que predice el simple calentamiento. Los rayos ultravioleta, junto con los rayos X y la radiación gamma, se denominan radiación ionizante debido a la capacidad de los fotones de esta radiación para producir iones y radicales libres en los materiales (incluido el tejido vivo). Dado que dicha radiación puede dañar gravemente la vida a niveles de energía que producen poco calentamiento, se considera mucho más peligrosa (en términos de daño producido por unidad de energía o potencia) que el resto del espectro electromagnético.
+</p>
+<p>El rayo de calor es una aplicación de energía electromagnética que utiliza frecuencias de microondas para crear un efecto de calentamiento desagradable en la capa superior de la piel. El ejército estadounidense desarrolló un arma de rayos de calor conocida públicamente llamada <i>Active Denial System</i> como arma experimental para negar el acceso del enemigo a un área.<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​ Un rayo de la muerte es un arma teórica que emite un rayo de calor basado en energía electromagnética a niveles que son capaces de dañar el tejido humano. Un inventor de un rayo de la muerte, Harry Grindell Matthews, afirmó haber perdido la vista en su ojo izquierdo mientras trabajaba en su arma de rayos de la muerte basada en un magnetrón de microondas de la década de 1920.<sup class="reference separada" id="cite_ref-20"><a href="#cite_note-20"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>​
+</p>

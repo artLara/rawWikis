@@ -1,0 +1,16 @@
+<p>Un <b>modelo</b> sirve como arquetipo para la creación de un grupo de páginas (sean artículos, anexos, páginas de desambiguación, etc.) que comparten características similares, como por ejemplo los países, los cuales poseen todos una capital, un idioma oficial, etc.
+</p>
+<p>Estos modelos tienen como objetivo homogeneizar la forma de mostrar los datos, para que la presentación sea elegante y que estos datos sean fácilmente editados. Sin embargo, un modelo sin contenido no es de utilidad para ningún lector, así que por favor, de ser utilizados, trata de esforzarte en completarlos. 
+</p>
+<p>Estos modelos están pensados para copiar manualmente en páginas nuevas o para adaptar páginas existentes. Ten en cuenta que un modelo <i>no</i> es una <b><a href="/wiki/Ayuda:Plantillas" title="Ayuda:Plantillas">plantilla</a></b>.
+</p>
+<p>Los modelos deberán ser marcados con la plantilla <code>{{<a href="/wiki/Plantilla:Modelo" title="Plantilla:Modelo">modelo</a>}}</code>, quedando así categorizados en la <a href="/wiki/Categor%C3%ADa:Wikipedia:Modelos" title="Categoría:Wikipedia:Modelos">Categoría:Wikipedia:Modelos</a>.
+</p>
+<p>Un <b>modelo</b> sirve como arquetipo para la creación de un grupo de páginas (sean artículos, anexos, páginas de desambiguación, etc.) que comparten características similares, como por ejemplo los países, los cuales poseen todos una capital, un idioma oficial, etc.
+</p>
+<p>Estos modelos tienen como objetivo homogeneizar la forma de mostrar los datos, para que la presentación sea elegante y que estos datos sean fácilmente editados. Sin embargo, un modelo sin contenido no es de utilidad para ningún lector, así que por favor, de ser utilizados, trata de esforzarte en completarlos. 
+</p>
+<p>Estos modelos están pensados para copiar manualmente en páginas nuevas o para adaptar páginas existentes. Ten en cuenta que un modelo <i>no</i> es una <b><a href="/wiki/Ayuda:Plantillas" title="Ayuda:Plantillas">plantilla</a></b>.
+</p>
+<p>Los modelos deberán ser marcados con la plantilla <code>{{<a href="/wiki/Plantilla:Modelo" title="Plantilla:Modelo">modelo</a>}}</code>, quedando así categorizados en la <a href="/wiki/Categor%C3%ADa:Wikipedia:Modelos" title="Categoría:Wikipedia:Modelos">Categoría:Wikipedia:Modelos</a>.
+</p>

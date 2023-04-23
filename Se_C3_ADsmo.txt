@@ -1,0 +1,143 @@
+<p>Un <b>terremoto</b><sup class="reference separada" id="cite_ref-definiciónterremoto_1-0"><a href="#cite_note-definiciónterremoto-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ (del <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a> <i>terraemōtus</i>, a partir de <i>terra</i>, 'tierra', y <i>motus</i>, 'movimiento'), también llamado <b>sismo</b>, <b>seísmo</b> (del <a href="/wiki/Idioma_franc%C3%A9s" title="Idioma francés">francés</a> <i>séisme</i>, derivado del <a href="/wiki/Idioma_griego" title="Idioma griego">griego</a> <span lang="el" title="Texto en idioma griego">σεισμός</span> [<i>seismós</i>]),<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ <b>temblor de tierra</b> o <b>movimiento telúrico</b>, es la sacudida brusca y pasajera de la <a href="/wiki/Corteza_terrestre" title="Corteza terrestre">corteza terrestre</a>. Los más comunes se producen por actividad de <a href="/wiki/Falla" title="Falla">fallas</a> geológicas. También pueden ocurrir por otras causas, como por ejemplo, fricción en el borde de <a href="/wiki/Placa_tect%C3%B3nica" title="Placa tectónica">placas tectónicas</a>, procesos <a href="/wiki/Volc%C3%A1n" title="Volcán">volcánicos</a>, impactos de <a href="/wiki/Asteroide" title="Asteroide">asteroides</a> o de cualquier objeto celeste de gran tamaño, o incluso pueden ser producidos por el ser humano al realizar detonaciones nucleares subterráneas.
+</p>
+<p>El punto de origen de un terremoto se denomina foco o <a href="/wiki/Hipocentro" title="Hipocentro">hipocentro</a>, a partir de allí se propaga en forma de <a href="/wiki/Onda_s%C3%ADsmica" title="Onda sísmica">ondas sísmicas</a>. El punto de la superficie terrestre que se encuentra más cerca del hipocentro, donde alcanzan en primer lugar las ondas sísmicas se llama <a href="/wiki/Epicentro" title="Epicentro">epicentro</a>. Dependiendo de su magnitud y origen, un terremoto puede causar desplazamientos de la corteza terrestre, corrimientos de tierras, <a class="mw-redirect" href="/wiki/Maremotos" title="Maremotos">maremotos</a> (o también llamados tsunamis) o <a href="/wiki/Erupci%C3%B3n_volc%C3%A1nica" title="Erupción volcánica">actividad volcánica</a>. Para medir la energía que fue liberada por un terremoto se emplean diversas escalas, entre ellas, la <a href="/wiki/Escala_sismol%C3%B3gica_de_Richter" title="Escala sismológica de Richter">escala de Richter</a> que es la más conocida y utilizada por los medios de comunicación.
+</p>
+<p>La principal causa de los terremotos se encuentra en la liberación de energía de la corteza terrestre acumulada a consecuencia de actividad tectónica, que se origina principalmente en los bordes activos de <a href="/wiki/Placa_tect%C3%B3nica" title="Placa tectónica">placas tectónicas</a>.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Los sismos de origen volcánico se asocian al fraccionamiento de la roca debido al movimiento del magma. Estos temblores suelen ser de magnitud menor que los de origen tectónico.
+</p>
+<p>Aunque las actividades tectónicas y volcánicas son las causas principales por las que se generan los terremotos, hay otros factores que pueden originarlos:
+</p>
+<p>Estos <a href="/wiki/Fen%C3%B3meno" title="Fenómeno">fenómenos</a> generan episodios de magnitud baja, que generalmente caen en el rango de <b>microseísmos</b>: temblores detectables solo por <a class="mw-redirect" href="/wiki/Sism%C3%B3metro" title="Sismómetro">sismógrafos</a>.
+</p>
+<p>Los sismos de origen tectónico pueden clasificarse por el contexto en que ocurren.<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Se producen cuando el esfuerzo compresivo en una zona de contacto de placas supera al acoplamiento mecánico que traba su movimiento, lo que lleva a un movimiento relativo de las mismas. También se conocen como terremotos de <a href="/wiki/Subducci%C3%B3n" title="Subducción">subducción</a>. Se trata de sismos compresionales con mecanismos de falla inversa, cuya magnitud es proporcional al desplazamiento y al área de la zona de desplazamiento. Cuando los eventos de este tipo conllevan desplazamientos verticales del fondo oceánico, muchas veces generan <a class="mw-redirect" href="/wiki/Maremoto" title="Maremoto">maremotos</a>. El <a href="/wiki/Falla" title="Falla">fallamiento</a> puede ser normal (placas divergentes), inverso (ṕlacas convergentes) o transcurrente.
+</p>
+<p>Sismos muy parecidos a los de subducción, pero mucho menos comunes, ya que se producen en el interior de la placa y no en los límites entre placas. Las profundidades de estas fallas van desde cincuenta a cientos de kilómetros, en la <a class="mw-redirect" href="/wiki/Zona_de_Benioff" title="Zona de Benioff">zona de Benioff</a>. Su poder destructor suele ser similar al de los de subducción.
+</p>
+<p>Se deben a deformaciones producidas a baja profundidad en el interior de una placa continental como consecuencia de la convergencia de placas tectónicas.
+</p>
+<p>Se deben a los esfuerzos y deformaciones a los que se encuentra sometida una placa oceánica. Un caso especial es el esfuerzo de flexión que esta sufre en el punto de inicio de su subducción.
+</p>
+<p>Se deben al desplazamiento lateral de una placa tectónica con respecto a una placa vecina. En muchos casos se extienden más allá de la zona de contacto propiamente tal, a causa de esfuerzos transmitidos.
+</p>
+<p>Durante un terremoto, se desarrollan altas temperaturas en el plano de la falla que provocan un aumento en la presión del fluido asociado con la vaporización.<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​ Este aumento, en la fase cosísmica, puede influir considerablemente en la evolución y velocidad del deslizamiento, además, en la fase post-sísmica puede controlar el fenómeno del aftershock, ya que el aumento de la presión del fluido se propaga lentamente en la red de fractura circundante.
+</p>
+<p>Se denomina <b>sismo</b> o <b>terremoto inducido</b> a los sismos o terremotos, normalmente, de magnitud muy baja (temblores), producidos como consecuencia de alguna intervención humana que altera el equilibrio de fuerzas en la corteza terrestre. Entre las principales causas de sismos inducidos se pueden mencionar: la construcción de grandes <a href="/wiki/Embalse" title="Embalse">embalses</a>, el <a href="/wiki/Fracturaci%C3%B3n_hidr%C3%A1ulica" title="Fracturación hidráulica">fracturación hidráulica</a> o los ensayos de <a href="/wiki/Efectos_de_las_armas_nucleares" title="Efectos de las armas nucleares">explosiones nucleares</a>.
+</p>
+<p>Los embalses, especialmente aquellos de gran capacidad, pueden alterar la actividad tectónica debido a la modificación de la carga, pero las consecuencias no son fáciles de predecir. El proyecto debe tener en cuenta la existencia de fallas o de rocas deformables en el subsuelo, a fin de evitar consecuencias que pongan en peligro la integridad de la presa.<sup>[<i><a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">cita requerida</a></i>]</sup>
+</p>
+<p>Hay evidencia sobre los terremotos inducidos por hidrofracturación: en <a href="/wiki/Oklahoma" title="Oklahoma">Oklahoma</a> se registraba una media de un terremoto de magnitud 3 o mayor, pero desde 2008 se ha incrementado esa cifra a más de 40 seísmos de esa magnitud.<sup class="reference separada" id="cite_ref-8"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La onda de presión de las explosiones nucleares subterráneas se propaga a través del subsuelo y es capaz de desencadenar seísmos a distancia, activando fallas geológicas.<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Los terremotos tectónicos suelen ocurrir en zonas donde la concentración de fuerzas generadas por los límites de las <a href="/wiki/Tect%C3%B3nica_de_placas" title="Tectónica de placas">placas tectónicas</a> da lugar a movimientos de reajuste en el interior y en la superficie de la <a href="/wiki/Tierra" title="Tierra">Tierra</a>. Por este motivo los seísmos de origen tectónico están íntimamente relacionados con la formación y actividad de <a href="/wiki/Falla" title="Falla">fallas geológicas</a>. Comúnmente acontecen al final de un <b>ciclo sísmico</b>: período durante el cual se acumula deformación en el interior de la <a href="/wiki/Tierra" title="Tierra">Tierra</a> que más tarde se liberará repentinamente. Dicha liberación se corresponde con el terremoto, tras el cual la deformación comienza a acumularse nuevamente.
+</p>
+<p>En un movimiento telúrico se distinguen:
+</p>
+<p>La probabilidad de ocurrencia de seísmos de una magnitud determinada en una región concreta viene dada por una <a href="/wiki/Distribuci%C3%B3n_de_Poisson" title="Distribución de Poisson">distribución de Poisson</a>. Así la probabilidad de ocurrencia de <i>k</i> terremotos de magnitud <i>M</i> durante un período <i>T</i> en cierta región está dada por:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mbox{Prob}}(k,T,M)={\frac {1}{k!}}\left({\frac {T}{T_{r}(M)}}\right)^{k}e^{-{\frac {T}{T_{r}(M)}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>Prob</mtext>
+</mstyle>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>k</mi>
+<mo>,</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>M</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>k</mi>
+<mo>!</mo>
+</mrow>
+</mfrac>
+</mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>T</mi>
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>M</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>k</mi>
+</mrow>
+</msup>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>T</mi>
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>M</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mbox{Prob}}(k,T,M)={\frac {1}{k!}}\left({\frac {T}{T_{r}(M)}}\right)^{k}e^{-{\frac {T}{T_{r}(M)}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mbox{Prob}}(k,T,M)={\frac {1}{k!}}\left({\frac {T}{T_{r}(M)}}\right)^{k}e^{-{\frac {T}{T_{r}(M)}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/82f234aceda1866a6a8037e3cf98f6db6b4a9d5f" style="vertical-align: -2.671ex; width:39.224ex; height:6.843ex;"/></span>
+</p>
+<p>Donde
+</p>
+<p>El movimiento sísmico se propaga mediante <a href="/wiki/Onda" title="Onda">ondas</a> elásticas (similares a las del sonido) a partir del hipocentro. Las <a href="/wiki/Onda_s%C3%ADsmica" title="Onda sísmica">ondas sísmicas</a> son de tres tipos principales:
+</p>
+<p>Los efectos de un movimiento telúrico pueden ser uno o varios de los que se detallan a continuación:
+</p>
+<p>Movimiento y ruptura del suelo son los efectos principales de un terremoto en la superficie terrestre, debido al roce de placas tectónicas, lo cual causa daños a edificios o estructuras rígidas que se encuentren en el área afectada por el sismo. Los daños en los edificios dependen de: a) intensidad del movimiento; b) distancia entre la estructura y el epicentro; c) condiciones geológicas y <a href="/wiki/Geomorfolog%C3%ADa" title="Geomorfología">geomorfológicas</a> que permitan mejor propagación de ondas.
+</p>
+<p>Terremotos, <a href="/wiki/Tormenta" title="Tormenta">tormentas</a>, actividad volcánica, <a href="/wiki/Escala_Douglas" title="Escala Douglas">marejadas</a> y fuego pueden propiciar inestabilidad en los bordes de cerros y de otras elevaciones del terreno, lo cual provoca corrimientos en la tierra.
+</p>
+<p>El fuego puede originarse si no se corta el suministro eléctrico posteriormente a daños en la red de gas de grandes ciudades. Un caso destacado de este tipo de suceso es el <a href="/wiki/Terremoto_de_San_Francisco_de_1906" title="Terremoto de San Francisco de 1906">terremoto de 1906 en San Francisco</a>, donde los incendios causaron más víctimas que el propio sismo
+</p>
+<p>La licuefacción ocurre cuando, por causa del movimiento, el agua saturada en material, como arena, temporalmente pierde su cohesión y cambia de estado sólido a líquido. Este fenómeno puede propiciar derrumbe de estructuras rígidas, como edificios y puentes.
+</p>
+<p>Los tsunamis o maremotos son enormes ondas marinas que al viajar desplazan gran cantidad de agua hacia las costas, y que, en su mayor parte, están producidos por terremotos submarinos. En el mar abierto las distancias entre las crestas de las ondas marinas son cercanas a 100 km. Los períodos varían entre cinco minutos y una hora. Según la profundidad del agua, los tsunamis pueden viajar a velocidades de 600 a 800 km/h. Pueden desplazarse grandes distancias a través del océano, de un continente a otro.
+</p>
+<p>Las inundaciones son creadas rápidamente por el desbordamiento de agua a nivel de tierra cubriendo de agua zonas que habitualmente están libres de esta. Pueden ser efectos secundarios de los terremotos debido al daño que puedan sufrir las presas. Además, pueden crear deslizamiento de tierras en los ríos, los cuales también crean colapso e inundaciones.
+</p>
+<p>Un sismo puede causar lesiones o incluso pérdidas de vidas, daños en las carreteras y puentes, daño general de los bienes, y colapso o desestabilización de edificios. También puede ser el origen de enfermedades, falta de necesidades básicas, y primas de seguros más elevadas.
+</p>
+<p>En caso de terremoto, <a href="/wiki/Protecci%C3%B3n_civil" title="Protección civil">protección civil</a> ofrece las siguientes recomendaciones:<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La <a href="/wiki/Predicci%C3%B3n_de_terremotos" title="Predicción de terremotos">predicción de terremotos</a> es una rama de la <a href="/wiki/Sismolog%C3%ADa" title="Sismología">sismología</a> así como la <a href="/wiki/Escala_sismol%C3%B3gica_de_magnitud_de_momento" title="Escala sismológica de magnitud de momento">magnitud</a> de terremotos futuros, dentro de determinados límites de precisión. Algunos autores distinguen la <a href="/wiki/Predicci%C3%B3n" title="Predicción">predicción</a> de un terremoto futuro específico del <a href="/wiki/Pron%C3%B3stico_(estad%C3%ADstica)" title="Pronóstico (estadística)">pronóstico</a> probabilístico de la ocurrencia de un evento sísmico de magnitud dada en un lugar y momento determinados. A pesar de considerables esfuerzos en investigación por parte de <a href="/wiki/Sismolog%C3%ADa" title="Sismología">sismólogos</a>, no se pueden hacer predicciones científicamente reproducibles para un día o mes específico.<sup class="reference separada" id="cite_ref-Predicción_de_terremotos_ludwin_14-0"><a href="#cite_note-Predicción_de_terremotos_ludwin-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​ No obstante, en las primeras décadas del siglo XXI han surgido líneas de investigación promisorias, particularmente en el campo de los precursores electromagnéticos.<sup class="reference separada" id="cite_ref-15"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​ Por otra parte, en el caso de los mapas de evaluación del <a href="/wiki/Peligro_s%C3%ADsmico" title="Peligro sísmico">peligro sísmico</a> de <a href="/wiki/Falla" title="Falla">fallas</a> estudiadas, es posible estimar que la <a href="/wiki/Probabilidad" title="Probabilidad">probabilidad</a> de que un terremoto de un tamaño dado afectará un lugar determinado durante un cierto número de años.<sup class="reference separada" id="cite_ref-Predicción_de_terremotos_expert_16-0"><a href="#cite_note-Predicción_de_terremotos_expert-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​ A finales del siglo XX, la capacidad general para predecir terremotos, ya sea en forma individual o en una base estadística, aún se consideraba remota.<sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​
+</p>

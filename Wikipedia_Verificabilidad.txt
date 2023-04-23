@@ -1,0 +1,48 @@
+<p>Todos los artículos de Wikipedia <b>deben tener referencias suficientes</b> (es decir, <a href="/wiki/Wikipedia:Referencias" title="Wikipedia:Referencias">indicar la fuente de la información</a>) para que el lector pueda comprobar la exactitud, precisión y neutralidad del artículo, y buscar más información sobre el tema. Todo el contenido de Wikipedia debe haber sido publicado en otro lugar (ya que <a href="/wiki/Wikipedia:Wikipedia_no_es_una_fuente_primaria" title="Wikipedia:Wikipedia no es una fuente primaria">Wikipedia no es una fuente primaria</a>), y por eso siempre es posible para el autor del artículo incluir una referencia.
+</p>
+<p>En términos generales, pueden distinguirse dos clases de textos en la difusión del conocimiento:
+</p>
+<p>Para elaborar las <i>fuentes primarias</i> se necesita un complejo proceso de verificación que incluye la revisión por pares expertos, la realización de experimentos de cotejo y otros tipos de investigación. Esto se pone en marcha para asegurarse de que la información es fiable. Wikipedia no proporciona ni puede proporcionar ese tipo de verificación. Sin embargo, sí puede apoyarse en el material que ha sido publicado (y, por lo tanto, verificado) independientemente por otras fuentes fiables y prestigiosas. 
+</p>
+<p>Tanto por razones de honestidad intelectual como para facilitar la comprobación independiente de la exactitud de los artículos de Wikipedia, es crucial <b>proporcionar referencias que permitan la verificación de los artículos</b>. Esta política es uno de los tres principios básicos para evaluar el contenido de Wikipedia, junto con el de <a href="/wiki/Wikipedia:Punto_de_vista_neutral" title="Wikipedia:Punto de vista neutral">neutralidad en el punto de vista</a> y el de que <a href="/wiki/Wikipedia:Wikipedia_no_es_una_fuente_primaria" title="Wikipedia:Wikipedia no es una fuente primaria">Wikipedia no es una fuente primaria</a>. Los tres principios están íntimamente relacionados: la neutralidad se garantiza al representar adecuada y objetivamente la opinión de los profesionales, y la verificabilidad permite asegurarse de que la representación es efectivamente adecuada.
+</p>
+<p>Por ello, todos los artículos de Wikipedia deben detallar las fuentes consultadas en la confección del mismo; gracias a ellas, es posible asegurarse de que existe un respaldo respetable para las afirmaciones vertidas en ellos, y disipar las dudas que puedan existir acerca del sesgo que puedan tener. La reproducción cuidadosa de los puntos de vista y las apreciaciones de las fuentes expertas constituyen el modelo que garantiza la seriedad de una enciclopedia.
+</p>
+<p>Proporcionar referencias permite:
+</p>
+<p>Si sabes lo suficiente de un tema como para poder escribir de memoria sobre él, aun en ese caso, lo ideal es que compruebes los datos contra la fuente antes de hacer el añadido y que lo dejes claramente documentado. Aunque a ti te resulte muy fácil identificar las referencias correctas, la idea es que todos los lectores puedan encontrarlas sin tener que consultarlo contigo en tu propia página.
+</p>
+<p>Y no te olvides de incluir enlaces para definir las palabras que incluyas en tu texto. Por ejemplo, si estás escribiendo un artículo sobre los routers y explicas que estos pueden ser inalámbricos, wi-fi, también deberías poner un enlace a <a class="mw-redirect" href="/wiki/Wi-Fi" title="Wi-Fi">Wi-Fi</a>.
+</p>
+<p>Tus propias opiniones o conclusiones son respetables, pero Wikipedia no es el lugar para expresarlas. Recuerda que Wikipedia no es una <a class="mw-redirect" href="/wiki/Wikipedia:Fuente_primaria" title="Wikipedia:Fuente primaria">fuente primaria</a>.
+</p>
+<p>Las referencias son imprescindibles cuando describes las opiniones de alguna de las partes en un tema controvertido o polémico.
+</p>
+<p>Si alguien discute la veracidad, la precisión o la neutralidad de un artículo, la única manera de demostrarla es dando fuentes para comprobarlo:
+</p>
+<p>Aun si no hay controversias en un momento dado, sé previsor; puede que eventualmente alguien dude de lo que se ha escrito, y puede que el autor no esté disponible en ese momento para añadir la referencia. Es mejor aclarar el origen de la información desde el principio, para garantizar su estabilidad en Wikipedia. De hecho, añadir referencias a información aportada por otros autores es una manera excelente de ayudar a darle solidez al proyecto.
+</p>
+<p>Todos los artículos de Wikipedia <b>deben tener referencias suficientes</b> (es decir, <a href="/wiki/Wikipedia:Referencias" title="Wikipedia:Referencias">indicar la fuente de la información</a>) para que el lector pueda comprobar la exactitud, precisión y neutralidad del artículo, y buscar más información sobre el tema. Todo el contenido de Wikipedia debe haber sido publicado en otro lugar (ya que <a href="/wiki/Wikipedia:Wikipedia_no_es_una_fuente_primaria" title="Wikipedia:Wikipedia no es una fuente primaria">Wikipedia no es una fuente primaria</a>), y por eso siempre es posible para el autor del artículo incluir una referencia.
+</p>
+<p>En términos generales, pueden distinguirse dos clases de textos en la difusión del conocimiento:
+</p>
+<p>Para elaborar las <i>fuentes primarias</i> se necesita un complejo proceso de verificación que incluye la revisión por pares expertos, la realización de experimentos de cotejo y otros tipos de investigación. Esto se pone en marcha para asegurarse de que la información es fiable. Wikipedia no proporciona ni puede proporcionar ese tipo de verificación. Sin embargo, sí puede apoyarse en el material que ha sido publicado (y, por lo tanto, verificado) independientemente por otras fuentes fiables y prestigiosas. 
+</p>
+<p>Tanto por razones de honestidad intelectual como para facilitar la comprobación independiente de la exactitud de los artículos de Wikipedia, es crucial <b>proporcionar referencias que permitan la verificación de los artículos</b>. Esta política es uno de los tres principios básicos para evaluar el contenido de Wikipedia, junto con el de <a href="/wiki/Wikipedia:Punto_de_vista_neutral" title="Wikipedia:Punto de vista neutral">neutralidad en el punto de vista</a> y el de que <a href="/wiki/Wikipedia:Wikipedia_no_es_una_fuente_primaria" title="Wikipedia:Wikipedia no es una fuente primaria">Wikipedia no es una fuente primaria</a>. Los tres principios están íntimamente relacionados: la neutralidad se garantiza al representar adecuada y objetivamente la opinión de los profesionales, y la verificabilidad permite asegurarse de que la representación es efectivamente adecuada.
+</p>
+<p>Por ello, todos los artículos de Wikipedia deben detallar las fuentes consultadas en la confección del mismo; gracias a ellas, es posible asegurarse de que existe un respaldo respetable para las afirmaciones vertidas en ellos, y disipar las dudas que puedan existir acerca del sesgo que puedan tener. La reproducción cuidadosa de los puntos de vista y las apreciaciones de las fuentes expertas constituyen el modelo que garantiza la seriedad de una enciclopedia.
+</p>
+<p>Proporcionar referencias permite:
+</p>
+<p>Si sabes lo suficiente de un tema como para poder escribir de memoria sobre él, aun en ese caso, lo ideal es que compruebes los datos contra la fuente antes de hacer el añadido y que lo dejes claramente documentado. Aunque a ti te resulte muy fácil identificar las referencias correctas, la idea es que todos los lectores puedan encontrarlas sin tener que consultarlo contigo en tu propia página.
+</p>
+<p>Y no te olvides de incluir enlaces para definir las palabras que incluyas en tu texto. Por ejemplo, si estás escribiendo un artículo sobre los routers y explicas que estos pueden ser inalámbricos, wi-fi, también deberías poner un enlace a <a class="mw-redirect" href="/wiki/Wi-Fi" title="Wi-Fi">Wi-Fi</a>.
+</p>
+<p>Tus propias opiniones o conclusiones son respetables, pero Wikipedia no es el lugar para expresarlas. Recuerda que Wikipedia no es una <a class="mw-redirect" href="/wiki/Wikipedia:Fuente_primaria" title="Wikipedia:Fuente primaria">fuente primaria</a>.
+</p>
+<p>Las referencias son imprescindibles cuando describes las opiniones de alguna de las partes en un tema controvertido o polémico.
+</p>
+<p>Si alguien discute la veracidad, la precisión o la neutralidad de un artículo, la única manera de demostrarla es dando fuentes para comprobarlo:
+</p>
+<p>Aun si no hay controversias en un momento dado, sé previsor; puede que eventualmente alguien dude de lo que se ha escrito, y puede que el autor no esté disponible en ese momento para añadir la referencia. Es mejor aclarar el origen de la información desde el principio, para garantizar su estabilidad en Wikipedia. De hecho, añadir referencias a información aportada por otros autores es una manera excelente de ayudar a darle solidez al proyecto.
+</p>

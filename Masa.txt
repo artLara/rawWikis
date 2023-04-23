@@ -1,0 +1,372 @@
+<p>En <a href="/wiki/F%C3%ADsica" title="Física">física</a>, la <b>masa</b> (del <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a> <i>massa</i>) es una <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitud física</a> y propiedad general de la <a href="/wiki/Materia" title="Materia">materia</a><sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ que expresa la <a href="/wiki/Inercia" title="Inercia">inercia</a> o <b>resistencia al cambio</b> de <a href="/wiki/Movimiento_(f%C3%ADsica)" title="Movimiento (física)">movimiento</a> de un cuerpo. De manera más precisa es la propiedad de un cuerpo que determina la <a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a> de este, cuando este se encuentra bajo la influencia de una <a href="/wiki/Fuerza" title="Fuerza">fuerza</a> dada.<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ Es una propiedad intrínseca de los cuerpos que determina la medida de la <a href="/wiki/Masa_inercial" title="Masa inercial">masa inercial</a> y de la <a href="/wiki/Masa_gravitacional" title="Masa gravitacional">masa gravitacional</a>. La unidad utilizada para medir la masa en el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a> es el <a href="/wiki/Kilogramo" title="Kilogramo">kilogramo</a> (kg).<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>No debe confundirse con el <a href="/wiki/Peso" title="Peso">peso</a>, que es una <a href="/wiki/Vector" title="Vector">magnitud vectorial</a> que representa una <a href="/wiki/Fuerza" title="Fuerza">fuerza</a> cuya unidad utilizada en el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a> es el <a href="/wiki/Newton_(unidad)" title="Newton (unidad)">newton</a> (N),<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ si bien a partir del peso de un cuerpo en reposo (atraído por la fuerza de la <a href="/wiki/Gravedad" title="Gravedad">gravedad</a>), puede conocerse su masa al conocerse el valor de la gravedad. Tampoco se debe confundir masa con la <a href="/wiki/Cantidad_de_sustancia" title="Cantidad de sustancia">cantidad de sustancia</a>, cuya unidad en el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a> es el <a href="/wiki/Mol" title="Mol">mol</a>.<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Si bien el concepto de masa de un objeto y el peso son nociones precientíficas, es a partir de las reflexiones de <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo</a>, <a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">René Descartes</a> y muy especialmente a partir de <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> cuando surge la noción moderna de masa. Así, el concepto de masa nace de la confluencia de dos leyes: la <a href="/wiki/Ley_de_gravitaci%C3%B3n_universal" title="Ley de gravitación universal">ley de gravitación universal</a> de Newton y la <a href="/wiki/Leyes_de_Newton#Segunda_ley_de_Newton_o_ley_de_fuerza" title="Leyes de Newton">segunda ley de Newton</a> (o 2.º principio). Según la ley de la gravitación universal, la atracción entre dos cuerpos es proporcional al producto de dos constantes, denominadas <a href="/wiki/Masa_gravitacional" title="Masa gravitacional">masa gravitacional</a> —una de cada uno de ellos—, siendo así la masa gravitatoria una propiedad de la materia en virtud de la cual dos cuerpos se atraen; por la 2.ª ley de Newton, la fuerza aplicada sobre un cuerpo es directamente proporcional a la aceleración que experimenta, denominándose a la constante de proporcionalidad: <a href="/wiki/Masa_inercial" title="Masa inercial">masa inercial</a> de un cuerpo.
+</p>
+<p>Para <a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a> la <a href="/wiki/Gravedad" title="Gravedad">gravedad</a> es una consecuencia de la geometría del <a href="/wiki/Espacio-tiempo" title="Espacio-tiempo">espacio-tiempo</a>: una <a href="/wiki/Curvatura_del_espacio-tiempo" title="Curvatura del espacio-tiempo">curvatura de la geometría del espacio-tiempo</a> por efecto de la masa de los cuerpos.<sup class="reference separada" id="cite_ref-Einstein_p._76_6-0"><a href="#cite_note-Einstein_p._76-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Ni para Newton ni para otros físicos anteriores a Einstein, era obvio que la masa inercial y la masa gravitatoria coincidieran. <a href="/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s" title="Loránd Eötvös">Loránd Eötvös</a> llevó a cabo experimentos muy cuidadosos para detectar si existía diferencia entre ambos, pero ambas parecían coincidir con alta precisión y posiblemente serían iguales. De hecho, todos los experimentos muestran resultados compatibles con la igualdad de ambas. Para la física clásica prerrelativista esta identidad era accidental. Ya Newton, para quien peso e inercia eran propiedades independientes de la materia, propuso que ambas cualidades son proporcionales a la cantidad de materia, a la cual denominó «masa». Sin embargo, para Einstein, la coincidencia de masa inercial y masa gravitacional fue un dato crucial y uno de los puntos de partida para su <a href="/wiki/Teor%C3%ADa_de_la_relatividad" title="Teoría de la relatividad">teoría de la relatividad</a> y, por tanto, para poder comprender mejor el comportamiento de la naturaleza. Según Einstein, esa identidad significa que: «la misma cualidad de un cuerpo se manifiesta, de acuerdo con las circunstancias, como inercia o como el peso».
+</p>
+<p>Esto llevó a Einstein a enunciar el principio de equivalencia: «las leyes de la naturaleza deben expresarse de modo que sea imposible distinguir entre un campo gravitatorio uniforme y un sistema referencial acelerado.» Así pues, «masa inercial» y «masa gravitatoria» son indistinguibles y, consecuentemente, cabe un único concepto de «masa» como sinónimo de «cantidad de materia», según formuló Newton.
+Tradicionalmente, se pensó que la masa media la cantidad de materia. En palabras de D. M. McMaster: «la masa es la expresión de la cantidad de materia de un cuerpo, revelada por su peso, o por la cantidad de fuerza necesaria para producir en un cuerpo cierta cantidad de movimiento en un tiempo dado».<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​. Sin embargo, esta interpretación ha sido parcialmente falseada, por el conocimiento moderno. Se sabe que la masa de las partículas subatómicas, no depende de la cantidad de algo específico en ese tipo de materia, sino de su interacción con el <a href="/wiki/Bos%C3%B3n_de_Higgs" title="Bosón de Higgs">bosón de Higgs</a>, o bien de la energía de ligadura de los <a class="mw-redirect" href="/wiki/Quark" title="Quark">quarks</a> que constituyen la mayor parte de la <a href="/wiki/Materia#Materia_másica" title="Materia">materia másica</a><sup class="reference separada" id="cite_ref-8"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​, no tanto de algo que se pueda denominar "cantidad de materia".
+</p>
+<p>En la física clásica, la masa es una constante de un cuerpo. En física relativista, la <a href="/wiki/Masa_y_energ%C3%ADa_en_la_relatividad_especial" title="Masa y energía en la relatividad especial">masa aparente</a> es función creciente de la velocidad que el cuerpo posee respecto al observador (de hecho, en relatividad se abona la idea fundamental de definir la masa «verdadera» como el valor de la fuerza entre la aceleración experimentada, ya que este cociente depende de la velocidad). Además, la física relativista demostró la relación de la masa con la energía, quedando probada en las <a href="/wiki/Procesos_nucleares" title="Procesos nucleares">reacciones nucleares</a>; por ejemplo, en la explosión de una <a href="/wiki/Bomba_at%C3%B3mica" title="Bomba atómica">bomba atómica</a> queda que la masa no se conserva estrictamente, como sucedía con la masa mecánica de la física prerrelativista.
+</p>
+<p>Existen varios fenómenos distintos que pueden utilizarse para medir la masa. Aunque algunos teóricos han especulado con la posibilidad de que algunos de estos fenómenos sean independientes entre sí,<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ los experimentos actuales no han encontrado diferencias en los resultados independientemente de cómo se mida:
+</p>
+<p>La masa de un objeto determina su aceleración en presencia de una fuerza aplicada. La inercia y la masa inercial describen esta propiedad de los cuerpos físicos a nivel cualitativo y cuantitativo respectivamente. Según la <a href="/wiki/Leyes_de_Newton" title="Leyes de Newton">segunda ley del movimiento de Newton</a>, si un cuerpo de masa fija <i>m</i> está sometido a una sola fuerza <i>F</i>, su aceleración <i>a</i> viene dada por <i>F'/m</i>. La masa de un cuerpo también determina el grado en que genera y es afectado por un <a href="/wiki/Campo_gravitatorio" title="Campo gravitatorio">campo gravitatorio</a>. Si un primer cuerpo de masa <i>m</i><sub>A</sub> se coloca a una distancia <i>r</i> (centro de masa a centro de masa) de un segundo cuerpo de masa <i>m</i><sub>B</sub>, cada cuerpo está sujeto a una fuerza de atracción Fg = Gm<sub>A</sub>m<sub>B</sub>/r2, donde G = 6.67×10<sup>−11</sup> N⋅kg<sup>−2</sup>⋅m² es la <a href="/wiki/Constante_de_gravitaci%C3%B3n_universal" title="Constante de gravitación universal">constante de gravitación universal</a>. A veces se la denomina masa gravitatoria.<sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>note 1<span class="corchete-llamada">]</span></a></sup>​ Repetidos experimentos desde el <a href="/wiki/Siglo_XVII" title="Siglo XVII">siglo <span style="font-variant:small-caps;text-transform:lowercase">XVII</span></a> han demostrado que la masa inercial y la gravitatoria son idénticas; desde 1915, esta observación ha sido incorporada <i><a href="/wiki/A_priori_y_a_posteriori" title="A priori y a posteriori">a priori</a></i> en el <a href="/wiki/Principio_de_equivalencia" title="Principio de equivalencia">principio de equivalencia</a> de la <a href="/wiki/Relatividad_general" title="Relatividad general">relatividad general</a>.
+</p>
+<p>La unidad de masa del <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a> (SI) es el <a href="/wiki/Kilogramo" title="Kilogramo">kilogramo</a> (kg). El kilogramo tiene 1000 gramos (g), y se definió por primera vez en 1795 como la masa de un decímetro cúbico de agua en el <a href="/wiki/Punto_de_fusi%C3%B3n" title="Punto de fusión">punto de fusión</a> del hielo. Sin embargo, debido a la dificultad de medir con precisión un decímetro cúbico de agua a la temperatura y presión especificadas, en 1889 se redefinió el kilogramo como la masa de un objeto metálico, y así se independizó del metro y de las propiedades del agua, siendo éste un prototipo de cobre del <a href="/wiki/Grave_(unidad)" title="Grave (unidad)">grave</a> en 1793, el <i>Kilogramme des Archives</i> de platino en 1799, y el <a class="new" href="/w/index.php?title=Prototipo_Internacional_del_Kilogramo&amp;action=edit&amp;redlink=1" title="Prototipo Internacional del Kilogramo (aún no redactado)">Prototipo Internacional del Kilogramo</a> de platino-iridio (IPK) en 1889.
+</p>
+<p>Sin embargo, se ha comprobado que la masa del IPK y sus copias nacionales se desvían con el tiempo. La <a href="/wiki/Redefinici%C3%B3n_de_las_unidades_del_SI" title="Redefinición de las unidades del SI">redefinición del kilogramo y de varias otras unidades</a> entró en vigor el 20 de mayo de 2019, tras la votación final de la <a href="/wiki/Conferencia_General_de_Pesas_y_Medidas" title="Conferencia General de Pesas y Medidas">CGPM</a> en noviembre de 2018.<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​ La nueva definición utiliza únicamente cantidades invariantes de la naturaleza: la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>, la «frecuencia hiperfina del cesio», la <a href="/wiki/Constante_de_Planck" title="Constante de Planck">constante de Planck</a> y la <a class="mw-redirect" href="/wiki/Carga_elemental" title="Carga elemental">carga elemental</a>.<sup class="reference separada" id="cite_ref-Brochure9_2016_12-0"><a href="#cite_note-Brochure9_2016-12"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Entre las unidades no SI aceptadas para su uso con las unidades SI se encuentran:
+</p>
+<p>Fuera del sistema SI, otras unidades de masa incluyen:
+</p>
+<p>En las <a href="/wiki/Ciencias_f%C3%ADsicas" title="Ciencias físicas">ciencias físicas</a>, uno puede distinguir conceptualmente entre al menos siete aspectos diferentes de masa, o siete nociones físicas que involucran el concepto de masa.<sup class="reference separada" id="cite_ref-15"><a href="#cite_note-15"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​ Cada experimento hasta la fecha ha demostrado que estos siete valores son proporcionales, y en algunos casos iguales, y esta proporcionalidad da lugar al concepto abstracto de masa. Hay varias formas de medir o definir operativamente la masa:
+</p>
+<p>La masa inercial para la <a href="/wiki/F%C3%ADsica_cl%C3%A1sica" title="Física clásica">física clásica</a> viene determinada por la segunda y <a href="/wiki/Leyes_de_Newton#Tercera_ley_de_Newton_o_principio_de_acción_y_reacción" title="Leyes de Newton">tercera ley de newton</a>. Dados dos cuerpos, A y B, con masas inerciales <i>m<sub>A</sub></i> (conocida) y <i>m<sub>B</sub></i> (que se desea determinar), en la hipótesis dice que las masas deben ser constantes y que ambos cuerpos están aislados de otras influencias físicas, de forma que la única fuerza presente sobre A es la que ejerce B, denominada <i>F<sub>AB</sub></i>, y la única fuerza presente sobre B es la que ejerce A, denominada <i>F<sub>BA</sub></i>, de acuerdo con la segunda ley de Newton: 
+</p>
+<p>donde <i>a<sub>A</sub></i> y <i>a<sub>B</sub></i> son las <a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleraciones</a> de A y B, respectivamente. Es necesario que estas aceleraciones no sean nulas, es decir, que las fuerzas entre los dos objetos no sean iguales a cero. Una forma de lograrlo es, por ejemplo, hacer colisionar los dos cuerpos y efectuar las mediciones durante el choque.
+</p>
+<p>La Tercera Ley de Newton afirma que las dos fuerzas son iguales y opuestas:
+</p>
+<p>Sustituyendo en las ecuaciones anteriores, se obtiene la masa de B como
+</p>
+<p>Así, el medir <i>a<sub>A</sub></i> y <i>a<sub>B</sub></i> permite determinar <i>m<sub>B</sub></i> en relación con <i>m<sub>A</sub></i>, que era lo buscado. El requisito de que <i>a<sub>B</sub></i> sea distinto de cero hace que esta ecuación quede bien definida.
+</p>
+<p>En el razonamiento anterior se ha supuesto que las masas de A y B son constantes. Se trata de una suposición fundamental, conocida como la <a href="/wiki/Ley_de_conservaci%C3%B3n_de_la_materia" title="Ley de conservación de la materia">conservación de la masa</a>, y se basa en la hipótesis de que la materia no puede ser creada ni destruida, solo transformada (dividida o recombinada). Sin embargo, a veces es útil considerar la variación de la masa del cuerpo en el tiempo; por ejemplo, la masa de un <a href="/wiki/Cohete" title="Cohete">cohete</a> decrece durante su lanzamiento. Esta aproximación se hace ignorando la materia que entra y sale del sistema. En el caso del cohete, esta materia se corresponde con el combustible que es expulsado; la masa conjunta del cohete y del combustible es constante.
+</p>
+<p>Considérense dos cuerpos A y B con masas gravitacionales <i>M<sub>A</sub></i> y <i>M<sub>B</sub></i>, separados por una distancia |<i>r<sub>AB</sub></i>|. La <a href="/wiki/Gravedad" title="Gravedad">ley de la gravitación de Newton</a> dice que la magnitud de la fuerza gravitatoria que cada cuerpo ejerce sobre el otro es
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle |F|={GM_{A}M_{B} \over |r_{AB}|^{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>G</mi>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+<mi>B</mi>
+</mrow>
+</msub>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle |F|={GM_{A}M_{B} \over |r_{AB}|^{2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle |F|={GM_{A}M_{B} \over |r_{AB}|^{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2492b5d32673a44b160d5b7a89d2c222fd001d81" style="vertical-align: -3.005ex; width:16.248ex; height:6.509ex;"/></span>
+</p>
+<p>donde <i>G</i> es la <a href="/wiki/Constante_de_gravitaci%C3%B3n_universal" title="Constante de gravitación universal">constante de gravitación universal</a>. La sentencia anterior se puede reformular de la siguiente manera: dada la aceleración <i>g</i> de una masa de referencia en un campo gravitacional (como el campo gravitatorio de la Tierra), la fuerza de la gravedad en un objeto con masa gravitacional <i>M</i> es de la magnitud
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle |F|=Mg\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo>=</mo>
+<mi>M</mi>
+<mi>g</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle |F|=Mg\,\!}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle |F|=Mg\,\!}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2b32a9b41638e5fd9f7c73441bc3450cacdbacc2" style="vertical-align: -0.838ex; margin-right: -0.387ex; width:10.078ex; height:2.843ex;"/></span>.
+</p>
+<p>Esta es la base según la cual las masas se determinan en las <a href="/wiki/Balanza" title="Balanza">balanzas</a>. En las balanzas de baño, por ejemplo, la fuerza |<i>F</i>| es proporcional al desplazamiento del muelle debajo de la plataforma de pesado (véase <a href="/wiki/Ley_de_elasticidad_de_Hooke" title="Ley de elasticidad de Hooke">ley de elasticidad de Hooke</a>), y la escala está <a href="/wiki/Calibraci%C3%B3n" title="Calibración">calibrada</a> para tener en cuenta <i>g</i> de forma que se pueda leer la masa <i>M</i>.
+</p>
+<p>Se demuestra experimentalmente que la masa inercial y la masa gravitacional son iguales —con un grado de precisión muy alto—. Estos experimentos son esencialmente pruebas del fenómeno ya observado por <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo</a> de que los objetos caen con una aceleración independiente de sus masas (en ausencia de factores externos como el <a href="/wiki/Fricci%C3%B3n" title="Fricción">rozamiento</a>).
+</p>
+<p>Supóngase un objeto con masas inercial y gravitacional <i>m</i> y <i>M</i>, respectivamente. Si la gravedad es la única fuerza que actúa sobre el cuerpo, la combinación de la segunda ley de Newton y la ley de la gravedad proporciona su aceleración como:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a={M \over m}g}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>M</mi>
+<mi>m</mi>
+</mfrac>
+</mrow>
+<mi>g</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a={M \over m}g}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a={M \over m}g}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b4f8122e953630905335947e3b8c8bad75c34ef" style="vertical-align: -1.838ex; width:8.723ex; height:5.176ex;"/></span>
+</p>
+<p>Por tanto, todos los objetos situados en el mismo campo gravitatorio caen con la misma aceleración si y solo si la proporción entre masa gravitacional e inercial es igual a una constante. Por definición, se puede tomar esta proporción como 1.
+</p>
+<p>En la <a href="/wiki/Teor%C3%ADa_de_la_relatividad_especial" title="Teoría de la relatividad especial">teoría especial de la relatividad</a> la «masa inercial» definida como el cociente entre la fuerza aplicada a un cuerpo y la aceleración que experimenta, depende de la velocidad del cuerpo, por lo que es una propiedad intrínseca del cuerpo. Por esa razón se define otra magnitud intrínseca llamada <a class="mw-redirect" href="/wiki/Masa_en_reposo" title="Masa en reposo">masa en reposo</a>, que se determina en un <a href="/wiki/Sistema_de_referencia" title="Sistema de referencia">sistema de referencia</a> en el que la masa está en reposo (conocido como «<a class="new" href="/w/index.php?title=Sistema_de_reposo&amp;action=edit&amp;redlink=1" title="Sistema de reposo (aún no redactado)">sistema de reposo</a>»). De hecho, a efectos prácticos, el método de la física clásica para determinar la masa inercial sigue siendo válido, siempre que la velocidad del objeto sea mucho menor que la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>, de forma que la <a href="/wiki/Mec%C3%A1nica_newtoniana" title="Mecánica newtoniana">mecánica newtoniana</a> siga siendo válida.
+</p>
+<p>En la <a href="/wiki/Teor%C3%ADa_de_la_relatividad" title="Teoría de la relatividad">mecánica relativista</a>, la masa en reposo de una partícula libre está relacionada con su <a href="/wiki/Energ%C3%ADa" title="Energía">energía</a> y su <a href="/wiki/Cantidad_de_movimiento" title="Cantidad de movimiento">momento lineal</a> según la siguiente ecuación:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {E^{2} \over c^{2}}=m^{2}c^{2}+p^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msup>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {E^{2} \over c^{2}}=m^{2}c^{2}+p^{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {E^{2} \over c^{2}}=m^{2}c^{2}+p^{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/82995433ffa3cb0b286f3030717417986ad1cfd8" style="vertical-align: -2.171ex; width:17.002ex; height:6.009ex;"/></span>.
+</p>
+<p>Que se puede reordenar de la siguiente manera:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E=mc^{2}{\sqrt {1+\left({p \over mc}\right)^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mi>m</mi>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>p</mi>
+<mrow>
+<mi>m</mi>
+<mi>c</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=mc^{2}{\sqrt {1+\left({p \over mc}\right)^{2}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E=mc^{2}{\sqrt {1+\left({p \over mc}\right)^{2}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b731b7653c7e12ccb0ee9bbab1da9e05254fb50b" style="vertical-align: -2.338ex; width:23.015ex; height:6.176ex;"/></span>
+</p>
+<p>El límite clásico se corresponde con la situación en la que el momento <i>p</i> es mucho menor que <i>mc</i>, en cuyo caso se puede desarrollar la raíz cuadrada en una <a href="/wiki/Serie_de_Taylor" title="Serie de Taylor">serie de Taylor</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E=mc^{2}+{p^{2} \over 2m}+\dots }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mi>m</mi>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mn>2</mn>
+<mi>m</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mo>…<!-- … --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=mc^{2}+{p^{2} \over 2m}+\dots }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E=mc^{2}+{p^{2} \over 2m}+\dots }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ca02c0207451fceb361544ef4a100c1fe0336ffb" style="vertical-align: -1.838ex; width:21.419ex; height:5.676ex;"/></span>
+</p>
+<p>El término principal, que es el mayor, es la energía en reposo de la partícula. Si la masa es distinta de cero, una partícula siempre tiene como mínimo esta cantidad de energía, independientemente de su <a href="/wiki/Cantidad_de_movimiento" title="Cantidad de movimiento">cantidad de movimiento</a> o moméntum. La energía en reposo, normalmente, es inaccesible, pero puede liberarse dividiendo o combinando partículas, como en la <a href="/wiki/Fusi%C3%B3n_nuclear" title="Fusión nuclear">fusión</a> y <a href="/wiki/Fisi%C3%B3n_nuclear" title="Fisión nuclear">fisión</a> nucleares. El segundo término es la <a href="/wiki/Energ%C3%ADa_cin%C3%A9tica" title="Energía cinética">energía cinética</a> clásica, que se demuestra usando la definición clásica de momento cinético o momento lineal:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p=mv\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>=</mo>
+<mi>m</mi>
+<mi>v</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p=mv\,\!}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p=mv\,\!}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f2b92cdfad33d1b1d5fcf5d68a92bec2fc1cf3d" style="vertical-align: -0.671ex; margin-left: -0.089ex; margin-right: -0.387ex; width:7.912ex; height:2.009ex;"/></span>
+</p>
+<p>y sustituyendo para obtener:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E=mc^{2}+{mv^{2} \over 2}+...}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mi>m</mi>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>m</mi>
+<msup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mo>.</mo>
+<mo>.</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=mc^{2}+{mv^{2} \over 2}+...}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E=mc^{2}+{mv^{2} \over 2}+...}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5b354d7f8f1c3e9e43c51a8c50911e2faa3d61ee" style="vertical-align: -1.838ex; width:21.397ex; height:5.676ex;"/></span>
+</p>
+<p>La relación relativista entre energía, masa y momento también se cumple para partículas que no tienen masa (que es un concepto mal definido en términos de mecánica clásica). Cuando <i>m = 0</i>, la relación se simplifica en
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E=pc\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mi>p</mi>
+<mi>c</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=pc\,\!}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E=pc\,\!}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0349c337e0a0248a8c63766766fa6d166aae5fd7" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:7.437ex; height:2.509ex;"/></span>
+</p>
+<p>donde <i>p</i> es el momento relativista.
+</p>
+<p>Esta ecuación define la mecánica de las <a href="/wiki/Part%C3%ADcula_sin_masa" title="Partícula sin masa">partículas sin masa</a> como el <a href="/wiki/Fot%C3%B3n" title="Fotón">fotón</a>, que son las partículas de la <a href="/wiki/Luz" title="Luz">luz</a>.
+</p>
+<p>El concepto de masa en <a href="/wiki/Relatividad_general" title="Relatividad general">relatividad general</a> es mucho más sutil que su análogo en relatividad especia. De hecho, en general, la teoría general de la relatividad no existe un concepto único de masa, sino que el concepto de la relatividad especial se generaliza de varias maneras diferentes y no equivalentes. De hecho, hay varias maneras de concebir la masa en relatividad general, dependiendo del caso. Par algunos tipos de espacio-tiempo complejos no-estacionarios de hecho ni siquiera puede definirse el concepto de masa de manera físicamente objetiva y no ambigua. Igualmente, no existe en general un tensor-energía impulso del campo gravitatorio que represente la energía local del campo gravitatorio o el espacio-tiempo, cosa que conduce a ciertos problemas a la hora de definir la energía total, como magnitud global.
+</p>
+<p>La noción clásica y relativista de masa ha sido revisada en la moderna teoría cuántica de campos. En la formulacion de dicha teoría, los campos cuánticos se pueden manifestar como partículas individuales de un cierto tipo. Algunas de esas partículas subatómicas son partículas con masa. La masa de dicha partícula es una magnitud física precisa, pero que no está asociada a algo como la "cantidad de materia". De hecho, desde la perspectiva de la teoría cuántica de campos existen dos procesos físicos por los cuales una partícula subatómica parece dotada de masa:
+</p>
+<p>Según el documento D28 <i>Conventional value of the result of weighing in air</i> de la <a class="new" href="/w/index.php?title=Organizaci%C3%B3n_Internacional_de_Metrolog%C3%ADa_Legal&amp;action=edit&amp;redlink=1" title="Organización Internacional de Metrología Legal (aún no redactado)">Organización Internacional de Metrología Legal</a> (OIML), la masa convencional de un cuerpo es igual a la masa de un patrón de <a href="/wiki/Densidad" title="Densidad">densidad</a> igual a 8000 kg/m³ que equilibra en el aire a dicho cuerpo en condiciones convencionalmente escogidas: temperatura del aire igual a 20 °C y densidad del aire igual a 0,0012 g/cm³.
+</p>
+<p>Esta definición es fundamental para un comercio internacional sin controversias sobre pesajes realizados bajo distintas condiciones de densidad del aire y densidad de los objetos. Si se pretendiera que las balanzas midan masa, sería necesario contar con patrones de masa de la misma densidad que los objetos cuya masa interese determinar, lo que no es práctico y es la razón por la que se definió la Masa Convencional, la cual es la magnitud que miden las balanzas con mayor precisión.
+</p>

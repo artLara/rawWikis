@@ -1,0 +1,550 @@
+<p>La <b>determinación del día de la semana</b> para cualquier fecha se puede realizar con una variedad de algoritmos. Además, los calendarios perpetuos no requieren ningún cálculo por parte del usuario y son esencialmente tablas de búsqueda. Una aplicación típica es calcular el día de la semana en el que nació alguien u ocurrió un evento específico.
+</p>
+<p>En el cálculo numérico, los días de la semana se representan como números de días de la semana. Si el lunes es el primer día de la semana, los días se pueden codificar del 1 al 7, de lunes a domingo, de acuerdo con <a href="/wiki/ISO_8601" title="ISO 8601">ISO 8601</a>. El día designado con 7 también se puede contar como <i>0</i>, aplicando el <a href="/wiki/Aritm%C3%A9tica_modular" title="Aritmética modular">módulo aritmético</a> 7, que calcula el resto de un número después de la división por 7. Por lo tanto, el número 7 se trata como 0, 8 como 1, 9 como 2, 18 como 4 y así sucesivamente. Si el domingo se cuenta como día 1, 7 días después (es decir, el día 8) también es domingo, y el día 18 es el mismo que el día 4, que es <a href="/wiki/Mi%C3%A9rcoles" title="Miércoles">miércoles</a>, ya que viene tres días después del domingo.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El enfoque básico de casi todos los métodos para calcular el día de la semana comienza a partir de una 'fecha de anclaje': un par conocido (como el 1 de enero de 1800 como miércoles), que determina el número de días entre el día conocido y el día que está tratando de determinar, y utilizando módulo aritmético 7 para encontrar un nuevo día numérico de la semana.
+</p>
+<p>Un enfoque estándar es buscar (o calcular, usando una regla conocida) el valor del primer día de la semana de un siglo dado, buscar (o calcular, usando un método de congruencia) un ajuste para el mes, calcular el número de años bisiestos desde el comienzo del siglo, y luego súmelos junto con el número de años desde el comienzo del siglo y el número de día del mes. Eventualmente, uno termina con un recuento de días al que se aplica módulo 7 para determinar el día de la semana de la fecha.<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Algunos métodos hacen todas las sumas primero y luego eliminan los sietes, mientras que otros los eliminan en cada paso, como en el <a class="mw-selflink-fragment" href="#Método_de_Lewis_Carroll">método de Lewis Carroll</a>. De cualquier manera es bastante viable: la primera es más fácil para calculadoras y programas de computadora, la segunda para cálculos mentales (es muy posible hacer todos los cálculos en la cabeza con un poco de práctica). Ninguno de los métodos que se proporcionan aquí realiza comprobaciones de rango, por lo que las fechas no razonables producirán resultados erróneos.
+</p>
+<p>Cada séptimo día del mes tiene el mismo nombre que el anterior:
+</p>
+<p>mes
+</p>
+<p>Los "meses correspondientes" son aquellos meses dentro del año calendario que comienzan el mismo día de la semana. Por ejemplo, septiembre y diciembre se corresponden, porque el 1 de septiembre cae el mismo día que el 1 de diciembre (ya que hay exactamente trece semanas de 7 días entre las dos fechas). Los meses solo pueden corresponder si el número de días entre sus primeros días es divisible por 7, o en otras palabras, si sus primeros días están separados por un <a href="/wiki/N%C3%BAmero_entero" title="Número entero">número entero</a> de semanas. Por ejemplo, febrero de un año común corresponde a marzo porque febrero tiene 28 días, un número divisible por 7, siendo 28 días exactamente cuatro semanas. En un <a href="/wiki/A%C3%B1o_bisiesto" title="Año bisiesto">año bisiesto</a>, enero y febrero corresponden a meses diferentes a los de un año común, ya que agregar el 29 de febrero significa que cada mes subsiguiente comienza un día después.
+</p>
+<p>Enero corresponde a octubre en años comunes y abril y julio en años bisiestos. Febrero corresponde a marzo y noviembre en años comunes y agosto en años bisiestos. Marzo siempre corresponde a noviembre, abril siempre corresponde a julio y septiembre siempre corresponde a diciembre. Agosto no corresponde a ningún otro mes de un año común. Octubre no corresponde a ningún otro mes de un año bisiesto. Mayo y junio nunca corresponden a ningún otro mes.
+</p>
+<p>En la siguiente tabla de meses, los meses correspondientes tienen el mismo número, un hecho que se deriva directamente de la definición:
+</p>
+<p>Hay siete días posibles en los que puede comenzar un año, y los <a href="/wiki/A%C3%B1o_bisiesto" title="Año bisiesto">años bisiestos</a> alterarán el día de la semana después del 29 de febrero. Esto significa que hay 14 configuraciones que puede tener un año. Todas las configuraciones pueden ser referenciadas por una <a href="/wiki/Letra_dominical" title="Letra dominical">letra dominical</a>, pero como el 29 de febrero no tiene ninguna letra asignada, un año bisiesto tiene dos letras dominicales, una para enero y febrero y la otra (un paso atrás en la secuencia alfabética) de marzo a diciembre.
+</p>
+<p>Por ejemplo, 2019 fue un <a href="/wiki/Anexo:A%C3%B1o_com%C3%BAn_comenzado_en_martes" title="Anexo:Año común comenzado en martes">año común que comenzaba el martes</a>, lo que indica que el año en su conjunto correspondía al <a href="/wiki/A%C3%B1o_natural" title="Año natural">año calendario</a> 2013. Por otro lado, 2020 es un <a href="/wiki/Anexo:A%C3%B1o_bisiesto_comenzado_en_mi%C3%A9rcoles" title="Anexo:Año bisiesto comenzado en miércoles">año bisiesto que comienza el miércoles</a> y, en su conjunto, corresponde al año calendario 1992; en concreto, sus 2 primeros meses, excepto el 29 de febrero, corresponden a los del año calendario 2014, mientras que, debido al día bisiesto 2020, sus 10 meses posteriores corresponden al año calendario 2015.
+</p>
+<p>Según lo anterior, cada <a href="/wiki/A%C3%B1o_bisiesto" title="Año bisiesto">año bisiesto</a> se repite una vez cada 28 años, y cada <a href="/wiki/A%C3%B1o_com%C3%BAn" title="Año común">año común</a> se repite una vez cada 6 años y dos veces cada 11 años. Por ejemplo, la última ocurrencia de un año bisiesto que comienza un martes fue 2008 y la próxima ocurrencia será 2036. De la misma manera, los próximos años comunes que comienzan el miércoles serán 2025, 2031, 2042 y luego 2053. Ambas declaraciones son cierto a menos que se omita un año bisiesto, pero eso no sucederá hasta 2100. En el caso de que un año centenario no sea bisiesto, el próximo año bisiesto ocurrirá 40 años después de cualquier año bisiesto entre 12 y 28 años, inclusive, lejos a partir de ese año del siglo, y cualquier año bisiesto dentro de los 12 años siguientes al año del siglo volverá a ocurrir 12 años después.
+</p>
+<p>Para obtener más detalles, consulte la tabla siguiente:
+</p>
+<p>siglo mod 28
+</p>
+<p>Notas:
+</p>
+<p>"Año 000" es, en cronología normal, el año 1 AC (que precede al 1 DC). En el <a href="/wiki/Numeraci%C3%B3n_de_a%C3%B1os_astron%C3%B3mica" title="Numeración de años astronómica">año astronómico</a>, el año 0 se sitúa entre el 1 a. C. y el 1 d. C. En el <a href="/wiki/Calendario_juliano_prol%C3%A9ptico" title="Calendario juliano proléptico">calendario juliano proléptico</a>, (es decir, el <a href="/wiki/Calendario_juliano" title="Calendario juliano">calendario juliano</a> como habría sido si se hubiera operado correctamente desde el principio), el 1 a. C. comienza el jueves. En el <a href="/wiki/Calendario_gregoriano_prol%C3%A9ptico" title="Calendario gregoriano proléptico">calendario gregoriano proléptico</a>, (llamado así porque no fue ideado hasta 1582), el 1 a. C. comienza el sábado.
+</p>
+<p>Para las fechas julianas anteriores a 1300 y posteriores a 1999, debe utilizarse el año de la tabla que difiere en un múltiplo exacto de 700 años. Para las fechas gregorianas posteriores a 2299, se debe utilizar el año de la tabla que difiere en un múltiplo exacto de 400 años. Los valores " r0 " a " r6 " indican el resto cuando el valor de las centenas se divide por 7 y 4 respectivamente, lo que indica cómo se extiende la serie en cualquier dirección. Tanto los valores julianos como los gregorianos se muestran 1500-1999 por conveniencia. Las cifras en negrita (por ejemplo, <b>04</b>) indican un año bisiesto. Si un año termina en 00 y sus cientos están en negrita, es un año bisiesto. Así, 19 indica que 1900 no es un año bisiesto gregoriano, (pero <b>19</b> en la columna juliana indica que <i>es</i> un año bisiesto juliano, al igual que todos los años julianos <i>x</i> 00 años). <b>20</b> indica que 2000 es un año bisiesto. Utilice <b>enero</b> y <b>febrero</b> solo en años bisiestos.
+</p>
+<p>Para determinar el día de la semana (1 de enero de 2000, sábado)
+</p>
+<p>La fórmula es w = (d + m + y + c) mod 7.
+</p>
+<p>Téngase en cuenta que la fecha (y, por lo tanto, el día de la semana) en los calendarios juliano y gregoriano revisados es la misma desde el 14 de octubre de 1923 hasta el 28 de febrero de 2800 d. C. inclusive y que para años grandes es posible restar 6300 o un múltiplo del mismo antes. comenzando para llegar a un año que esté dentro o más cerca de la mesa.
+</p>
+<p>Para buscar el día de la semana de cualquier fecha de cualquier año usando la tabla, reste 100 del año, divida la diferencia por 100, multiplique el cociente resultante (omitiendo las fracciones) por siete y divida el producto por nueve. Tenga en cuenta el cociente (omitiendo fracciones). Ingrese la tabla con el año juliano, y justo antes de la división final sume 50 y reste el cociente anotado arriba.
+</p>
+<p>Ejemplo: ¿Cuál es el día de la semana del 27 de enero de 8315?
+</p>
+<p>8315-6300 = 2015, 2015-100 = 1915, 1915/100 = 19 resto 15, 19x7 = 133, 133/9 = 14 resto 7. 2015 es 700 años antes que 1315, por lo que se usa 1315. De la tabla: para cientos (13): 6. Para los dígitos restantes (15): 4. Para el mes (enero): 0. Para la fecha (27): 27. 6 + 4 + 0 + 27 + 50-14 = 73. 73/7 = 10 restante 3. Día de la semana = martes.
+</p>
+<p>Para encontrar la <a href="/wiki/Letra_dominical" title="Letra dominical">letra dominical</a>, calcule el día de la semana para el 1 de enero o el 1 de octubre. Si es domingo, la letra dominical es A, si es sábado B, e igualmente hacia atrás a lo largo de la semana y hacia adelante a través del alfabeto hasta el lunes, que es G
+</p>
+<p>Los años bisiestos tienen dos letras dominicales, por lo que para enero y febrero calcule el día de la semana para el 1 de enero y para marzo a diciembre calcule el día de la semana para el 1 de octubre.
+</p>
+<p>Los años bisiestos son todos los años que se dividen exactamente por cuatro con las siguientes excepciones:
+</p>
+<p><b>En el calendario gregoriano</b>, todos los años que se dividen exactamente entre 100 (excepto los que se dividen exactamente entre 400).
+</p>
+<p><b>En el calendario juliano revisado</b>, todos los años que se dividen exactamente por 100 (excepto los que dan un resto 200 o 600 cuando se dividen por 900).
+</p>
+<p>Este es un artefacto de las matemáticas recreativas. Consulte la <a href="/wiki/Regla_del_fin_del_mundo" title="Regla del fin del mundo">regla del fin del mundo</a> para obtener una explicación.
+</p>
+<p>Utilice esta tabla para encontrar el día de la semana sin ningún cálculo.
+</p>
+<p>Utilice enero y febrero para los años bisiestos
+</p>
+<p>Fecha de la letra en la fila del año para la letra de la fila del siglo
+</p>
+<p>Todos los días C son días del juicio final
+</p>
+<p><b>Ejemplos:</b>
+</p>
+<p>Diciembre es en la fila F y 26 se encuentra en la columna E, por lo que la carta para la fecha se encuentra en la fila C F y la columna E. 93 (años mod 100) está en la fila D (fila años) y la letra C en la fila años se encuentra en la columna G. 18 ([año / 100] en la columna del siglo gregoriano) está en la fila C (fila del siglo) y la letra en la fila del siglo y la columna G es B, por lo que el día de la semana es el martes.
+</p>
+<p>El 13 de octubre es un día F. La letra F en la fila de años (07) se encuentra en la columna G . La letra en la fila del siglo (13) y la columna G es E, por lo que el día de la semana es el viernes.
+</p>
+<p>El 1 de enero corresponde a G, G en la fila del año ( 0 0) corresponde a F en la fila del siglo ( 20 ) y F corresponde al sábado.
+</p>
+<p>Una fórmula concisa para el método: <i>"La letra de fecha (G), la letra (G) está en la fila del año (0 0) para la letra (F) en la fila del siglo (20), y para el día, la letra (F) se convierte en día laborable (sábado)"</i>.
+</p>
+<p><b>El método letra dominical</b>
+</p>
+<p>Cada día del año (excepto el 29 de febrero) tiene asignada una letra en la secuencia recurrente ABCDEFG. La serie comienza con A el 1 de enero y continúa hasta A nuevamente el 31 de diciembre. La letra del domingo es la que se opone a todos los domingos del año. Dado que el 29 de febrero no tiene carta, esto significa que la carta dominical de marzo a diciembre está un paso atrás en la secuencia en comparación con la de enero y febrero. La letra para cualquier fecha se encontrará donde la fila que contiene el mes (en negro) a la izquierda del "<a href="/wiki/Cuadrado_latino" title="Cuadrado latino">cuadrado latino</a>" se encuentra con la columna que contiene la fecha sobre el "cuadrado latino". La letra del domingo se encontrará donde la columna que contiene el siglo (debajo del "cuadrado latino") se encuentra con la fila que contiene los dos últimos dígitos del año a la derecha del "cuadrado latino".
+</p>
+<p>Entonces, por ejemplo, para encontrar el día de la semana del 16 de junio de 2020:
+</p>
+<p>La columna "20" se encuentra con la fila "20" en "D". La fila "junio" se encuentra con la columna "16" en "F". Como F es dos letras desde D, el día de la semana es dos días desde el domingo, es decir, martes.
+</p>
+<p>En una nota escrita a mano en una colección de tablas astronómicas, <a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">Carl Friedrich Gauss</a> describió un método para calcular el día de la semana del 1 de enero de un año determinado.  Nunca lo publicó. Finalmente se incluyó en sus obras completas en 1927.<sup class="reference separada" id="cite_ref-Schwerdtfeger_8-0"><a href="#cite_note-Schwerdtfeger-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El método de Gauss fue aplicable al calendario gregoriano. Numeró los días de la semana del 0 al 6 comenzando con el domingo. Definió la siguiente operación: El día laborable del 1 de enero del año número <i><b>A</b></i> es<sup class="reference separada" id="cite_ref-Gauss_9-0"><a href="#cite_note-Gauss-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>o
+</p>
+<p>del cual se puede derivar un método para el calendario juliano
+</p>
+<p>o
+</p>
+<p>dónde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle R(y,m)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>R</mi>
+<mo stretchy="false">(</mo>
+<mi>y</mi>
+<mo>,</mo>
+<mi>m</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R(y,m)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle R(y,m)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f7d28d6342baf677182110c8fdfde387520ba904" style="vertical-align: -0.838ex; width:7.803ex; height:2.843ex;"/></span> es el <a href="/wiki/Resto" title="Resto">resto</a> después de la división de y por m,<sup class="reference separada" id="cite_ref-Schwerdtfeger_8-1"><a href="#cite_note-Schwerdtfeger-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ o y módulo m , y Y + 100 <i><b>C</b></i> = <i><b>A</b></i>.
+</p>
+<p>Para el año 2000, A - 1 = 1999, Y - 1 = 99 y C = 19, el día de la semana del 1 de enero es
+</p>
+<p>El día de la semana del último día del año número A - 1 o 0 de enero del año número A es
+</p>
+<p>El día de la semana de 0 (un año común) o 1 (un año bisiesto) de enero en el año número A es
+</p>
+<p>Para determinar el día de la semana de una fecha arbitraria, usaremos la siguiente tabla de búsqueda.
+</p>
+<p>Nota: menos 1 si M es 11 o 12 y más 1 si M es menor de 11 en un año bisiesto.
+</p>
+<p>El día de la semana para cualquier día del año número A es
+</p>
+<p>o
+</p>
+<p>donde D es el día del mes y A - 1 para enero o febrero.
+</p>
+<p>Los días de semana para el 30 de abril de 1777 y el 23 de febrero de 1855 son
+</p>
+<p>y
+</p>
+<p>Esta fórmula también fue convertida en métodos gráficos y tabulares para calcular cualquier día de la semana por Kraitchik y Schwerdtfeger.<sup class="reference separada" id="cite_ref-Schwerdtfeger_8-2"><a href="#cite_note-Schwerdtfeger-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-Kraitchik_10-0"><a href="#cite_note-Kraitchik-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Otra variación del algoritmo anterior también funciona sin tablas de búsqueda. Una pequeña desventaja es la inusual convención de conteo de meses y años. La formula es
+</p>
+<p>dónde
+</p>
+<p>Por ejemplo, 1 de enero de 2000 (año - 1 de enero)
+</p>
+<p>
+|}
+</p>
+<p>Nota: El primero es solo para un año bisiesto 00 y el segundo es para cualquier año 00.
+</p>
+<p>El término <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \lfloor 2.6m-0.2\rfloor \mod 7}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo fence="false" stretchy="false">⌊<!-- ⌊ --></mo>
+<mn>2.6</mn>
+<mi>m</mi>
+<mo>−<!-- − --></mo>
+<mn>0.2</mn>
+<mo fence="false" stretchy="false">⌋<!-- ⌋ --></mo>
+<mspace width="1em"></mspace>
+<mi>mod</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mn>7</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \lfloor 2.6m-0.2\rfloor \mod 7}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \lfloor 2.6m-0.2\rfloor \mod 7}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c0ab2be2171956b9b0562a929633b9f44a0168b9" style="vertical-align: -0.838ex; width:22.313ex; height:2.843ex;"/></span>  da los valores de meses: m
+</p>
+<p>El término <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle y+\left\lfloor {\frac {y}{4}}\right\rfloor \mod 7}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>y</mi>
+<mo>+</mo>
+<mrow>
+<mo>⌊</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>y</mi>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<mo>⌋</mo>
+</mrow>
+<mspace width="1em"></mspace>
+<mi>mod</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mn>7</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle y+\left\lfloor {\frac {y}{4}}\right\rfloor \mod 7}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle y+\left\lfloor {\frac {y}{4}}\right\rfloor \mod 7}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cb948c28db52a8bf838a2c88dddd3e8005e0f0ca" style="vertical-align: -1.838ex; width:17.874ex; height:4.843ex;"/></span> da los valores de años: y
+</p>
+<p>El término <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left(\left\lfloor {\frac {c}{4}}\right\rfloor -2c\right)\mod 7}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow>
+<mo>⌊</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>c</mi>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<mo>⌋</mo>
+</mrow>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<mi>c</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="1em"></mspace>
+<mi>mod</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mn>7</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left(\left\lfloor {\frac {c}{4}}\right\rfloor -2c\right)\mod 7}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left(\left\lfloor {\frac {c}{4}}\right\rfloor -2c\right)\mod 7}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b67317411d4478893266ef600baaf0f4e1f1dee6" style="vertical-align: -1.838ex; width:21.663ex; height:4.843ex;"/></span> da los valores de los siglos: c
+</p>
+<p>Ahora de la fórmula general: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle w=d+m+y+c{\bmod {7}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>w</mi>
+<mo>=</mo>
+<mi>d</mi>
+<mo>+</mo>
+<mi>m</mi>
+<mo>+</mo>
+<mi>y</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo lspace="thickmathspace" rspace="thickmathspace">mod</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>7</mn>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle w=d+m+y+c{\bmod {7}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle w=d+m+y+c{\bmod {7}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b4b9a55ddc8bce6a5dbc2e6e6f73ea9fc0b09bc" style="vertical-align: -0.671ex; width:25.546ex; height:2.509ex;"/></span>; El 1 de enero de 2000 se puede volver a calcular de la siguiente manera:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}w&amp;=1+0+5+0{\bmod {7}}=6={\text{Sabado}}\\d&amp;=1,m=0\\y&amp;=5(0-1{\bmod {2}}8=27)\\c&amp;=0(20{\bmod {4}}=0)\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mi>w</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mn>0</mn>
+<mo>+</mo>
+<mn>5</mn>
+<mo>+</mo>
+<mn>0</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo lspace="thickmathspace" rspace="thickmathspace">mod</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>7</mn>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mn>6</mn>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Sabado</mtext>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>d</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mi>m</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>5</mn>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo lspace="thickmathspace" rspace="thickmathspace">mod</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</mrow>
+<mn>8</mn>
+<mo>=</mo>
+<mn>27</mn>
+<mo stretchy="false">)</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>c</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo stretchy="false">(</mo>
+<mn>20</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo lspace="thickmathspace" rspace="thickmathspace">mod</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}w&amp;=1+0+5+0{\bmod {7}}=6={\text{Sabado}}\\d&amp;=1,m=0\\y&amp;=5(0-1{\bmod {2}}8=27)\\c&amp;=0(20{\bmod {4}}=0)\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{aligned}w&amp;=1+0+5+0{\bmod {7}}=6={\text{Sabado}}\\d&amp;=1,m=0\\y&amp;=5(0-1{\bmod {2}}8=27)\\c&amp;=0(20{\bmod {4}}=0)\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0eb79fad147d562462c2ee9459b15be669a86880" style="vertical-align: -5.505ex; width:40.253ex; height:12.176ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}w&amp;=1+0+4+1{\bmod {7}}=6={\text{Sabado}}\\d&amp;=1,m=0\\y&amp;=4(99{\bmod {2}}8=15)\\c&amp;=1(20-1{\bmod {4}}=3)\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mi>w</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mn>0</mn>
+<mo>+</mo>
+<mn>4</mn>
+<mo>+</mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo lspace="thickmathspace" rspace="thickmathspace">mod</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>7</mn>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mn>6</mn>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Sabado</mtext>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>d</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mi>m</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>y</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>4</mn>
+<mo stretchy="false">(</mo>
+<mn>99</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo lspace="thickmathspace" rspace="thickmathspace">mod</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</mrow>
+<mn>8</mn>
+<mo>=</mo>
+<mn>15</mn>
+<mo stretchy="false">)</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>c</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo stretchy="false">(</mo>
+<mn>20</mn>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo lspace="thickmathspace" rspace="thickmathspace">mod</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mn>3</mn>
+<mo stretchy="false">)</mo>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}w&amp;=1+0+4+1{\bmod {7}}=6={\text{Sabado}}\\d&amp;=1,m=0\\y&amp;=4(99{\bmod {2}}8=15)\\c&amp;=1(20-1{\bmod {4}}=3)\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{aligned}w&amp;=1+0+4+1{\bmod {7}}=6={\text{Sabado}}\\d&amp;=1,m=0\\y&amp;=4(99{\bmod {2}}8=15)\\c&amp;=1(20-1{\bmod {4}}=3)\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/95870e5575501397c14e66fdee39a7a369288864" style="vertical-align: -5.505ex; width:40.253ex; height:12.176ex;"/></span>
+</p>
+<p>
+|}
+</p>
+<p>En el algoritmo de Zeller, los meses están numerados del 3 de marzo al 14 de febrero. Se supone que el año comienza en marzo; esto significa, por ejemplo, que enero de 1995 se tratará como el mes 13 de 1994.<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​ La fórmula para el calendario gregoriano es<br/>
+</p>
+<p>dónde
+</p>
+<p>La única diferencia es una entre el algoritmo de Zeller (Z) y el algoritmo de Gauss (G), es decir, <i>Z</i> - <i>G</i> = 1 = Domingo.
+</p>
+<p>Entonces podemos obtener los valores de los meses a partir de los del algoritmo gaussiano agregando uno:
+</p>
+<p>El algoritmo de Wang <sup class="reference separada" id="cite_ref-Wang_12-0"><a href="#cite_note-Wang-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​ para el calendario gregoriano es (la fórmula debe restarse de 1 si m es 1 o 2 y el año es bisiesto)
+</p>
+<p>dónde
+</p>
+<p>Se puede derivar un algoritmo para el calendario juliano del algoritmo anterior
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle d_{0}(m)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>m</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d_{0}(m)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle d_{0}(m)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/84c95c13974116c5eef1ea824c5524cacb890b2a" style="vertical-align: -0.838ex; width:6.113ex; height:2.843ex;"/></span> es un <a href="/wiki/Regla_del_fin_del_mundo" title="Regla del fin del mundo">día del juicio</a>.
+</p>
+<p>En un método parcialmente tabular de Schwerdtfeger, el año se divide en el siglo y el año de dos dígitos dentro del siglo. El enfoque depende del mes. Para <span class="texhtml"><var>m</var> ≥ 3</span>,
+</p>
+<p>entonces <var>g</var> está entre 0 y 99. Para <var>m</var> = 1,2 ,
+</p>
+<p>La fórmula para el día de la semana es<sup class="reference separada" id="cite_ref-Schwerdtfeger_8-3"><a href="#cite_note-Schwerdtfeger-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>donde se elige el módulo positivo.<sup class="reference separada" id="cite_ref-Schwerdtfeger_8-4"><a href="#cite_note-Schwerdtfeger-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El valor de <i>e</i> se obtiene de la siguiente tabla:
+</p>
+<p>El valor de <i>f</i> se obtiene de la siguiente tabla, que depende del calendario. Para el calendario gregoriano,<sup class="reference separada" id="cite_ref-Schwerdtfeger_8-5"><a href="#cite_note-Schwerdtfeger-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Para el calendario juliano,<sup class="reference separada" id="cite_ref-Schwerdtfeger_8-6"><a href="#cite_note-Schwerdtfeger-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Charles Lutwidge Dodgson (<a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a>) ideó un método que se asemeja a un rompecabezas, pero en parte tabular al usar los mismos números de índice para los meses que en la "Tabla completa: calendarios juliano y gregoriano" anterior. Enumera los mismos tres ajustes para los primeros tres meses de los años no bisiestos, uno más alto para el último, y da instrucciones crípticas para encontrar el resto; Sus ajustes por siglos se determinarán utilizando fórmulas similares a las de la tabla de siglos. Aunque explícito al afirmar que su método también funciona para fechas de <i>estilo antiguo</i>, su ejemplo se reproduce a continuación para determinar que "1676, 23 de febrero" es un miércoles, solo funciona en un calendario juliano que comienza el año el 1 de enero, en lugar del 25 de marzo como el el "estilo antiguo".
+</p>
+<p><b>Algoritmo:</b><sup class="reference separada" id="cite_ref-Dodgson1887_13-0"><a href="#cite_note-Dodgson1887-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Calcule los siguientes 4 elementos, agregando cada uno, cuando lo encuentre, al total de los elementos anteriores. Cuando un artículo o un total exceda de 7, divida entre 7 y conserve el resto únicamente.
+</p>
+<p>Ítem del siglo: Para ' Estilo antiguo ' (que terminó el 2 de septiembre de 1752) reste de 18. Para ' Estilo nuevo ' (que comenzó el 14 de septiembre de 1752) divida por 4, tome más de 3, multiplique el resto por 2.
+</p>
+<p>Ítem del año: Sume el número de docenas, el excedente y el número de 4 en el excedente.
+</p>
+<p>Ítem del mes: si comienza o termina con una vocal, reste el número, indicando su lugar en el año, de 10. Esto, más el número de días, da el elemento del mes siguiente. El artículo de enero es "0"; para febrero o marzo, "3"; para diciembre, "12".
+</p>
+<p>Ítem del día: El total así alcanzado debe corregirse, deduciendo "1" (primero sumando 7, si el total es "0"), si la fecha es enero o febrero en un año bisiesto, recordando que cada año, divisible por 4, es un año bisiesto, excepto sólo los años-siglo, en "Nuevo estilo", cuando el número de siglos no es tan divisible (por ejemplo, 1800).
+</p>
+<p><b>Ejemplos:</b><sup class="reference separada" id="cite_ref-Dodgson1887_13-1"><a href="#cite_note-Dodgson1887-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>17, dividido entre 4, deja "1" encima; 1 de 3 da "2"; dos veces 2 es "4". 83 son 6 docenas y 11, dando 17; más 2 da 19, es decir (dividiendo entre 7) "5". Total 9, es decir, "2" El elemento de agosto es "8 de 10", es decir, "2"; entonces, para septiembre, es "2 más 31", es decir, "5" Total 7, es decir, "0", que se apaga. 18 da "4". Respuesta, "jueves".
+</p>
+<p>16 de 18 da "2" 76 son 6 docenas y 4, dando 10; más 1 da 11, es decir, "4". Total "6" El artículo de febrero es "3". Total 9, es decir, "2" 23 da "2". La corrección total "4" para el año bisiesto da "3". Respuesta, "miércoles".
+</p>
+<p>Dado que el 23 de febrero de 1676 (contando febrero como el segundo mes) es, para Carroll, el mismo día que el gregoriano 4 de marzo de 1676, no llega a la respuesta correcta, a saber, "viernes", para una fecha de estilo antiguo que figura en el calendario gregoriano. es el mismo día que el 5 de marzo de 1677. Si hubiera asumido correctamente que el año comenzaría el 25 de marzo, su método habría tenido en cuenta los números de años diferentes, al igual que el cumpleaños de <a href="/wiki/George_Washington" title="George Washington">George Washington</a>, entre los dos calendarios.
+</p>
+<p>Es de destacar que aquellos que han vuelto a publicar el método de Carroll no han señalado su error, sobre todo <a href="/wiki/Martin_Gardner" title="Martin Gardner">Martin Gardner</a>.<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En 1752, el Imperio Británico abandonó el uso del <a href="/wiki/Calendario_juliano" title="Calendario juliano">calendario juliano</a> de estilo antiguo al adoptar el <a href="/wiki/Calendario_gregoriano" title="Calendario gregoriano">calendario gregoriano</a>, que se ha convertido en el estándar actual en la mayoría de los países del mundo.
+</p>
+<p>En las expresiones de abajo en <a href="/wiki/C_(lenguaje_de_programaci%C3%B3n)" title="C (lenguaje de programación)">lenguaje C</a>, <code>y</code> , <code>m</code> y <code>d</code> son, respectivamente, número entero variables que representan el año (por ejemplo, 1988), meses (1-12) y el día del mes (1-31).  
+</p>
+<p>En 1990, Michael Keith y Tom Craver publicaron la expresión anterior que busca minimizar el número de pulsaciones de teclas necesarias para ingresar a una función autónoma para convertir una fecha gregoriana en un día numérico de la semana.<sup class="reference separada" id="cite_ref-15"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​ No conserva ni <code>y</code> ni <code>d</code> , y devuelve <code>0</code> = domingo, <code>1</code> = lunes, etc.
+</p>
+<p>Poco después, Hans Lachman simplificó su algoritmo para facilitar su uso en dispositivos de gama baja. Tal como se diseñó originalmente para calculadoras de cuatro funciones, su método necesita menos entradas de teclado al limitar su rango a 1905-2099 d. C. o fechas julianas históricas. Posteriormente se modificó para convertir cualquier fecha gregoriana, incluso en un <a href="/wiki/%C3%81baco" title="Ábaco">ábaco</a>. En los dispositivos basados en <a href="/wiki/Motorola_68000#Example_code" title="Motorola 68000">Motorola 68000</a> hay igualmente menos necesidad de <a href="/wiki/Registro_(hardware)" title="Registro (hardware)">registros de procesador</a> o <a href="/wiki/C%C3%B3digo_de_operaci%C3%B3n" title="Código de operación">códigos de operación</a>, según el objetivo de diseño previsto.<sup class="reference separada" id="cite_ref-16"><a href="#cite_note-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El precursor tabular para el algoritmo de Tøndering se materializa en la siguiente K &amp; R C función.<sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​ Con cambios menores, fue adaptado para otros <a href="/wiki/Lenguaje_de_alto_nivel" title="Lenguaje de alto nivel">lenguajes de programación de alto nivel</a> como <a href="/wiki/APL" title="APL">APL2</a>.<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​ Publicado por Tomohiko Sakamoto en el <a href="/wiki/Grupo_de_noticias" title="Grupo de noticias">grupo de noticias</a> de <a href="/wiki/Usenet" title="Usenet">Usenet</a> comp.lang.c en 1992, es exacto para cualquier fecha gregoriana.<sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-20"><a href="#cite_note-20"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La función no siempre conserva <code>y</code> , y devuelve <code>0</code> = domingo, <code>1</code> = lunes, etc. Por el contrario, la siguiente expresión
+</p>
+<p>publicado simultáneamente por Sakamoto no es fácilmente adaptable a otros idiomas, e incluso puede fallar si se compila en una computadora que codifica caracteres utilizando valores distintos de estándar <a href="/wiki/ASCII" title="ASCII">ASCII</a> (por ejemplo, <a href="/wiki/EBCDIC" title="EBCDIC">EBCDIC</a>), o en compiladores C que hacen cumplir el cumplimiento de <a href="/wiki/ANSI_C" title="ANSI C">ANSI C</a> (incluso en código que sigue siendo compatible con la especificación K&amp;R C original , donde se supone que las declaraciones de tipo omitidas son números enteros). Solo para esta última consideración, la versión más detallada de Sakamoto podría considerarse no <a href="/wiki/Portabilidad" title="Portabilidad">portátil</a>, al igual que la de Keith y Craver.
+</p>
+<p>El método Rata Die de <a href="/wiki/IBM" title="IBM">IBM</a>'s requiere que uno sepa el "día clave" del <a href="/wiki/Calendario_gregoriano_prol%C3%A9ptico" title="Calendario gregoriano proléptico">calendario gregoriano proléptico</a>, es decir, el día de la semana del 1 de enero del 1 d. C. (su primera fecha). Esto debe hacerse para establecer el número restante en función del cual se determina el día de la semana para la última parte del análisis. Mediante el uso de un día dio a 13 de agosto de, 2009, que era un jueves como referencia, con <i>Base</i> y <i>n</i> es el número de días y semanas que ha sido desde 01/01/0001 al día dado, respectivamente, y <i>k</i> el día en el dado semana que debe ser inferior a 7, la <i>base</i> se expresa como
+</p>
+<p>Sabiendo que un año divisible por 4 o 400 es un año bisiesto, mientras que un año divisible por 100 y no 400 no es un año bisiesto, se puede escribir un programa de software para encontrar el número de días. La siguiente es una traducción a C del método de IBM para su lenguaje de programación <a href="/wiki/REXX" title="REXX">REXX</a>:
+</p>
+<p>Se encuentra que <tt>daystotal</tt> es 733632 a partir de la fecha base del 1 de enero de AD 1. Este número total de días se puede verificar con un cálculo simple: Ya hay 2008 años completos desde el 01/01/0001. El número total de días en 2008 años sin contar los días bisiestos es 365 * 2008 = 732920 días. Suponga que todos los años divisibles por 4 son años bisiestos. Sume 2008/4 = 502 al total; luego reste los 15 días bisiestos porque los años que son exactamente divisibles por 100 pero no 400 no son bisiestos. Continúe agregando al nuevo total el número de días en los primeros siete meses de 2009 que ya han pasado, que son 31 + 28 + 31 + 30 + 31 + 30 + 31 = 212 días y los 13 días de agosto para obtener <i>Base</i> = 732920 + 502 - 20 + 5 + 212 + 13 = 733632.
+</p>
+<p>Lo que esto significa es que han pasado 733632 días desde la fecha base. Sustituya el valor de <i>Base</i> en la ecuación anterior (i) para obtener 733632 = 7 * 104804 + 4, <i>n</i> = 104804 <i>yk</i> = 4, lo que implica que el 13 de agosto de 2009 es el cuarto día de la semana 104805 desde el 01/01/0001 . El 13 de agosto de 2009 es jueves; por lo tanto, el primer día de la semana debe ser el lunes, y se concluye que el primer día 01/01/0001 del calendario es el <i>lunes</i> . Con base en esto, el resto de la relación <i>Base / 7</i> , definida anteriormente como <i>k</i> , decide qué día de la semana es. Si <i>k</i> = 0, es lunes, <i>k</i> = 1, es martes, etc.<sup class="reference separada" id="cite_ref-21"><a href="#cite_note-21"><span class="corchete-llamada">[</span>21<span class="corchete-llamada">]</span></a></sup>​
+</p>

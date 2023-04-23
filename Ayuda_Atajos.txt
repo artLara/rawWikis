@@ -1,0 +1,28 @@
+<p>Un <b>atajo</b> es un tipo especializado de página de <a class="mw-redirect" href="/wiki/A:R" title="A:R">redirección</a>, que puede usarse para acceder rápida y directamente a una página del proyecto o una de sus secciones. La lista de atajos disponibles puede encontrarse en:
+</p>
+<p>Los atajos pueden ser ingresados directamente en la caja de búsqueda de Wikipedia, utilizados como <a href="/wiki/Ayuda:Tutorial_(enlaces_internos)" title="Ayuda:Tutorial (enlaces internos)">enlaces internos</a> dentro de cualquier artículo, o bien formar parte de una dirección web (<a class="mw-redirect" href="/wiki/URL" title="URL">URL</a>), reemplazando al nombre real de la página.
+</p>
+<p>Por ejemplo «<a class="new" href="/w/index.php?title=Wikipedia:PORT&amp;action=edit&amp;redlink=1" title="Wikipedia:PORT (aún no redactado)">WP:PORT</a>» es el atajo de la página «<a href="/wiki/Wikipedia:Portada" title="Wikipedia:Portada">Wikipedia:Portada</a>». Podemos entonces usar el enlace <code>[[WP:PORT]]</code> en un artículo o comentario al referirnos a ella, o también escribir la dirección <a class="external free" href="https://es.wikipedia.org/wiki/WP:PORT">https://es.wikipedia.org/wiki/WP:PORT</a> en la barra de direcciones del navegador para acceder a ella.
+</p>
+<p>Un atajo se compone de dos partes:
+</p>
+<p>Para facilitar su memorización, los atajos deberían contener letras mayúsculas, y deberían tener 5 letras o menos pues un atajo largo deja de ser un atajo.
+</p>
+<p>Además de los atajos dentro de la Wikipedia en español, se pueden crear enlaces abreviados a otras wikis, que funcionan con letras minúsculas. Por ejemplo, para la entrada <i>casa</i> del <a href="/wiki/Wikcionario" title="Wikcionario">Wikcionario</a> se puede usar el enlace <a class="extiw" href="https://es.wiktionary.org/wiki/casa" title="wikt:casa">wikt:casa</a>. Por defecto se dirige a la versión en inglés de la wiki si se llega desde código o a la versión del idioma actual si se llega desde la barra de búsqueda; pero se puede introducir el código ISO de la lengua deseada. Así, para la entrada <i>casa</i> del Wikcionario en esperanto se deberá usar <a class="extiw" href="https://es.wiktionary.org/wiki/eo:casa" title="wikt:eo:casa">wikt:eo:casa</a>.
+</p>
+<p>Si creas un atajo, por favor, añade a la página de destino la plantilla <code>{{<a href="/wiki/Plantilla:Atajos" title="Plantilla:Atajos">Atajos</a>|<i>página de origen</i>}}</code> o actualízala si ya existe.
+</p>
+<p>Un <b>atajo</b> es un tipo especializado de página de <a class="mw-redirect" href="/wiki/A:R" title="A:R">redirección</a>, que puede usarse para acceder rápida y directamente a una página del proyecto o una de sus secciones. La lista de atajos disponibles puede encontrarse en:
+</p>
+<p>Los atajos pueden ser ingresados directamente en la caja de búsqueda de Wikipedia, utilizados como <a href="/wiki/Ayuda:Tutorial_(enlaces_internos)" title="Ayuda:Tutorial (enlaces internos)">enlaces internos</a> dentro de cualquier artículo, o bien formar parte de una dirección web (<a class="mw-redirect" href="/wiki/URL" title="URL">URL</a>), reemplazando al nombre real de la página.
+</p>
+<p>Por ejemplo «<a class="new" href="/w/index.php?title=Wikipedia:PORT&amp;action=edit&amp;redlink=1" title="Wikipedia:PORT (aún no redactado)">WP:PORT</a>» es el atajo de la página «<a href="/wiki/Wikipedia:Portada" title="Wikipedia:Portada">Wikipedia:Portada</a>». Podemos entonces usar el enlace <code>[[WP:PORT]]</code> en un artículo o comentario al referirnos a ella, o también escribir la dirección <a class="external free" href="https://es.wikipedia.org/wiki/WP:PORT">https://es.wikipedia.org/wiki/WP:PORT</a> en la barra de direcciones del navegador para acceder a ella.
+</p>
+<p>Un atajo se compone de dos partes:
+</p>
+<p>Para facilitar su memorización, los atajos deberían contener letras mayúsculas, y deberían tener 5 letras o menos pues un atajo largo deja de ser un atajo.
+</p>
+<p>Además de los atajos dentro de la Wikipedia en español, se pueden crear enlaces abreviados a otras wikis, que funcionan con letras minúsculas. Por ejemplo, para la entrada <i>casa</i> del <a href="/wiki/Wikcionario" title="Wikcionario">Wikcionario</a> se puede usar el enlace <a class="extiw" href="https://es.wiktionary.org/wiki/casa" title="wikt:casa">wikt:casa</a>. Por defecto se dirige a la versión en inglés de la wiki si se llega desde código o a la versión del idioma actual si se llega desde la barra de búsqueda; pero se puede introducir el código ISO de la lengua deseada. Así, para la entrada <i>casa</i> del Wikcionario en esperanto se deberá usar <a class="extiw" href="https://es.wiktionary.org/wiki/eo:casa" title="wikt:eo:casa">wikt:eo:casa</a>.
+</p>
+<p>Si creas un atajo, por favor, añade a la página de destino la plantilla <code>{{<a href="/wiki/Plantilla:Atajos" title="Plantilla:Atajos">Atajos</a>|<i>página de origen</i>}}</code> o actualízala si ya existe.
+</p>

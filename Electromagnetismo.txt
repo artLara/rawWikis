@@ -1,0 +1,1486 @@
+<p>El <b>electromagnetismo</b> es la rama de la <a href="/wiki/F%C3%ADsica" title="Física">física</a> que estudia y unifica los fenómenos <a href="/wiki/Electricidad" title="Electricidad">eléctricos</a> y <a href="/wiki/Magnetismo" title="Magnetismo">magnéticos</a> en una sola teoría. El electromagnetismo describe la interacción de partículas cargadas con <a href="/wiki/Campo_el%C3%A9ctrico" title="Campo eléctrico">campos eléctricos</a> y <a href="/wiki/Campo_magn%C3%A9tico" title="Campo magnético">magnéticos</a>. La <a class="mw-redirect" href="/wiki/Interacci%C3%B3n_electromagn%C3%A9tica" title="Interacción electromagnética">interacción electromagnética</a> es una de las cuatro <a href="/wiki/Interacciones_fundamentales" title="Interacciones fundamentales">fuerzas fundamentales</a> del universo conocido. Las partículas cargadas interactúan electromagnéticamente mediante el intercambio de <a href="/wiki/Fot%C3%B3n" title="Fotón">fotones</a>. 
+</p>
+<p>El electromagnetismo abarca diversos fenómenos del mundo real, como por ejemplo la <a href="/wiki/Luz" title="Luz">luz</a>. La luz es un <a href="/wiki/Campo_electromagn%C3%A9tico" title="Campo electromagnético">campo electromagnético</a> oscilante que se irradia desde partículas cargadas aceleradas. Aparte de la gravedad, la mayoría de las fuerzas en la experiencia cotidiana son consecuencia de electromagnetismo.
+</p>
+<p>Los principios del electromagnetismo encuentran aplicaciones en diversas disciplinas afines, tales como las <a href="/wiki/Microondas" title="Microondas">microondas</a>, <a href="/wiki/Antena" title="Antena">antenas</a>, <a href="/wiki/M%C3%A1quina_el%C3%A9ctrica" title="Máquina eléctrica">máquinas eléctricas</a>, comunicaciones por <a href="/wiki/Sat%C3%A9lite_de_comunicaciones" title="Satélite de comunicaciones">satélite</a>, <a href="/wiki/Bioelectromagnetismo" title="Bioelectromagnetismo">bioelectromagnetismo</a>, <a href="/wiki/Plasma_(estado_de_la_materia)" title="Plasma (estado de la materia)">plasmas</a>, <a href="/wiki/F%C3%ADsica_nuclear" title="Física nuclear">investigación nuclear</a>, la <a href="/wiki/Fibra_%C3%B3ptica" title="Fibra óptica">fibra óptica</a>, la interferencia y la compatibilidad electromagnéticas, la conversión de energía electromecánica, la <a href="/wiki/Meteorolog%C3%ADa" title="Meteorología">meteorología</a> por <a href="/wiki/Radar" title="Radar">radar</a>, y la observación remota. Los dispositivos electromagnéticos incluyen <a href="/wiki/Transformador" title="Transformador">transformadores</a>, <a class="mw-redirect" href="/wiki/Rel%C3%A9s" title="Relés">relés</a>, <a href="/wiki/Radio_(medio_de_comunicaci%C3%B3n)" title="Radio (medio de comunicación)">radio</a>/<a href="/wiki/Televisi%C3%B3n" title="Televisión">TV</a>, <a href="/wiki/Tel%C3%A9fono" title="Teléfono">teléfonos</a>, motores eléctricos, líneas de transmisión, guías de onda y <a href="/wiki/L%C3%A1ser" title="Láser">láseres</a>.
+</p>
+<p>Los fundamentos de la teoría electromagnética fueron presentados por <a href="/wiki/Michael_Faraday" title="Michael Faraday">Michael Faraday</a> y formulados por primera vez de modo completo por <a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">James Clerk Maxwell</a> en 1865. La formulación consiste en cuatro <a href="/wiki/Ecuaci%C3%B3n_diferencial" title="Ecuación diferencial">ecuaciones diferenciales</a> <a href="/wiki/Vector" title="Vector">vectoriales</a> que relacionan el <a href="/wiki/Campo_el%C3%A9ctrico" title="Campo eléctrico">campo eléctrico</a>, el <a href="/wiki/Campo_magn%C3%A9tico" title="Campo magnético">campo magnético</a> y sus respectivas fuentes materiales (<a href="/wiki/Corriente_el%C3%A9ctrica" title="Corriente eléctrica">corriente eléctrica</a>, <a href="/wiki/Polarizaci%C3%B3n_el%C3%A9ctrica" title="Polarización eléctrica">polarización eléctrica</a> y <a href="/wiki/Magnetizaci%C3%B3n" title="Magnetización">polarización magnética</a>), conocidas como <a href="/wiki/Ecuaciones_de_Maxwell" title="Ecuaciones de Maxwell">ecuaciones de Maxwell</a>, lo que ha sido considerada como la «segunda gran unificación de la física», siendo la primera realizada por <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a>.
+</p>
+<p>La teoría electromagnética se puede dividir en <a href="/wiki/Electrost%C3%A1tica" title="Electrostática">electrostática</a> —el estudio de las interacciones entre <a href="/wiki/Carga_el%C3%A9ctrica" title="Carga eléctrica">cargas</a> en reposo— y la <a href="/wiki/Electrodin%C3%A1mica" title="Electrodinámica">electrodinámica</a> —el estudio de las interacciones entre cargas en movimiento y la <a href="/wiki/Radiaci%C3%B3n" title="Radiación">radiación</a>—. La teoría clásica del electromagnetismo se basa en la <a href="/wiki/Fuerza_de_Lorentz" title="Fuerza de Lorentz">fuerza de Lorentz</a> y en las <a href="/wiki/Ecuaciones_de_Maxwell" title="Ecuaciones de Maxwell">ecuaciones de Maxwell</a>.
+</p>
+<p>El electromagnetismo es una <a href="/wiki/Teor%C3%ADa_de_campos" title="Teoría de campos">teoría de campos</a>; es decir, las explicaciones y predicciones que provee se basan en <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitudes físicas</a> <a href="/wiki/Campo_vectorial" title="Campo vectorial">vectoriales</a> o <a href="/wiki/Campo_tensorial" title="Campo tensorial">tensoriales</a> dependientes de la <a href="/wiki/Posici%C3%B3n" title="Posición">posición en el espacio</a> y del <a href="/wiki/Tiempo" title="Tiempo">tiempo</a>. El electromagnetismo describe los fenómenos físicos macroscópicos en los cuales intervienen <a href="/wiki/Carga_el%C3%A9ctrica" title="Carga eléctrica">cargas eléctricas</a> en reposo y en movimiento, usando para ello <a href="/wiki/Campo_el%C3%A9ctrico" title="Campo eléctrico">campos eléctricos</a> y <a href="/wiki/Campo_magn%C3%A9tico" title="Campo magnético">magnéticos</a> y sus efectos sobre las sustancias sólidas, líquidas y gaseosas. Por ser una teoría macroscópica, es decir, aplicable a un número muy grande de partículas y a distancias grandes respecto de las dimensiones de estas, el electromagnetismo no describe los fenómenos atómicos y moleculares. La <a href="/wiki/Electrodin%C3%A1mica_cu%C3%A1ntica" title="Electrodinámica cuántica">electrodinámica cuántica</a> proporciona la descripción cuántica de esta interacción, que puede ser unificada con la <a class="mw-redirect" href="/wiki/Interacci%C3%B3n_nuclear_d%C3%A9bil" title="Interacción nuclear débil">interacción nuclear débil</a> según el <a href="/wiki/Modelo_electrod%C3%A9bil" title="Modelo electrodébil">modelo electrodébil</a>.
+</p>
+<p>La <a href="/wiki/Historia_del_electromagnetismo" title="Historia del electromagnetismo">historia del electromagnetismo</a>, considerada como el conocimiento y el uso registrado de las <a class="mw-redirect" href="/wiki/Fuerza_electromagn%C3%A9tica" title="Fuerza electromagnética">fuerzas electromagnéticas</a>, data de hace más de dos mil años.
+</p>
+<p>En la antigüedad ya estaban familiarizados con los efectos de la electricidad atmosférica, en particular del <a href="/wiki/Rayo" title="Rayo">rayo</a><sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ ya que las <a href="/wiki/Tormenta" title="Tormenta">tormentas</a> son comunes en las latitudes más meridionales, ya que también se conocía el <a href="/wiki/Fuego_de_San_Telmo" title="Fuego de San Telmo">fuego de San Telmo</a>. Sin embargo, se comprendía poco la electricidad y no eran capaces de producir estos fenómenos.<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-Historia_del_electromagnetismo_historia_3-0"><a href="#cite_note-Historia_del_electromagnetismo_historia-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Durante los siglos XVII y XVIII, <a href="/wiki/William_Gilbert" title="William Gilbert">William Gilbert</a>, <a href="/wiki/Otto_von_Guericke" title="Otto von Guericke">Otto von Guericke</a>, <a href="/wiki/Stephen_Gray" title="Stephen Gray">Stephen Gray</a>, <a href="/wiki/Benjamin_Franklin" title="Benjamin Franklin">Benjamin Franklin</a>, <a href="/wiki/Alessandro_Volta" title="Alessandro Volta">Alessandro Volta</a> entre otros investigaron estos dos fenómenos de manera separada y llegaron a conclusiones coherentes con sus experimentos.
+</p>
+<p>A principios del siglo XIX, <a href="/wiki/Hans_Christian_%C3%98rsted" title="Hans Christian Ørsted">Hans Christian Ørsted</a> encontró evidencia empírica de que los fenómenos magnéticos y eléctricos estaban relacionados. De ahí es que los trabajos de físicos como <a href="/wiki/Andr%C3%A9-Marie_Amp%C3%A8re" title="André-Marie Ampère">André-Marie Ampère</a>, <a href="/wiki/William_Sturgeon" title="William Sturgeon">William Sturgeon</a>, <a href="/wiki/Joseph_Henry" title="Joseph Henry">Joseph Henry</a>, <a href="/wiki/Georg_Simon_Ohm" title="Georg Simon Ohm">Georg Simon Ohm</a>, <a href="/wiki/Michael_Faraday" title="Michael Faraday">Michael Faraday</a> en ese siglo, son unificados por <a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">James Clerk Maxwell</a> en <a href="/wiki/1861" title="1861">1861</a> con un conjunto de ecuaciones que describían ambos fenómenos como uno solo, como un fenómeno electromagnético.<sup class="reference separada" id="cite_ref-Historia_del_electromagnetismo_historia_3-1"><a href="#cite_note-Historia_del_electromagnetismo_historia-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Las ahora llamadas <a href="/wiki/Ecuaciones_de_Maxwell" title="Ecuaciones de Maxwell">ecuaciones de Maxwell</a> demostraban que los campos eléctricos y los campos magnéticos eran manifestaciones de un solo campo electromagnético. Además, describía la naturaleza ondulatoria de la luz, mostrándola como una <a class="mw-redirect" href="/wiki/Onda_electromagn%C3%A9tica" title="Onda electromagnética">onda electromagnética</a>.<sup class="reference separada" id="cite_ref-Historia_del_electromagnetismo_Sin-nombre-p4zL-1_4-0"><a href="#cite_note-Historia_del_electromagnetismo_Sin-nombre-p4zL-1-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ Con una sola teoría consistente que describía estos dos fenómenos antes separados, los físicos pudieron realizar varios experimentos prodigiosos e inventos muy útiles como la bombilla eléctrica por <a href="/wiki/Thomas_Alva_Edison" title="Thomas Alva Edison">Thomas Alva Edison</a> o el generador de corriente alterna por <a href="/wiki/Nikola_Tesla" title="Nikola Tesla">Nikola Tesla</a>.<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ El éxito predictivo de la teoría de Maxwell y la búsqueda de una interpretación coherente de sus implicaciones, fue lo que llevó a <a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a> a formular su <a href="/wiki/Teor%C3%ADa_de_la_relatividad" title="Teoría de la relatividad">teoría de la relatividad</a> que se apoyaba en algunos resultados previos de <a href="/wiki/Hendrik_Antoon_Lorentz" title="Hendrik Antoon Lorentz">Hendrik Antoon Lorentz</a> y <a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Henri Poincaré</a>.
+</p>
+<p>Originalmente, la electricidad y el magnetismo se consideraban dos fuerzas separadas. Este punto de vista cambió, sin embargo, con la publicación en 1873 del Tratado de electricidad y magnetismo de James Maxwell , que mostró que la interacción de cargas positivas y negativas está gobernada por una sola fuerza. Hay cuatro efectos principales, resultantes de estas interacciones, que han sido claramente demostrados por experimentos:
+</p>
+<p>En preparación para la conferencia, la noche del 21 de abril de 1820, Hans Christian Oersted hizo una observación asombrosa. Cuando estaba compilando el material, notó que la aguja de la brújula se desviaba del polo norte magnético cuando se encendía y apagaba la corriente eléctrica de la batería que estaba usando. Esta desviación lo llevó a creer que los campos magnéticos emanan de todos los lados de un cable a través del cual fluye una corriente eléctrica, al igual que la luz y el calor se propagan en el espacio, y esa experiencia indica una conexión directa entre la electricidad y el magnetismo.
+</p>
+<p>En el momento del descubrimiento, Oersted no ofreció una explicación satisfactoria de este fenómeno y no intentó presentar el fenómeno en cálculos matemáticos. Sin embargo, tres meses después, comenzó a realizar investigaciones más intensivas. Poco después, publicó los resultados de su investigación, demostrando que una corriente eléctrica crea un campo magnético cuando fluye a través de cables. En el sistema CGS , la unidad de <a href="/wiki/Inducci%C3%B3n_electromagn%C3%A9tica" title="Inducción electromagnética">inducción electromagnética</a>, <a href="/wiki/Oersted_(unidad)" title="Oersted (unidad)">Oe</a>, recibió su nombre de su contribución al campo del electromagnetismo.
+</p>
+<p>Las conclusiones de Oersted llevaron a un estudio intensivo de <a href="/wiki/Electrodin%C3%A1mica" title="Electrodinámica">electrodinámica</a> por parte de la comunidad científica mundial. Las obras de <a class="new" href="/w/index.php?title=Dominique_Fran%C3%A7ois_Arago&amp;action=edit&amp;redlink=1" title="Dominique François Arago (aún no redactado)">Dominique François Arago</a> también se remontan a 1820 , quien advirtió que un cable por el que fluye una corriente eléctrica atrae <a href="/wiki/Limaduras_de_hierro" title="Limaduras de hierro">limaduras de hierro</a> . También magnetizó por primera vez alambres de hierro y acero, colocándolos dentro de una bobina de alambres de cobre por donde pasaba la corriente. También logró magnetizar la aguja colocándola en una bobina y descargando la <a href="/wiki/Botella_de_Leyden" title="Botella de Leyden">Botella de Leyden</a> a través de la bobina. Independientemente de Arago, Davy descubrió la magnetización del acero y el hierro por la corriente . Las primeras definiciones cuantitativas de la acción de una corriente sobre un imán de la misma forma se remontan a 1820 y pertenecen a científicos franceses <a class="new" href="/w/index.php?title=Jean-Baptiste_Bio&amp;action=edit&amp;redlink=1" title="Jean-Baptiste Bio (aún no redactado)">Jean-Baptiste Bio</a> y <a class="new" href="/w/index.php?title=Felix_Savard&amp;action=edit&amp;redlink=1" title="Felix Savard (aún no redactado)">Felix Savard</a>.<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​ Los experimentos de Oersted también influyeron en el físico francés André-Marie Ampere , quien presentó la ley electromagnética entre un conductor y una corriente en forma matemática. El descubrimiento de Oersted también representa un paso importante hacia un concepto de campo unificado.
+</p>
+<p>Esta unidad, que fue descubierta por <a href="/wiki/Michael_Faraday" title="Michael Faraday">Michael Faraday</a> , completada por <a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">James Clerk Maxwell</a> , y también refinada por <a href="/wiki/Oliver_Heaviside" title="Oliver Heaviside">Oliver Heaviside</a> y <a class="mw-redirect" href="/wiki/Heinrich_Hertz" title="Heinrich Hertz">Heinrich Hertz</a>, es uno de los logros clave del <a href="/wiki/Siglo_XIX" title="Siglo XIX">siglo <small>XIX</small></a> en <a href="/wiki/F%C3%ADsica_matem%C3%A1tica" title="Física matemática">física matemática</a> . Este descubrimiento tuvo implicaciones de gran alcance, una de las cuales fue comprender la naturaleza de la <a href="/wiki/Luz" title="Luz">luz</a>. La luz y otras ondas electromagnéticas toman la forma de fenómenos oscilatorios autopropagantes cuantificados del <a href="/wiki/Campo_electromagn%C3%A9tico" title="Campo electromagnético">campo electromagnético</a> llamados <a class="mw-redirect" href="/wiki/Fotones" title="Fotones">fotones</a>. Diferentes frecuencias de vibración conducen a diferentes formas de radiación electromagnética: desde ondas de radio a bajas frecuencias, a luz visible a frecuencias medias, a <a href="/wiki/Rayos_gamma" title="Rayos gamma">rayos gamma</a> a altas frecuencias.
+</p>
+<p>Oersted no fue la única persona que descubrió la conexión entre la electricidad y el magnetismo. En 1802, Giovanni Domenico Romagnosi , un jurista italiano, desvió una aguja magnética con descargas electrostáticas. Pero, de hecho, la investigación de Romagnosi no utilizó una <a href="/wiki/Celda_galv%C3%A1nica" title="Celda galvánica">celda galvánica</a> y no había corriente continua como tal. El informe del descubrimiento se publicó en 1802 en un periódico italiano, pero la comunidad científica apenas lo notó en ese momento.<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La electrostática es el estudio de los fenómenos asociados a los cuerpos cargados en reposo. Como describe la <a href="/wiki/Ley_de_Coulomb" title="Ley de Coulomb">ley de Coulomb</a>, estos cuerpos ejercen fuerzas entre sí. Su comportamiento se puede analizar en términos de la idea de un campo eléctrico que rodea cualquier cuerpo cargado, de manera que otro cuerpo cargado colocado dentro del campo estará sujeto a una <a href="/wiki/Fuerza" title="Fuerza">fuerza</a> proporcional a la magnitud de su carga y de la magnitud del campo en su ubicación. El que la fuerza sea <a class="mw-redirect" href="/wiki/Fuerza_electrost%C3%A1tica" title="Fuerza electrostática">atractiva o repulsiva</a> depende de la <a href="/wiki/Polaridad_(electricidad)" title="Polaridad (electricidad)">polaridad</a> de la carga. La electrostática tiene muchas aplicaciones, que van desde el análisis de fenómenos como <a href="/wiki/Tormenta_el%C3%A9ctrica" title="Tormenta eléctrica">tormentas eléctricas</a> hasta el estudio del comportamiento de los <a class="mw-redirect" href="/wiki/Tubo_electr%C3%B3nico" title="Tubo electrónico">tubos electrónicos</a>.</p>
+<p>Cuando hablamos de <a href="/wiki/Electrost%C3%A1tica" title="Electrostática">electrostática</a> nos referimos a los fenómenos que ocurren debido a una propiedad intrínseca y discreta de la <a href="/wiki/Materia" title="Materia">materia</a>, la <a href="/wiki/Carga_el%C3%A9ctrica" title="Carga eléctrica">carga</a>, cuando es estacionaria o no depende del tiempo. La unidad de carga elemental, es decir, la más pequeña observable, es la carga que tiene el <a href="/wiki/Electr%C3%B3n" title="Electrón">electrón</a>.<sup class="reference separada" id="cite_ref-carga_8-0"><a href="#cite_note-carga-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ Se dice que un cuerpo está cargado eléctricamente cuando tiene exceso o falta de electrones en los <a href="/wiki/%C3%81tomo" title="Átomo">átomos</a> que lo componen. Por definición el defecto de electrones se la denomina carga positiva y al exceso carga negativa.<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ La relación entre los dos tipos de carga es de atracción cuando son diferentes y de repulsión cuando son iguales.
+</p>
+<p>La carga elemental es una unidad muy pequeña para cálculos prácticos, por eso en el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional</a> la unidad de carga eléctrica, el <a href="/wiki/Culombio" title="Culombio">culombio</a>, se define como la cantidad de carga transportada en un segundo por una corriente de un <a href="/wiki/Amperio" title="Amperio">amperio</a> de <a class="mw-redirect" href="/wiki/Intensidad_de_corriente_el%C3%A9ctrica" title="Intensidad de corriente eléctrica">intensidad de corriente eléctrica</a>. 
+</p>
+<p>que equivale a la carga de 6,25 x 10<sup>18</sup> electrones.<sup class="reference separada" id="cite_ref-carga_8-1"><a href="#cite_note-carga-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ El movimiento de electrones por un conductor se denomina <a href="/wiki/Corriente_el%C3%A9ctrica" title="Corriente eléctrica">corriente eléctrica</a> y la cantidad de carga eléctrica que pasa por unidad de tiempo se define como la <a class="mw-redirect" href="/wiki/Intensidad_de_corriente" title="Intensidad de corriente">intensidad de corriente</a>. Se pueden introducir más conceptos como el de diferencia de potencial o el de resistencia, que nos conducirían ineludiblemente al área de circuitos eléctricos, y todo eso se puede ver con más detalle en el artículo principal.
+</p>
+<p>El nombre de la unidad de carga se debe a <a class="mw-redirect" href="/wiki/Coulomb" title="Coulomb">Coulomb</a>, quien en <a href="/wiki/1785" title="1785">1785</a> llegó a una relación matemática de la fuerza eléctrica entre cargas puntuales, que ahora se la conoce como <a href="/wiki/Ley_de_Coulomb" title="Ley de Coulomb">ley de Coulomb</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} ={\frac {1}{4\pi \varepsilon _{0}}}{\frac {q_{1}q_{2}}{r^{2}}}\mathbf {e} _{r}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} ={\frac {1}{4\pi \varepsilon _{0}}}{\frac {q_{1}q_{2}}{r^{2}}}\mathbf {e} _{r}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} ={\frac {1}{4\pi \varepsilon _{0}}}{\frac {q_{1}q_{2}}{r^{2}}}\mathbf {e} _{r}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/22496e57c248666c56d90b236934e1435f921682" style="vertical-align: -2.338ex; width:17.467ex; height:5.676ex;"/></span><br/>
+</p>
+<p>Entre dos cargas puntuales <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle q_{1}\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle q_{1}\;}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle q_{1}\;}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b1366c40f75097b67f047bf1db4c502d88b17a40" style="vertical-align: -0.671ex; width:2.736ex; height:2.009ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle q_{2}\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle q_{2}\;}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle q_{2}\;}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/51ea436b315ef35e466a2b4784bd0ed99c375417" style="vertical-align: -0.671ex; width:2.736ex; height:2.009ex;"/></span> existe una fuerza de atracción o repulsión <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} }</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {F}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da18bef8c979f3548bb0d8976f5844012d7b8256" style="vertical-align: -0.338ex; width:1.683ex; height:2.176ex;"/></span> que varía de acuerdo con el cuadrado de la distancia <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle r^{2}\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r^{2}\;}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle r^{2}\;}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eeb7140747b9b1e8f29086a5f3f5c7295f74e31d" style="vertical-align: -0.338ex; width:2.748ex; height:2.676ex;"/></span> entre ellas y de dirección radial <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {e} _{r}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {e} _{r}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {e} _{r}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/887d07a86b50894ee5e5d16b76e8fbaf5f5eaa11" style="vertical-align: -0.671ex; width:2.199ex; height:2.009ex;"/></span>; y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon _{0}}</annotation>
+</semantics>
+</math></span><img alt="\varepsilon _{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/acb0a8377db20e42274444cb181d51b5532b5844" style="vertical-align: -0.671ex; width:2.138ex; height:2.009ex;"/></span> es una constante conocida como <a href="/wiki/Permitividad" title="Permitividad">permitividad</a> eléctrica.
+</p>
+<p>Las cargas elementales al no encontrarse solas se las debe tratar como una <a href="/wiki/Carga_el%C3%A9ctrica#Densidad_de_carga_eléctrica" title="Carga eléctrica">distribución</a> de ellas. Por eso debe implementarse el concepto de <a href="/wiki/Campo_(f%C3%ADsica)" title="Campo (física)">campo</a>, definido como una región del espacio donde existe una magnitud <a href="/wiki/Escalar_(f%C3%ADsica)" title="Escalar (física)">escalar</a> o <a href="/wiki/Vector" title="Vector">vectorial</a> dependiente o independiente del <a href="/wiki/Tiempo" title="Tiempo">tiempo</a>. Así el <a href="/wiki/Campo_el%C3%A9ctrico" title="Campo eléctrico">campo eléctrico</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {E}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>E</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {E}}}</annotation>
+</semantics>
+</math></span><img alt="\vec E" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2bc18ae485a72f148e85ccbeff2b3dcdd4f5f3f7" style="vertical-align: -0.338ex; width:1.776ex; height:2.843ex;"/></span> está definido como la región del espacio donde actúan las fuerzas eléctricas. Su <a href="/wiki/Campo_electrost%C3%A1tico" title="Campo electrostático">intensidad</a> se define como el límite al que tiende la fuerza de una distribución de carga sobre una carga positiva que tiende a cero, así:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {E} =\lim _{\Delta q\to 0}{\frac {\mathbf {F} _{\Delta q}}{\Delta q}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>=</mo>
+<munder>
+<mo form="prefix" movablelimits="true">lim</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>q</mi>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>q</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {E} =\lim _{\Delta q\to 0}{\frac {\mathbf {F} _{\Delta q}}{\Delta q}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {E} =\lim _{\Delta q\to 0}{\frac {\mathbf {F} _{\Delta q}}{\Delta q}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/90b498c9127450897452ac473bc1c642decb6f97" style="vertical-align: -2.338ex; width:14.709ex; height:6.009ex;"/></span>
+</p>
+<p>Y así finalmente llegamos a la expresión matemática que define el campo eléctrico:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {E} ={\frac {q}{4\pi \varepsilon _{0}r^{2}}}\mathbf {e} _{r}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>q</mi>
+<mrow>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">e</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {E} ={\frac {q}{4\pi \varepsilon _{0}r^{2}}}\mathbf {e} _{r}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {E} ={\frac {q}{4\pi \varepsilon _{0}r^{2}}}\mathbf {e} _{r}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/256e7a59f60a1fa7c6707ee034889aa3a326773d" style="vertical-align: -2.505ex; width:14.626ex; height:5.509ex;"/></span>
+</p>
+<p>Es importante conocer el alcance de este concepto de campo eléctrico: nos brinda la oportunidad de conocer cuál es su intensidad y qué ocurre con una carga en cualquier parte de dicho campo sin importar el conocimiento de qué lo provoca.<sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Una forma de obtener qué cantidad de fuerza eléctrica pasa por cierto punto o superficie del campo eléctrico es usar el concepto de flujo eléctrico. Este flujo eléctrico <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Phi }</annotation>
+</semantics>
+</math></span><img alt="\Phi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aed80a2011a3912b028ba32a52dfa57165455f24" style="vertical-align: -0.338ex; width:1.678ex; height:2.176ex;"/></span> se define como la suma de la cantidad de <i>campo</i> que atraviesa un área determinada, así:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Phi =\sum \mathbf {E} \cdot \Delta \mathbf {S} =\oint _{s}\mathbf {E} \cdot {\text{d}}\mathbf {S} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mo>=</mo>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">S</mi>
+</mrow>
+<mo>=</mo>
+<msub>
+<mo>∮<!-- ∮ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">S</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Phi =\sum \mathbf {E} \cdot \Delta \mathbf {S} =\oint _{s}\mathbf {E} \cdot {\text{d}}\mathbf {S} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Phi =\sum \mathbf {E} \cdot \Delta \mathbf {S} =\oint _{s}\mathbf {E} \cdot {\text{d}}\mathbf {S} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/280005fb7ccf58eedc4dcf994d85dd510b73a09b" style="vertical-align: -2.338ex; width:27.371ex; height:5.676ex;"/></span>
+</p>
+<p>El matemático y físico, <a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">Carl Friedrich Gauss</a>, demostró que la cantidad de flujo eléctrico en un campo es igual al cociente entre la carga encerrada por la superficie en la que se calcula el flujo, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle q_{enc}\;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>n</mi>
+<mi>c</mi>
+</mrow>
+</msub>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle q_{enc}\;}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle q_{enc}\;}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a1f48d6903af020bc765ec7e5f96cfca46f5eb0" style="vertical-align: -0.671ex; width:4.379ex; height:2.009ex;"/></span>, y la permitividad eléctrica,<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon _{0}}</annotation>
+</semantics>
+</math></span><img alt="\varepsilon _{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/acb0a8377db20e42274444cb181d51b5532b5844" style="vertical-align: -0.671ex; width:2.138ex; height:2.009ex;"/></span>. Esta relación se conoce como <a href="/wiki/Ley_de_Gauss" title="Ley de Gauss">ley de Gauss</a>:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_1" style="font-style: normal;"><a href="#Eqnref_1">1</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Phi =\oint _{s}\mathbf {E} \cdot {\text{d}}\mathbf {S} ={\frac {q_{enc}}{\varepsilon _{0}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mo>=</mo>
+<msub>
+<mo>∮<!-- ∮ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">S</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>n</mi>
+<mi>c</mi>
+</mrow>
+</msub>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Phi =\oint _{s}\mathbf {E} \cdot {\text{d}}\mathbf {S} ={\frac {q_{enc}}{\varepsilon _{0}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Phi =\oint _{s}\mathbf {E} \cdot {\text{d}}\mathbf {S} ={\frac {q_{enc}}{\varepsilon _{0}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/17857d2c4f7ee0e13d48dd86920fd14610a826d0" style="vertical-align: -2.338ex; width:21.342ex; height:5.676ex;"/></span>
+</p>
+<p>No fue sino hasta el año de <a href="/wiki/1820" title="1820">1820</a>, cuando <a href="/wiki/Hans_Christian_%C3%98rsted" title="Hans Christian Ørsted">Hans Christian Ørsted</a> descubrió que el fenómeno magnético estaba ligado al eléctrico, que se obtuvo una teoría científica para el magnetismo.<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​ La presencia de una <a href="/wiki/Corriente_el%C3%A9ctrica" title="Corriente eléctrica">corriente eléctrica</a>, o sea, de un flujo de carga debido a una <a class="mw-redirect" href="/wiki/Diferencia_de_potencial" title="Diferencia de potencial">diferencia de potencial</a>, genera una <a href="/wiki/Fuerza_magn%C3%A9tica" title="Fuerza magnética">fuerza magnética</a> que no varía en el tiempo. Si tenemos una carga <i>q</i> a una <a href="/wiki/Velocidad" title="Velocidad">velocidad</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {v} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} }</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/35c1866e359fbfd2e0f606c725ba5cc37a5195d6" style="vertical-align: -0.338ex; width:1.411ex; height:1.676ex;"/></span>, en un <a href="/wiki/Campo_magn%C3%A9tico" title="Campo magnético">campo magnético</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {B} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {B} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {B} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cafb0ef39b0f5ffa23c170aa7f7b4e718327c4d1" style="vertical-align: -0.338ex; width:1.901ex; height:2.176ex;"/></span> aparecerá una fuerza magnética inducida por el movimiento en esta carga, así:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =q\mathbf {v} \times \mathbf {B} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =q\mathbf {v} \times \mathbf {B} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =q\mathbf {v} \times \mathbf {B} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8208e984160e97a12a3837a497561fd379bb048e" style="vertical-align: -0.671ex; width:12.003ex; height:2.509ex;"/></span>
+</p>
+<p>Para determinar el valor de ese campo magnético, <a href="/wiki/Jean_Baptiste_Biot" title="Jean Baptiste Biot">Jean Baptiste Biot</a> en <a href="/wiki/1820" title="1820">1820</a>,<sup class="reference separada" id="cite_ref-12"><a href="#cite_note-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​ dedujo una relación para corrientes estacionarias, ahora conocida como <a class="mw-redirect" href="/wiki/Ley_de_Biot-Savart" title="Ley de Biot-Savart">ley de Biot-Savart</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {B} ={\frac {\mu _{0}I}{4\pi }}\oint _{c}{\frac {{\text{d}}\mathbf {l} \times \mathbf {r} }{r^{3}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mi>I</mi>
+</mrow>
+<mrow>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mo>∮<!-- ∮ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">l</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+</mrow>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {B} ={\frac {\mu _{0}I}{4\pi }}\oint _{c}{\frac {{\text{d}}\mathbf {l} \times \mathbf {r} }{r^{3}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {B} ={\frac {\mu _{0}I}{4\pi }}\oint _{c}{\frac {{\text{d}}\mathbf {l} \times \mathbf {r} }{r^{3}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/149ce30ce04b1ebad3811beb546f9948577c4b07" style="vertical-align: -2.338ex; width:19.287ex; height:5.843ex;"/></span>
+</p>
+<p>Donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mu _{0}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mu _{0}\,}</annotation>
+</semantics>
+</math></span><img alt="\mu_0\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6964c55c4dd413c9ea5c1b0db961dae2b47f887c" style="vertical-align: -0.838ex; width:2.843ex; height:2.176ex;"/></span> es un coeficiente de proporcionalidad conocido como <a href="/wiki/Permeabilidad_magn%C3%A9tica" title="Permeabilidad magnética">permeabilidad magnética</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>I</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I\,}</annotation>
+</semantics>
+</math></span><img alt="I\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/988f6ada07675268dc7164f44f469dbec6e00b8a" style="vertical-align: -0.338ex; width:1.559ex; height:2.176ex;"/></span> es la <a class="mw-redirect" href="/wiki/Intensidad_de_corriente" title="Intensidad de corriente">intensidad de corriente</a>, el <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\text{d}}\mathbf {l} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">l</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{d}}\mathbf {l} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\text{d}}\mathbf {l} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c94bf09a0967c46e68b09b074c42a1c221db9ce2" style="vertical-align: -0.338ex; width:2.035ex; height:2.176ex;"/></span> es el diferencial de longitud por el que circula la corriente y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {r} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {r} }</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {r}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eca0f46511c4c986c48b254073732c0bd98ae0c1" style="vertical-align: -0.338ex; width:1.102ex; height:1.676ex;"/></span> es la distancia de este elemento de longitud el punto donde se evalúa la inducción magnética. De manera más estricta, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {B} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {B} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {B} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cafb0ef39b0f5ffa23c170aa7f7b4e718327c4d1" style="vertical-align: -0.338ex; width:1.901ex; height:2.176ex;"/></span> es la <a href="/wiki/Inducci%C3%B3n_magn%C3%A9tica" title="Inducción magnética">inducción magnética</a>, dicho en otras palabras, es el <a href="/wiki/Flujo_magn%C3%A9tico" title="Flujo magnético">flujo magnético</a> por unidad de área. Experimentalmente se llegó a la conclusión que las líneas de fuerza de campos magnéticos eran cerradas, eliminando la posibilidad de un monopolo magnético. La relación matemática se la conoce como <a href="/wiki/Ley_de_Gauss" title="Ley de Gauss">ley de Gauss para el campo magnético</a>:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_2" style="font-style: normal;"><a href="#Eqnref_2">2</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \oint _{S}\mathbf {B} \cdot {\text{d}}\mathbf {S} =0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mo>∮<!-- ∮ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>S</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">S</mi>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \oint _{S}\mathbf {B} \cdot {\text{d}}\mathbf {S} =0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \oint _{S}\mathbf {B} \cdot {\text{d}}\mathbf {S} =0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/53bf258112ab35301f7f6e3672f93bbb2f5a08c7" style="vertical-align: -2.338ex; width:13.591ex; height:5.676ex;"/></span>
+</p>
+<p>Además en la magnetostática existe una ley comparable a la de Gauss en la electrostática, la <a href="/wiki/Ley_de_Amp%C3%A8re" title="Ley de Ampère">ley de Ampère</a>. Esta ley nos dice que la circulación en un campo magnético es igual a la densidad de corriente que exista en una <a class="mw-redirect" href="/wiki/Superficie_cerrada" title="Superficie cerrada">superficie cerrada</a>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \oint _{c}\mathbf {B} \cdot {\text{d}}\mathbf {l} =\mu _{0}I}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mo>∮<!-- ∮ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">l</mi>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mi>I</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \oint _{c}\mathbf {B} \cdot {\text{d}}\mathbf {l} =\mu _{0}I}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \oint _{c}\mathbf {B} \cdot {\text{d}}\mathbf {l} =\mu _{0}I}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/be0d9ec8c55663f93feac14aac515e6a3dd5c850" style="vertical-align: -2.338ex; width:14.965ex; height:5.676ex;"/></span>
+</p>
+<p>Cabe indicar que esta ley de Gauss es una generalización de la ley de Biot-Savart. Además que las fórmulas expresadas aquí son para cargas en el <a class="mw-redirect" href="/wiki/Vac%C3%ADo_(f%C3%ADsica)" title="Vacío (física)">vacío</a>, para más información consúltese los artículos principales.
+</p>
+<p>La electrodinámica es el estudio de los fenómenos asociados a los cuerpos cargados en movimiento y a los campos eléctricos y magnéticos variables. Dado que una carga en movimiento produce un campo magnético, la electrodinámica se refiere a efectos tales como el magnetismo, la <a href="/wiki/Radiaci%C3%B3n_electromagn%C3%A9tica" title="Radiación electromagnética">radiación electromagnética</a>, y la <a href="/wiki/Inducci%C3%B3n_electromagn%C3%A9tica" title="Inducción electromagnética">inducción electromagnética</a>, incluyendo las aplicaciones prácticas, tales como el <a href="/wiki/Generador_el%C3%A9ctrico" title="Generador eléctrico">generador eléctrico</a> y el <a href="/wiki/Motor_el%C3%A9ctrico" title="Motor eléctrico">motor eléctrico</a>. Esta área de la electrodinámica, conocida como electrodinámica clásica, fue sistemáticamente explicada por <a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">James Clerk Maxwell</a>, y las ecuaciones de Maxwell describen los fenómenos de esta área con gran generalidad. Una novedad desarrollada más reciente es la <a href="/wiki/Electrodin%C3%A1mica_cu%C3%A1ntica" title="Electrodinámica cuántica">electrodinámica cuántica</a>, que incorpora las leyes de la <a class="mw-redirect" href="/wiki/Teor%C3%ADa_cu%C3%A1ntica" title="Teoría cuántica">teoría cuántica</a> a fin de explicar la interacción de la radiación electromagnética con la <a href="/wiki/Materia" title="Materia">materia</a>. <a href="/wiki/Paul_Dirac" title="Paul Dirac">Paul Dirac</a>, <a href="/wiki/Werner_Heisenberg" title="Werner Heisenberg">Heisenberg</a> y <a href="/wiki/Wolfgang_Pauli" title="Wolfgang Pauli">Wolfgang Pauli</a> fueron pioneros en la formulación de la electrodinámica cuántica. La <a href="/wiki/Electrodin%C3%A1mica" title="Electrodinámica">electrodinámica</a> es inherentemente relativista y da unas correcciones que se introducen en la descripción de los movimientos de las partículas cargadas cuando sus velocidades se acercan a la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>. Se aplica a los fenómenos involucrados con <a href="/wiki/Acelerador_de_part%C3%ADculas" title="Acelerador de partículas">aceleradores de partículas</a> y con tubos electrónicos funcionando a altas tensiones y corrientes.
+</p>
+<p>En las secciones anteriores se han descrito <a href="/wiki/Campo_el%C3%A9ctrico" title="Campo eléctrico">campos eléctricos</a> y <a href="/wiki/Campo_magn%C3%A9tico" title="Campo magnético">magnéticos</a> que no variaban con el <a href="/wiki/Tiempo" title="Tiempo">tiempo</a>. Pero los físicos a finales del <a href="/wiki/Siglo_XIX" title="Siglo XIX">siglo <small>XIX</small></a> descubrieron que ambos campos estaban ligados y así un campo eléctrico en movimiento, una <a href="/wiki/Corriente_el%C3%A9ctrica" title="Corriente eléctrica">corriente eléctrica</a> que varíe, genera un campo magnético y un campo magnético de por si implica la presencia de un campo eléctrico. Entonces, lo primero que debemos definir es la fuerza que tendría una partícula cargada que se mueva en un campo magnético y así llegamos a la unión de las dos fuerzas anteriores, lo que hoy conocemos como la <a href="/wiki/Fuerza_de_Lorentz" title="Fuerza de Lorentz">fuerza de Lorentz</a>:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_3" style="font-style: normal;"><a href="#Eqnref_3">3</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =q(\mathbf {E} +\mathbf {v} \times \mathbf {B} )}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mi>q</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =q(\mathbf {E} +\mathbf {v} \times \mathbf {B} )}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =q(\mathbf {E} +\mathbf {v} \times \mathbf {B} )}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a3dd99e3bd55cbeff1cd2506d944405f3efa9e0c" style="vertical-align: -0.838ex; width:18.41ex; height:2.843ex;"/></span>
+</p>
+<p>Entre 1890 y 1900 Liénard y Wiechert calcularon el campo electromagnético asociado a cargas en movimiento arbitrario, resultado que se conoce hoy como <a href="/wiki/Potenciales_de_Li%C3%A9nard-Wiechert" title="Potenciales de Liénard-Wiechert">potenciales de Liénard-Wiechert</a>.
+</p>
+<p>Por otro lado, para generar una corriente eléctrica en un circuito cerrado debe existir una <a class="mw-redirect" href="/wiki/Diferencia_de_potencial" title="Diferencia de potencial">diferencia de potencial</a> entre dos puntos del <a href="/wiki/Circuito" title="Circuito">circuito</a>, a esta diferencia de potencial se la conoce como <a href="/wiki/Fuerza_electromotriz" title="Fuerza electromotriz">fuerza electromotriz</a> o «fem». Esta fuerza electromotriz es proporcional a la rapidez con que el <a href="/wiki/Flujo_magn%C3%A9tico" title="Flujo magnético">flujo magnético</a> varía en el tiempo, esta ley fue encontrada por <a href="/wiki/Michael_Faraday" title="Michael Faraday">Michael Faraday</a> y es la interpretación de la inducción electromagnética, así un campo magnético que varía en el tiempo induce a un campo eléctrico, a una fuerza electromotriz. Matemáticamente se representa como:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_4" style="font-style: normal;"><a href="#Eqnref_4">4</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \oint _{C}\mathbf {E} \cdot {\text{d}}\mathbf {l} =-{\frac {\text{d}}{{\text{d}}t}}\int _{S}\mathbf {B} \cdot {\text{d}}\mathbf {S} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mo>∮<!-- ∮ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">l</mi>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mtext>d</mtext>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>S</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">S</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \oint _{C}\mathbf {E} \cdot {\text{d}}\mathbf {l} =-{\frac {\text{d}}{{\text{d}}t}}\int _{S}\mathbf {B} \cdot {\text{d}}\mathbf {S} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \oint _{C}\mathbf {E} \cdot {\text{d}}\mathbf {l} =-{\frac {\text{d}}{{\text{d}}t}}\int _{S}\mathbf {B} \cdot {\text{d}}\mathbf {S} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/13155a8f27d0bade10e0d11b875a80e2500ad50f" style="vertical-align: -2.338ex; width:26.224ex; height:5.843ex;"/></span>
+</p>
+<p>El físico <a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">James Clerk Maxwell</a> de <a href="/wiki/1861" title="1861">1861</a> relacionó las anteriormente citadas ecuaciones para la ley de Gauss ((<span class="plainlinks neverexpand" id="Eqnref_1"><a class="external text" href="https://es.wikipedia.org/wiki/Electromagnetismo#Equation_1">1</a></span>)), ley de Gauss para el campo magnético ((<span class="plainlinks neverexpand" id="Eqnref_2"><a class="external text" href="https://es.wikipedia.org/wiki/Electromagnetismo#Equation_2">2</a></span>)), ley de Faraday ((<span class="plainlinks neverexpand" id="Eqnref_4"><a class="external text" href="https://es.wikipedia.org/wiki/Electromagnetismo#Equation_4">4</a></span>)) e introdujo el concepto de una corriente de desplazamiento como una densidad de corriente efectiva para llegar a la <a class="mw-redirect" href="/wiki/Ley_de_Amp%C3%A8re_generalizada" title="Ley de Ampère generalizada">ley de Ampère generalizada</a> (<span class="plainlinks neverexpand" id="Eqnref_5"><a class="external text" href="https://es.wikipedia.org/wiki/Electromagnetismo#Equation_5">5</a></span>):
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_5" style="font-style: normal;"><a href="#Eqnref_5">5</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \oint _{C}\mathbf {B} \cdot {\text{d}}\mathbf {l} =\mu _{0}\int _{S}\mathbf {j} \cdot {\text{d}}\mathbf {S} +\mu _{0}\epsilon _{0}{\frac {\text{d}}{{\text{d}}t}}\int _{S}\mathbf {E} \cdot {\text{d}}\mathbf {S} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mo>∮<!-- ∮ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">l</mi>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msub>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>S</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">S</mi>
+</mrow>
+<mo>+</mo>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msub>
+<mi>ϵ<!-- ϵ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mtext>d</mtext>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>S</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">S</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \oint _{C}\mathbf {B} \cdot {\text{d}}\mathbf {l} =\mu _{0}\int _{S}\mathbf {j} \cdot {\text{d}}\mathbf {S} +\mu _{0}\epsilon _{0}{\frac {\text{d}}{{\text{d}}t}}\int _{S}\mathbf {E} \cdot {\text{d}}\mathbf {S} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \oint _{C}\mathbf {B} \cdot {\text{d}}\mathbf {l} =\mu _{0}\int _{S}\mathbf {j} \cdot {\text{d}}\mathbf {S} +\mu _{0}\epsilon _{0}{\frac {\text{d}}{{\text{d}}t}}\int _{S}\mathbf {E} \cdot {\text{d}}\mathbf {S} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/367f80596a21cc7ec6ad6158368603998c66f082" style="vertical-align: -2.338ex; width:42.798ex; height:5.843ex;"/></span>
+</p>
+<p>Las cuatro ecuaciones, tanto en su forma diferencial como en la integral aquí descritas, son fruto de la reformulación del trabajo de Maxwell realizada por  <a href="/wiki/Oliver_Heaviside" title="Oliver Heaviside">Oliver Heaviside</a> y <a href="/wiki/Heinrich_Rudolf_Hertz" title="Heinrich Rudolf Hertz">Heinrich Rudolf Hertz</a>. Pero el verdadero poder de estas ecuaciones, más la fuerza de Lorentz (<span class="plainlinks neverexpand" id="Eqnref_3"><a class="external text" href="https://es.wikipedia.org/wiki/Electromagnetismo#Equation_3">3</a></span>), se centra en que juntas son capaces de describir cualquier fenómeno electromagnético, además de las consecuencias físicas que posteriormente se describirán.<sup class="reference separada" id="cite_ref-13"><a href="#cite_note-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La genialidad del trabajo de Maxwell es que sus ecuaciones describen un campo eléctrico que va ligado inequívocamente a un campo magnético perpendicular a este y a la dirección de su propagación, este campo es ahora llamado <a href="/wiki/Campo_electromagn%C3%A9tico" title="Campo electromagnético">campo electromagnético</a>. Dichos campos podían ser derivados de un <a href="/wiki/Potencial_escalar_magn%C3%A9tico" title="Potencial escalar magnético">potencial escalar</a> (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \phi }</annotation>
+</semantics>
+</math></span><img alt="\phi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/72b1f30316670aee6270a28334bdf4f5072cdde4" style="vertical-align: -0.671ex; width:1.385ex; height:2.509ex;"/></span>) y un <a href="/wiki/Potencial_vectorial_electromagn%C3%A9tico" title="Potencial vectorial electromagnético">potencial vectorial</a> (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {A} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {A} }</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {A}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0795cc96c75d81520a120482662b90f024c9a1a1" style="vertical-align: -0.338ex; width:2.019ex; height:2.176ex;"/></span>) dados por las ecuaciones:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_6" style="font-style: normal;"><a href="#Eqnref_6">6</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {E} ={\frac {1}{c}}{\frac {\partial \mathbf {A} }{\partial t}}-\nabla \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>c</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {E} ={\frac {1}{c}}{\frac {\partial \mathbf {A} }{\partial t}}-\nabla \phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {E} ={\frac {1}{c}}{\frac {\partial \mathbf {A} }{\partial t}}-\nabla \phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/16cf558cbdbe0dfc607d91be34b13373d3576e06" style="vertical-align: -2.005ex; width:17.189ex; height:5.509ex;"/></span>
+<br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {B} =\nabla \times \mathbf {A} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo>=</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {B} =\nabla \times \mathbf {A} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {B} =\nabla \times \mathbf {A} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/436aaad562d4e3626ff807cadb0185658e4e6c51" style="vertical-align: -0.338ex; width:11.795ex; height:2.176ex;"/></span>
+</p>
+<p>La solución de las ecuaciones de Maxwell implicaba la existencia de una onda que se propagaba a la <a href="/wiki/Velocidad_de_la_luz" title="Velocidad de la luz">velocidad de la luz</a>, con lo que además de unificar los fenómenos eléctricos y magnéticos la teoría formulada por Maxwell predecía con absoluta certeza los fenómenos <a href="/wiki/%C3%93ptica" title="Óptica">ópticos</a>.<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Así la teoría predecía a una onda que, contraria a las ideas de la época, no necesitaba un medio de propagación; la <a class="mw-redirect" href="/wiki/Onda_electromagn%C3%A9tica" title="Onda electromagnética">onda electromagnética</a> se podía propagar en el <a class="mw-redirect" href="/wiki/Vac%C3%ADo_(f%C3%ADsica)" title="Vacío (física)">vacío</a> debido a la generación mutua de los campos magnéticos y eléctricos. Esta onda a pesar de tener una velocidad constante, la velocidad de la luz <b>c</b>, puede tener diferente <a href="/wiki/Longitud_de_onda" title="Longitud de onda">longitud de onda</a> y consecuentemente dicha onda transporta <a href="/wiki/Energ%C3%ADa" title="Energía">energía</a>. La <a href="/wiki/Radiaci%C3%B3n_electromagn%C3%A9tica" title="Radiación electromagnética">radiación electromagnética</a> recibe diferentes nombres al variar su longitud de onda, como <a class="mw-redirect" href="/wiki/Rayo_gamma" title="Rayo gamma">rayos gamma</a>, <a href="/wiki/Rayos_X" title="Rayos X">rayos X</a>, <a href="/wiki/Espectro_visible" title="Espectro visible">espectro visible</a>, etc.; pero en su conjunto recibe el nombre de <a href="/wiki/Espectro_electromagn%C3%A9tico" title="Espectro electromagnético">espectro electromagnético</a>.
+</p>
+<p>Clásicamente, al fijar un <a href="/wiki/Sistema_de_referencia" title="Sistema de referencia">sistema de referencia</a>, se puede descomponer los campos eléctricos y magnéticos del campo electromagnético. Pero, en la <a href="/wiki/Teor%C3%ADa_de_la_relatividad_especial" title="Teoría de la relatividad especial">teoría de la relatividad especial</a>, al tener a un <a href="/wiki/Observador" title="Observador">observador</a> con movimiento relativo respecto al sistema de referencia, este medirá efectos eléctricos y magnéticos diferentes de un mismo fenómeno electromagnético. El campo eléctrico y la inducción magnética a pesar de ser elementos <a href="/wiki/Vector" title="Vector">vectoriales</a> no se comportan como <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitudes físicas</a> vectoriales, por el contrario la unión de ambos constituye otro ente físico llamado <a href="/wiki/Tensor" title="Tensor">tensor</a> y en este caso el <a href="/wiki/Tensor_de_campo_electromagn%C3%A9tico" title="Tensor de campo electromagnético">tensor de campo electromagnético</a>.<sup class="reference separada" id="cite_ref-15"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Así, la expresión para el campo electromagnético es:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =F_{\mu \nu }={\begin{pmatrix}0&amp;E_{x}/c&amp;E_{y}/c&amp;E_{z}/c\\-E_{x}/c&amp;0&amp;-B_{z}&amp;B_{y}\\-E_{y}/c&amp;B_{z}&amp;0&amp;-B_{x}\\-E_{z}/c&amp;-B_{y}&amp;B_{x}&amp;0\end{pmatrix}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>(</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>c</mi>
+</mtd>
+<mtd>
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>c</mi>
+</mtd>
+<mtd>
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>c</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>c</mi>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>B</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>B</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>c</mi>
+</mtd>
+<mtd>
+<msub>
+<mi>B</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+<mtd>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>B</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>c</mi>
+</mtd>
+<mtd>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>B</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>B</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mn>0</mn>
+</mtd>
+</mtr>
+</mtable>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =F_{\mu \nu }={\begin{pmatrix}0&amp;E_{x}/c&amp;E_{y}/c&amp;E_{z}/c\\-E_{x}/c&amp;0&amp;-B_{z}&amp;B_{y}\\-E_{y}/c&amp;B_{z}&amp;0&amp;-B_{x}\\-E_{z}/c&amp;-B_{y}&amp;B_{x}&amp;0\end{pmatrix}}}</annotation>
+</semantics>
+</math></span><img alt="\mathbf{F} = F_{\mu \nu} =
+\begin{pmatrix}
+0 &amp; E_x/c &amp; E_y/c &amp; E_z/c \\
+-E_x/c &amp; 0 &amp; -B_z &amp; B_y \\
+-E_y/c &amp; B_z &amp; 0 &amp; -B_x \\
+-E_z/c &amp; -B_y &amp; B_x &amp; 0
+\end{pmatrix}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/99198b1d17ed69e2b84220620e32f0442301a874" style="vertical-align: -6.171ex; width:44.997ex; height:13.509ex;"/></span>
+</p>
+<p>Esta representación se conoce como formulación covariante tetradimensional del electromagnetismo. Las expresiones covariantes para las ecuaciones de Maxwell (<span class="plainlinks neverexpand" id="Eqnref_7"><a class="external text" href="https://es.wikipedia.org/wiki/Electromagnetismo#Equation_7">7</a></span>) y la fuerza de Lorentz (<span class="plainlinks neverexpand" id="Eqnref_6"><a class="external text" href="https://es.wikipedia.org/wiki/Electromagnetismo#Equation_6">6</a></span>) se reducen a:
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_6" style="font-style: normal;"><a href="#Eqnref_6">6</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \ f_{\alpha }=\sum _{\beta }e\ F_{\alpha \beta }\ u^{\beta }\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+</mrow>
+</munder>
+<mi>e</mi>
+<mtext> </mtext>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+<mi>β<!-- β --></mi>
+</mrow>
+</msub>
+<mtext> </mtext>
+<msup>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \ f_{\alpha }=\sum _{\beta }e\ F_{\alpha \beta }\ u^{\beta }\,}</annotation>
+</semantics>
+</math></span><img alt="\ f_{\alpha} = \sum_{\beta} e \ F_{\alpha \beta} \ u^{\beta} \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c348415696dd93235da08179f8225e22e67a3946" style="vertical-align: -3.338ex; width:18.701ex; height:5.843ex;"/></span>
+</p>
+<p><span style="float: right; width: 10%; text-align: right;">(<cite id="Equation_7" style="font-style: normal;"><a href="#Eqnref_7">7</a></cite>)</span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \ \partial _{\mu }F^{\mu \nu }=\mu _{0}J^{\nu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+</mrow>
+</msub>
+<msup>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \ \partial _{\mu }F^{\mu \nu }=\mu _{0}J^{\nu }}</annotation>
+</semantics>
+</math></span><img alt="\ \partial_{\mu} F^{\mu \nu} = \mu_0 J^{\nu}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a2d01d206c6b3167e907123e1bdc1a77c920f39e" style="vertical-align: -1.005ex; width:15.132ex; height:3.009ex;"/></span>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \partial _{\mu }\cdot F^{\mu \nu }=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial _{\mu }\cdot F^{\mu \nu }=0}</annotation>
+</semantics>
+</math></span><img alt="\partial_\mu \cdot F^{\mu \nu} = 0" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4918ffd85d2e67adcb3ac1677af4c952dce31c61" style="vertical-align: -1.005ex; width:12.307ex; height:3.009ex;"/></span>
+</p>
+<p>Dada la forma de las ecuaciones anteriores, si el dominio sobre el que se extiende el campo electromagnético es <a href="/wiki/Conjunto_simplemente_conexo" title="Conjunto simplemente conexo">simplemente conexo</a> el campo electromagnético puede expresarse como la derivada exterior de un <a href="/wiki/Cuadrivector" title="Cuadrivector">cuadrivector</a> llamado potencial vector, relacionado con los potenciales del electromagnetismo clásico de la siguiente manera:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {A} =(A_{0};A_{1},A_{2},A_{3})=(\phi ;\mathbf {A} )}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>;</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo>;</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {A} =(A_{0};A_{1},A_{2},A_{3})=(\phi ;\mathbf {A} )}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {A} =(A_{0};A_{1},A_{2},A_{3})=(\phi ;\mathbf {A} )}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5fa5ec61223ca2f43dce56089316c3d58030622c" style="vertical-align: -0.838ex; width:30.565ex; height:2.843ex;"/></span>
+</p>
+<p>Donde:
+</p>
+<p>La relación entre el cuadrivector potencial y el tensor de campo electromanético resulta ser:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =\mathrm {d} \mathbf {A} ={\frac {1}{2!}}{\frac {\partial A_{\beta }}{\partial x^{\alpha }}}-{\frac {\partial A_{\alpha }}{\partial x^{\beta }}}{\text{d}}x^{\alpha }\land {\text{d}}x^{\beta }={\frac {1}{2!}}F_{\alpha \beta }{\text{d}}x^{\alpha }\land {\text{d}}x^{\beta }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>2</mn>
+<mo>!</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+<mo>∧<!-- ∧ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>2</mn>
+<mo>!</mo>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+<mi>β<!-- β --></mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+</msup>
+<mo>∧<!-- ∧ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>β<!-- β --></mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =\mathrm {d} \mathbf {A} ={\frac {1}{2!}}{\frac {\partial A_{\beta }}{\partial x^{\alpha }}}-{\frac {\partial A_{\alpha }}{\partial x^{\beta }}}{\text{d}}x^{\alpha }\land {\text{d}}x^{\beta }={\frac {1}{2!}}F_{\alpha \beta }{\text{d}}x^{\alpha }\land {\text{d}}x^{\beta }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =\mathrm {d} \mathbf {A} ={\frac {1}{2!}}{\frac {\partial A_{\beta }}{\partial x^{\alpha }}}-{\frac {\partial A_{\alpha }}{\partial x^{\beta }}}{\text{d}}x^{\alpha }\land {\text{d}}x^{\beta }={\frac {1}{2!}}F_{\alpha \beta }{\text{d}}x^{\alpha }\land {\text{d}}x^{\beta }}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3e469a877bcc3afda53f53b5944b748bae9fd65a" style="vertical-align: -2.171ex; width:56.965ex; height:6.009ex;"/></span>
+</p>
+<p>El hecho de que la interacción electromagnética pueda representarse por un (cuadri)vector que define completamente el campo electromagnético es la razón por la que se afirma en el tratamiento moderno que la interacción electromagnética es un campo vectorial.
+</p>
+<p>En <a href="/wiki/Relatividad_general" title="Relatividad general">relatividad general</a> el tratamiento del campo electromagnético en un <a href="/wiki/Curvatura_del_espacio-tiempo" title="Curvatura del espacio-tiempo">espacio-tiempo curvo</a> es similar al presentado aquí para el <a href="/wiki/Espacio-tiempo_de_Minkowski" title="Espacio-tiempo de Minkowski">espacio-tiempo de Minkowski</a>, solo que las derivadas parciales respecto a las coordenadas deben substituirse por <a href="/wiki/Derivada_covariante" title="Derivada covariante">derivadas covariantes</a>.
+</p>
+<p>Posteriormente a la revolución cuántica de inicios del <a href="/wiki/Siglo_XX" title="Siglo XX">siglo <small>XX</small></a>, los físicos se vieron forzados a buscar una teoría cuántica de la <a class="mw-redirect" href="/wiki/Interacci%C3%B3n_electromagn%C3%A9tica" title="Interacción electromagnética">interacción electromagnética</a>. El trabajo de <a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a> con el <a href="/wiki/Efecto_fotoel%C3%A9ctrico" title="Efecto fotoeléctrico">efecto fotoeléctrico</a> y la posterior formulación de la <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a> sugerían que la interacción electromagnética se producía mediante el intercambio de <a href="/wiki/Part%C3%ADcula_elemental" title="Partícula elemental">partículas elementales</a> llamadas <a href="/wiki/Fot%C3%B3n" title="Fotón">fotones</a>. La nueva formulación cuántica lograda en la década de <a href="/wiki/A%C3%B1os_1940" title="Años 1940">1940</a> describe la interacción entre los bosones, o partículas portadoras de la interacción, y las otras partículas portadoras de materia (los <a class="mw-redirect" href="/wiki/Fermion" title="Fermion">fermiones</a>).<sup class="reference separada" id="cite_ref-16"><a href="#cite_note-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La <a href="/wiki/Electrodin%C3%A1mica_cu%C3%A1ntica" title="Electrodinámica cuántica">electrodinámica cuántica</a> es principalmente una <a href="/wiki/Teor%C3%ADa_cu%C3%A1ntica_de_campos" title="Teoría cuántica de campos">teoría cuántica de campos</a> renormalizada. Su desarrollo fue obra de <a class="mw-redirect" href="/wiki/Tomonaga" title="Tomonaga">Sinitiro Tomonaga</a>, <a href="/wiki/Julian_Schwinger" title="Julian Schwinger">Julian Schwinger</a>, <a href="/wiki/Richard_Feynman" title="Richard Feynman">Richard Feynman</a> y <a href="/wiki/Freeman_Dyson" title="Freeman Dyson">Freeman Dyson</a> alrededor de los años <a href="/wiki/1947" title="1947">1947</a> a <a href="/wiki/1949" title="1949">1949</a>.<sup class="reference separada" id="cite_ref-QED_17-0"><a href="#cite_note-QED-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​ En la electrodinámica cuántica, la interacción entre partículas viene descrita por un <a href="/wiki/Lagrangiano" title="Lagrangiano">lagrangiano</a> que posee <a href="/wiki/Simetr%C3%ADa" title="Simetría">simetría</a> local, concretamente <a href="/wiki/Simetr%C3%ADa_de_gauge" title="Simetría de gauge">simetría de gauge</a>. Para la electrodinámica cuántica, el <a href="/wiki/Teor%C3%ADa_de_campo_de_gauge" title="Teoría de campo de gauge">campo de gauge</a> donde los fermiones interactúan es el <a href="/wiki/Campo_electromagn%C3%A9tico" title="Campo electromagnético">campo electromagnético</a>, descrito en esta teoría como los estados de <a href="/wiki/Bos%C3%B3n" title="Bosón">bosones</a> (fotones, en este caso) portadores de la interacción.<sup class="reference separada" id="cite_ref-QED_17-1"><a href="#cite_note-QED-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Matemáticamente, el lagrangiano para la interacción entre <a class="mw-redirect" href="/wiki/Fermiones" title="Fermiones">fermiones</a> mediante intercambio de fotones viene dado por:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathcal {L}}={\bar {\psi }}(i\gamma ^{\mu }D_{\mu }-m)\psi -{\frac {1}{4}}F_{\mu \nu }F^{\mu \nu }\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-caligraphic" mathvariant="script">L</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>ψ<!-- ψ --></mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<msup>
+<mi>γ<!-- γ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+</mrow>
+</msup>
+<msub>
+<mi>D</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mi>m</mi>
+<mo stretchy="false">)</mo>
+<mi>ψ<!-- ψ --></mi>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<msup>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathcal {L}}={\bar {\psi }}(i\gamma ^{\mu }D_{\mu }-m)\psi -{\frac {1}{4}}F_{\mu \nu }F^{\mu \nu }\,}</annotation>
+</semantics>
+</math></span><img alt="\mathcal{L}=\bar\psi(i\gamma^\mu D_\mu-m)\psi -\frac{1}{4}F_{\mu\nu}F^{\mu\nu}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3b0b14df789195a0ad86f9e9c7ccef99dd613b7" style="vertical-align: -1.838ex; width:33.679ex; height:5.176ex;"/></span>
+</p>
+<p>Donde el significado de los términos son:
+</p>
+<p><a href="/wiki/Unidades_de_electromagnetismo_del_SI" title="Unidades de electromagnetismo del SI">Unidades de electromagnetismo del SI</a> o unidades   electromagnéticas del <a class="mw-redirect" href="/wiki/Sistema_Internacional" title="Sistema Internacional">Sistema Internacional</a> de unidades.<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​ Únicamente la <a href="/wiki/Corriente_el%C3%A9ctrica" title="Corriente eléctrica">corriente eléctrica</a> es una de las siete <a href="/wiki/Unidades_b%C3%A1sicas_del_Sistema_Internacional" title="Unidades básicas del Sistema Internacional">unidades básicas</a>, siendo las otras <a href="/wiki/Unidades_derivadas_del_Sistema_Internacional" title="Unidades derivadas del Sistema Internacional">unidades derivadas</a>.
+</p>
+<p><br/>
+</p>

@@ -1,0 +1,105 @@
+<p>El <b>Sistema Internacional de Unidades</b> (abreviado <b>SI</b>, del <a href="/wiki/Idioma_franc%C3%A9s" title="Idioma francés">francés</a> <i>Système international d'unités</i>) es un <a href="/wiki/Sistema_de_unidades" title="Sistema de unidades">sistema</a> constituido por siete <a href="/wiki/Unidades_b%C3%A1sicas_del_Sistema_Internacional" title="Unidades básicas del Sistema Internacional">unidades básicas</a>: <a href="/wiki/Metro" title="Metro">metro</a>, <a href="/wiki/Kilogramo" title="Kilogramo">kilogramo</a>, <a href="/wiki/Segundo" title="Segundo">segundo</a>, <a href="/wiki/Kelvin" title="Kelvin">kelvin</a>, <a href="/wiki/Amperio" title="Amperio">amperio</a>, <a href="/wiki/Mol" title="Mol">mol</a> y <a href="/wiki/Candela" title="Candela">candela</a>, que definen a las correspondientes <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitudes físicas</a> fundamentales y que han sido elegidas por convención. Las magnitudes físicas fundamentales se complementan con dos magnitudes físicas más, denominadas suplementarias, cuyas unidades se utilizan para la medición de <a href="/wiki/%C3%81ngulo" title="Ángulo">ángulos</a>. Por combinación de las unidades básicas se obtienen las demás unidades, denominadas <a href="/wiki/Unidades_derivadas_del_Sistema_Internacional" title="Unidades derivadas del Sistema Internacional">Unidades derivadas del Sistema Internacional</a>, y que permiten definir a cualquier magnitud física. Se trata de la versión moderna del <a href="/wiki/Sistema_m%C3%A9trico_decimal" title="Sistema métrico decimal">sistema métrico decimal</a>,<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​ por lo que el SI también es conocido de forma genérica como <b>sistema métrico</b>. Es el sistema de unidades vigente en casi todos los países del mundo.
+</p>
+<p>Las unidades del SI constituyen referencia internacional de las indicaciones de los <a href="/wiki/Instrumento_de_medici%C3%B3n" title="Instrumento de medición">instrumentos de medición</a>, a las cuales están referidas mediante una concatenación ininterrumpida de calibraciones o comparaciones.
+</p>
+<p>Una de las características trascendentales del SI es que sus unidades actualmente se basan en fenómenos físicos fundamentales. Este permite lograr contrastar con instrumentos similares, utilizados y calibrados en lugares distantes y, por ende, asegurar —sin necesidad de duplicación de ensayos y mediciones— el cumplimiento de las características de los productos que son objeto de transacciones en el <a href="/wiki/Comercio_internacional" title="Comercio internacional">comercio internacional</a>, su intercambiabilidad.
+</p>
+<p>El SI se creó en 1960 por la 11.ª <a href="/wiki/Conferencia_General_de_Pesas_y_Medidas" title="Conferencia General de Pesas y Medidas">Conferencia General de Pesas y Medidas</a>, durante la cual inicialmente se reconocieron seis unidades físicas básicas (las actuales excepto el mol). El <a href="/wiki/Mol" title="Mol">mol</a> se añadió en 1971. Entre los años 2006 y 2009 se armonizó el Sistema Internacional de Magnitudes —a cargo de las organizaciones <a href="/wiki/Organizaci%C3%B3n_Internacional_de_Normalizaci%C3%B3n" title="Organización Internacional de Normalización">ISO</a> y <a href="/wiki/Comisi%C3%B3n_Electrot%C3%A9cnica_Internacional" title="Comisión Electrotécnica Internacional">CEI</a>— con el SI. El resultado es la norma <a href="/wiki/ISO/IEC_80000" title="ISO/IEC 80000">ISO/IEC 80000</a>.
+</p>
+<p>El Sistema Internacional de Unidades consta de siete unidades básicas, que expresan <a href="/wiki/Magnitud_f%C3%ADsica" title="Magnitud física">magnitudes físicas</a>. A partir de estas se determinan el resto de unidades (derivadas). La última revisión del SI fue aprobada por unanimidad en la 26.ª <a href="/wiki/Conferencia_General_de_Pesas_y_Medidas" title="Conferencia General de Pesas y Medidas">CGPM</a>, el 16 de noviembre de 2018, acordándose su <a class="mw-redirect" href="/wiki/Entrada_en_vigor" title="Entrada en vigor">entrada en vigor</a> el 20 de mayo de 2019, con objeto de hacerlo coincidir con el <a href="/wiki/D%C3%ADa_Mundial_de_la_Metrolog%C3%ADa" title="Día Mundial de la Metrología">Día Mundial de la Metrología</a> en el que se conmemora la firma del Tratado de la <a href="/wiki/Convenci%C3%B3n_del_Metro" title="Convención del Metro">Convención del Metro</a> en 1875, el más antiguo que existe en vigor.<sup class="reference separada" id="cite_ref-revision2018_4-0"><a href="#cite_note-revision2018-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El SI revisado quedó definido como aquel en el que:<sup class="reference separada" id="cite_ref-revision2018_4-1"><a href="#cite_note-revision2018-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>A partir de los valores anteriores se definen las siete unidades básicas.
+</p>
+<p>Además de las unidades básicas hay dos unidades suplementarias.
+</p>
+<p>Mediante esta denominación se hace referencia a las unidades utilizadas para expresar magnitudes físicas que tienen una definición matemática en término de magnitudes físicas básicas. Si estas son longitud, masa, tiempo, intensidad de corriente eléctrica, temperatura, cantidad de substancia o intensidad luminosa, se trata de una magnitud básica. Todas las demás son derivadas. No se debe confundir el concepto de unidades derivadas con los de múltiplos y submúltiplos que se utilizan tanto en las unidades básicas como en las derivadas.
+</p>
+<p>Las unidades derivadas <i>coherentes</i> son exactamente aquellas que se pueden obtener mediante una fórmula matemática que las relacione con las unidades básicas que sea de la forma
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a,b,c,d,f,g,h}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mo>,</mo>
+<mi>b</mi>
+<mo>,</mo>
+<mi>c</mi>
+<mo>,</mo>
+<mi>d</mi>
+<mo>,</mo>
+<mi>f</mi>
+<mo>,</mo>
+<mi>g</mi>
+<mo>,</mo>
+<mi>h</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a,b,c,d,f,g,h}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a,b,c,d,f,g,h}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6cdb29fe804c20d95dd38004d50714480589405" style="vertical-align: -0.671ex; width:14.387ex; height:2.509ex;"/></span> son <a href="/wiki/N%C3%BAmero_real" title="Número real">números reales</a> puros (con dimensión 1).
+</p>
+<p>El número 1 se obtiene como el caso particular donde todos los exponentes son 0. Por lo tanto, 1 es la unidad derivada del SI para magnitudes de dimensión 1 (también llamadas adimensionales). Por ejemplo, la magnitud física <i><a href="/wiki/%C3%8Dndice_de_refracci%C3%B3n" title="Índice de refracción">índice de refracción</a></i> tiene dimensión 1. Existen dos nombres especiales para la unidad 1: El nombre <b>radián</b> (símbolo: <b>rad</b>) se usa cuando se expresan ángulos planos; el nombre <b>estereorradián</b> (símbolo: <b>sr</b>) se usa cuando se expresan ángulos sólidos. En los demás casos no existe símbolo para la unidad 1 y la magnitud se expresa como un número puro (sin unidad explícita).
+</p>
+<p>Para cualquier cantidad física, su unidad coherente correspondiente en el SI no es arbitraria sino que se deduce de la fórmula que la relaciona con otra magnitud física previamente definida.
+</p>
+<p><b>Ejemplos:</b>
+</p>
+<p>22 unidades derivadas tienen nombres especiales. Para representarlas se pueden usar estos nombres o una expresión algebraica en términos de otras unidades. En algunos casos existe la posibilidad de confusión si se usa u omite un nombre especial aunque esto sea matemáticamente correcto. Algunos ejemplos concretos son:
+</p>
+<p>El BIPM declara que las siguientes unidades, que no pertenecen al SI, se permiten para su uso con el SI.
+</p>
+<p>Las siete unidades básicas del SI y las unidades derivadas coherentes forman un conjunto de unidades coherentes. Esto implica que al aplicar las fórmulas matemáticas que relacionan magnitudes físicas distintas a valores concretos no se necesitan factores de conversión.
+</p>
+<p>Por ejemplo, en la mecánica clásica la energía cinética traslacional de un objeto con una rapidez <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>v</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v}</annotation>
+</semantics>
+</math></span><img alt="v" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e07b00e7fc0847fbd16391c778d65bc25c452597" style="vertical-align: -0.338ex; width:1.128ex; height:1.676ex;"/></span> y masa <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+</semantics>
+</math></span><img alt="m" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;"/></span> está dada por la siguiente ecuación:
+</p>
+<p>En el caso concreto de un automóvil con <i>m</i> = 1500 kg y <i>v</i> = 20 m/s, su energía cinética es
+</p>
+<p>Como las unidades son coherentes, no se requieren factores de conversión arbitrarios entre unidades; simplemente se multiplican los valores numéricos y las unidades por separado. En cambio, si se usaran, por ejemplo, la milla por hora para la velocidad y el kilovatio-hora para la energía se requerirían factores de conversión arbitrarios (en el sentido de que no aparecen en la ecuación física y carecen de significado físico).
+</p>
+<p>Los símbolos de las unidades son entes matemáticos, no <a href="/wiki/Abreviatura" title="Abreviatura">abreviaturas</a>. Por ello deben escribirse siempre tal cual están establecidos (ejemplos: «m» para metro y «A» para amperio), sin modificación alguna.
+</p>
+<p>Las reglas que deben seguirse son las siguientes:
+</p>
+<p>La razón de todas estas normas es que se procura evitar malas interpretaciones: Kg, podría entenderse como kelvin-gramo, ya que «K» es el símbolo de la unidad de temperatura <a href="/wiki/Kelvin" title="Kelvin">kelvin</a>.
+</p>
+<p>El símbolo de segundos es «s» (en minúscula y sin punto posterior), no <i>seg</i>, ni <i>segs</i>. El amperio nunca se ha de abreviar <i>Amps.</i>, ya que su símbolo es «A» (con mayúscula y sin punto). El metro se simboliza con «m» (no <i>Mt</i>, ni <i>M</i>, ni <i>mts.</i>).
+</p>
+<p>Al contrario que los símbolos, los nombres relativos a aquellos no están normalizados internacionalmente, sino que dependen de la lengua nacional donde se usen (así lo establece explícitamente la norma ISO 80000). Según el SI, se consideran siempre <a href="/wiki/Sustantivo" title="Sustantivo">sustantivos comunes</a> y se tratan como tales (se escriben con minúsculas).
+</p>
+<p>Las designaciones de las unidades instituidas en honor de científicos eminentes mediante sus apellidos siguen la misma regla y muchos de ellos se adaptan al español: amperio, voltio, faradio. También son frecuentes las formas inglesas o francesas, que suelen ajustarse al nombre del científico (<i>watt</i>, newton), pero no siempre (volt de Volta, farad de Faraday).
+</p>
+<p>El <a href="/wiki/Separador_decimal" title="Separador decimal">separador decimal</a> debe estar alineado con los dígitos. Como separador decimal se puede usar tanto el punto como la coma, según la costumbre del país, aunque la <a href="/wiki/Asociaci%C3%B3n_de_Academias_de_la_Lengua_Espa%C3%B1ola" title="Asociación de Academias de la Lengua Española">ASALE</a> en las normas ortográficas de 2010 recomienda usar el punto decimal en el caso del español con el fin de unificar el idioma.
+</p>
+<p>Para facilitar la lectura, los dígitos pueden agruparse en grupos de tres, tanto a derecha como a izquierda a partir del separador decimal, sin utilizar comas ni puntos en los espacios entre grupos. El número completo debe quedar en la misma línea (espacio duro como separador de millar). Ejemplo: 123 456 789.987 654 3.
+</p>
+<p>Para este efecto, en algunos países se acostumbra a <a href="/wiki/Separador_de_millares" title="Separador de millares">separar los miles</a> con un punto (ejemplo: 123.456.789). Esta notación es desaconsejable y ajena a la normativa establecida en el Sistema Internacional de Unidades.<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El <b>SI</b> se puede usar legalmente en cualquier país, incluso donde aún no lo hayan implantado. En muchas otras naciones su uso es obligatorio. A efectos de <a href="/wiki/Conversi%C3%B3n_de_unidades" title="Conversión de unidades">conversión de unidades</a>, en los países que todavía utilizan otros sistemas de unidades de medidas, como los <a href="/wiki/Estados_Unidos" title="Estados Unidos">Estados Unidos</a> y el <a href="/wiki/Reino_Unido" title="Reino Unido">Reino Unido</a>, se acostumbra indicar las unidades del <b>SI</b> junto a las propias.
+</p>
+<p>El Sistema Internacional se adoptó a partir de la undécima <a href="/wiki/Conferencia_General_de_Pesas_y_Medidas" title="Conferencia General de Pesas y Medidas">Conferencia General de Pesas y Medidas</a> (<b>CGPM</b> o <i>Conférence Générale des Poids et Mesures</i>), en 1960.
+</p>
+<p>En muchos países que tienen el sistema internacional, siguen utilizando los sistemas tradicionales de forma no oficial, pues utilizan el nombre pero con medidas del sistema internacional. Un buen ejemplo es llamar libra a 500 g<sup class="reference separada" id="cite_ref-27"><a href="#cite_note-27"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​ o a otras similares,<sup class="reference separada" id="cite_ref-28"><a href="#cite_note-28"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​ conocidas en su conjunto como libra métrica. En China, el jīn (斤) se define modernamente como 500 g,<sup class="reference separada" id="cite_ref-29"><a href="#cite_note-29"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​ sin embargo tuvo una tradición de más de dos mil años en el que eran 605 g,<sup class="reference separada" id="cite_ref-hk_law_30-0"><a href="#cite_note-hk_law-30"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>​ al igual que con el <a href="/wiki/Li_(unidad_de_longitud)" title="Li (unidad de longitud)">lǐ</a> (里) llamado milla china, que tuvo una medida variada, sin embargo el gobierno de ese país decidió estandarizarlo a 500 m.
+</p>
+<p>En junio de 2011, el Ministerio de Comercio del gobierno birmano comenzó a discutir propuestas para reformar el sistema de medición en <a href="/wiki/Birmania" title="Birmania">Birmania</a> y adoptar el sistema métrico utilizado por la mayoría de sus socios comerciales, y en octubre de 2013, Pwint San, viceministro de comercio, anunció que el país se estaba preparando para adoptar el sistema métrico y comenzó una metricación completa, con asistencia técnica del Instituto Nacional de Metrología de Alemania. Las distancias y los límites de velocidad en las señales de tráfico ahora se muestran en kilómetros/hora, y las señales de altura libre ahora se muestran en metros; el combustible ya se mide y se vende en litros; y los datos meteorológicos y los informes meteorológicos ya se muestran en grados Celsius para las temperaturas, milímetros para las cantidades de precipitación y kilómetros por hora para la velocidad del viento.<sup class="reference separada" id="cite_ref-31"><a href="#cite_note-31"><span class="corchete-llamada">[</span>21<span class="corchete-llamada">]</span></a></sup>​
+</p>

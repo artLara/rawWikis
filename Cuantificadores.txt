@@ -1,0 +1,248 @@
+<p>En <a class="mw-redirect" href="/wiki/L%C3%B3gica_formal" title="Lógica formal">lógica formal</a>, un <b>cuantificador</b> es una expresión que indica la cantidad de veces que un predicado o propiedad <b>P</b> se satisface dentro de una determinada clase (por ejemplo, <a class="mw-redirect" href="/wiki/Relaci%C3%B3n_de_pertenencia" title="Relación de pertenencia">pertenencia</a>, <a href="/wiki/Relaci%C3%B3n_de_equivalencia" title="Relación de equivalencia">equivalencia</a> u <a href="/wiki/Relaci%C3%B3n_de_orden" title="Relación de orden">orden</a>). Existen muchos tipos de cuantificadores, entre los más utilizados están:<sup class="reference separada" id="cite_ref-DicCiencias_1-0"><a href="#cite_note-DicCiencias-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><br/>
+</p>
+<p>El matemático lógico y filósofo alemán <a href="/wiki/Gottlob_Frege" title="Gottlob Frege">Frege</a> publicó en el año 1879 su libro <a class="extiw" href="https://en.wikipedia.org/wiki/Begriffsschrift" title="en:Begriffsschrift">Begriffsschrift</a>, en el cual colocó las bases de la <a href="/wiki/L%C3%B3gica_matem%C3%A1tica" title="Lógica matemática">lógica matemática</a> moderna, desarrollando la primera teoría coherente sobre la cuantificación y presentó una nueva sintaxis llamada cuantificadores (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \forall }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∀<!-- ∀ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \forall }</annotation>
+</semantics>
+</math></span><img alt="\forall" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bfc1a1a9c4c0f8d5df989c98aa2773ed657c5937" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \exists }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∃<!-- ∃ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \exists }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \exists }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/></span>) que permite cuantificar nuevos argumentos.
+La obra se encuentra dividida en varios capítulos:
+</p>
+<p>Las declaraciones cuantificadas se escriben en la forma:
+</p>
+<p>Para todo <b>x</b> que pertenece a <b>R</b>, se cumple que <b>2x</b>  pertenece a <b>R</b>.
+</p>
+<p>Para todo <b>a</b> que pertenece a <b>R</b>, existe <b>x</b> que pertenece a <b>R</b>, que está comprendido entre <b>a</b> y <b>a+1</b>.
+</p>
+<p>Para todo <b>a</b> que pertenece a <b>R</b> diferente de cero, existe un único <b>x</b> que pertenece a <b>R</b>, que cumple que <b>a</b> por <b>x</b> es igual a <b>1</b>.
+</p>
+<p>El cuantificador universal se utiliza para afirmar que <i>todos</i> los elementos de un conjunto cumplen con una determinada <a href="/wiki/Propiedad_(l%C3%B3gica)" title="Propiedad (lógica)">propiedad</a>. Por ejemplo:
+</p>
+<p>Esta afirmación suele usarse como la equivalente de la <a href="/wiki/Proposici%C3%B3n" title="Proposición">proposición</a> siguiente:
+</p>
+<p>El cuantificador existencial se usa para indicar que hay uno o más elementos en el conjunto <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~A}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>A</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~A}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ~A}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/17327d088840ce291c8db59b592489ef8e6e94bd" style="vertical-align: -0.338ex; width:2.324ex; height:2.176ex;"/></span> (no necesariamente único/s) que cumplen una determinada propiedad. Como escribe:
+</p>
+<p>Esta proposición suele interpretarse como la equivalente de la proposición siguiente:
+</p>
+<p>El cuantificador existencial con marca de unicidad se usa para indicar que hay un único elemento de un conjunto <b>A</b> que cumple una determinada propiedad. Se escribe:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \exists !\,x\in A\;:\quad P(x)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∃<!-- ∃ --></mi>
+<mo>!</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>x</mi>
+<mo>∈<!-- ∈ --></mo>
+<mi>A</mi>
+<mspace width="thickmathspace"></mspace>
+<mo>:</mo>
+<mspace width="1em"></mspace>
+<mi>P</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \exists !\,x\in A\;:\quad P(x)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \exists !\,x\in A\;:\quad P(x)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b5377b2a4bf28ede864ea4683446a0a6666a6b20" style="vertical-align: -0.838ex; width:18.029ex; height:2.843ex;"/></span>
+</p>
+<p>Se lee:
+</p>
+<p>Se tienen las siguientes relaciones universales:
+</p>
+<p>En cuanto al cuantificador existencial único puede considerarse una extensión por definición en un <a href="/wiki/Lenguaje_formal" title="Lenguaje formal">lenguaje formal</a> con igualdad teniendo dada la equivalencia:
+</p>
+<p>Las <a href="/wiki/Leyes_de_De_Morgan" title="Leyes de De Morgan">leyes de De Morgan</a> para cuantificadores son las siguientes:
+</p>
+<p>El orden de prioridad (prelación) de los cuantificadores <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \forall }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∀<!-- ∀ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \forall }</annotation>
+</semantics>
+</math></span><img alt="\forall" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bfc1a1a9c4c0f8d5df989c98aa2773ed657c5937" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \exists }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∃<!-- ∃ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \exists }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \exists }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/></span> tienen un mayor grado de preferencia que los demás operadores lógicos. 
+</p>
+<p>Ejemplos: 
+</p>
+<p>Cuando ponemos <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \forall xP(x)\land M(x)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∀<!-- ∀ --></mi>
+<mi>x</mi>
+<mi>P</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>∧<!-- ∧ --></mo>
+<mi>M</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \forall xP(x)\land M(x)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \forall xP(x)\land M(x)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aa7fbcca8ed561792eda4002ed02a586cb5eb49d" style="vertical-align: -0.838ex; width:15.67ex; height:2.843ex;"/></span> el orden de prioridad nos obliga a realizar primero el cuantificador <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (\forall xP(x))\land M(x)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mi mathvariant="normal">∀<!-- ∀ --></mi>
+<mi>x</mi>
+<mi>P</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+<mo>∧<!-- ∧ --></mo>
+<mi>M</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (\forall xP(x))\land M(x)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (\forall xP(x))\land M(x)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee9a52eec89ed1b9f0100768ddc7353a644e872d" style="vertical-align: -0.838ex; width:17.48ex; height:2.843ex;"/></span>. Este ejemplo se puede ver para los distintos cuantificadores.  
+</p>
+<p>En caso de que se quiera priorizar el operador lógico (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \land }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>∧<!-- ∧ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \land }</annotation>
+</semantics>
+</math></span><img alt="\land" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d6823e5a222eb3ca49672818ac3d13ec607052c4" style="vertical-align: -0.338ex; width:1.55ex; height:2.009ex;"/></span>) se tendrá que poner paréntesis para forzar la prioridad a esa operación <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \forall x(P(x)\land M(x)).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∀<!-- ∀ --></mi>
+<mi>x</mi>
+<mo stretchy="false">(</mo>
+<mi>P</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>∧<!-- ∧ --></mo>
+<mi>M</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \forall x(P(x)\land M(x)).}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \forall x(P(x)\land M(x)).}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e0251eadc2f075b48a09461541ef5fe8b24229e5" style="vertical-align: -0.838ex; width:18.127ex; height:2.843ex;"/></span>
+</p>
+<p>Un error muy común es considerar que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \forall xP(x)\land M(x)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∀<!-- ∀ --></mi>
+<mi>x</mi>
+<mi>P</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>∧<!-- ∧ --></mo>
+<mi>M</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \forall xP(x)\land M(x)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \forall xP(x)\land M(x)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aa7fbcca8ed561792eda4002ed02a586cb5eb49d" style="vertical-align: -0.838ex; width:15.67ex; height:2.843ex;"/></span> es lo mismo que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \forall x(P(x)\land M(x))}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∀<!-- ∀ --></mi>
+<mi>x</mi>
+<mo stretchy="false">(</mo>
+<mi>P</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>∧<!-- ∧ --></mo>
+<mi>M</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \forall x(P(x)\land M(x))}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \forall x(P(x)\land M(x))}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d621aa9bfc91516494fd5fc91cc152c644e4070f" style="vertical-align: -0.838ex; width:17.48ex; height:2.843ex;"/></span> cosa que no es así, ya que no se respeta el orden de prioridad, por lo que lo correcto sería <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (\forall xP(x))\land M(x)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mi mathvariant="normal">∀<!-- ∀ --></mi>
+<mi>x</mi>
+<mi>P</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+<mo>∧<!-- ∧ --></mo>
+<mi>M</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (\forall xP(x))\land M(x)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (\forall xP(x))\land M(x)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee9a52eec89ed1b9f0100768ddc7353a644e872d" style="vertical-align: -0.838ex; width:17.48ex; height:2.843ex;"/></span>.
+</p>
+<p><a class="external text" href="https://medium.com/@matematicasdiscretaslibro/6-logica-de-cuantificadores-d453d859dd20" rel="nofollow">Lógica de cuantificadores</a>
+</p>
+<p><a class="extiw" href="https://en.wikipedia.org/wiki/Begriffsschrift" title="en:Begriffsschrift">Begriffsschrift</a>
+</p>

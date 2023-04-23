@@ -1,0 +1,528 @@
+<p>El <b>gas</b> (palabra inventada por el científico flamenco <a href="/wiki/Jan_Baptista_van_Helmont" title="Jan Baptista van Helmont">Jan Baptista van Helmont</a> en el <a href="/wiki/Siglo_XVII" title="Siglo XVII">siglo <span style="font-variant:small-caps;text-transform:lowercase">XVII</span></a>, sobre el <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a> <i>chaos</i><sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​) es un <a href="/wiki/Estado_de_agregaci%C3%B3n_de_la_materia" title="Estado de agregación de la materia">estado de agregación de la materia</a> en el cual, bajo ciertas condiciones de temperatura y presión, sus <a href="/wiki/Mol%C3%A9cula" title="Molécula">moléculas</a> interaccionan débilmente entre sí, sin formar enlaces moleculares,<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ adoptando la forma y el volumen del recipiente que las contiene y tendiendo a separarse, esto es, expandirse, todo lo posible por su alta concentración de <a href="/wiki/Energ%C3%ADa_cin%C3%A9tica" title="Energía cinética">energía cinética</a>. Los gases son <a href="/wiki/Fluido" title="Fluido">fluidos</a> altamente <a href="/wiki/Compresibilidad" title="Compresibilidad">compresibles</a>, que experimentan grandes cambios de <a href="/wiki/Densidad" title="Densidad">densidad</a> con la <a href="/wiki/Presi%C3%B3n" title="Presión">presión</a> y la <a href="/wiki/Temperatura" title="Temperatura">temperatura</a>.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Las moléculas que constituyen un gas casi no son atraídas unas por otras, por lo que se mueven en el vacío a gran velocidad y muy separadas unas de otras, explicando así las propiedades:<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>A <a class="mw-redirect" href="/wiki/CNPT" title="CNPT">temperatura y presión ambientales</a> los gases pueden ser elementos como el hidrógeno, el oxígeno, el nitrógeno, el cloro, el flúor y los <a href="/wiki/Gases_nobles" title="Gases nobles">gases nobles</a>, compuestos como el dióxido de carbono o el propano, o mezclas como el aire.
+</p>
+<p>Los <a href="/wiki/Vapor_(estado)" title="Vapor (estado)">vapores</a> y el <a href="/wiki/Plasma_(estado_de_la_materia)" title="Plasma (estado de la materia)">plasma</a> comparten propiedades con los gases y pueden formar mezclas homogéneas, por ejemplo <a href="/wiki/Vapor_de_agua" title="Vapor de agua">vapor de agua</a> y <a href="/wiki/Aire" title="Aire">aire</a>, en conjunto son conocidos como <b>cuerpos gaseosos</b>, <b>estado gaseoso</b><sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​ o <b>fase gaseosa</b>.
+</p>
+<p>En 1648, el químico <a href="/wiki/Jan_Baptista_van_Helmont" title="Jan Baptista van Helmont">Jan Baptista van Helmont</a>, considerado el padre de la <a href="/wiki/Qu%C3%ADmica_neum%C3%A1tica" title="Química neumática">química neumática</a>, creó el vocablo gas (durante un tiempo se usó también "estado aeriforme"), a partir del término griego <i>kaos</i> (desorden) para definir las características del <a class="mw-redirect" href="/wiki/Anh%C3%ADdrido_carb%C3%B3nico" title="Anhídrido carbónico">anhídrido carbónico</a>. Esta denominación se extendió luego a todos los <i>cuerpos gaseosos</i>, también llamados <i>fluidos elásticos</i>, <i>fluidos compresibles</i> o <i>aires</i>, y se utiliza para designar uno de los estados de la <a href="/wiki/Materia" title="Materia">materia</a>.
+</p>
+<p>La principal característica de los gases respecto de los sólidos y los líquidos, es que no pueden verse ni tocarse, pero también se encuentran compuestos de átomos y moléculas.
+</p>
+<p>La causa de la naturaleza del gas se encuentra en sus moléculas, muy separadas unas de otras y con movimientos aleatorios entre sí. Al igual que ocurre con los otros dos estados de la materia, el gas también puede transformarse (en líquido) si se somete a temperaturas muy bajas. A este proceso se le denomina <a class="mw-redirect" href="/wiki/Condensaci%C3%B3n_(f%C3%ADsica)" title="Condensación (física)">condensación</a> en el caso de los vapores y <a href="/wiki/Licuefacci%C3%B3n_de_gases" title="Licuefacción de gases">licuefacción</a> en el caso de los <i>gases perfectos</i>.
+</p>
+<p>La mayoría de los gases necesitan temperaturas muy bajas para lograr condensarse. Por ejemplo, en el caso del <a href="/wiki/Ox%C3%ADgeno" title="Oxígeno">oxígeno</a>, la temperatura necesaria es de –183 °C.<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Las primeras <a href="/wiki/Leyes_de_los_gases" title="Leyes de los gases">leyes de los gases</a> fueron desarrollados desde finales del siglo <span style="font-variant:small-caps;text-transform:lowercase">XVII</span>, cuando los científicos empezaron a darse cuenta de que en las relaciones entre la presión, el volumen y la temperatura de una muestra de gas, en un <a href="/wiki/Sistema_cerrado" title="Sistema cerrado">sistema cerrado</a>, se podría obtener una fórmula que sería válida para todos los gases. Estos se comportan de forma similar en una amplia variedad de condiciones, debido a la buena aproximación que tienen las moléculas que se encuentran más separadas, y hoy en día la ecuación de estado para un gas ideal se deriva de la <a class="mw-redirect" href="/wiki/Teor%C3%ADa_cin%C3%A9tica" title="Teoría cinética">teoría cinética</a>. Ahora las leyes anteriores de los gases se consideran como casos especiales de la ecuación del gas ideal, con una o más de las variables mantenidas constantes.
+</p>
+<p>Empíricamente, se observan una serie de relaciones <a href="/wiki/Proporcionalidad" title="Proporcionalidad">proporcionales</a> entre la <a href="/wiki/Temperatura" title="Temperatura">temperatura</a>, la <a href="/wiki/Presi%C3%B3n" title="Presión">presión</a> y el <a class="mw-redirect" href="/wiki/Volumen_(f%C3%ADsica)" title="Volumen (física)">volumen</a> que dan lugar a la ley de los gases ideales, deducida por primera vez por <a href="/wiki/%C3%89mile_Clapeyron" title="Émile Clapeyron">Émile Clapeyron</a> en 1834.
+</p>
+<p>Al observar un gas, es típico especificar un marco de referencia o una escala de longitud. Una escala de longitud mayor corresponde a un punto de vista macroscópico o global del gas. Esta región (denominada <a href="/wiki/Volumen" title="Volumen">volumen</a>) debe tener un tamaño suficiente para contener una gran muestra de partículas de gas. El <a class="mw-redirect" href="/wiki/An%C3%A1lisis_estad%C3%ADstico" title="Análisis estadístico">análisis estadístico</a> resultante de este tamaño de muestra produce el comportamiento "promedio" (es decir, velocidad, temperatura o <a href="/wiki/Presi%C3%B3n" title="Presión">presión</a>) de todas las partículas de gas dentro de la región. Por el contrario, una escala de longitud más pequeña corresponde a un punto de vista microscópico o de partículas.
+</p>
+<p>Macroscópicamente, las características del gas medidas son en términos de las propias partículas del gas (velocidad, presión o temperatura) o de su entorno (volumen). Por ejemplo, <a href="/wiki/Robert_Boyle" title="Robert Boyle">Robert Boyle</a> estudió química neumática durante una pequeña parte de su carrera. Uno de sus experimentos relacionó las propiedades macroscópicas de la presión y el volumen de un gas. Su experimento utilizó un <a href="/wiki/Man%C3%B3metro" title="Manómetro">manómetro</a> de tubo en J que parece un tubo de ensayo con la forma de la letra J. Boyle atrapó un gas inerte en el extremo cerrado del tubo de ensayo con una columna de mercurio, lo que hace que el número de partículas y la temperatura sean constantes. Observó que cuando se aumentaba la presión en el gas, al agregar más mercurio a la columna, el volumen del gas atrapado disminuía (esto se conoce como relación inversa). Además, cuando Boyle multiplicó la presión y el volumen de cada observación, el producto fue constante. Esta relación se mantuvo para cada gas que Boyle observó que condujo a la ley (PV = k), nombrada en honor a su trabajo en este campo.
+</p>
+<p>Hay muchas herramientas matemáticas disponibles para analizar las propiedades de los gases. A medida que los gases están sujetos a condiciones extremas, estas herramientas se vuelven más complejas, desde las <a href="/wiki/Ecuaciones_de_Euler_(fluidos)" title="Ecuaciones de Euler (fluidos)">ecuaciones de Euler</a> para el <a href="/wiki/Flujo_no_viscoso" title="Flujo no viscoso">flujo no viscoso</a> hasta las <a href="/wiki/Ecuaciones_de_Navier-Stokes" title="Ecuaciones de Navier-Stokes">ecuaciones de Navier-Stokes</a> <sup class="reference separada" id="cite_ref-8"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ que explican completamente los efectos viscosos. Estas ecuaciones se adaptan a las condiciones del sistema de gas en cuestión. El equipo de laboratorio de Boyle permitió el uso de álgebra para obtener sus resultados analíticos. Sus resultados fueron posibles porque estaba estudiando gases en situaciones de presión relativamente baja donde se comportaban de una manera "ideal". Estas relaciones ideales se aplican a los cálculos de seguridad para una variedad de condiciones de vuelo en los materiales en uso. El equipo de alta tecnología que se utiliza hoy en día fue diseñado para ayudarnos a explorar con seguridad los entornos operativos más exóticos donde los gases ya no se comportan de una manera "ideal". Esta matemática avanzada, que incluye estadísticas y cálculo multivariable, posibilita la solución a situaciones dinámicas tan complejas como la reentrada de vehículos espaciales. Un ejemplo es el análisis de la reentrada del transbordador espacial que se muestra en la imagen para garantizar que las propiedades del material bajo esta condición de carga sean adecuadas. En este régimen de vuelo, el gas ya no se comporta de manera ideal.
+</p>
+<p>Existen diversas leyes derivadas de modelos simplificados de la realidad que relacionan la <a href="/wiki/Presi%C3%B3n" title="Presión">presión</a>, el <a class="mw-redirect" href="/wiki/Volumen_(f%C3%ADsica)" title="Volumen (física)">volumen</a> y la <a href="/wiki/Temperatura" title="Temperatura">temperatura</a> de un gas.
+</p>
+<p>La Ley de Boyle-Mariotte (o <b>Ley de Boyle</b>), formulada por <a href="/wiki/Robert_Boyle" title="Robert Boyle">Robert Boyle</a> y <a href="/wiki/Edme_Mariotte" title="Edme Mariotte">Edme Mariotte</a>, es una de las <a href="/wiki/Leyes_de_los_gases" title="Leyes de los gases">leyes de los gases</a> que relaciona el <a class="mw-redirect" href="/wiki/Volumen_(f%C3%ADsica)" title="Volumen (física)">volumen</a> y la <a href="/wiki/Presi%C3%B3n" title="Presión">presión</a> de una cierta cantidad de gas mantenida a <a href="/wiki/Temperatura" title="Temperatura">temperatura</a> constante. La ley dice que a una temperatura constante y para una masa dada de un gas, el volumen del gas varía de manera inversamente proporcional a la presión absoluta del recipiente:
+</p>
+<p>Matemáticamente se puede expresar así:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle PV=k\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mi>V</mi>
+<mo>=</mo>
+<mi>k</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle PV=k\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle PV=k\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ce7ae2646f1c0def0d580e375739cf60803b830d" style="vertical-align: -0.338ex; width:8.229ex; height:2.176ex;"/></span>
+</p>
+<p>donde <span style="vertical-align:20%;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle k\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>k</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle k\,}</annotation>
+</semantics>
+</math></span><img alt="k\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a5665cb00a844c1c6a671c119c6e4984d28fb851" style="vertical-align: -0.338ex; width:1.598ex; height:2.176ex;"/></span></span> es constante si la temperatura y la masa del gas permanecen constantes.<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Cuando aumenta la presión el volumen baja, mientras que si la presión disminuye el volumen aumenta. No es necesario conocer el valor exacto de la constante <span style="vertical-align:20%;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle k\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>k</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle k\,}</annotation>
+</semantics>
+</math></span><img alt="k\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a5665cb00a844c1c6a671c119c6e4984d28fb851" style="vertical-align: -0.338ex; width:1.598ex; height:2.176ex;"/></span></span> para poder hacer uso de la ley: si consideramos las dos situaciones de la figura, manteniendo constante la cantidad de gas y la temperatura, deberá cumplirse la relación:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{1}V_{1}=P_{2}V_{2}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{1}V_{1}=P_{2}V_{2}\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{1}V_{1}=P_{2}V_{2}\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a2dd1868807950e6d55cd6205b1cfbff69b88fa3" style="vertical-align: -0.671ex; width:13.398ex; height:2.509ex;"/></span>
+</p>
+<p>donde:
+</p>
+<p>Además, si se despeja cualquier incógnita se obtiene lo siguiente:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{1}={\frac {P_{2}V_{2}}{V_{1}}}\qquad V_{1}={\frac {P_{2}V_{2}}{P_{1}}}\qquad P_{2}={\frac {P_{1}V_{1}}{V_{2}}}\qquad V_{2}={\frac {P_{1}V_{1}}{P_{2}}}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mspace width="2em"></mspace>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mspace width="2em"></mspace>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mspace width="2em"></mspace>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{1}={\frac {P_{2}V_{2}}{V_{1}}}\qquad V_{1}={\frac {P_{2}V_{2}}{P_{1}}}\qquad P_{2}={\frac {P_{1}V_{1}}{V_{2}}}\qquad V_{2}={\frac {P_{1}V_{1}}{P_{2}}}\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{1}={\frac {P_{2}V_{2}}{V_{1}}}\qquad V_{1}={\frac {P_{2}V_{2}}{P_{1}}}\qquad P_{2}={\frac {P_{1}V_{1}}{V_{2}}}\qquad V_{2}={\frac {P_{1}V_{1}}{P_{2}}}\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0e518b11b7e84f4f72d0b42f82160292f7a9205d" style="vertical-align: -2.171ex; width:59.797ex; height:5.509ex;"/></span>
+</p>
+<p>A una presión dada, el volumen ocupado por una cierta cantidad de un gas es directamente proporcional a su temperatura en <a class="mw-redirect" href="/wiki/Grado_kelvin" title="Grado kelvin">kelvin</a>.<sup class="reference separada" id="cite_ref-MMM_10-0"><a href="#cite_note-MMM-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Matemáticamente la expresión sería:
+</p>
+<p>en términos generales:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V_{1}\cdot T_{2}=V_{2}\cdot T_{1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V_{1}\cdot T_{2}=V_{2}\cdot T_{1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V_{1}\cdot T_{2}=V_{2}\cdot T_{1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3c5f3f38f61f22113380f7c2e4779834f3bd3985" style="vertical-align: -0.671ex; width:16.099ex; height:2.509ex;"/></span>
+</p>
+<p>La presión de una cierta cantidad de gas, que se mantiene a volumen constante, es directamente proporcional a la temperatura en <a class="mw-redirect" href="/wiki/Grado_kelvin" title="Grado kelvin">kelvin</a>:<sup class="reference separada" id="cite_ref-MMM_10-1"><a href="#cite_note-MMM-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Es por esto que para poder envasar gas, como gas licuado, primero ha de enfriarse el volumen de gas deseado, hasta una temperatura característica de cada gas, a fin de poder someterlo a la presión requerida para licuarlo sin que se sobrecaliente y eventualmente, explote.
+</p>
+<p>Combinando las tres leyes anteriores se obtiene:
+</p>
+<p>De la <a href="/wiki/Ley_general_de_los_gases" title="Ley general de los gases">ley general de los gases</a> se obtiene la ley de los <a class="mw-redirect" href="/wiki/Gases_ideales" title="Gases ideales">gases ideales</a>.<sup class="reference separada" id="cite_ref-MMM_10-2"><a href="#cite_note-MMM-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​ Su expresión matemática es:
+</p>
+<p>siendo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+</semantics>
+</math></span><img alt="P" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a" style="vertical-align: -0.338ex; width:1.745ex; height:2.176ex;"/></span> la <a href="/wiki/Presi%C3%B3n" title="Presión">presión</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+</semantics>
+</math></span><img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.787ex; height:2.176ex;"/></span> el <a class="mw-redirect" href="/wiki/Volumen_(f%C3%ADsica)" title="Volumen (física)">volumen</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+</semantics>
+</math></span><img alt="n" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;"/></span> el número de <a href="/wiki/Mol" title="Mol">moles</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle R}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>R</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R}</annotation>
+</semantics>
+</math></span><img alt="R" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;"/></span> la <a class="mw-redirect" href="/wiki/Constante_universal_de_los_gases_ideales" title="Constante universal de los gases ideales">constante universal de los gases ideales</a> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.636ex; height:2.176ex;"/></span> la <a href="/wiki/Temperatura" title="Temperatura">temperatura</a> en <a class="mw-redirect" href="/wiki/Grado_kelvin" title="Grado kelvin">kelvin</a>. Tomando el volumen de un mol a una atmósfera de presión y a 273 K, como 22,4 L se obtiene el valor de R = 0,082 atm·<a href="/wiki/Litro" title="Litro">L</a>·K<sup>−1</sup>·mol<sup>−1</sup>
+</p>
+<p>El valor de R depende de las unidades que se estén utilizando:
+</p>
+<p>De esta <a href="/wiki/Ley_cient%C3%ADfica" title="Ley científica">ley</a> se deduce que un mol (6,022 x 10<sup>23</sup> átomos o moléculas) de gas ideal ocupa siempre un volumen igual a 22,4 <a href="/wiki/Litro" title="Litro">litros</a> a 0 <a class="mw-redirect" href="/wiki/Grados_Celsius" title="Grados Celsius">°C</a> y 1 <a href="/wiki/Atm%C3%B3sfera_(unidad)" title="Atmósfera (unidad)">atmósfera</a>. Véase también <a href="/wiki/Volumen_molar" title="Volumen molar">Volumen molar</a>. También se le llama la ecuación de estado de los gases, ya que solo depende del estado actual en que se encuentre el gas.
+</p>
+<p>Si se quiere afinar más, o si se quiere medir el comportamiento de algún gas que escapa al comportamiento ideal, habrá que recurrir a las ecuaciones de los <a href="/wiki/Gas_real" title="Gas real">gases reales</a>, que son variadas y más complicadas cuanto más precisas.
+</p>
+<p>Los gases reales no se expanden infinitamente, sino que llegaría un momento en el que no ocuparían más volumen. Esto se debe a que entre sus partículas, ya sean <a href="/wiki/%C3%81tomo" title="Átomo">átomos</a> como en los gases nobles o <a href="/wiki/Mol%C3%A9cula" title="Molécula">moléculas</a> como en el (O<sub>2</sub>) y la mayoría de los gases, se establecen unas fuerzas bastante pequeñas, debido a los cambios aleatorios de sus cargas electrostáticas, a las que se llama <a href="/wiki/Fuerzas_de_Van_der_Waals" title="Fuerzas de Van der Waals">fuerzas de Van der Waals</a>.
+</p>
+<p>El comportamiento de un gas suele concordar más con el comportamiento ideal cuanto más sencilla sea su fórmula química y cuanto menor sea su <a href="/wiki/Reactividad" title="Reactividad">reactividad</a> ( tendencia a formar enlaces). Así, por ejemplo, los <a href="/wiki/Gases_nobles" title="Gases nobles">gases nobles</a> al ser moléculas monoatómicas y tener muy baja reactividad, sobre todo el <a href="/wiki/Helio" title="Helio">helio</a>, tendrán un comportamiento bastante cercano al ideal. Les seguirán los gases diatómicos, en particular el más liviano <a href="/wiki/Dihidr%C3%B3geno" title="Dihidrógeno">hidrógeno</a>. Menos ideales serán los triatómicos, como el <a href="/wiki/Di%C3%B3xido_de_carbono" title="Dióxido de carbono">dióxido de carbono</a>; el caso del <a href="/wiki/Vapor_de_agua" title="Vapor de agua">vapor de agua</a> aún es peor, ya que la molécula al ser polar tiende a establecer <a class="mw-redirect" href="/wiki/Enlace_por_puente_de_hidr%C3%B3geno" title="Enlace por puente de hidrógeno">puentes de hidrógeno</a>, lo que aún reduce más la idealidad. Dentro de los gases orgánicos, el que tendrá un comportamiento más ideal será el <a href="/wiki/Metano" title="Metano">metano</a>, perdiendo idealidad a medida que se engrosa la cadena de carbono. Así, el <a href="/wiki/Butano" title="Butano">butano</a> es de esperar que tenga un comportamiento ya bastante alejado de la idealidad. Esto es, porque cuanto más grande es la partícula constituyente del gas, mayor es la probabilidad de colisión e interacción entre ellas, factor que hace disminuir la idealidad. Algunos de estos gases se pueden aproximar bastante bien mediante las ecuaciones ideales, mientras que en otros casos hará falta recurrir a ecuaciones reales muchas veces deducidas empíricamente a partir del ajuste de parámetros.
+</p>
+<p>También se pierde la idealidad en condiciones extremas, como altas presiones o bajas temperaturas. Por otra parte, la concordancia con la idealidad puede aumentar si trabajamos a bajas presiones o altas temperaturas. También por su estabilidad química.
+</p>
+<p>Si fuera posible observar un gas a través de un microscopio suficientemente potente como para ver las partículas que lo forman (<a href="/wiki/Mol%C3%A9cula" title="Molécula">moléculas</a>, <a href="/wiki/%C3%81tomo" title="Átomo">átomos</a>, <a href="/wiki/Ion" title="Ion">iones</a>), las veríamos moviéndose de una manera más o menos aleatoria. Estas partículas que forman el gas solo cambian la dirección de su movimiento cuando colisionan con otra partícula o contra las paredes del contenedor. Si consideramos que estas colisiones son perfectamente elásticas , podremos considerar la sustancia como un gas ideal. El comportamiento de las partículas a nivel microscópico es descrito por la <a href="/wiki/Teor%C3%ADa_cin%C3%A9tica_de_los_gases" title="Teoría cinética de los gases">teoría cinética de los gases</a>.
+</p>
+<p>La teoría cinética proporciona información sobre las propiedades macroscópicas de los gases al considerar su composición molecular y su movimiento. Comenzando con las definiciones de momento y <a href="/wiki/Energ%C3%ADa_cin%C3%A9tica" title="Energía cinética">energía cinética</a> [16] se puede usar la conservación del momento y las relaciones geométricas de un cubo para relacionar las propiedades macroscópicas del sistema de temperatura y presión con la propiedad microscópica de la energía cinética por molécula. La teoría proporciona valores promediados para estas dos propiedades.
+</p>
+<p>La teoría cinética de los gases puede ayudar a explicar cómo el sistema (considerando la colección de partículas de gas) responde a los cambios de temperatura, con el correspondiente cambio de energía cinética.
+</p>
+<p>Por ejemplo: imagine que tiene un recipiente sellado de tamaño fijo (volumen constante), que contiene un número fijo de partículas de gas; partiendo del cero absoluto (la temperatura teórica a la que los átomos o moléculas no tienen energía térmica, es decir, no se mueven ni vibran), se empieza a añadir energía al sistema calentando el recipiente, de modo que la energía se transfiera a las partículas del interior. Una vez que su energía interna está por encima de la energía de punto cero, es decir, su energía cinética (también conocida como energía térmica) es distinto de cero, las partículas de gas comenzarán a moverse alrededor del contenedor. A medida que la caja se calienta más (a medida que se agrega más energía), las partículas individuales aumentan su velocidad promedio a medida que aumenta la energía interna total del sistema. La mayor velocidad promedio de todas las partículas conduce a una mayor velocidad a la que ocurren las colisiones (es decir, mayor número de colisiones por unidad de tiempo), entre las partículas y el contenedor, así como entre las partículas mismas.
+</p>
+<p>A nivel macroscópico la cantidad medible de la presión, es el resultado directo de estas micro colisiones de partículas escópicos con la superficie, sobre la que, moléculas individuales ejercen una pequeña fuerza, cada uno contribuyendo a la fuerza total aplicada dentro de un área específica.
+</p>
+<p>Asimismo, la cantidad de temperatura medible macroscópicamente es una cuantificación de la cantidad total de movimiento o energía cinética que exhiben las partículas.
+</p>
+<p>El <a href="/wiki/Movimiento_browniano" title="Movimiento browniano">movimiento browniano</a> es el modelo matemático utilizado para describir el movimiento aleatorio de partículas suspendidas en un fluido. La animación de las partículas de gas, usando partículas rosadas y verdes, ilustra cómo este comportamiento da como resultado la propagación de los gases ( entropía ). Estos eventos también se describen mediante la teoría de partículas .
+</p>
+<p>Dado que está en el límite (o más allá) de la tecnología actual para observar partículas de gas individuales (átomos o moléculas), solo los cálculos teóricos dan sugerencias sobre cómo se mueven, pero su movimiento es diferente del movimiento browniano porque el movimiento browniano implica un arrastre suave debido a la fuerza de fricción de muchas moléculas de gas, puntuada por violentas colisiones de una (o varias) molécula (s) de gas con la partícula. La partícula (que generalmente consta de millones o miles de millones de átomos) se mueve así en un curso irregular, pero no tan irregular como se esperaría si se examinara una molécula de gas individual.
+</p>
+<p>Al comprimir un gas, las fuerzas intermoleculares, como los enlaces de hidrógeno entre las moléculas de agua de la imagen, comienzan a tener un papel más activo.
+</p>
+<p>Las atracciones o repulsiones momentáneas entre las partículas tienen un efecto sobre la dinámica del gas. En química física, el nombre que reciben las fuerzas intermoleculares es el de fuerzas de van der Waals. Estas fuerzas tienen un papel en la determinación de las propiedades físicas de un gas, como por ejemplo su viscosidad o su flujo volumétrico. Si ignoramos estas fuerzas en determinadas condiciones podremos tratar un gas real como si fuera un gas ideal, esta asunción nos permitirá utilizar la ley de los gases ideales. La correcta utilización de estas relaciones a los gases requiere volver a la teoría cinética. Cuando las partículas del gas poseen una carga magnética o fuerza intermolecular su influencia sobre las otras moléculas se incrementa a medida que se reduce el espacio que hay entre ellas. En ausencia de cargas, a un punto determinado donde el espacio entre las partículas se ha reducido lo suficiente ya no se pueden evitar las colisiones entre las partículas a una temperatura normal.
+</p>
+<p>Otra vía para incrementar el número de colisiones entre las partículas de una gas sería calentar un determinado volumen fijo de gas, además temperatura más velocidad de las partículas y más probabilidad de que haya colisiones. Todo esto significa que estas ecuaciones ideales proporcionan unos resultados razonables excepto para casos con una gran presión o temperatura (ionización). Estas condiciones excepcionales permiten la transferencia de energía en el interior del gas, y es precisamente la ausencia de transferencias internas de energía lo que permite hablar de condiciones ideales, a las que el intercambio de energía solo se produce en los límites del sistema.
+</p>
+<p>Los gases reales experimentan algunas de estas colisiones y fuerzas intermoleculares, pero mientras sean estadísticamente despreciables los resultados de las ecuaciones ideales seguirán siendo válidos. Por otro lado, cuando las partículas de un gas son comprimidas por lo que son muy cercanas las unas de las otras, el gas se comporta de manera más parecida a un líquido, es la ausencia de transferencias internas de energía lo que nos permite hablar de condiciones ideales, a las que el intercambio de energía solo se produce en los límites del sistema. Los gases reales experimentan algunas de estas colisiones y fuerzas intermoleculares, pero mientras sean estadísticamente despreciables los resultados de las ecuaciones ideales seguirán siendo válidos. 
+</p>
+<p>Para el comportamiento térmico de partículas de la materia existen cuatro cantidades medibles que son de gran interés: <a href="/wiki/Presi%C3%B3n" title="Presión">presión</a>, <a href="/wiki/Volumen" title="Volumen">volumen</a>, <a href="/wiki/Temperatura" title="Temperatura">temperatura</a> y <a href="/wiki/Masa" title="Masa">masa</a> de la muestra del material (o mejor aún <a href="/wiki/Cantidad_de_sustancia" title="Cantidad de sustancia">cantidad de sustancia</a>, medida en <a href="/wiki/Mol" title="Mol">moles</a>).
+</p>
+<p>Cualquier gas se considera un <a href="/wiki/Fluido" title="Fluido">fluido</a> porque tiene las propiedades que le permiten comportarse como tal.
+</p>
+<p>Sus moléculas, en continuo movimiento, colisionan <a href="/wiki/Choque_el%C3%A1stico" title="Choque elástico">elásticamente</a> entre sí y contra las paredes del recipiente que contiene al gas, contra las que ejercen una presión permanente. Si el gas se calienta, esta energía calorífica se invierte en energía cinética de las moléculas, es decir, las moléculas se mueven con mayor velocidad, por lo que el número de choques contra las paredes del recipiente aumenta en número y energía. Como consecuencia la presión del gas aumenta, y si las paredes del recipiente no son rígidas, el volumen del gas aumenta.
+</p>
+<p>Un gas tiende a ser activo químicamente debido a que su superficie molecular es también grande, es decir, al estar sus partículas en continuo movimiento chocando unas con otras, esto hace más fácil el contacto entre una sustancia y otra, aumentando la velocidad de reacción en comparación con los líquidos o los sólidos.
+</p>
+<p>Para entender mejor el comportamiento de un gas, siempre se realizan estudios con respecto al gas ideal, aunque este en realidad nunca existe y las propiedades de este son:
+</p>
+<p>Para explicar el comportamiento de los gases, las nuevas teorías utilizan tanto la estadística como la teoría cuántica, además de experimentar con gases de diferentes propiedades o propiedades límite, como el <a href="/wiki/Hexafluoruro_de_uranio" title="Hexafluoruro de uranio">UF<sub>6</sub></a>, que es el gas más pesado conocido.
+</p>
+<p>Un gas no tiene forma ni volumen fijo; se caracteriza por la casi nula cohesión y la gran energía cinética de sus moléculas, las cuales se mueven.
+</p>
+<p>El efecto de la temperatura y la presión en los sólidos y líquidos es muy pequeño, por lo que típicamente la <a href="/wiki/Compresibilidad" title="Compresibilidad">compresibilidad</a> de un líquido o sólido es de 10<sup>−6</sup> <a href="/wiki/Bar_(unidad_de_presi%C3%B3n)" title="Bar (unidad de presión)">bar</a><sup>−1</sup> (1 bar=0,1 MPa) y el <a href="/wiki/Coeficiente_de_dilataci%C3%B3n" title="Coeficiente de dilatación">coeficiente de dilatación</a> térmica es de 10<sup>−5</sup> <a href="/wiki/Kelvin" title="Kelvin">K</a><sup>−1</sup>.
+</p>
+<p>Por otro lado, la <a href="/wiki/Densidad" title="Densidad">densidad</a> de los gases es fuertemente afectada por la presión y la temperatura. La <a href="/wiki/Ley_de_los_gases_ideales" title="Ley de los gases ideales">ley de los gases ideales</a> describe matemáticamente la relación entre estas tres magnitudes:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \rho ={\frac {p\,M}{R\,T}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ρ<!-- ρ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>p</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>M</mi>
+</mrow>
+<mrow>
+<mi>R</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \rho ={\frac {p\,M}{R\,T}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \rho ={\frac {p\,M}{R\,T}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2a22cd65f428595c1db914ca898ab9340959418f" style="vertical-align: -2.005ex; width:9.135ex; height:5.509ex;"/></span>
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle R\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>R</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R\,}</annotation>
+</semantics>
+</math></span><img alt="R\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/293563891196765d2d51e0dd54e1ae1000ba9def" style="vertical-align: -0.338ex; width:2.151ex; height:2.176ex;"/></span> es la <a class="mw-redirect" href="/wiki/Constante_universal_de_los_gases_ideales" title="Constante universal de los gases ideales">constante universal de los gases ideales</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p\,}</annotation>
+</semantics>
+</math></span><img alt="p\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e4fa5f88a712eb9b03398066a0577fdcf33e02c6" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.646ex; height:2.009ex;"/></span> es la presión del gas, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle M\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>M</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M\,}</annotation>
+</semantics>
+</math></span><img alt="M\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aa66ea8156203e93f2dca12aca24538c2bdce761" style="vertical-align: -0.338ex; width:2.829ex; height:2.176ex;"/></span> su <a href="/wiki/Masa_molar" title="Masa molar">masa molar</a> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T\,}</annotation>
+</semantics>
+</math></span><img alt="T\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/476a8389064c06ab89963a2467aef525838da0cf" style="vertical-align: -0.338ex; width:2.023ex; height:2.176ex;"/></span> la <a href="/wiki/Temperatura_absoluta" title="Temperatura absoluta">temperatura absoluta</a>.
+</p>
+<p>Eso significa que un gas ideal a 300 <a href="/wiki/Kelvin" title="Kelvin">K</a> (27 <a href="/wiki/Grado_Celsius" title="Grado Celsius">°C</a>) y 1 <a href="/wiki/Atm%C3%B3sfera_(unidad)" title="Atmósfera (unidad)">atm</a> duplicará su densidad si se aumenta la presión a 2 atm manteniendo la temperatura constante o, alternativamente, se reduce su temperatura a 150 <a href="/wiki/Kelvin" title="Kelvin">K</a> manteniendo la presión constante.
+</p>
+<p>En el marco de la <a class="mw-redirect" href="/wiki/Teor%C3%ADa_cin%C3%A9tica" title="Teoría cinética">teoría cinética</a>, la <a href="/wiki/Presi%C3%B3n" title="Presión">presión</a> de un gas es explicada como el resultado macroscópico de las fuerzas implicadas por las colisiones de las moléculas del gas con las paredes del contenedor. La presión puede definirse por lo tanto haciendo referencia a las propiedades microscópicas del gas.
+</p>
+<p>En efecto, para un gas ideal con <i>N</i> moléculas, cada una de <a href="/wiki/Masa" title="Masa">masa</a> <i>m</i> y moviéndose con una velocidad aleatoria promedio <b>v<sub>rms</sub></b> contenido en un volumen cúbico <i>V</i>, las partículas del gas impactan con las paredes del recipiente de una manera que puede calcularse de manera estadística intercambiando <a class="mw-redirect" href="/wiki/Momento_lineal" title="Momento lineal">momento lineal</a> con las paredes en cada choque y efectuando una <a href="/wiki/Fuerza" title="Fuerza">fuerza</a> neta por unidad de <a href="/wiki/%C3%81rea" title="Área">área</a>, que es la presión ejercida por el gas sobre la superficie sólida.
+</p>
+<p>La presión puede calcularse como:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P={Nmv_{rms}^{2} \over 3V}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>N</mi>
+<mi>m</mi>
+<msubsup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+<mi>m</mi>
+<mi>s</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mrow>
+<mrow>
+<mn>3</mn>
+<mi>V</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P={Nmv_{rms}^{2} \over 3V}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P={Nmv_{rms}^{2} \over 3V}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/191f3af482b4dc36cd18449d76405d4c20f5f064" style="vertical-align: -2.005ex; width:14.099ex; height:5.676ex;"/></span> (gas ideal)
+</p>
+<p>Este resultado es interesante y significativo no solo por ofrecer una forma de calcular la presión de un gas sino porque relaciona una variable macroscópica observable, la presión, con la <a href="/wiki/Energ%C3%ADa_cin%C3%A9tica" title="Energía cinética">energía cinética</a> promedio por molécula, <i>1/2 mv<sub>rms</sub>²</i>, que es una magnitud microscópica no observable directamente. Nótese que el producto de la presión por el volumen del recipiente es dos tercios de la energía cinética total de las moléculas de gas contenidas.
+</p>
+<p>En termodinámica se utiliza este factor ("Z") para alterar la ecuación del gas ideal para tener en cuenta los efectos de compresibilidad de los gases reales. Este factor representa la relación entre los volúmenes específicos reales y los ideales. A veces se lo denomina "factor de modificación" o corrección para ampliar el rango útil de la ley de los gases ideales para fines de diseño. <i>Normalmente</i> este valor de <i>Z</i> está muy cerca de la unidad. La imagen del factor de compresibilidad ilustra cómo Z varía en un rango de temperaturas muy frías.
+</p>
+<p>En mecánica de fluidos, el número de Reynolds es la relación entre las fuerzas de inercia (<i>v<sub>s</sub>ρ</i>) y las fuerzas viscosas (<i>μ/L</i>). Es uno de los números adimensionales más importantes en la dinámica de fluidos y se usa, generalmente junto con otros números adimensionales, para proporcionar un criterio para determinar la similitud dinámica. Como tal, el número de Reynolds proporciona el vínculo entre los resultados del modelado (diseño) y las condiciones reales a gran escala. También se puede utilizar para caracterizar el flujo.<sup class="reference separada" id="cite_ref-VVV_11-0"><a href="#cite_note-VVV-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La viscosidad, una propiedad física, es una medida de qué tan bien se adhieren las moléculas adyacentes entre sí. Un sólido puede soportar una fuerza de cizallamiento debido a la fuerza de estas fuerzas intermoleculares pegajosas. Un fluido se deformará continuamente cuando se somete a una carga similar. Si bien un gas tiene un valor de viscosidad más bajo que un líquido, sigue siendo una propiedad observable. Si los gases no tuvieran viscosidad, entonces no se adherirían a la superficie de un <a href="/wiki/Ala_delta" title="Ala delta">ala delta</a> y formarían una capa límite. Un estudio del ala delta en la imagen de Schlieren revela que las partículas de gas se adhieren entre sí.<sup class="reference separada" id="cite_ref-VVV_11-1"><a href="#cite_note-VVV-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En la dinámica de fluidos, la turbulencia o el flujo turbulento es un régimen de flujo caracterizado por cambios caóticos y estocásticos en las propiedades. Esto incluye difusión de momento bajo, convección de momento alto y variación rápida de presión y velocidad en el espacio y el tiempo. La vista satelital del clima alrededor de las islas Juan Fernández ilustra un ejemplo.<sup class="reference separada" id="cite_ref-VVV_11-2"><a href="#cite_note-VVV-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Las partículas se "pegan" a la superficie de un objeto que se mueva a través de él. Esta capa de partículas se llama capa límite. En la superficie del objeto, es esencialmente estático debido a la fricción de la superficie. El objeto, con su capa límite, es efectivamente la nueva forma del objeto que el resto de las moléculas "ven" a medida que el objeto se acerca. Esta capa límite puede separarse de la superficie, esencialmente creando una nueva superficie y cambiando por completo la trayectoria del flujo. El ejemplo clásico de esto es un perfil alar que <a href="/wiki/Entrada_en_p%C3%A9rdida" title="Entrada en pérdida">entra en pérdida</a>. La imagen del ala delta muestra claramente el engrosamiento de la capa límite a medida que el gas fluye de derecha a izquierda a lo largo del borde de ataque.<sup class="reference separada" id="cite_ref-VVV_11-3"><a href="#cite_note-VVV-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>A medida que el número total de <a href="/wiki/Grado_de_libertad_(f%C3%ADsica)" title="Grado de libertad (física)">grados de libertad</a> se acerca al infinito, el sistema se encontrará en el <a class="mw-redirect" href="/wiki/Macroestado" title="Macroestado">macroestado</a> que corresponde a la mayor <a href="/wiki/Multiplicidad_(matem%C3%A1ticas)" title="Multiplicidad (matemáticas)">multiplicidad</a>. Para ilustrar este principio, observe la temperatura de la superficie de una barra de metal congelada. Usando una imagen térmica de la temperatura de la superficie, observe la distribución de temperatura en la superficie. Esta observación inicial de temperatura representa un "<a class="mw-redirect" href="/wiki/Microestado" title="Microestado">microestado</a>". En algún momento futuro, una segunda observación de la temperatura de la superficie produce un segundo microestado. Al continuar este proceso de observación, es posible producir una serie de microestados que ilustran la historia térmica de la superficie de la barra. La caracterización de esta serie histórica de microestados es posible eligiendo el macroestado que los clasifica con éxito a todos en una sola agrupación.
+</p>
+<p>Cuando cesa la transferencia de energía de un sistema, esta condición se conoce como equilibrio termodinámico. Por lo general, esta condición implica que el sistema y los alrededores están a la misma temperatura, por lo que el calor ya no se transfiere entre ellos. También implica que las fuerzas externas están equilibradas (el volumen no cambia) y que todas las reacciones químicas dentro del sistema están completas. El cronograma varía para estos eventos según el sistema en cuestión. Un contenedor de <a href="/wiki/Hielo" title="Hielo">hielo</a> que se derrite a temperatura ambiente lleva horas, mientras que en los semiconductores la transferencia de calor que ocurre en la transición del dispositivo de un estado encendido a apagado podría ser del orden de unos pocos <a href="/wiki/Nanosegundo" title="Nanosegundo">nanosegundos</a>.
+</p>

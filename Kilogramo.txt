@@ -1,0 +1,310 @@
+<p>El <b>kilogramo</b><sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>nota 2<span class="corchete-llamada">]</span></a></sup>​ (símbolo: <b>kg</b>),<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>nota 3<span class="corchete-llamada">]</span></a></sup>​ es la <a href="/wiki/Unidades_b%C3%A1sicas_del_Sistema_Internacional" title="Unidades básicas del Sistema Internacional">unidad básica</a> de <a href="/wiki/Masa" title="Masa">masa</a> del <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a> (SI). Es una medida ampliamente utilizada en la ciencia, la ingeniería y el comercio en todo el mundo, y a menudo simplemente se le llama kilo en el habla cotidiana.
+</p>
+<p>Es la única unidad básica que emplea un prefijo y la última unidad del SI que siguió definiéndose por un objeto patrón y no por una característica física fundamental.<sup class="reference separada" id="cite_ref-re_7-0"><a href="#cite_note-re-7"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ El 20 de mayo de 2019 su <a href="#Redefinición_del_patrón">definición</a> pasó a estar ligada con la <a href="/wiki/Constante_de_Planck" title="Constante de Planck">constante de Planck</a>, una <a href="/wiki/Constante_f%C3%ADsica" title="Constante física">constante natural</a> que describe los paquetes de energía emitidos en forma de radiación. Esto permite que un laboratorio de metrología debidamente equipado calibre un instrumento de medición de masa como una <a class="mw-redirect" href="/wiki/Balanza_de_Watt" title="Balanza de Watt">balanza de potencia</a>.<sup class="reference separada" id="cite_ref-redifinición_8-0"><a href="#cite_note-redifinición-8"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-redifinición_2_9-0"><a href="#cite_note-redifinición_2-9"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La definición oficial del kilogramo, de acuerdo con la <a href="/wiki/Conferencia_General_de_Pesas_y_Medidas" title="Conferencia General de Pesas y Medidas">Conferencia General de Pesas y Medidas</a>, es:
+<style data-mw-deduplicate="TemplateStyles:r149592375">.mw-parser-output .flexquote{display:flex;flex-direction:column;background-color:#F9F9F9;border-left:3px solid #c8ccd1;font-size:90%;margin:1em 4em;padding:.4em .8em}.mw-parser-output .flexquote>.flex{display:flex;flex-direction:row}.mw-parser-output .flexquote>.flex>.quote{width:100%}.mw-parser-output .flexquote>.flex>.separator{border-left:1px solid #c8ccd1;border-top:1px solid #c8ccd1;margin:.4em .8em}.mw-parser-output .flexquote>.cite{text-align:right}@media all and (max-width:600px){.mw-parser-output .flexquote>.flex{flex-direction:column}}</style>
+</p>
+<p>De la relación exacta <span style="white-space:nowrap"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h}</annotation>
+</semantics>
+</math></span><img alt="h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" style="vertical-align: -0.338ex; width:1.339ex; height:2.176ex;"/></span>=6.626 070 15·10<sup>−34</sup> kg·m²·s<sup>-1</sup></span> se obtiene la unidad kg·m²·s<sup>-1</sup> (la unidad de las magnitudes físicas <a href="/wiki/Acci%C3%B3n_(f%C3%ADsica)" title="Acción (física)">acción</a> y <a href="/wiki/Momento_angular" title="Momento angular">momento angular</a>) y de esta la expresión para el kilogramo en función del valor de la constante de Planck, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h}</annotation>
+</semantics>
+</math></span><img alt="h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" style="vertical-align: -0.338ex; width:1.339ex; height:2.176ex;"/></span>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1{\text{kg}}=\left({\frac {h}{6.62607015\times 10^{-34}}}\right){\text{m}}^{-2}{\text{s}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>kg</mtext>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>h</mi>
+<mrow>
+<mn>6.62607015</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>34</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>m</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>s</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1{\text{kg}}=\left({\frac {h}{6.62607015\times 10^{-34}}}\right){\text{m}}^{-2}{\text{s}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 1{\text{kg}}=\left({\frac {h}{6.62607015\times 10^{-34}}}\right){\text{m}}^{-2}{\text{s}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a3b0236d9abb864ef024217b5e01d3620f788752" style="vertical-align: -2.505ex; width:35.909ex; height:6.176ex;"/></span>
+</p>
+<p>De aquí, junto con las definiciones del <a href="/wiki/Segundo" title="Segundo">segundo</a> y el <a href="/wiki/Metro" title="Metro">metro</a>, se obtiene la definición de la unidad de masa en función de las tres constantes <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h}</annotation>
+</semantics>
+</math></span><img alt="h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" style="vertical-align: -0.338ex; width:1.339ex; height:2.176ex;"/></span>, <span class="texhtml">Δ<i>ν</i><sub>Cs</sub></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c}</annotation>
+</semantics>
+</math></span><img alt="c" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/86a67b81c2de995bd608d5b2df50cd8cd7d92455" style="vertical-align: -0.338ex; width:1.007ex; height:1.676ex;"/></span>:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1{\text{kg}}={\frac {\left(299792458\right)^{2}}{\left(6.62607015\times 10^{-34}\right)\left(9192631770\right)}}{\frac {h\,\Delta \nu _{Cs}}{c^{2}}}\approx 1.4755214\times 10^{40}{\frac {h\,\Delta \nu _{Cs}}{c^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>kg</mtext>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mrow>
+<mo>(</mo>
+<mn>299792458</mn>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>6.62607015</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>34</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mn>9192631770</mn>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>h</mi>
+<mspace width="thinmathspace"></mspace>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+<mi>s</mi>
+</mrow>
+</msub>
+</mrow>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>≈<!-- ≈ --></mo>
+<mn>1.4755214</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>40</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>h</mi>
+<mspace width="thinmathspace"></mspace>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+<mi>s</mi>
+</mrow>
+</msub>
+</mrow>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1{\text{kg}}={\frac {\left(299792458\right)^{2}}{\left(6.62607015\times 10^{-34}\right)\left(9192631770\right)}}{\frac {h\,\Delta \nu _{Cs}}{c^{2}}}\approx 1.4755214\times 10^{40}{\frac {h\,\Delta \nu _{Cs}}{c^{2}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 1{\text{kg}}={\frac {\left(299792458\right)^{2}}{\left(6.62607015\times 10^{-34}\right)\left(9192631770\right)}}{\frac {h\,\Delta \nu _{Cs}}{c^{2}}}\approx 1.4755214\times 10^{40}{\frac {h\,\Delta \nu _{Cs}}{c^{2}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3647f066154c63f38038647ef0d35ffb6f67630c" style="vertical-align: -3.171ex; width:78.751ex; height:7.343ex;"/></span>
+</p>
+<p>La primera definición, decidida en 1795 durante la <a href="/wiki/Revoluci%C3%B3n_francesa" title="Revolución francesa">Revolución francesa</a>, especificaba que el <a href="/wiki/Gramo" title="Gramo">gramo</a> era la <a href="/wiki/Masa" title="Masa">masa</a> de un <a href="/wiki/Cent%C3%ADmetro_c%C3%BAbico" title="Centímetro cúbico">centímetro cúbico</a> de agua pura en el <a href="/wiki/Punto_de_fusi%C3%B3n" title="Punto de fusión">punto de fusión</a> del <a href="/wiki/Hielo" title="Hielo">hielo</a> (aproximadamente a 4 <a href="/wiki/Grado_Celsius" title="Grado Celsius">°C</a>). Esta definición era complicada de realizar con exactitud, porque la densidad del agua depende levemente de la presión, con lo que el <a href="/wiki/Punto_de_fusi%C3%B3n" title="Punto de fusión">punto de fusión</a> del <a href="/wiki/Hielo" title="Hielo">hielo</a> no tenía un valor exacto.
+</p>
+<p>En 1875, se firma la <a href="/wiki/Convenci%C3%B3n_del_Metro" title="Convención del Metro">Convención del Metro</a>, lo que lleva a la producción del Prototipo Internacional del Kilogramo en <a href="/wiki/1879" title="1879">1879</a> y su adopción en 1889. Este prototipo estaba fabricado con una aleación de <a href="/wiki/Platino" title="Platino">platino</a> e <a href="/wiki/Iridio" title="Iridio">iridio</a> —en proporción de 90-10 %, respectivamente, medida por el peso— en forma de cilindro circular recto, con una altura igual al diámetro de 39 milímetros. Tenía una masa igual a la masa de 1 dm³ de agua a <a href="/wiki/Presi%C3%B3n_atmosf%C3%A9rica" title="Presión atmosférica">presión atmosférica</a> y a la temperatura de su densidad máxima, que es de aproximadamente 4 <a href="/wiki/Grado_Celsius" title="Grado Celsius">°C</a>. Dicho prototipo se guarda en la <a href="/wiki/Oficina_Internacional_de_Pesas_y_Medidas" title="Oficina Internacional de Pesas y Medidas">Oficina Internacional de Pesas y Medidas</a>, ubicada en <a href="/wiki/S%C3%A8vres" title="Sèvres">Sèvres</a>, en las cercanías de París (Francia).<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ Este prototipo internacional es uno de tres cilindros hechos originalmente en 1879. En 1883 el prototipo demostró ser indistinguible de la masa del kilogramo normalizado en ese entonces, y se ratificó formalmente como el kilogramo en la primera <a href="/wiki/Conferencia_General_de_Pesas_y_Medidas" title="Conferencia General de Pesas y Medidas">Conferencia General de Pesas y Medidas</a> en 1889.
+</p>
+<p>Por definición, el error en la medición de la masa del Prototipo Internacional del Kilogramo era exactamente cero, pues el Prototipo Internacional del Kilogramo era el kilogramo. Sin embargo, a lo largo del tiempo se han podido detectar pequeños cambios comparando el estándar frente a sus copias oficiales. Comparando las masas relativas entre los estándares en un cierto plazo se estima la estabilidad del estándar. El prototipo internacional del kilogramo parecía haber perdido cerca de 50 microgramos en los últimos 100 años, y la razón de la pérdida sigue siendo desconocida.<sup class="reference separada" id="cite_ref-12"><a href="#cite_note-12"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-13"><a href="#cite_note-13"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>130 años después de su implantación, se iniciaron gestiones para definir el patrón de kilogramo mediante <a class="mw-redirect" href="/wiki/Propiedades_f%C3%ADsicas" title="Propiedades físicas">propiedades físicas</a> que no variaran con el tiempo. Se establecieron dos vías principales de investigación. La primera consistía en basar la definición en la masa atómica del silicio. Para ello era necesario fijar el valor del <a href="/wiki/Constante_de_Avogadro" title="Constante de Avogadro">número de Avogadro</a> y contar el número exacto de átomos presentes en una esfera de silicio, casi perfecta en su geometría y composición isotópica, cuyas características dimensionales se pueden conocer con gran exactitud. Específicamente, se determinaría el volumen ocupado por la esfera y cada uno de sus átomos, y finalmente, con el número de Avogadro, se determinaría la masa.
+</p>
+<p>La otra alternativa consistía en fijar el valor de la carga del electrón o el de la <a href="/wiki/Constante_de_Planck" title="Constante de Planck">constante de Planck</a>, que <a href="/wiki/Relaci%C3%B3n_de_Planck-Einstein" title="Relación de Planck-Einstein">relaciona la energía y la frecuencia</a> de una <a href="/wiki/Radiaci%C3%B3n_electromagn%C3%A9tica" title="Radiación electromagnética">onda electromagnética</a> por medio de la expresión <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E=h\nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mi>h</mi>
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=h\nu }</annotation>
+</semantics>
+</math></span><img alt="E=h\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6c0386dc6d9530519404f95570fcc8548ed2326" style="vertical-align: -0.338ex; width:7.445ex; height:2.176ex;"/></span> y se puede describir como la unidad de energía emitida en interacciones electromagnéticas. La <a href="/wiki/Equivalencia_entre_masa_y_energ%C3%ADa" title="Equivalencia entre masa y energía">relación entre la energía y la masa</a> viene dada por la ecuación determinada por Einstein <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E=mc^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mi>m</mi>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=mc^{2}}</annotation>
+</semantics>
+</math></span><img alt="E=mc^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9f73dbd37a0cac34406ee89057fa1b36a1e6a18e" style="vertical-align: -0.338ex; width:8.976ex; height:2.676ex;"/></span>. Para obtener una definición precisa del kilogramo, el valor de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h}</annotation>
+</semantics>
+</math></span><img alt="h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" style="vertical-align: -0.338ex; width:1.339ex; height:2.176ex;"/></span> debía determinarse mediante varias mediciones con equipos diferentes; los valores obtenidos debían tener una desviación estándar que no superara cinco partes en cien millones y coincidir entre ellos con un valor de confianza del 95 %.<sup class="reference separada" id="cite_ref-nist_15-0"><a href="#cite_note-nist-15"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​ Con este fin, varios institutos nacionales de metrología trabajaron en la puesta a punto de un dispositivo desarrollado por Bryan Kibble del <a href="/wiki/National_Physical_Laboratory" title="National Physical Laboratory">National Physical Laboratory</a> británico, denominado <a href="/wiki/Balanza_de_Kibble" title="Balanza de Kibble">balanza de Kibble</a>, también llamada balanza de Watt o de vatios, debido a que el <a href="/wiki/Vatio" title="Vatio">vatio</a> (<i>watt</i> en inglés) es la unidad de la magnitud con la cual se compara una <a href="/wiki/Potencia_mec%C3%A1nica" title="Potencia mecánica">potencia mecánica</a> con una <a href="/wiki/Potencia_el%C3%A9ctrica" title="Potencia eléctrica">eléctrica</a>. La balanza de Kibble establece la relación entre una <a href="/wiki/Masa" title="Masa">masa</a>, la <a href="/wiki/Intensidad_del_campo_gravitatorio" title="Intensidad del campo gravitatorio">aceleración de la gravedad</a>, una <a href="/wiki/Velocidad" title="Velocidad">velocidad</a>, dos <a href="/wiki/Frecuencia" title="Frecuencia">frecuencias</a>, y la <a href="/wiki/Constante_de_Planck" title="Constante de Planck">constante de Planck</a>.
+</p>
+<p>A principios de 2011, poco antes de la celebración de la 24.ª <a href="/wiki/Conferencia_General_de_Pesas_y_Medidas" title="Conferencia General de Pesas y Medidas">Conferencia General de Pesas y Medidas</a>, se halló consenso en que el método que se utilizaría sería el de la constante de Planck.<sup class="reference separada" id="cite_ref-16"><a href="#cite_note-16"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​ En 2017 varios laboratorios obtuvieron medidas de la constante que satisficieron los requisitos de la <a href="/wiki/Oficina_Internacional_de_Pesas_y_Medidas" title="Oficina Internacional de Pesas y Medidas">Oficina Internacional de Pesas y Medidas</a>.<sup class="reference separada" id="cite_ref-nist_15-1"><a href="#cite_note-nist-15"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​ El 16 de noviembre de 2018, la 26.ª Conferencia General de Pesos y Medidas anunció que la definición del kilogramo pasaría a estar ligada con la constante de Planck.<sup class="reference separada" id="cite_ref-redifinición_2_9-1"><a href="#cite_note-redifinición_2-9"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​ De esta manera, se pueden calibrar los distintos patrones del kilogramo repartidos por el mundo empleando una balanza de Kibble y el nuevo valor de la constante.<sup class="reference separada" id="cite_ref-redifinición_8-1"><a href="#cite_note-redifinición-8"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ La nueva definición entró en vigor el 20 de mayo de 2019,<sup class="reference separada" id="cite_ref-redifinición_8-2"><a href="#cite_note-redifinición-8"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ quedando el «Grand Kilo» —el patrón parisino— como un estándar de masa secundario.<sup class="reference separada" id="cite_ref-re_7-1"><a href="#cite_note-re-7"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ La constante de Planck pasó a ser definida como <a href="/wiki/Constante_de_Planck" title="Constante de Planck">6.62607015×10<sup>−34</sup> kg⋅m²⋅s<sup>−1</sup></a>, quedando el kilogramo definido a partir de esta y, consecuentemente, a partir de otras dos unidades básicas del SI, el <a href="/wiki/Segundo" title="Segundo">segundo</a> y el <a href="/wiki/Metro" title="Metro">metro</a>.<sup class="reference separada" id="cite_ref-redifinición_2_9-2"><a href="#cite_note-redifinición_2-9"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Con la anterior definición se fijaba el valor de la masa del prototipo internacional del kilogramo como exactamente igual a un kilogramo, y el valor de la constante de Planck <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h}</annotation>
+</semantics>
+</math></span><img alt="h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" style="vertical-align: -0.338ex; width:1.339ex; height:2.176ex;"/></span> se determinaba experimentalmente, teniendo una incertidumbre asociada. La definición actual fija el valor numérico exacto de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h}</annotation>
+</semantics>
+</math></span><img alt="h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" style="vertical-align: -0.338ex; width:1.339ex; height:2.176ex;"/></span> y es la masa del prototipo la que hereda su incertidumbre (1 x 10<sup>−8</sup>), debiendo determinarse a partir de ahora experimentalmente. Esto mismo ocurre para el resto de las unidades.
+</p>
+<p>El kilogramo es la única unidad básica del SI con un <a href="/wiki/Prefijos_del_Sistema_Internacional" title="Prefijos del Sistema Internacional">prefijo SI</a> (kilo) como parte de su nombre. La palabra <i>kilogramme</i> o <i>kilogram</i> deriva del francés <i>kilogramme</i>,<sup class="reference separada" id="cite_ref-OED_17-0"><a href="#cite_note-OED-17"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​ que a su vez fue una acuñación culta, al prefijar la raíz <a href="/wiki/Idioma_griego" title="Idioma griego">griega</a> <i>khilioi</i> de χίλιοι <i>khilioi</i> ‘mil’ a <i><a class="new" href="/w/index.php?title=Gramma&amp;action=edit&amp;redlink=1" title="Gramma (aún no redactado)">gramma</a></i>, un término latino tardío para ‘un peso pequeño’, a su vez procedente del griego γράμμα <i>gramma</i>.<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​ La palabra kilogramo se introdujo en la legislación francesa en 1795, en el Decreto del 18 de Germinal,<sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​ que revisaba el sistema provisional de unidades introducido por la Convención Nacional Francesa dos años antes, en el que el gravet se había definido como el peso de un centímetro cúbico de agua, equivalente a 1/1000 de un <a href="/wiki/Grave_(unidad)" title="Grave (unidad)">grave</a>.<sup class="reference separada" id="cite_ref-20"><a href="#cite_note-20"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La grafía francesa se adoptó en Gran Bretaña cuando la palabra se utilizó por primera vez en inglés en 1795,<sup class="reference separada" id="cite_ref-OED_17-1"><a href="#cite_note-OED-17"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-21"><a href="#cite_note-21"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​ y la grafía kilogramo se adoptó en <a href="/wiki/Estados_Unidos" title="Estados Unidos">Estados Unidos</a>. En el Reino Unido se utilizan ambas grafías, siendo "kilogramo" la más común con diferencia.<sup class="reference separada" id="cite_ref-22"><a href="#cite_note-22"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​ La legislación británica que regula las unidades a utilizar en el comercio por peso o medida no impide el uso de ninguna de las dos grafías.<sup class="reference separada" id="cite_ref-23"><a href="#cite_note-23"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En el siglo <span style="font-variant:small-caps;text-transform:lowercase">XIX</span>, la palabra francesa kilo, una abreviatura de <i>kilogramme</i>, se importó a la lengua inglesa, donde se ha utilizado para significar tanto kilogramo<sup class="reference separada" id="cite_ref-24"><a href="#cite_note-24"><span class="corchete-llamada">[</span>21<span class="corchete-llamada">]</span></a></sup>​ como kilómetro.<sup class="reference separada" id="cite_ref-25"><a href="#cite_note-25"><span class="corchete-llamada">[</span>22<span class="corchete-llamada">]</span></a></sup>​ Mientras que kilo como alternativa es aceptable, para <i><a href="/wiki/The_Economist" title="The Economist">The Economist</a></i>, por ejemplo,<sup class="reference separada" id="cite_ref-26"><a href="#cite_note-26"><span class="corchete-llamada">[</span>23<span class="corchete-llamada">]</span></a></sup>​ el sistema Termium Plus del gobierno canadiense establece que «el uso del SI (Sistema Internacional de Unidades), seguido en la escritura científica y técnica» no permite su uso y se describe como «un nombre informal común» en el Diccionario de Unidades de Medida de Russ Rowlett.<sup class="reference separada" id="cite_ref-27"><a href="#cite_note-27"><span class="corchete-llamada">[</span>24<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-28"><a href="#cite_note-28"><span class="corchete-llamada">[</span>25<span class="corchete-llamada">]</span></a></sup>​ Cuando el Congreso de los Estados Unidos otorgó al sistema métrico un estatus legal en 1866, permitió el uso de la palabra kilo como alternativa a la palabra kilogramo,<sup class="reference separada" id="cite_ref-29"><a href="#cite_note-29"><span class="corchete-llamada">[</span>26<span class="corchete-llamada">]</span></a></sup>​ pero en 1990 revocó el estatus de la palabra kilo.<sup class="reference separada" id="cite_ref-30"><a href="#cite_note-30"><span class="corchete-llamada">[</span>27<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El sistema SI se introdujo en 1960, y en 1970 la <a href="/wiki/Oficina_Internacional_de_Pesas_y_Medidas" title="Oficina Internacional de Pesas y Medidas">Oficina Internacional de Pesas y Medidas (BIPM)</a> comenzó a publicar el Folleto del <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">SI</a>, que contiene todas las decisiones y recomendaciones pertinentes de la <a href="/wiki/Conferencia_General_de_Pesas_y_Medidas" title="Conferencia General de Pesas y Medidas">Conferencia General de Pesas y Medidas (CGPM)</a> relativas a las unidades. El folleto del SI establece que «no está permitido utilizar abreviaturas para los símbolos de las unidades o los nombres de las unidades…», por lo que no es correcto usar la abreviatura «kilo» para referirse al kilogramo.
+</p>
+<p>El kilogramo, en lugar del gramo, se adoptó finalmente como unidad de masa básica en el SI, debido principalmente a las unidades para el electromagnetismo. La serie de debates y decisiones pertinentes comenzó aproximadamente en la década de 1850 y concluyó efectivamente en 1946. En resumen, a finales del siglo <span style="font-variant:small-caps;text-transform:lowercase">XIX</span>, las «unidades prácticas» para las magnitudes eléctricas y magnéticas, como el <a href="/wiki/Amperio" title="Amperio">amperio</a> y el <a href="/wiki/Voltio" title="Voltio">voltio</a>, estaban bien establecidas en la práctica (por ejemplo, para la telegrafía). Desgraciadamente, no eran coherentes con las unidades básicas de longitud y masa entonces vigentes, el centímetro y el gramo. Sin embargo, las «unidades prácticas» también incluían algunas unidades puramente mecánicas; en particular, el producto del amperio y el voltio da una unidad de potencia puramente mecánica, el vatio. Se observó que las unidades prácticas puramente mecánicas, como el <a href="/wiki/Vatio" title="Vatio">vatio</a>, serían coherentes en un sistema en el que la unidad base de longitud fuera el metro y la unidad base de masa fuera el kilogramo. De hecho, dado que nadie quería sustituir el segundo como unidad de tiempo base, el metro y el kilogramo son el único par de unidades base de longitud y masa que permiten: 
+</p>
+<p>Esto dejaría fuera las unidades puramente eléctricas y magnéticas: mientras que las unidades prácticas puramente mecánicas, como el vatio, son coherentes en el sistema metro-kilogramo-segundo, las unidades explícitamente eléctricas y magnéticas, como el voltio, el amperio, etc., no lo son. La única manera de hacer que esas unidades sean también coherentes con el sistema metro-kilogramo-segundo es modificar ese sistema de otra manera: hay que aumentar el número de dimensiones fundamentales de tres (longitud, masa y tiempo) a cuatro (las tres anteriores, más una puramente eléctrica).
+</p>
+<p>Durante la segunda mitad del siglo <span style="font-variant:small-caps;text-transform:lowercase">XIX</span>, el sistema de unidades <a href="/wiki/Sistema_Cegesimal_de_Unidades" title="Sistema Cegesimal de Unidades">centímetro-gramo-segundo</a> se fue imponiendo para el trabajo científico, tratando el gramo como la unidad fundamental de masa y el kilogramo como un múltiplo decimal de la unidad base formado por el uso de un prefijo métrico. Sin embargo, a medida que el siglo se acercaba a su fin, existía un descontento generalizado con el estado de las unidades para la electricidad y el magnetismo en el sistema CGS. Para empezar, había dos opciones obvias para las unidades absolutas<sup class="reference separada" id="cite_ref-31"><a href="#cite_note-31"><span class="corchete-llamada">[</span>nota 4<span class="corchete-llamada">]</span></a></sup>​ del <a href="/wiki/Electromagnetismo" title="Electromagnetismo">electromagnetismo</a>: el sistema «electrostático» (CGS-ESU) y el sistema «electromagnético» (CGS-EMU). Pero el principal problema era que los tamaños de las unidades eléctricas y magnéticas coherentes no eran convenientes en ninguno de estos sistemas; por ejemplo, la unidad ESU de <a href="/wiki/Resistencia_el%C3%A9ctrica" title="Resistencia eléctrica">resistencia eléctrica</a>, que más tarde se denominó <a class="new" href="/w/index.php?title=Statohm&amp;action=edit&amp;redlink=1" title="Statohm (aún no redactado)">statohm</a>, corresponde a unos 9×10<sup>11</sup> <a href="/wiki/Ohmio" title="Ohmio">ohmios</a>, mientras que la unidad EMU, que más tarde se denominó abohm, corresponde a 10<sup>−9</sup> ohmios. Durante bastante tiempo, las unidades ESU y EMU no tenían nombres especiales; uno solo diría, por ejemplo, la unidad de resistencia ESU. Aparentemente, fue solo en 1903 que AE Kennelly sugirió que los nombres de las unidades de la UEM se obtuvieran anteponiendo el nombre de la 'unidad práctica' correspondiente por 'ab-' (abreviatura de 'absoluto', dando el 'abohm', 'abvolt', el 'abampere', etc.), y que los nombres de las unidades ESU se obtengan de forma análoga utilizando el prefijo 'abstat-', que luego se abrevió a 'stat-' (dando el 'statohm', 'statvolt' , 'statampere', etc.).<sup class="reference separada" id="cite_ref-Kennelly_1903_32-0"><a href="#cite_note-Kennelly_1903-32"><span class="corchete-llamada">[</span>28<span class="corchete-llamada">]</span></a></sup>​ Este sistema de nomenclatura fue ampliamente utilizado en los Estados Unidos, pero, aparentemente, no en Europa.<sup class="reference separada" id="cite_ref-Silsbee_1962_33-0"><a href="#cite_note-Silsbee_1962-33"><span class="corchete-llamada">[</span>29<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Para sortear esta dificultad, se introdujo un tercer conjunto de unidades: las llamadas unidades prácticas. Las unidades prácticas se obtuvieron como múltiplos decimales de unidades coherentes CGS-EMU, elegidas de forma que las magnitudes resultantes fueran convenientes para el uso práctico y para que las unidades prácticas fueran, en la medida de lo posible, coherentes entre sí.<sup class="reference separada" id="cite_ref-eb11-p740_34-0"><a href="#cite_note-eb11-p740-34"><span class="corchete-llamada">[</span>30<span class="corchete-llamada">]</span></a></sup>​ Las unidades prácticas incluían unidades como el <a href="/wiki/Voltio" title="Voltio">voltio</a>, el <a href="/wiki/Amperio" title="Amperio">amperio</a>, el <a href="/wiki/Ohmio" title="Ohmio">ohmio</a>, etc., De hecho, la razón principal por la que se eligieron posteriormente el metro y el kilogramo como unidades básicas de longitud y masa fue que son la única combinación de múltiplos o submúltiplos decimales de tamaño razonable del metro y del gramo que puede ser coherente con el voltio, el amperio, etc.<sup class="reference separada" id="cite_ref-Thomson_1873_35-0"><a href="#cite_note-Thomson_1873-35"><span class="corchete-llamada">[</span>31<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-36"><a href="#cite_note-36"><span class="corchete-llamada">[</span>32<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La razón es que las magnitudes eléctricas no pueden aislarse de las mecánicas y térmicas: están conectadas por relaciones como «corriente × diferencia de potencial eléctrico = potencia». Por esta razón, el sistema práctico también incluye unidades coherentes para ciertas magnitudes mecánicas. Por ejemplo, la ecuación anterior implica que el «amperio × voltio» es una unidad práctica coherente derivada de la potencia; esta unidad se denominó <a href="/wiki/Vatio" title="Vatio">vatio</a>. La unidad coherente de energía es entonces el vatio por el segundo, que se denominó <a href="/wiki/Julio_(unidad)" title="Julio (unidad)">julio</a>. El julio y el vatio también tienen magnitudes convenientes y son múltiplos decimales de las unidades coherentes CGS para la energía, el <a href="/wiki/Ergio" title="Ergio">ergio</a>, y la potencia (el ergio por segundo). El vatio no es coherente en el sistema centímetro-gramo-segundo, pero sí lo es en el sistema metro-kilogramo-segundo y en ningún otro sistema cuyas unidades base de longitud y masa sean múltiplos o submúltiplos decimales de tamaño razonable del metro y del gramo.
+</p>
+<p>Sin embargo, a diferencia del vatio y el julio, las unidades explícitamente eléctricas y magnéticas (el voltio, el amperio…) no son coherentes ni siquiera en el sistema (tridimensional absoluto) del metro-kilogramo-segundo. En efecto, se puede calcular cuáles deben ser las unidades básicas de longitud y masa para que todas las unidades prácticas sean coherentes (el vatio y el julio, así como el voltio, el amperio, etc.). Los valores son: 10<sup>7</sup> metros (la mitad de un meridiano de la Tierra, llamado cuadrante) y 10<sup>−11</sup> gramos (llamado undécimo gramo).
+</p>
+<p>Por lo tanto, el sistema absoluto completo de unidades en el que las unidades eléctricas prácticas son coherentes es el sistema cuadrante-undécimo-gramo-segundo (QES). Sin embargo, las magnitudes extremadamente inconvenientes de las unidades base para la longitud y la masa hicieron que nadie se planteara seriamente adoptar el sistema QES. Así pues, las personas que trabajaban en aplicaciones prácticas de la electricidad tenían que utilizar unidades para las magnitudes eléctricas y para la energía y la potencia que no eran coherentes con las unidades que utilizaban para, por ejemplo, la longitud, la masa y la fuerza.
+</p>
+<p>Mientras tanto, los científicos desarrollaron otro sistema absoluto totalmente coherente, que llegó a llamarse sistema de Gauss, en el que las unidades para las magnitudes puramente eléctricas se toman del CGE-ESU, mientras que las unidades para las magnitudes magnéticas se toman del CGS-EMU. Este sistema resultó muy cómodo para el trabajo científico y todavía se utiliza ampliamente. Sin embargo, los tamaños de sus unidades seguían siendo demasiado grandes o demasiado pequeños —en muchos órdenes de magnitud— para las aplicaciones prácticas.
+</p>
+<p>Por último, además de todo esto, tanto en CGS-ESU como en CGS-EMU, así como en el sistema de Gauss, las ecuaciones de Maxwell están «sin racionalizar», lo que significa que contienen varios factores de 4π que muchos trabajadores encontraron incómodos. Así que se desarrolló otro sistema para rectificar esto: el sistema gaussiano «racionalizado», normalmente llamado sistema Lorentz-Heaviside. Este sistema se sigue utilizando en algunos subcampos de la física. Sin embargo, las unidades de ese sistema están relacionadas con las unidades gaussianas por factores de √4π ≈ 3.5, lo que significa que sus magnitudes seguían siendo, como las de las unidades gaussianas, demasiado grandes o demasiado pequeñas para las aplicaciones prácticas.
+</p>
+<p>En 1901, Giovanni Giorgi propuso un nuevo sistema de unidades que remediaría este estado de cosas. Observó que las unidades prácticas mecánicas como el julio y el vatio son coherentes no solo en el sistema QES, sino también en el sistema metro-kilogramo-segundo (MKS). Por supuesto, se sabía que la mera adopción del metro y el kilogramo como unidades de base -obteniendo el sistema tridimensional MKS- no resolvería el problema: mientras que el vatio y el julio serían coherentes, no lo serían el voltio, el amperio, el ohmio y el resto de las unidades prácticas para las magnitudes eléctricas y magnéticas (el único sistema absoluto tridimensional en el que todas las unidades prácticas son coherentes es el sistema QES).
+</p>
+<p>Pero Giorgi señaló que el voltio y el resto podrían ser coherentes si se abandonara la idea de que todas las magnitudes físicas deben ser expresables en términos de las dimensiones de longitud, masa y tiempo, y se admitiera una cuarta dimensión base para las magnitudes eléctricas. Se podría elegir cualquier unidad eléctrica práctica como nueva unidad fundamental, independiente del metro, el kilogramo y el segundo. Los candidatos más probables para la cuarta unidad independiente eran el <a href="/wiki/Culombio" title="Culombio">culombio</a>, el <a href="/wiki/Amperio" title="Amperio">amperio</a>, el <a href="/wiki/Voltio" title="Voltio">voltio</a> y el <a href="/wiki/Ohmio" title="Ohmio">ohmio</a>, pero finalmente el amperio resultó ser el más conveniente para la metrología. Además, la libertad obtenida al independizar una unidad eléctrica de las unidades mecánicas podía utilizarse para racionalizar las <a href="/wiki/Ecuaciones_de_Maxwell" title="Ecuaciones de Maxwell">ecuaciones de Maxwell</a>.
+</p>
+<p>La idea de que había que renunciar a tener un sistema puramente «absoluto», es decir, uno en el que solo la longitud, la masa y el tiempo son las dimensiones básicas, se alejaba del punto de vista que parecía subyacer a los primeros avances de Gauss y Weber (especialmente sus famosas «mediciones absolutas» del campo magnético de la Tierra), y la comunidad científica tardó algún tiempo en aceptarla, sobre todo porque muchos científicos se aferraban a la idea de que las dimensiones de una cantidad en términos de longitud, masa y tiempo especifican de algún modo su «naturaleza física fundamental».
+</p>
+<p>El gramo es el término al cual se aplican los <a href="/wiki/Prefijos_del_Sistema_Internacional" title="Prefijos del Sistema Internacional">prefijos del SI</a>. La razón por la que la unidad básica de la masa tiene un prefijo es histórica. Originalmente, la formación de un sistema decimal de unidades fue encargada por <a href="/wiki/Luis_XVI_de_Francia" title="Luis XVI de Francia">Luis XVI de Francia</a> y, en los planes originales, el equivalente al kilogramo fue llamado «<a href="/wiki/Grave_(unidad)" title="Grave (unidad)">grave</a>».<sup class="reference separada" id="cite_ref-37"><a href="#cite_note-37"><span class="corchete-llamada">[</span>33<span class="corchete-llamada">]</span></a></sup>​ Junto con el <i>grave</i> se creó también una unidad más pequeña llamada <i>gravet</i>, que era equivalente a 0.001 kg (1 <a href="/wiki/Gramo" title="Gramo">gramo</a>), así como una unidad más grande llamada <i>bar</i>, que era equivalente a 1000 kg (1 <a href="/wiki/Tonelada" title="Tonelada">tonelada</a>).<sup class="reference separada" id="cite_ref-38"><a href="#cite_note-38"><span class="corchete-llamada">[</span>34<span class="corchete-llamada">]</span></a></sup>​ Con esas medidas se creó la siguiente escala: miligravet, centigravet, decigravet, gravet (gr), centigrave, decigrave, grave (kg), centibar, decibar, bar (t).<sup class="reference separada" id="cite_ref-39"><a href="#cite_note-39"><span class="corchete-llamada">[</span>35<span class="corchete-llamada">]</span></a></sup>​ Sin embargo, el sistema métrico no entró en vigor sino hasta después de la <a href="/wiki/Revoluci%C3%B3n_francesa" title="Revolución francesa">revolución francesa</a>.
+</p>
+<p>En 1795 una nueva ley reemplazó los tres nombres (<i>gravet</i>, <i>grave</i> y <i>bar</i>) por un solo nombre de unidad genérico: el <i>gramo</i>.<sup class="reference separada" id="cite_ref-40"><a href="#cite_note-40"><span class="corchete-llamada">[</span>36<span class="corchete-llamada">]</span></a></sup>​ El nuevo gramo era igual al antiguo gravet. Se añadieron cuatro nuevos prefijos para cubrir la misma gama de unidades que en 1793 (miligramo, centigramo, decigramo, gramo, decagramo, hectogramo, kilogramo, y miriagramo).<sup class="reference separada" id="cite_ref-41"><a href="#cite_note-41"><span class="corchete-llamada">[</span>37<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-42"><a href="#cite_note-42"><span class="corchete-llamada">[</span>38<span class="corchete-llamada">]</span></a></sup>​ El gramo era también la unidad básica del más viejo sistema de medida: <a href="/wiki/Sistema_Cegesimal_de_Unidades" title="Sistema Cegesimal de Unidades">el sistema CGS</a>, que no es muy ampliamente utilizado.
+</p>
+<p>También es común que se utilice el vocablo como unidad de <a href="/wiki/Fuerza" title="Fuerza">fuerza</a> en el <a href="/wiki/Sistema_T%C3%A9cnico_de_Unidades" title="Sistema Técnico de Unidades">Sistema Técnico de Unidades</a>, aunque debe hacerse bajo el nombre de kilogramo-fuerza o kilopondio. El kilogramo fuerza o <a href="/wiki/Kilopondio" title="Kilopondio">kilopondio</a> es, por definición, el <a href="/wiki/Peso" title="Peso">peso</a> de una <a href="/wiki/Masa" title="Masa">masa</a> de 1 kilogramo en la gravedad estándar en la superficie terrestre; esto es, 9,80665 m/s². Por eso una masa de 1 kilogramo (<a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a>) pesa 1 kilogramo fuerza (Sistema Técnico) solamente si la gravedad tiene ese valor.
+</p>
+<p><br/>
+</p>
+<p>1 <i>kilogramo</i> es equivalente a:
+</p>

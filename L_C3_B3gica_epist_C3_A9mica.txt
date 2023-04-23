@@ -1,0 +1,766 @@
+<p>La <b>lógica epistémica</b> es un campo de la <a href="/wiki/L%C3%B3gica_modal" title="Lógica modal">lógica modal</a> que se ocupa del razonamiento sobre el <a href="/wiki/Conocimiento" title="Conocimiento">conocimiento</a>. Mientras que la <a href="/wiki/Epistemolog%C3%ADa" title="Epistemología">epistemología</a> posee una larga tradición filosófica que se origina en la <a class="mw-redirect" href="/wiki/Grecia_Antigua" title="Grecia Antigua">Grecia Antigua</a>, la lógica epistémica es un desarrollo mucho más reciente con aplicaciones en numerosos campos, tales como <a href="/wiki/Filosof%C3%ADa" title="Filosofía">filosofía</a>, <a href="/wiki/Ciencias_de_la_computaci%C3%B3n" title="Ciencias de la computación">ciencia computacional teórica</a>, <a href="/wiki/Inteligencia_artificial" title="Inteligencia artificial">inteligencia artificial</a>, <a href="/wiki/Econom%C3%ADa" title="Economía">economía</a> y <a href="/wiki/Ling%C3%BC%C3%ADstica" title="Lingüística">lingüística</a>. Mientras que los filósofos a partir de <a href="/wiki/Arist%C3%B3teles" title="Aristóteles">Aristóteles</a> han discutido la lógica modal, y los <a href="/wiki/Filosof%C3%ADa_medieval" title="Filosofía medieval">filósofos medievales</a> tales como <a href="/wiki/Guillermo_de_Ockham" title="Guillermo de Ockham">Ockham</a> y <a class="mw-redirect" href="/wiki/Duns_Scotus" title="Duns Scotus">Duns Scotus</a> desarrollaron numerosas observaciones, fue <a href="/wiki/Clarence_Irving_Lewis" title="Clarence Irving Lewis">C.I. Lewis</a> quién en 1912 realizó el primer tratamiento simbólico y sistemático de este tema. El tema continuó madurando, alcanzando su forma moderna en <a href="/wiki/1963" title="1963">1963</a> a partir del trabajo de <a href="/wiki/Saul_Kripke" title="Saul Kripke">Kripke</a>. 
+</p>
+<p>Durante la década de <a href="/wiki/1950" title="1950">1950</a> se publicaron numerosos trabajos que mencionaban al pasar una lógica del conocimiento, pero es recién el trabajo de <a href="/wiki/Georg_Henrik_von_Wright" title="Georg Henrik von Wright">von Wright</a> titulado <i>An Essay in Modal Logic</i> publicado en <a href="/wiki/1951" title="1951">1951</a> el que es reconocido como el documento fundacional. No fue sino hasta <a href="/wiki/1962" title="1962">1962</a> en que <a href="/wiki/Jaakko_Hintikka" title="Jaakko Hintikka">Hintikka</a>, escribe <i>Knowledge and Belief</i>, el primer trabajo extenso en que sugiere utilizar modalidades para capturar la semántica del conocimiento en vez de utilizar las premisas aléticas con que típicamente se desarrolla la lógica modal. Si bien este trabajo sentó las bases del tema, desde entonces se han realizado numerosas investigaciones y avances. Por ejemplo, la lógica epistémica ha sido recientemente combinada con algunas ideas tomadas de la <a class="new" href="/w/index.php?title=L%C3%B3gica_din%C3%A1mica&amp;action=edit&amp;redlink=1" title="Lógica dinámica (aún no redactado)">lógica dinámica</a> para crear una <a class="new" href="/w/index.php?title=L%C3%B3gica_de_las_comunicaciones_p%C3%BAblicas&amp;action=edit&amp;redlink=1" title="Lógica de las comunicaciones públicas (aún no redactado)">lógica de las comunicaciones públicas</a> y una <a class="new" href="/w/index.php?title=L%C3%B3gica_de_actualizaci%C3%B3n_de_producto&amp;action=edit&amp;redlink=1" title="Lógica de actualización de producto (aún no redactado)">lógica de actualización de producto</a>, que intentan modelar las sutilezas epistémicas de las conversaciones. Los trabajos fundacionales en este campo son los realizados por Plaza, <a class="new" href="/w/index.php?title=Johan_van_Benthem_(logician)&amp;action=edit&amp;redlink=1" title="Johan van Benthem (logician) (aún no redactado)">van Benthem</a>, y Baltag, Moss, y Solecki.
+</p>
+<p>La mayoría de los intentos de modelar el conocimiento se han basado en el modelo de los <a href="/wiki/Mundo_posible" title="Mundo posible">mundos posibles</a>. Para poder proceder, se debe dividir el conjunto de mundos posibles entre aquellos que son compatibles con el conocimiento de un agente, y aquellos que no lo son. Si bien esta discusión se centra básicamente en realizar esta tarea utilizando el enfoque basado en la lógica, vale la pena mencionar el otro método primario que se utiliza que es el tratamiento basado en <a href="/wiki/Fen%C3%B3meno" title="Fenómeno">eventos</a>. En esta aplicación en particular los eventos son conjuntos de mundos posibles, y el conocimiento es un operador sobre los eventos. Si bien las estrategias están relacionadas, existen dos importantes diferencias entre ellas:
+</p>
+<p>Típicamente, el tratamiento basado en la lógica ha sido utilizado en los campos de la filosofía, la lógica y la inteligencia artificial, mientras que el tratamiento basado en eventos es más comúnmente utilizado en campos como la <a href="/wiki/Teor%C3%ADa_de_juegos" title="Teoría de juegos">teoría de juegos</a> y <a href="/wiki/Econom%C3%ADa_matem%C3%A1tica" title="Economía matemática">economía matemática</a>. En el método basado en la lógica, se han construido una sintaxis y una semántica utilizando el lenguaje de la lógica modal, que se describe a continuación. 
+</p>
+<p>El <a class="new" href="/w/index.php?title=Operador_modal&amp;action=edit&amp;redlink=1" title="Operador modal (aún no redactado)">operador modal</a> básico de la lógica epistémica, normalmente escrito con el símbolo <i>K</i>, se puede interpretar como significando "se sabe que", "es necesario desde un punto de vista epistémico que", o "es inconsistente con lo que sabemos que no". Si está representando el conocimiento de más de un agente, entonces se agregan subíndices al operador (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathit {K}}_{1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">K</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathit {K}}_{1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathit {K}}_{1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/368558684f2809bc2af6d96c3913d4b2b2499e7b" style="vertical-align: -0.671ex; width:2.841ex; height:2.509ex;"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathit {K}}_{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">K</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathit {K}}_{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathit {K}}_{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65abe595d764864022b84a43c84293ffd72aba8f" style="vertical-align: -0.671ex; width:2.841ex; height:2.509ex;"/></span>, etc.) para indicar cuál es el agente al que se está haciendo referencia. De forma tal que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathit {K}}_{a}\varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">K</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathit {K}}_{a}\varphi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathit {K}}_{a}\varphi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cc9dd90c1d7ba9c608a411aabfb4378cf5d9f12c" style="vertical-align: -0.838ex; width:4.409ex; height:2.676ex;"/></span> significa "el agente <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+</semantics>
+</math></span><img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/></span> sabe que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span>." El dual de <i>K</i>, que estaría en la misma relación con <i>K</i> que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Diamond }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◊<!-- ◊ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Diamond }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Diamond }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1e5e6f31a91de53f443e2cd4c7478693a1a6a57b" style="vertical-align: -0.505ex; width:1.55ex; height:2.343ex;"/></span> es a <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Box }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>◻<!-- ◻ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Box }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Box }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/029b77f09ebeaf7528fc831fe57848be51f2240b" style="vertical-align: -0.338ex; width:1.808ex; height:2.176ex;"/></span>, no posee un símbolo específico, pero puede ser representado como <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \neg K_{a}\neg \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \neg K_{a}\neg \varphi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \neg K_{a}\neg \varphi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7c3eb916b77945f295a5c41e80ad2de73def5828" style="vertical-align: -0.838ex; width:7.696ex; height:2.676ex;"/></span>, lo que se lee como "<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+</semantics>
+</math></span><img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/></span> no sabe que no <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span>" o "<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+</semantics>
+</math></span><img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/></span> es <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span> posible". "<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+</semantics>
+</math></span><img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/></span> no sabe si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span>" puede ser expresado como <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \neg K_{a}\varphi \land \neg K_{a}\neg \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mi>φ<!-- φ --></mi>
+<mo>∧<!-- ∧ --></mo>
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mi mathvariant="normal">¬<!-- ¬ --></mi>
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \neg K_{a}\varphi \land \neg K_{a}\neg \varphi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \neg K_{a}\varphi \land \neg K_{a}\neg \varphi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2315cd38db3999c9b0fa8b54e6b2ed7ee9649f69" style="vertical-align: -0.838ex; width:16.424ex; height:2.676ex;"/></span>.
+</p>
+<p>De forma tal de poder utilizar las nociones de <a class="new" href="/w/index.php?title=Common_knowledge_(logic)&amp;action=edit&amp;redlink=1" title="Common knowledge (logic) (aún no redactado)">conocimiento común</a> y <a class="new" href="/w/index.php?title=Conocimiento_distribuido&amp;action=edit&amp;redlink=1" title="Conocimiento distribuido (aún no redactado)">conocimiento distribuido</a>, se pueden agregar tres operadores modales adicionales al lenguaje. Ellos son <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathit {E}}_{\mathit {G}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">E</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">G</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathit {E}}_{\mathit {G}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathit {E}}_{\mathit {G}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0c6ee579b14dfec66667183a08ae4e70f393ca29" style="vertical-align: -0.671ex; width:3.08ex; height:2.509ex;"/></span>, que se lee "todo agente en el grupo G sabe"; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathit {C}}_{\mathit {G}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">C</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">G</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathit {C}}_{\mathit {G}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathit {C}}_{\mathit {G}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3a3d3ee0b9dea2f7928b7a65f8675bf6db39aa18" style="vertical-align: -0.671ex; width:3.168ex; height:2.509ex;"/></span>, que se lee "es un conocimiento en posición de todo agente en G"; y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathit {D}}_{\mathit {G}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">D</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">G</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathit {D}}_{\mathit {G}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathit {D}}_{\mathit {G}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/20cb1b929dfafabcd6b89f1cd1eed76a10d33f3f" style="vertical-align: -0.671ex; width:3.259ex; height:2.509ex;"/></span>, que se lee "es conocimiento distribuido a todo agente en G". Si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span> es una fórmula de nuestro lenguaje, entonces también lo son <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathit {E}}_{G}\varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">E</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>G</mi>
+</mrow>
+</msub>
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathit {E}}_{G}\varphi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathit {E}}_{G}\varphi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/758b0fbfb7223ebcf1ecb6bebc0fe3b21b813de4" style="vertical-align: -0.838ex; width:4.62ex; height:2.676ex;"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathit {C}}_{G}\varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">C</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>G</mi>
+</mrow>
+</msub>
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathit {C}}_{G}\varphi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathit {C}}_{G}\varphi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cdfe26ad3109a75b9dea19e6860811b0a497cc2d" style="vertical-align: -0.838ex; width:4.708ex; height:2.676ex;"/></span>, y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathit {D}}_{G}\varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">D</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>G</mi>
+</mrow>
+</msub>
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathit {D}}_{G}\varphi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathit {D}}_{G}\varphi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dad2b912b36e2193053244cdbf78f087d3634a38" style="vertical-align: -0.838ex; width:4.799ex; height:2.676ex;"/></span>. De la misma manera en que se puede omitir el subíndice luego de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathit {K}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">K</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathit {K}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathit {K}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5421674b1a78a6bb138ed0bc2f6ac1d7fe525f07" style="vertical-align: -0.338ex; margin-right: -0.209ex; width:1.996ex; height:2.176ex;"/></span> cuando hay un solo agente, el subindice luego de los operadores modales <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathit {E}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">E</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathit {E}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathit {E}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af04a4c2023b2f3459b8d3f965b97c9d353ebda8" style="vertical-align: -0.338ex; margin-right: -0.151ex; width:1.727ex; height:2.176ex;"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathit {C}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">C</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathit {C}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathit {C}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/07e3f4029aa594142de437b40b0530e4ec2335b1" style="vertical-align: -0.338ex; margin-right: -0.223ex; width:1.887ex; height:2.176ex;"/></span>, y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathit {D}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-mathit" mathvariant="italic">D</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathit {D}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathit {D}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/088642bd78bb60a6db6fc52bb4f1bf38f12fffc7" style="vertical-align: -0.338ex; margin-right: -0.046ex; width:1.801ex; height:2.176ex;"/></span> puede ser omitido cuando el grupo es un conjunto de agentes.
+</p>
+<p>Tal como se mencionó previamente, el enfoque basado en la lógica se construye a partir del modelo de los mundos posibles, donde las semánticas de los mismos se expresan en general mediante estructuras de Kripke, también conocidas como modelos de Kripke. Una estructura de Kripke <i>M</i> para <i>n</i> agentes sobre <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Phi }</annotation>
+</semantics>
+</math></span><img alt="\Phi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aed80a2011a3912b028ba32a52dfa57165455f24" style="vertical-align: -0.338ex; width:1.678ex; height:2.176ex;"/></span> es un tuple <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (S,\pi ,{\mathcal {K}}_{1},...,{\mathcal {K}}_{n})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>π<!-- π --></mi>
+<mo>,</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-caligraphic" mathvariant="script">K</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mo>.</mo>
+<mo>.</mo>
+<mo>.</mo>
+<mo>,</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-caligraphic" mathvariant="script">K</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (S,\pi ,{\mathcal {K}}_{1},...,{\mathcal {K}}_{n})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (S,\pi ,{\mathcal {K}}_{1},...,{\mathcal {K}}_{n})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33be7fe6afc465074cb39755c5b9b046ad102bf2" style="vertical-align: -0.838ex; width:17.693ex; height:2.843ex;"/></span>, donde S es un conjunto no vacío de <i>estados</i> o <i>mundos posibles</i>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span> es una <i>interpretación</i> que asocia cada estado en S a una asignación de verdad a las proposiciones primitivas en <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Phi }</annotation>
+</semantics>
+</math></span><img alt="\Phi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aed80a2011a3912b028ba32a52dfa57165455f24" style="vertical-align: -0.338ex; width:1.678ex; height:2.176ex;"/></span>, y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathcal {K}}_{1},...,{\mathcal {K}}_{n}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-caligraphic" mathvariant="script">K</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mo>.</mo>
+<mo>.</mo>
+<mo>.</mo>
+<mo>,</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-caligraphic" mathvariant="script">K</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathcal {K}}_{1},...,{\mathcal {K}}_{n}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathcal {K}}_{1},...,{\mathcal {K}}_{n}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/848719ef83857d84671e48d3ff74a408b0d12a03" style="vertical-align: -0.671ex; width:10.984ex; height:2.509ex;"/></span> son las <a href="/wiki/Relaci%C3%B3n_binaria" title="Relación binaria">relaciones binarias</a> en S para <i>n</i> agentes. es importante no confundir <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle K_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/719736a1feb0bd7e73bb1425641a61229f55bb6d" style="vertical-align: -0.671ex; width:2.773ex; height:2.509ex;"/></span>, el operador modal, y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathcal {K}}_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-caligraphic" mathvariant="script">K</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathcal {K}}_{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathcal {K}}_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/71ab45b3bc33732b7cc35c40007d9a9003e5acfa" style="vertical-align: -0.671ex; width:2.571ex; height:2.509ex;"/></span>, nuestra relación de accesibilidad.
+</p>
+<p>La asignación de verdad nos indica si una proposición <i>p</i> es verdadera o falsa en un cierto estado. De esta forma <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi (s)(p)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi (s)(p)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \pi (s)(p)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/43a316b2dc9153a09ba8e123dc53d584eb2af025" style="vertical-align: -0.838ex; width:7.21ex; height:2.843ex;"/></span> nos indica si <i>p</i> es verdadero en el estado <i>s</i> en el modelo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathcal {M}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-caligraphic" mathvariant="script">M</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathcal {M}}}</annotation>
+</semantics>
+</math></span><img alt="\mathcal{M}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2cc2abebd45ec020509a0ec548b67c9a2cb7cecd" style="vertical-align: -0.338ex; width:2.791ex; height:2.176ex;"/></span>. La verdad depende no solo de la estructura, sino que también del mundo actual. Solo porque algo sea verdadero en un mundo no quiere decir que también sea verdadero en otro mundo. Para demostrar que una fórmula <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span> es verdadera en un cierto mundo, se escribe <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (M,s)\models \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mi>M</mi>
+<mo>,</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>⊨<!-- ⊨ --></mo>
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (M,s)\models \varphi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (M,s)\models \varphi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0757e41f86ca050b0711b9067a436c329ddc7487" style="vertical-align: -0.838ex; width:11.201ex; height:2.843ex;"/></span>, normalmente interpretado como "<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span> es verdadero en (M,s)," o "(M,s) cumple con la relación <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span>".
+</p>
+<p>Es útil pensar la relación binaria <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathcal {K}}_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-caligraphic" mathvariant="script">K</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathcal {K}}_{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathcal {K}}_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/71ab45b3bc33732b7cc35c40007d9a9003e5acfa" style="vertical-align: -0.671ex; width:2.571ex; height:2.509ex;"/></span> como una relación de <i>posibilidad</i>, porque la misma captura en que mundos o estados es que el agente <i>i</i> considera que son posibles. Por lo general tiene sentido que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathcal {K}}_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-caligraphic" mathvariant="script">K</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathcal {K}}_{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathcal {K}}_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/71ab45b3bc33732b7cc35c40007d9a9003e5acfa" style="vertical-align: -0.671ex; width:2.571ex; height:2.509ex;"/></span> sea una <a href="/wiki/Relaci%C3%B3n_de_equivalencia" title="Relación de equivalencia">relación de equivalencia</a>, dado que esta es la forma más fuerte y es la más apropiada para la mayoría de las aplicaciones. Una relación de equivalencia es una relación binaria que es <a href="/wiki/Relaci%C3%B3n_reflexiva" title="Relación reflexiva">reflexiva</a>, <a href="/wiki/Relaci%C3%B3n_sim%C3%A9trica" title="Relación simétrica">simétrica</a>, y <a href="/wiki/Relaci%C3%B3n_transitiva" title="Relación transitiva">transitiva</a>. La relación de accesibilidad no posee estas cualidades; ciertamente existen otras opciones posibles, tales como aquellas que se utilizan cuando se modelan creencias en lugar de conocimiento.
+</p>
+<p>Suponiendo que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathcal {K}}_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-caligraphic" mathvariant="script">K</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathcal {K}}_{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathcal {K}}_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/71ab45b3bc33732b7cc35c40007d9a9003e5acfa" style="vertical-align: -0.671ex; width:2.571ex; height:2.509ex;"/></span> es una relación de equivalencia, y que los agentes son razonadores perfectos, se pueden derivar algunas propiedades del conocimiento. Las propiedades indicadas aquí se las suele llamar "propiedades S5," por las razones que se explican más adelante en la sección de Axiomas.
+</p>
+<p>Este axioma es conocido dentro de la lógica epistémica como <b>K</b> (no confundir con el axioma <b>K</b> de la lógica modal). En términos epistémicos, establece que si un agente sabe/conoce <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span> y sabe que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi \implies \psi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+<mspace width="thickmathspace"></mspace>
+<mo stretchy="false">⟹<!-- ⟹ --></mo>
+<mspace width="thickmathspace"></mspace>
+<mi>ψ<!-- ψ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi \implies \psi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varphi \implies \psi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/be76513624129b49ca10097add730cc7a3319f93" style="vertical-align: -0.838ex; width:9.42ex; height:2.676ex;"/></span>, entonces el agente debe también saber/conocer <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \psi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ψ<!-- ψ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \psi }</annotation>
+</semantics>
+</math></span><img alt="\psi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45e5789e5d9c8f7c79744f43ecaaf8ba42a8553a" style="vertical-align: -0.671ex; width:1.513ex; height:2.509ex;"/></span>. Por lo que,
+</p>
+<p>Otra propiedad que se puede derivar es que si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span> es válido, entonces lo es <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K_{i}\varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{i}\varphi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle K_{i}\varphi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a4f17f1f0829e40e1ac5ef65d992e5028a38546b" style="vertical-align: -0.838ex; width:4.293ex; height:2.676ex;"/></span>. Lo cual no quiere decir que si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span> es verdadero, dicho agente i sabe/conoce <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span>. Lo que quiere decir es que si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span> es verdadero en todo mundo que un agente considere como un mundo posible, entonces el agente debe conocer/saber <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi }</annotation>
+</semantics>
+</math></span><img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/></span> en todos los mundos posibles.
+</p>
+<p>Este axioma es conocido como axioma <b>T</b>. El mismo establece que si un agente conoce hechos, los hechos deben ser verdaderos. Esto ha sido a menudo tomado como la principal característica que diferencia al conocimiento de la creencia. Mientras que es posible creer en algo que es falso, no se puede <i>conocer/saber</i> algo que es falso.
+</p>
+<p>Esta propiedad y la siguiente establecen que un agente posee introspección acerca de su propio conocimiento, y se los conoce tradicionalmente bajo los nombres de axiomas <b>4</b> y <b>5</b>, respectivamente. El axioma de la introspección positiva, también conocido como axioma KK, dice específicamente que los agentes <i>saben que es lo que saben/conocen</i>. este axioma puede parecer menos obvio que los enumerados previamente, y <a class="new" href="/w/index.php?title=Timothy_Williamson&amp;action=edit&amp;redlink=1" title="Timothy Williamson (aún no redactado)">Timothy Williamson</a> ha argumentado en contra de su inclusión en su libro, <i>Knowledge and Its Limits</i>.
+</p>
+<p>El axioma de la introspección negativa dice que los agentes <i>saben que es lo que no saben/conocen</i>.
+</p>
+<p>Se pueden derivar diferentes lógicas modales tomando distintos subconjuntos de estos axiomas, y estas lógicas son normalmente llamadas según los axiomas más importantes que se utilicen. Sin embargo, no siempre es este el caso. KT45, la lógica modal que resulta de combinar <b>K</b>, <b>T</b>, <b>4</b>, <b>5</b>, y la Regla de Generalización del Conocimiento, es conocida como <a class="new" href="/w/index.php?title=S5_(l%C3%B3gica_modal)&amp;action=edit&amp;redlink=1" title="S5 (lógica modal) (aún no redactado)">S5</a>. Esta es la razón por la cual las propiedades descriptas previamente son a menudo llamadas propiedades S5.
+</p>
+<p>La lógica epistémica también analiza las creencias, no solo el conocimiento. El operador básico modal por lo general se escribe como <i>B</i> en vez de <i>K</i>. Sin embargo en este caso, el axioma del conocimiento no parece ser verdadero -- solo a veces los agentes creen la verdad -- por lo que por lo general se lo remplaza con al axioma de consistencia, tradicionalmente llamado <b>D</b>:
+</p>
+<p>el cual establece que el agente no cree una contradicción, o lo que es falso. Cuando <b>D</b> remplaza a <b>T</b> en S5, el sistema resultante se llama KD45. Esto también resulta en un conjunto de propiedades distintas para <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathcal {K}}_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-caligraphic" mathvariant="script">K</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathcal {K}}_{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathcal {K}}_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/71ab45b3bc33732b7cc35c40007d9a9003e5acfa" style="vertical-align: -0.671ex; width:2.571ex; height:2.509ex;"/></span>. Por ejemplo, en un sistema en el cual un agente "cree" que algo es verdadero, pero en realidad no lo es, la relación de accesibilidad sería no reflexiva. La lógica de las creencias se llama <a href="/wiki/L%C3%B3gica_dox%C3%A1stica" title="Lógica doxástica">lógica doxástica</a>.
+</p>

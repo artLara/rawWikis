@@ -1,0 +1,927 @@
+<p>El número <b>π</b> (<b><a href="/wiki/%CE%A0" title="Π">pi</a></b>) es la relación entre la longitud de una <a href="/wiki/Circunferencia" title="Circunferencia">circunferencia</a> y su <a href="/wiki/Di%C3%A1metro" title="Diámetro">diámetro</a> en <a href="/wiki/Geometr%C3%ADa_euclidiana" title="Geometría euclidiana">geometría euclidiana</a>.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Es un <a href="/wiki/N%C3%BAmero_irracional" title="Número irracional">número irracional</a><sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ y una de las constantes matemáticas más importantes. Se emplea frecuentemente en <a href="/wiki/Matem%C3%A1ticas" title="Matemáticas">matemáticas</a>, <a href="/wiki/F%C3%ADsica" title="Física">física</a> e <a href="/wiki/Ingenier%C3%ADa" title="Ingeniería">ingeniería</a>. El <a href="/wiki/Valor_num%C3%A9rico" title="Valor numérico">valor numérico</a> de π, <a href="/wiki/Truncamiento" title="Truncamiento">truncado</a> a sus primeras cifras, es el siguiente:<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El valor de π se ha obtenido con diversas <a href="/wiki/Aproximaci%C3%B3n" title="Aproximación">aproximaciones</a> a lo largo de la historia, siendo una de las constantes matemáticas que más aparece en las ecuaciones de la física, junto con el <a href="/wiki/N%C3%BAmero_e" title="Número e">número e</a>. Cabe destacar que el cociente entre la longitud de cualquier circunferencia y la de su diámetro no es constante en geometrías no euclidianas.<sup class="reference separada" id="cite_ref-eemGaussianos_4-0"><a href="#cite_note-eemGaussianos-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La notación con la <a href="/wiki/Alfabeto_griego" title="Alfabeto griego">letra griega</a> <a class="mw-redirect" href="/wiki/Pi_(letra)" title="Pi (letra)">π</a> proviene de la inicial de las palabras de origen <a href="/wiki/Idioma_griego" title="Idioma griego">griego</a> περιφέρεια «periferia» y περίμετρον «perímetro» de un <a href="/wiki/C%C3%ADrculo" title="Círculo">círculo</a>,<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ notación que fue utilizada primero por <a href="/wiki/William_Oughtred" title="William Oughtred">William Oughtred</a> (1574-1660) y cuyo uso fue propuesto por el matemático galés William Jones (1675-1749);<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​ aunque fue el matemático <a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Leonhard Euler</a>, con su obra <i>Introducción al cálculo infinitesimal</i>, de <a href="/wiki/1748" title="1748">1748</a>, quien la popularizó. Fue conocida anteriormente como <i>constante de Ludolph</i> (en honor al matemático <a href="/wiki/Ludolph_van_Ceulen" title="Ludolph van Ceulen">Ludolph van Ceulen</a>) o como <i>constante de Arquímedes</i> (que no se debe confundir con el <a href="/wiki/N%C3%BAmero_de_Arqu%C3%ADmedes" title="Número de Arquímedes">número de Arquímedes</a>). Jones plantea el nombre y símbolo de este número en 1706 y Euler empieza a difundirlo en 1736.<sup class="reference separada" id="cite_ref-beskin_7-0"><a href="#cite_note-beskin-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><a href="/wiki/Arqu%C3%ADmedes" title="Arquímedes">Arquímedes</a> lo calculó con la aproximación de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 3+{\frac {10}{71}}&lt;\pi &lt;3+{\frac {1}{7}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>3</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>10</mn>
+<mn>71</mn>
+</mfrac>
+</mrow>
+<mo>&lt;</mo>
+<mi>π<!-- π --></mi>
+<mo>&lt;</mo>
+<mn>3</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>7</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 3+{\frac {10}{71}}&lt;\pi &lt;3+{\frac {1}{7}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 3+{\frac {10}{71}}&lt;\pi &lt;3+{\frac {1}{7}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffe1c3024ece049c410eec9e3a95d762e0aa8229" style="vertical-align: -2.005ex; width:20.694ex; height:5.343ex;"/></span>, tal como consignó en su obra <i>Medición del círculo</i>, ciertamente con otra notación.<sup class="reference separada" id="cite_ref-beskin_7-1"><a href="#cite_note-beskin-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La búsqueda del mayor número de decimales del número <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span> ha supuesto un esfuerzo constante de numerosos científicos a lo largo de la historia.<sup class="reference separada" id="cite_ref-8"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ Algunas aproximaciones históricas de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span> son las siguientes.
+</p>
+<p>Los primeros matemáticos <a href="/wiki/Roma" title="Roma">romanos</a> descubrieron una relación entre la longitud de pies de la <a href="/wiki/Circunferencia" title="Circunferencia">circunferencia</a> y el número 3,14.
+</p>
+<p>Hacia el <span style="white-space:nowrap">1900-1600 a. C.</span>, algunos matemáticos <a href="/wiki/Mesopotamia" title="Mesopotamia">mesopotámicos</a> empleaban, en el cálculo de segmentos, valores de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span> igual a 3, alcanzando en algunos casos valores más aproximados, como el de:
+</p>
+<p>El valor aproximado de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span> en las antiguas culturas se remonta a la época del escriba egipcio Ahmes en el año <a class="mw-redirect" href="/wiki/1800_a._C." title="1800 a. C.">1800 a. C.</a>, descrito en el <a href="/wiki/Papiro_de_Ahmes" title="Papiro de Ahmes">papiro Rhind</a>,<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ donde se emplea un valor aproximado de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span> afirmando que el área de un círculo es similar a la de un cuadrado cuyo lado es igual al diámetro del círculo disminuido en 1/9; es decir, igual a 8/9 del diámetro. En notación moderna:
+</p>
+<p>Entre los ocho documentos matemáticos hallados de la <a href="/wiki/Antiguo_Egipto" title="Antiguo Egipto">antigua cultura egipcia</a>, en dos se habla de <a href="/wiki/C%C3%ADrculo" title="Círculo">círculos</a>. Uno es el <a class="mw-redirect" href="/wiki/Papiro_Rhind" title="Papiro Rhind">papiro Rhind</a> y el otro es el <a href="/wiki/Papiro_de_Mosc%C3%BA" title="Papiro de Moscú">papiro de Moscú</a>. Solo en el primero se habla del valor aproximado del número <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span>. El investigador <a href="/wiki/Otto_Neugebauer" title="Otto Neugebauer">Otto Neugebauer</a>, en un anexo de su libro <i>The Exact Sciences in Antiquity</i>,<sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​ describe un método inspirado en los problemas del papiro de Ahmes para averiguar el valor de π, mediante la aproximación del área de un cuadrado de lado 8, a la de un círculo de diámetro 9.
+</p>
+<p>Una de las referencias indirectas más antiguas del valor aproximado de π se puede encontrar en un versículo de la <i><a href="/wiki/Biblia" title="Biblia">Biblia</a>:</i>
+</p>
+<p>Una cita similar se puede encontrar en el <i><a href="/wiki/II_Cr%C3%B3nicas" title="II Crónicas">Segundo libro de las crónicas</a></i>. En él aparece en una lista de requerimientos para la construcción del <a class="mw-redirect" href="/wiki/Gran_Templo_de_Salom%C3%B3n" title="Gran Templo de Salomón">Gran Templo de Salomón</a>, construido sobre el 950 a. C.:
+</p>
+<p>Ambas citas dan 3 como valor de π, lo que supone una notable pérdida de precisión respecto de las anteriores estimaciones egipcia y mesopotámica. Al respecto, <a href="/wiki/Apolog%C3%ADa_cristiana" title="Apología cristiana">apologéticos cristianos</a> señalan que la falta de precisión se pueda atribuir al <a href="/wiki/Redondeo" title="Redondeo">redondeo</a> de las dimensiones relatadas por el texto.<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El matemático griego <a href="/wiki/Arqu%C3%ADmedes" title="Arquímedes">Arquímedes</a> (<a href="/wiki/Siglo_III_a._C." title="Siglo III a. C.">siglo III a. C.</a>) fue capaz de determinar el valor de π entre el intervalo comprendido por 3 10/71, como valor mínimo, y 3 1/7, como valor máximo. Con esta aproximación de Arquímedes se obtiene un valor con un error que oscila entre 0.024 % y 0.040 % sobre el valor real. El método usado por Arquímedes<sup class="reference separada" id="cite_ref-12"><a href="#cite_note-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​ era muy simple y consistía en circunscribir e inscribir <a href="/wiki/Pol%C3%ADgono_regular" title="Polígono regular">polígonos regulares</a> de n-lados en circunferencias y calcular el <a href="/wiki/Per%C3%ADmetro" title="Perímetro">perímetro</a> de dichos polígonos. Arquímedes empezó con <a href="/wiki/Hex%C3%A1gono" title="Hexágono">hexágonos</a> circunscritos e inscritos, y fue doblando el número de lados hasta llegar a polígonos de 96 lados.
+</p>
+<p>Alrededor del año 20 d. C., el arquitecto e ingeniero romano <a class="mw-redirect" href="/wiki/Marco_Vitruvio" title="Marco Vitruvio">Vitruvio</a> calcula π como el valor fraccionario 25/8 midiendo la distancia recorrida en una revolución por una rueda de diámetro conocido.
+</p>
+<p>En el <a href="/wiki/Siglo_II" title="Siglo II">siglo <span style="font-variant:small-caps;text-transform:lowercase">II</span></a>, <a href="/wiki/Claudio_Ptolomeo" title="Claudio Ptolomeo">Claudio Ptolomeo</a> proporciona un <a href="/wiki/Fracci%C3%B3n" title="Fracción">valor fraccionario</a> por aproximaciones:
+</p>
+<p>El número π es un coeficiente que multiplicado por el diámetro nos indica la longitud de la circunferencia. Es decir, tres veces el diámetro se acerca a la longitud de la circunferencia, pero se queda corto. En realidad hay que multiplicar el diámetro por 3,14159… Lo estamos expresando como tres unidades y un cociente propio del sistema decimal. 
+</p>
+<p>Sistema decimal:
+</p>
+<p><a href="/wiki/Sistema_vigesimal" title="Sistema vigesimal">Sistema vigesimal</a>:
+</p>
+<p>Explicación de su obtención:
+</p>
+<p>PASO 1.
+</p>
+<p>PASO 2.
+</p>
+<p>Tenemos que tener en cuentas las llevadas.
+</p>
+<p>El cálculo de pi fue una atracción para los matemáticos expertos de todas las culturas. Hacia 120, el <a href="/wiki/Astr%C3%B3nomo" title="Astrónomo">astrónomo</a> chino <a href="/wiki/Zhang_Heng" title="Zhang Heng">Zhang Heng</a> (78-139) fue uno de los primeros en usar la aproximación <span class="nowrap">√<span style="border-top:1px solid; padding:0 0.1em;">10</span></span>, que dedujo de la razón entre el volumen de un cubo y la respectiva esfera inscrita. Un siglo después, el astrónomo <a class="new" href="/w/index.php?title=Wang_Fang&amp;action=edit&amp;redlink=1" title="Wang Fang (aún no redactado)">Wang Fang</a> lo estimó en 142/45 (3.155555), aunque se desconoce el método empleado.<sup class="reference separada" id="cite_ref-Bailey_13-0"><a href="#cite_note-Bailey-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​ Pocos años después, hacia 263, el matemático <a href="/wiki/Liu_Hui" title="Liu Hui">Liu Hui</a> fue el primero en sugerir<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​ que 3,14 era una buena aproximación, usando un polígono de 96<sup class="reference separada" id="cite_ref-boyer_15-0"><a href="#cite_note-boyer-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​ o 192<sup class="reference separada" id="cite_ref-Bailey_13-1"><a href="#cite_note-Bailey-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​ lados. Posteriormente estimó π como 3,14159 empleando un polígono de 3072 lados.<sup class="reference separada" id="cite_ref-boyer_15-1"><a href="#cite_note-boyer-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-16"><a href="#cite_note-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>A finales del <a href="/wiki/Siglo_V" title="Siglo V">siglo <span style="font-variant:small-caps;text-transform:lowercase">V</span></a>, el matemático y astrónomo chino <a href="/wiki/Zu_Chongzhi" title="Zu Chongzhi">Zu Chongzhi</a> calculó el valor de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span> en 3,1415926, al que llamó «valor por defecto», y 3,1415927, «valor por exceso», y dio dos aproximaciones racionales de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span>, 22/7 y 355/113, muy conocidas ambas,<sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​ siendo la última aproximación tan buena y precisa que no fue igualada hasta más de nueve siglos después, en el <a href="/wiki/Siglo_XV" title="Siglo XV">siglo <span style="font-variant:small-caps;text-transform:lowercase">XV</span></a>.<sup class="reference separada" id="cite_ref-boyer_15-2"><a href="#cite_note-boyer-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Usando un <a href="/wiki/Pol%C3%ADgono" title="Polígono">polígono</a> regular inscrito de 384 lados, a finales del siglo <span style="font-variant:small-caps;text-transform:lowercase">V</span> el matemático <a href="/wiki/India" title="India">indio</a> <a href="/wiki/Aryabhata" title="Aryabhata">Aryabhata</a> estimó el valor en 3,1416. A mediados del <a href="/wiki/Siglo_VII" title="Siglo VII">siglo <span style="font-variant:small-caps;text-transform:lowercase">VII</span></a>, estimando incorrecta la aproximación de Aryabhata, <a href="/wiki/Brahmagupta" title="Brahmagupta">Brahmagupta</a> calcula <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span> como <span class="nowrap">√<span style="border-top:1px solid; padding:0 0.1em;">10</span></span>, cálculo mucho menos preciso que el de su predecesor. Hacia 1400 <a class="mw-redirect" href="/wiki/Madhava" title="Madhava">Madhava</a> obtiene una aproximación exacta hasta 11 dígitos (3,14159265359), siendo el primero en emplear <a class="mw-redirect" href="/wiki/Serie_matem%C3%A1tica" title="Serie matemática">series</a> para realizar la estimación.<sup class="reference separada" id="cite_ref-Bailey_13-2"><a href="#cite_note-Bailey-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En el <a href="/wiki/Siglo_IX" title="Siglo IX">siglo <span style="font-variant:small-caps;text-transform:lowercase">IX</span></a> <a class="mw-redirect" href="/wiki/Al-Jwarizmi" title="Al-Jwarizmi">Al-Jwarizmi</a>, en su <i>Álgebra</i> (<i>Hisab al yabr ua al muqabala</i>), hace notar que el hombre práctico usa 22/7 como valor de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span>, el geómetra usa 3, y el astrónomo 3,1416. En el <a href="/wiki/Siglo_XV" title="Siglo XV">siglo <span style="font-variant:small-caps;text-transform:lowercase">XV</span></a>, el matemático <a class="mw-redirect" href="/wiki/Persia" title="Persia">persa</a> <a href="/wiki/Ghiyath_al-Din_Jamshid_Mas%27ud_al-Kashi" title="Ghiyath al-Din Jamshid Mas'ud al-Kashi">Ghiyath al-Kashi</a> fue capaz de calcular el valor aproximado de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span> con nueve dígitos, empleando una <a href="/wiki/Sistema_sexagesimal" title="Sistema sexagesimal">base numérica sexagesimal</a>, lo que equivale a una aproximación de 16 dígitos decimales: 2<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span> = 6.2831853071795865_
+</p>
+<p>A partir del <a href="/wiki/Siglo_XII" title="Siglo XII">siglo <span style="font-variant:small-caps;text-transform:lowercase">XII</span></a>, con el uso de <a class="mw-redirect" href="/wiki/Numeraci%C3%B3n_ar%C3%A1biga" title="Numeración arábiga">cifras arábigas</a> en los cálculos, se facilitó mucho la posibilidad de obtener mejores cálculos para π. El matemático <a href="/wiki/Leonardo_de_Pisa" title="Leonardo de Pisa">Fibonacci</a> (1170-1250), en su <i>Practica Geometriae</i>, amplifica el método de Arquímedes, proporcionando un intervalo más estrecho. Algunos matemáticos del <a href="/wiki/Siglo_XVII" title="Siglo XVII">siglo <span style="font-variant:small-caps;text-transform:lowercase">XVII</span></a>, como <a href="/wiki/Fran%C3%A7ois_Vi%C3%A8te" title="François Viète">Viète</a>, usaron <a href="/wiki/Pol%C3%ADgono" title="Polígono">polígonos</a> de hasta 393 216 lados para aproximarse con buena precisión a 3,141592653. En <a href="/wiki/1593" title="1593">1593</a> el <a href="/wiki/Flandes" title="Flandes">flamenco</a> <a href="/wiki/Adriaan_van_Roomen" title="Adriaan van Roomen">Adriaan van Roomen</a> (<i>Adrianus Romanus</i>) obtiene una precisión de 16 dígitos decimales usando el método de Arquímedes.
+</p>
+<p>En <a href="/wiki/1610" title="1610">1610</a> el matemático <a href="/wiki/Ludolph_van_Ceulen" title="Ludolph van Ceulen">Ludolph van Ceulen</a> calculó los 35 primeros decimales de π. Se dice que estaba tan orgulloso de esta hazaña que lo mandó grabar en su lápida. Los libros de matemática alemanes durante muchos años denominaron a π como <i>número ludolfiano</i>. En <a href="/wiki/1665" title="1665">1665</a> <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> desarrolla la serie<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Con <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x={\frac {1}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x={\frac {1}{2}}}</annotation>
+</semantics>
+</math></span><img alt="x={\frac  {1}{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2823014b08c738d0755d2397dc6d997a7e59c6c4" style="vertical-align: -1.838ex; width:6.427ex; height:5.176ex;"/></span> obtuvo una serie para:
+</p>
+<p>El matemático inglés <a href="/wiki/John_Wallis" title="John Wallis">John Wallis</a> desarrolló en <a href="/wiki/1655" title="1655">1655</a> la conocida serie <i><a href="/wiki/Producto_de_Wallis" title="Producto de Wallis">Producto de Wallis</a></i>:
+</p>
+<p>En <a href="/wiki/1699" title="1699">1699</a>, a sugerencia de <a class="mw-redirect" href="/wiki/Edmond_Halley" title="Edmond Halley">Edmond Halley</a>, el matemático inglés <a href="/wiki/Abraham_Sharp" title="Abraham Sharp">Abraham Sharp</a> (1651-1742) calculó <i>pi</i> con una precisión de 71 dígitos decimales usando la <i>serie de <a href="/wiki/James_Gregory" title="James Gregory">Gregory</a></i>:
+</p>
+<p>Con <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x={\frac {1}{\sqrt {3}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x={\frac {1}{\sqrt {3}}}}</annotation>
+</semantics>
+</math></span><img alt="x={\frac  {1}{{\sqrt  {3}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/24fc8427c8ad4f8366b40b15fe8acf01bf71c8f2" style="vertical-align: -2.838ex; width:8.363ex; height:6.176ex;"/></span> se obtiene una serie para:
+</p>
+<p>Para alcanzar la precisión obtenida, debió usar alrededor de trescientos términos en la serie. En 1720 el francés <a class="new" href="/w/index.php?title=Thomas_de_Lagny&amp;action=edit&amp;redlink=1" title="Thomas de Lagny (aún no redactado)">Thomas de Lagny</a> utilizó el mismo método para obtener una aproximación de 127 dígitos (solo los primeros 112 eran correctos).
+</p>
+<p><a class="mw-redirect" href="/wiki/Gottfried_Wilhelm_Leibniz" title="Gottfried Wilhelm Leibniz">Leibniz</a> calculó de una forma más complicada en <a href="/wiki/1682" title="1682">1682</a> la siguiente <a class="mw-redirect" href="/wiki/Serie_matem%C3%A1tica" title="Serie matemática">serie matemática</a> que lleva su nombre:
+</p>
+<p>El inglés <a href="/wiki/William_Oughtred" title="William Oughtred">William Oughtred</a> fue el primero que empleó la letra griega π como símbolo del cociente entre las longitudes de una <a href="/wiki/Circunferencia" title="Circunferencia">circunferencia</a> y su <a href="/wiki/Di%C3%A1metro" title="Diámetro">diámetro</a>. Fue en el año <a href="/wiki/1706" title="1706">1706</a> cuando el galés <a href="/wiki/William_Jones_(matem%C3%A1tico)" title="William Jones (matemático)">William Jones</a> afirmó: «3,14159 andc. = π» y propuso usar siempre el símbolo π, y fue <a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Leonhard Euler</a> el que al adoptarlo en <a href="/wiki/1737" title="1737">1737</a> lo convirtió en la notación habitual que se usa hasta nuestros días.
+</p>
+<p>El matemático <a href="/wiki/Jap%C3%B3n" title="Japón">japonés</a> <a href="/wiki/Takebe_Kenk%C5%8D" title="Takebe Kenkō">Takebe</a> empezó a calcular el número π en el año <a href="/wiki/1722" title="1722">1722</a>, con el mismo método expuesto por <a href="/wiki/Arqu%C3%ADmedes" title="Arquímedes">Arquímedes</a>, y fue ampliando el número de lados para polígonos circunscritos e inscritos hasta llegar a 1024 lados. Este ingente trabajo consiguió que se determinara π con 41 decimales.
+</p>
+<p>En <a href="/wiki/1789" title="1789">1789</a> el matemático de origen <a href="/wiki/Eslovenia" title="Eslovenia">esloveno</a> <a href="/wiki/Jurij_Bartolomej_Vega" title="Jurij Bartolomej Vega">Jurij Vega</a>, mediante la fórmula de <a href="/wiki/John_Machin" title="John Machin">John Machin</a>, descubierta en <a href="/wiki/1706" title="1706">1706</a>, fue el primero en averiguar los primeros 140 decimales de π, de los cuales 126 eran correctos; este récord se mantuvo durante 52 años, hasta que en <a href="/wiki/1841" title="1841">1841</a> <a class="new" href="/w/index.php?title=William_Rutherford&amp;action=edit&amp;redlink=1" title="William Rutherford (aún no redactado)">William Rutherford</a> calculó 208 decimales, de los cuales 152 eran correctos.
+</p>
+<p>El matemático aficionado de origen inglés <a href="/wiki/William_Shanks" title="William Shanks">William Shanks</a> trabajó, durante 20 años, en hallar los dígitos decimales de π, habiendo obtenido 707 decimales en <a href="/wiki/1873" title="1873">1873</a>. En el año <a href="/wiki/1944" title="1944">1944</a>, D. F. Ferguson encontró un error en el quingentésimo vigésimo octavo dígito decimal (528º) de la serie de Shanks, a partir del cual todos los dígitos subsiguientes eran erróneos.<sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​ En <a href="/wiki/1948" title="1948">1948</a>, Ferguson recalculó π con 808 decimales con la ayuda de una calculadora electrónica.<sup class="reference separada" id="cite_ref-eemMicrosiervos_20-0"><a href="#cite_note-eemMicrosiervos-20"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Algunas aproximaciones históricas de valores de π, anteriores a la época computacional, se muestran en la siguiente tabla:
+</p>
+<p><strong></strong><span style="font-size:xx-small">(en partes por millón)</span>
+</p>
+<p>empleó 211875/67441 ~ 3.14163
+</p>
+<p>13.45 ppm
+</p>
+<p>Desde el diseño de la primera computadora se empezaron a desarrollar programas para el cálculo del número π con la mayor cantidad de cifras posible. De esta forma, en <a href="/wiki/1949" title="1949">1949</a> un <a href="/wiki/ENIAC" title="ENIAC">ENIAC</a> fue capaz de romper el récord, obteniendo 2037 cifras decimales en 70 horas. Poco a poco fueron surgiendo ordenadores que batían récords y, de esta forma, pocos años después (<a href="/wiki/1954" title="1954">1954</a>) un <a class="new" href="/w/index.php?title=Naval_Ordnance_Research_Calculator&amp;action=edit&amp;redlink=1" title="Naval Ordnance Research Calculator (aún no redactado)">NORAC</a> llegó a 3092 cifras. Durante casi toda la década de los <a href="/wiki/A%C3%B1os_1960" title="Años 1960">años 1960</a> los <a href="/wiki/IBM" title="IBM">IBM</a> fueron batiendo récords, hasta que un <a href="/wiki/IBM_7030" title="IBM 7030">IBM 7030</a> pudo llegar en <a href="/wiki/1966" title="1966">1966</a> a 250 000 cifras decimales (en 8 h y 23 min). Durante esta época se probaban las nuevas <a href="/wiki/Computadora" title="Computadora">computadoras</a> con <a href="/wiki/Algoritmo" title="Algoritmo">algoritmos</a> para la generación de series de números procedentes de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span>.
+</p>
+<p>En la <a href="/wiki/A%C3%B1os_2000" title="Años 2000">década de 2000</a>, los ordenadores son capaces de obtener números que poseen una inmensa cantidad de decimales. En <a href="/wiki/2009" title="2009">2009</a> se hallaron más de dos <a class="mw-redirect" href="/wiki/Billon" title="Billon">billones</a> y medio de decimales de pi mediante el uso de una <a href="/wiki/Supercomputadora" title="Supercomputadora">supercomputadora</a> <a class="new" href="/w/index.php?title=T2K_Tsukuba_System&amp;action=edit&amp;redlink=1" title="T2K Tsukuba System (aún no redactado)">T2K Tsukuba System</a>, compuesta por 640 computadoras de alto rendimiento, que juntas consiguen velocidades de procesamiento de 95 <a class="mw-redirect" href="/wiki/Teraflops" title="Teraflops">teraflops</a>. Lo obtuvieron en 73 horas y 36 minutos.
+</p>
+<p>En la <i>época computacional del cálculo de π</i> las cifras se han disparado, no solo debido a la potencia de cálculo que estas máquinas son capaces de generar, sino también por el prestigio que conlleva para el constructor de la máquina cuando su marca aparece en la lista de los récords, y por la capacidad de hacer uso de computación avanzada para encadenar millones de máquinas si se desea y así aumentar la potencia de cálculo, que en los anteriores casos solo deviene de una sola máquina, siendo el último ejemplo el uso de una combinación entre potencia de procesamiento y el uso de programas de cálculo y/o entrelazamiento de máquinas asistido.<sup class="reference separada" id="cite_ref-El_Tiempo_25-1"><a href="#cite_note-El_Tiempo-25"><span class="corchete-llamada">[</span>25<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><a href="/wiki/Euclides" title="Euclides">Euclides</a> fue el primero en demostrar que la relación entre una circunferencia y su diámetro es una cantidad constante.<sup class="reference separada" id="cite_ref-28"><a href="#cite_note-28"><span class="corchete-llamada">[</span>28<span class="corchete-llamada">]</span></a></sup>​ No obstante, existen diversas definiciones del número <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span>, pero las más común es:
+</p>
+<p>Además <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span> es:
+</p>
+<p>También es posible definir analíticamente <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span>; dos definiciones son posibles:
+</p>
+<p>Se trata de un número <a href="/wiki/N%C3%BAmero_irracional" title="Número irracional">irracional</a>, lo que significa que no puede expresarse como fracción de dos números enteros, como demostró <a href="/wiki/Johann_Heinrich_Lambert" title="Johann Heinrich Lambert">Johann Heinrich Lambert</a> en 1761 (o 1767).
+También es un <a href="/wiki/N%C3%BAmero_trascendente" title="Número trascendente">número trascendente</a>, es decir, que no es la <a class="mw-redirect" href="/wiki/Ra%C3%ADz_(matem%C3%A1tica)" title="Raíz (matemática)">raíz</a> de ningún <a href="/wiki/Polinomio" title="Polinomio">polinomio</a> de coeficientes <a href="/wiki/N%C3%BAmero_entero" title="Número entero">enteros</a>. En el <a href="/wiki/Siglo_XIX" title="Siglo XIX">siglo <span style="font-variant:small-caps;text-transform:lowercase">XIX</span></a> el matemático <a href="/wiki/Alemania" title="Alemania">alemán</a> <a class="mw-redirect" href="/wiki/Ferdinand_Lindemann" title="Ferdinand Lindemann">Ferdinand Lindemann</a> demostró este hecho, cerrando con ello definitivamente la permanente y ardua investigación acerca del problema de la <a href="/wiki/Cuadratura_del_c%C3%ADrculo" title="Cuadratura del círculo">cuadratura del círculo</a> indicando que no tiene solución.
+</p>
+<p>También se sabe que π tampoco es un <a href="/wiki/N%C3%BAmero_de_Liouville" title="Número de Liouville">número de Liouville</a> (Mahler,<sup class="reference separada" id="cite_ref-31"><a href="#cite_note-31"><span class="corchete-llamada">[</span>31<span class="corchete-llamada">]</span></a></sup>​ <a href="/wiki/1953" title="1953">1953</a>), es decir, no solo es trascendental sino que no puede ser aproximado por una secuencia de racionales «rápidamente convergente» (Stoneham 1970<sup>[<i><a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">cita requerida</a></i>]</sup>).
+</p>
+<p>A pesar de tratarse de un <a href="/wiki/N%C3%BAmero_irracional" title="Número irracional">número irracional</a> continúa siendo averiguada la máxima cantidad posible de <a href="/wiki/N%C3%BAmero_decimal" title="Número decimal">decimales</a>. Los cincuenta primeros son:
+</p>
+<p>Para ver secuencias mayores de este número consúltese las <a href="#Enlaces_externos">referencias</a> (5·10<sup>12</sup> decimales),<sup class="reference separada" id="cite_ref-32"><a href="#cite_note-32"><span class="corchete-llamada">[</span>32<span class="corchete-llamada">]</span></a></sup>​ así como <a class="external text" href="http://mimosa.pntic.mec.es/jgomez53/matema/conocer/pi_10000.htm" rel="nofollow">Las primeras diez mil cifras decimales</a> <a class="extiw" href="//oeis.org/A00796" title="oeis:A00796">A00796</a> y <a href="/wiki/OEIS" title="OEIS">OEIS</a>.
+</p>
+<p>En ciencia e ingeniería, esta constante puede emplearse, la mayoría de las veces, con una precisión de solo una docena de decimales. Con cuarenta decimales se podría describir con precisión la curvatura de la <a href="/wiki/V%C3%ADa_L%C3%A1ctea" title="Vía Láctea">Vía Láctea</a> con un error más pequeño que el tamaño de un <a href="/wiki/Prot%C3%B3n" title="Protón">protón</a>.<sup class="reference separada" id="cite_ref-33"><a href="#cite_note-33"><span class="corchete-llamada">[</span>33<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Áreas de <a class="mw-redirect" href="/wiki/Secciones_c%C3%B3nicas" title="Secciones cónicas">secciones cónicas</a>:
+</p>
+<p>Áreas de cuerpos de revolución:
+</p>
+<p>Volúmenes de cuerpos de revolución:
+</p>
+<p>Ecuaciones expresadas en <a href="/wiki/Radi%C3%A1n" title="Radián">radianes</a>:
+</p>
+<p>Donde B(2k) es el 2k-ésimo número de Bernoulli.
+</p>
+<p>Utilizando el inverso del <a href="/wiki/Producto_de_Euler_para_la_funci%C3%B3n_zeta_de_Riemann" title="Producto de Euler para la función zeta de Riemann">producto de Euler</a> para la <a href="/wiki/Funci%C3%B3n_zeta_de_Riemann" title="Función zeta de Riemann">función zeta de Riemann</a> y para el valor del argumento igual a 2 se obtiene:
+</p>
+<p>donde <i>p</i><sub><i>n</i></sub> es el <i>n</i>-ésimo número primo.
+<a class="mw-redirect" href="/wiki/Euler" title="Euler">Euler</a> fue el primero en hallar este valor de la función zeta (empleando la expresión de sumatoria) y resolviendo así el famoso <a href="/wiki/Problema_de_Basilea" title="Problema de Basilea">Problema de Basilea</a>.
+</p>
+<p>Una forma exacta de poder calcular π en términos de tangentes inversas de fracciones unitarias es la <a href="/wiki/John_Machin" title="John Machin">fórmula de Machin</a>, descubierta en <a href="/wiki/1706" title="1706">1706</a>:
+</p>
+<p>Muchos matemáticos emplearon esta fórmula para averiguar dígitos por encima de la centena (por ejemplo, el ya citado Shanks, que con esta fórmula calculó 707 posiciones decimales de π).
+</p>
+<p>Los primeros millones de dígitos de <i>π</i> y 1/<i>π</i> se pueden consultar en <a href="/wiki/Proyecto_Gutenberg" title="Proyecto Gutenberg">Proyecto Gutenberg</a> (véase <a class="mw-redirect" href="/wiki/N%C3%BAmero_pi#enlaces_externos" title="Número pi">enlaces externos</a>). Uno de los récords más recientes fue alcanzado en diciembre de <a href="/wiki/2002" title="2002">2002</a> por <a href="/wiki/Yasumasa_Kanada" title="Yasumasa Kanada">Yasumasa Kanada</a> de la <a href="/wiki/Universidad_de_Tokio" title="Universidad de Tokio">Universidad de Tokio</a>, fijando el número pi con 1 241 100 000 000 dígitos; se necesitaron unas 602 horas con un <a class="mw-redirect" href="/wiki/Superordenador" title="Superordenador">superordenador</a> de 64 nodos <a href="/wiki/Hitachi" title="Hitachi">Hitachi</a> SR8000 con una memoria de un terabyte capaz de llevar a cabo dos billones de operaciones por segundo, más de seis veces el récord previo (206 mil millones de dígitos). Para ello se emplearon las siguientes fórmulas modificadas de Machin:
+</p>
+<p>Estas aproximaciones proporcionaron una cantidad tan ingente de dígitos que puede decirse que ya no es útil sino para comprobar el funcionamiento de los superordenadores. La limitación no está en la computación sino en la memoria necesaria para almacenar una cadena con una cantidad tan grande de números.
+</p>
+<p>Es posible obtener una aproximación al valor de π de forma geométrica. De hecho, ya los griegos intentaron obtener sin éxito una solución exacta al problema del valor de π mediante el empleo de <a href="/wiki/Regla_y_comp%C3%A1s" title="Regla y compás">regla y compás</a>. El problema griego conocido como <a href="/wiki/Cuadratura_del_c%C3%ADrculo" title="Cuadratura del círculo">cuadratura del círculo</a> o, lo que es lo mismo, obtener un cuadrado de área igual al área de un círculo cualquiera, lleva implícito el cálculo del valor exacto de π.
+</p>
+<p>Una vez demostrado que era imposible la obtención de π mediante el uso de regla y compás, se desarrollaron varios métodos aproximados. Dos de las soluciones aproximadas más elegantes son las debidas a Kochanski (usando regla y compás) y la de <a href="/wiki/Lorenzo_Mascheroni" title="Lorenzo Mascheroni">Mascheroni</a> (empleando únicamente un compás).
+</p>
+<p>Se dibuja una circunferencia de radio R. Se inscribe el triángulo equilátero OEG. Se traza una recta paralela al segmento EG que pase por A, prolongándola hasta que corte al segmento OE, obteniendo D. Desde el punto D y sobre ese segmento se transporta 3 veces el radio de la circunferencia y se obtiene el punto C. El segmento BC es aproximadamente la mitad de la longitud de la circunferencia.
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle BC^{2}=AB^{2}+(3-DA)^{2}\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>B</mi>
+<msup>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mi>A</mi>
+<msup>
+<mi>B</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mn>3</mn>
+<mo>−<!-- − --></mo>
+<mi>D</mi>
+<mi>A</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle BC^{2}=AB^{2}+(3-DA)^{2}\,\!}</annotation>
+</semantics>
+</math></span><img alt="BC^{2}=AB^{2}+(3-DA)^{2}\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/794cbacc4e60f8d8ec1126133434178e2fea8695" style="vertical-align: -0.838ex; margin-right: -0.387ex; width:26.037ex; height:3.176ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle OF={\frac {\sqrt {3}}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>O</mi>
+<mi>F</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle OF={\frac {\sqrt {3}}{2}}}</annotation>
+</semantics>
+</math></span><img alt="OF={\frac  {{\sqrt  {3}}}{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/69ce26c0c43fa74ad5455d582c7290906f8bf805" style="vertical-align: -1.838ex; width:10.547ex; height:5.843ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {DA}{EF}}={\frac {OA}{OF}}\rightarrow {\frac {DA}{1/2}}={\frac {1}{{\sqrt {3}}/2}}\rightarrow DA={\frac {\sqrt {3}}{3}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>D</mi>
+<mi>A</mi>
+</mrow>
+<mrow>
+<mi>E</mi>
+<mi>F</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>O</mi>
+<mi>A</mi>
+</mrow>
+<mrow>
+<mi>O</mi>
+<mi>F</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>D</mi>
+<mi>A</mi>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo stretchy="false">→<!-- → --></mo>
+<mi>D</mi>
+<mi>A</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {DA}{EF}}={\frac {OA}{OF}}\rightarrow {\frac {DA}{1/2}}={\frac {1}{{\sqrt {3}}/2}}\rightarrow DA={\frac {\sqrt {3}}{3}}}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {DA}{EF}}={\frac  {OA}{OF}}\rightarrow {\frac  {DA}{1/2}}={\frac  {1}{{\sqrt  {3}}/2}}\rightarrow DA={\frac  {{\sqrt  {3}}}{3}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81658e55e625188d3a4c64f15edec9b2cdf9b225" style="vertical-align: -3.005ex; width:43.744ex; height:7.009ex;"/></span>
+</p>
+<p>Sustituyendo en la primera fórmula:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle BC^{2}=2^{2}+\left(3-{\frac {\sqrt {3}}{3}}\right)^{2}\rightarrow BC={\sqrt {40-6{\sqrt {3}} \over 3}}=3.141533...}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>B</mi>
+<msup>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>3</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo stretchy="false">→<!-- → --></mo>
+<mi>B</mi>
+<mi>C</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mn>40</mn>
+<mo>−<!-- − --></mo>
+<mn>6</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</mrow>
+</mrow>
+<mn>3</mn>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mn>3.141533...</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle BC^{2}=2^{2}+\left(3-{\frac {\sqrt {3}}{3}}\right)^{2}\rightarrow BC={\sqrt {40-6{\sqrt {3}} \over 3}}=3.141533...}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle BC^{2}=2^{2}+\left(3-{\frac {\sqrt {3}}{3}}\right)^{2}\rightarrow BC={\sqrt {40-6{\sqrt {3}} \over 3}}=3.141533...}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5c756cca89e99776798a61e4146fa924dde36cda" style="vertical-align: -2.838ex; width:61.836ex; height:7.676ex;"/></span>
+</p>
+<p>Método desarrollado por <a href="/wiki/Lorenzo_Mascheroni" title="Lorenzo Mascheroni">Lorenzo Mascheroni</a>: se dibuja una circunferencia de radio R y se inscribe un hexágono regular. El punto D es la intersección de dos arcos de circunferencia: BD con centro en A', y CD con centro en A. Obtenemos el punto E como intersección del arco DE, con centro en B, y la circunferencia. El segmento AE es un cuarto de la longitud de la circunferencia, aproximadamente.
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle AD=AC={\sqrt {3}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mi>D</mi>
+<mo>=</mo>
+<mi>A</mi>
+<mi>C</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>3</mn>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle AD=AC={\sqrt {3}}}</annotation>
+</semantics>
+</math></span><img alt="AD=AC={\sqrt  {3}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/272375ebf1165bf739d6635941b2fea8f948b47f" style="vertical-align: -0.671ex; width:16.472ex; height:2.843ex;"/></span> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle OD={\sqrt {3-1}}={\sqrt {2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>O</mi>
+<mi>D</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>3</mn>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle OD={\sqrt {3-1}}={\sqrt {2}}}</annotation>
+</semantics>
+</math></span><img alt="OD={\sqrt  {3-1}}={\sqrt  {2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0ab714394e75b16b17aa980b8b8b5a3139d0cf4c" style="vertical-align: -0.838ex; width:20.094ex; height:3.176ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle BE=BD={\sqrt {(OD-MB)^{2}+MO^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>B</mi>
+<mi>E</mi>
+<mo>=</mo>
+<mi>B</mi>
+<mi>D</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mo stretchy="false">(</mo>
+<mi>O</mi>
+<mi>D</mi>
+<mo>−<!-- − --></mo>
+<mi>M</mi>
+<mi>B</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>M</mi>
+<msup>
+<mi>O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle BE=BD={\sqrt {(OD-MB)^{2}+MO^{2}}}}</annotation>
+</semantics>
+</math></span><img alt="BE=BD={\sqrt  {(OD-MB)^{2}+MO^{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cb3ee73c22c02bdf949be0c77931ffc3da538c40" style="vertical-align: -1.671ex; width:37.466ex; height:4.843ex;"/></span>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle BE=BD={\sqrt {\left({\sqrt {2}}-{\frac {\sqrt {3}}{2}}\right)^{2}+{\frac {1}{4}}}}={\sqrt {3-{\sqrt {6}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>B</mi>
+<mi>E</mi>
+<mo>=</mo>
+<mi>B</mi>
+<mi>D</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>2</mn>
+</msqrt>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msqrt>
+<mn>3</mn>
+</msqrt>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>3</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>6</mn>
+</msqrt>
+</mrow>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle BE=BD={\sqrt {\left({\sqrt {2}}-{\frac {\sqrt {3}}{2}}\right)^{2}+{\frac {1}{4}}}}={\sqrt {3-{\sqrt {6}}}}}</annotation>
+</semantics>
+</math></span><img alt="BE=BD={\sqrt  {\left({\sqrt  {2}}-{\frac  {{\sqrt  {3}}}{2}}\right)^{2}+{\frac  {1}{4}}}}={\sqrt  {3-{\sqrt  {6}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/622a9a77fc884bec0ca758302a4415dcda521077" style="vertical-align: -2.838ex; width:47.46ex; height:7.676ex;"/></span>
+</p>
+<p>Por el teorema de Ptolomeo, en el cuadrilátero ABEB'
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle BB'\cdot AE=AB\cdot EB'+BE\cdot AB'}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>B</mi>
+<msup>
+<mi>B</mi>
+<mo>′</mo>
+</msup>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>A</mi>
+<mi>E</mi>
+<mo>=</mo>
+<mi>A</mi>
+<mi>B</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>E</mi>
+<msup>
+<mi>B</mi>
+<mo>′</mo>
+</msup>
+<mo>+</mo>
+<mi>B</mi>
+<mi>E</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>A</mi>
+<msup>
+<mi>B</mi>
+<mo>′</mo>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle BB'\cdot AE=AB\cdot EB'+BE\cdot AB'}</annotation>
+</semantics>
+</math></span><img alt="BB'\cdot AE=AB\cdot EB'+BE\cdot AB'" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3d794093af923b365bb6775829564ebfea58bae3" style="vertical-align: -0.505ex; width:34.171ex; height:2.676ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2\cdot AE={\sqrt {1+{\sqrt {6}}}}+{\sqrt {9-3\cdot {\sqrt {6}}}}=3.142399...}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>2</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>A</mi>
+<mi>E</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>6</mn>
+</msqrt>
+</mrow>
+</msqrt>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>9</mn>
+<mo>−<!-- − --></mo>
+<mn>3</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>6</mn>
+</msqrt>
+</mrow>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mn>3.142399...</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 2\cdot AE={\sqrt {1+{\sqrt {6}}}}+{\sqrt {9-3\cdot {\sqrt {6}}}}=3.142399...}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 2\cdot AE={\sqrt {1+{\sqrt {6}}}}+{\sqrt {9-3\cdot {\sqrt {6}}}}=3.142399...}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/840804b54d8718cf8202f9235852ed13ddd0f92b" style="vertical-align: -1.671ex; width:47.814ex; height:4.843ex;"/></span>
+</p>
+<p>π es ubicuo en matemática; aparece incluso en lugares que carecen de una conexión directa con los círculos de la geometría euclídea.<sup class="reference separada" id="cite_ref-45"><a href="#cite_note-45"><span class="corchete-llamada">[</span>45<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Para cualquier <a href="/wiki/C%C3%ADrculo" title="Círculo">círculo</a> de radio <i>r</i> y diámetro <i>d</i> = 2<i>r</i>, la longitud de la <a href="/wiki/Circunferencia" title="Circunferencia">circunferencia</a> es π<i>d</i> y el área del círculo es π<i>r</i><sup>2</sup>. Además, π aparece en fórmulas para áreas y volúmenes de muchas otras figuras geométricas relacionadas con la circunferencia, como <a href="/wiki/Elipse" title="Elipse">elipses</a>, <a href="/wiki/Esfera" title="Esfera">esferas</a>, <a href="/wiki/Cono_(geometr%C3%ADa)" title="Cono (geometría)">conos</a>, y <a href="/wiki/Toroide" title="Toroide">toroides</a>.<sup class="reference separada" id="cite_ref-46"><a href="#cite_note-46"><span class="corchete-llamada">[</span>46<span class="corchete-llamada">]</span></a></sup>​ π aparece en <a class="mw-redirect" href="/wiki/Integral" title="Integral">integrales definidas</a> que describen la circunferencia, área o volumen de figuras generadas por circunferencias y círculos. En el caso básico, la mitad del área de un <a class="mw-redirect" href="/wiki/C%C3%ADrculo_unitario" title="Círculo unitario">círculo unitario</a> es:<sup class="reference separada" id="cite_ref-udi_47-0"><a href="#cite_note-udi-47"><span class="corchete-llamada">[</span>47<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>y la mitad de la longitud de la <a class="mw-redirect" href="/wiki/Circunferencia_unitaria" title="Circunferencia unitaria">circunferencia unitaria</a> es:<sup class="reference separada" id="cite_ref-48"><a href="#cite_note-48"><span class="corchete-llamada">[</span>48<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Se puede integrar formas más complejas como <a href="/wiki/S%C3%B3lido_de_revoluci%C3%B3n" title="Sólido de revolución">sólidos de revolución</a>.<sup class="reference separada" id="cite_ref-49"><a href="#cite_note-49"><span class="corchete-llamada">[</span>49<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>De la definición de las <a href="/wiki/Funci%C3%B3n_trigonom%C3%A9trica" title="Función trigonométrica">funciones trigonométricas</a> desde el círculo unitario se llega a que el seno y el coseno tienen período 2π. Lo que significa, para todo <i>x</i> y enteros <i>n</i>, sin(<i>x</i>) = sin(<i>x</i> + 2π<i>n</i>) y cos(<i>x</i>) = cos(<i>x</i> + 2π<i>n</i>). Porque sin(0) = 0, sin(2π<i>n</i>) = 0 para todos los enteros <i>n</i>. Además, el ángulo 180° es igual a π radianes. En otras palabras 1° = (π/180) radianes.
+</p>
+<p>En la matemática moderna, π es a menudo <i>definido</i> usando funciones trigonométricas, por ejemplo como el menor entero positivo <i>x</i> para el cual sin<i>x</i> = 0, para evitar dependencias innecesarias de las sutilezas de la <a href="/wiki/Geometr%C3%ADa_euclidiana" title="Geometría euclidiana">geometría euclidiana</a> y la integración. Equivalentemente, π puede ser definido usando funciones trigonométricas inversas, por ejemplo como π = 2 arccos(0) o π = 4 arctan(1). Expandir funciones trigonométricas inversas como <a href="/wiki/Serie_de_potencias" title="Serie de potencias">series de potencias</a> es la manera más fácil de obtener series infinitas para π.
+</p>
+<p>La frecuente aparición de π en <a href="/wiki/An%C3%A1lisis_complejo" title="Análisis complejo">análisis complejo</a> puede estar relacionada con el comportamiento de la <a href="/wiki/Funci%C3%B3n_exponencial" title="Función exponencial">función exponencial</a> de una variable compleja, descrito por la <a href="/wiki/F%C3%B3rmula_de_Euler" title="Fórmula de Euler">fórmula de Euler</a><sup class="reference separada" id="cite_ref-50"><a href="#cite_note-50"><span class="corchete-llamada">[</span>50<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>donde <i>i</i> es la <a href="/wiki/Unidad_imaginaria" title="Unidad imaginaria">unidad imaginaria</a> que satisface la ecuación <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle i^{2}=-1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>i</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle i^{2}=-1}</annotation>
+</semantics>
+</math></span><img alt="i^{2}=-1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/88e98a401d352e5037d5043028e2d7f449e83fa6" style="vertical-align: -0.505ex; width:7.926ex; height:2.843ex;"/></span> y <i>e</i> ≈ 2.71828 es <a href="/wiki/N%C3%BAmero_e" title="Número e">el número de Euler</a>. Esta fórmula implica que las potencias imaginarias de <i>e</i> describen rotaciones un <a class="mw-redirect" href="/wiki/C%C3%ADrculo_unitario" title="Círculo unitario">círculo unitario</a> en el plano complejo; estas rotaciones tienen un período de 360º = 2π. En particular, la rotación de 180º <i>φ</i> = π resulta en la notable <a href="/wiki/Identidad_de_Euler" title="Identidad de Euler">identidad de Euler</a>
+</p>
+<p>Hay <i>n</i> diferentes <a href="/wiki/Ra%C3%ADz_de_la_unidad" title="Raíz de la unidad">raíces n-ésimas de la unidad</a>
+</p>
+<p>La <a href="/wiki/Integral_de_Gauss" title="Integral de Gauss">integral de Gauss</a>
+</p>
+<p>Una consecuencia es que el resultado de la <a href="/wiki/Divisi%C3%B3n_(matem%C3%A1tica)" title="División (matemática)">división</a> entre la <a href="/wiki/Funci%C3%B3n_gamma" title="Función gamma">función gamma</a> de un semientero (la mitad de un número impar) y √π es un número racional.
+</p>
+<p>Aunque no es una <a href="/wiki/Constante_f%C3%ADsica" title="Constante física">constante física</a>, <i>π</i> aparece rutinariamente en ecuaciones que describen los principios fundamentales del Universo, no necesariamente relacionada con las características geométricas del círculo, sino usada, por ejemplo, para describir fenómenos periódicos como ondas y ciclos.
+Debido en gran parte a su relación con la naturaleza del círculo y, correspondientemente, con el <a href="/wiki/Coordenadas_esf%C3%A9ricas" title="Coordenadas esféricas">sistema de coordenadas esféricas</a> (sistema usado ampliamente en física por sus propiedades de <a href="/wiki/Simetr%C3%ADa" title="Simetría">simetría radial</a>). Usando unidades como las <a href="/wiki/Unidades_de_Planck" title="Unidades de Planck">unidades de Planck</a> se puede eliminar a veces a <i>π</i> de las fórmulas.
+</p>
+<p>El uso de pi en esta relación fundamental de la <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a>, tiene relación con la <a href="/wiki/Per%C3%ADodo_de_oscilaci%C3%B3n" title="Período de oscilación">periodicidad</a> de la <a href="/wiki/Funci%C3%B3n_de_onda" title="Función de onda">función de onda</a>, describiendo un valor mínimo en el cual se puede correctamente localizar una función de onda simultáneamente en espacio de coordenadas (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+</semantics>
+</math></span><img alt="x" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;"/></span>) y en espacio de frecuencias (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+</semantics>
+</math></span><img alt="p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;"/></span>), interconectadas por la <a href="/wiki/Transformada_de_Fourier" title="Transformada de Fourier">transformada de Fourier</a>. La frecuencia tiene relación directa con el <a class="mw-disambig" href="/wiki/Momento" title="Momento">momento</a> de la función de onda. Por ejemplo: para el <a href="/wiki/Fot%C3%B3n" title="Fotón">fotón</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p=\hbar \omega }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>=</mo>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<mi>ω<!-- ω --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p=\hbar \omega }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p=\hbar \omega }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/26a3ecf7d013f3567a295768b042258ccc1b198e" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:7.11ex; height:2.509ex;"/></span>, donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \omega =2\pi f}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ω<!-- ω --></mi>
+<mo>=</mo>
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+<mi>f</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \omega =2\pi f}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \omega =2\pi f}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7a1bf35d395c2d52391265e4bbda0aed14f52579" style="vertical-align: -0.671ex; width:8.317ex; height:2.509ex;"/></span>y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>f</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+</semantics>
+</math></span><img alt="f" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61" style="vertical-align: -0.671ex; width:1.279ex; height:2.509ex;"/></span>es su <a href="/wiki/Frecuencia" title="Frecuencia">frecuencia</a>).
+</p>
+<p>En <a href="/wiki/Probabilidad" title="Probabilidad">probabilidad</a> y <a href="/wiki/Estad%C3%ADstica" title="Estadística">estadística</a>, hay muchas <a href="/wiki/Distribuci%C3%B3n_de_probabilidad" title="Distribución de probabilidad">distribuciones</a> cuyas fórmulas contienen a <i>π</i>, incluyendo:
+</p>
+<p>Nótese que para todas las funciones de densidad de probabilidad se cumple que<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \int _{-\infty }^{\infty }f(x)\,dx=1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi mathvariant="normal">∞<!-- ∞ --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">∞<!-- ∞ --></mi>
+</mrow>
+</msubsup>
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \int _{-\infty }^{\infty }f(x)\,dx=1}</annotation>
+</semantics>
+</math></span><img alt="\int _{{-\infty }}^{{\infty }}f(x)\,dx=1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68613a5855dea687c5037e33f7c39b91a3ce50e5" style="vertical-align: -2.505ex; width:16.445ex; height:6.009ex;"/></span>, entonces las fórmulas anteriores pueden usarse para producir otras fórmulas integrales para <i>π</i>.<sup class="reference separada" id="cite_ref-59"><a href="#cite_note-59"><span class="corchete-llamada">[</span>59<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El problema de la <a href="/wiki/Aguja_de_Buffon" title="Aguja de Buffon">aguja de Buffon</a> es llamado en ocasiones como una aproximación empírica de <i>π</i>. Se trata de lanzar una aguja de longitud <i>l</i> repetidamente sobre una superficie en la que se han trazado rectas paralelas distanciadas entre sí, en <i>t</i> unidades, de manera uniforme (con <i>t</i> &gt; <i>l</i> de forma que la aguja no pueda tocar dos rectas). Si la aguja se lanza <i>n</i> veces y <i>x</i> de esas cae cruzando una línea, entonces se puede aproximar <i>π</i> usando el <a href="/wiki/M%C3%A9todo_de_Montecarlo" title="Método de Montecarlo">Método de Montecarlo</a>, lanzándola gran cantidad de veces:<sup class="reference separada" id="cite_ref-bn_60-0"><a href="#cite_note-bn-60"><span class="corchete-llamada">[</span>60<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-61"><a href="#cite_note-61"><span class="corchete-llamada">[</span>61<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-62"><a href="#cite_note-62"><span class="corchete-llamada">[</span>62<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-63"><a href="#cite_note-63"><span class="corchete-llamada">[</span>63<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Aunque este resultado es matemáticamente impecable, no puede usarse más que para determinar unos cuantos dígitos de <i>π</i> <i>experimentalmente</i>. Para conseguirse solo tres dígitos correctos (incluyendo el «3» inicial) requiere de millones de lanzamientos,<sup class="reference separada" id="cite_ref-bn_60-1"><a href="#cite_note-bn-60"><span class="corchete-llamada">[</span>60<span class="corchete-llamada">]</span></a></sup>​ y el número de lanzamientos crece <a href="/wiki/Crecimiento_exponencial" title="Crecimiento exponencial">exponencialmente</a> con el número de dígitos deseados. Además, cualquier error en la medida de las longitudes <i>l</i> y <i>t</i> se transfiere directamente como un error en la aproximación de <i>π</i>. Por ejemplo, una diferencia de un simple <a href="/wiki/%C3%81tomo" title="Átomo">átomo</a> en una aguja de 10 centímetros podría acarrear errores en el noveno dígito del resultado. En la práctica, incertidumbres en la determinación de si la aguja en realidad cruza una línea que parece estar solo tocándola lleva el límite de precisión alcanzable a mucho menos de 9 dígitos.
+</p>
+<p>Es muy frecuente emplear poemas como <a href="/wiki/Regla_mnemot%C3%A9cnica" title="Regla mnemotécnica">regla mnemotécnica</a> para poder recordar las primeras cifras del número pi.
+</p>
+<p> «¿Qué? ¿Y cómo π reúne infinidad de cifras? ¡Tiene que haber períodos repetidos! Tampoco comprendo que de una cantidad poco sabida se afirme algo así, tan atrevido!» Nótese que para el segundo 1 (3,14<b>1</b>59…) se utiliza la <a class="mw-redirect" href="/wiki/Pi_(letra)" title="Pi (letra)">letra griega π</a>.</p>
+<p> «Soy π, lema y razón ingeniosa de hombre sabio, que serie preciosa valorando, enunció magistral. Por su ley singular, bien medido el grande orbe por fin reducido fue al sistema ordinario usual.» (del autor Rafael Nieto París<sup class="reference separada" id="cite_ref-64"><a href="#cite_note-64"><span class="corchete-llamada">[</span>64<span class="corchete-llamada">]</span></a></sup>​) Aquí también se utiliza la letra griega π para el primer 1.</p>
+<p>«How I want a drink, alcoholic of course, after the heavy lectures involving quantum mechanics!»<sup class="reference separada" id="cite_ref-Beckmann_1_65-0"><a href="#cite_note-Beckmann_1-65"><span class="corchete-llamada">[</span>65<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Existen cuentos amplios que son capaces de hacer memorizar una gran cantidad de dígitos, tal es el titulado «<a href="/wiki/Cadaeic_Cadenza" title="Cadaeic Cadenza">Cadaeic Cadenza</a>», escrito en 1996 por el matemático <a class="new" href="/w/index.php?title=Michael_Keith&amp;action=edit&amp;redlink=1" title="Michael Keith (aún no redactado)">Michael Keith</a> y que ofrece la posibilidad de memorizar los primeros 3834 dígitos. De esta forma, tomando «A» como 1, «B» como 2, «C» como 3, etc., el nombre de la historia saca los dígitos de π, como «Cadaeic» es la primera palabra de 7 dígitos de π:<br/>
+</p>
+<p><b></b>
+</p>
+<p>Es de resaltar que en cada idioma existen diferentes reglas mnemotécnicas (se aconseja visitar cada Wikipedia para descubrir el arte empleado en cada idioma).
+</p>
+<p>Según determinadas coincidencias numéricas, los Días de Aproximación a Pi son:
+</p>

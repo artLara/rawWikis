@@ -1,0 +1,28 @@
+<p>La <b>celeridad</b><sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ o <b>rapidez</b><sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ es la relación entre la distancia recorrida y el tiempo empleado en completarla. Su magnitud se designa como <i>v</i>. La celeridad es una <a href="/wiki/Escalar_(f%C3%ADsica)" title="Escalar (física)">magnitud escalar</a> de dimensión<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ [<a href="/wiki/Longitud" title="Longitud">L</a>]/[<a href="/wiki/Tiempo" title="Tiempo">T</a>]. La celeridad tiene la misma dimensión que la <a href="/wiki/Velocidad" title="Velocidad">velocidad</a>, pero no el carácter <a class="mw-redirect" href="/wiki/Vector_(f%C3%ADsica)" title="Vector (física)">vectorial</a> de esta. La celeridad instantánea representa justamente el <a href="/wiki/M%C3%B3dulo_(vector)" title="Módulo (vector)">módulo</a> de la velocidad instantánea. La diferencia entre velocidad y celeridad es que la velocidad tiene un carácter vectorial y la celeridad es tan solo el módulo de dicha magnitud.<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Aunque los términos de <i>celeridad</i> o <i>rapidez</i> son apropiados cuando deseamos referirnos inequívocamente al módulo de la <b>velocidad</b>, es correcto y de uso corriente (no solo en el uso popular, sino también en el científico y técnico <sup>[<i><a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">cita requerida</a></i>]</sup>) utilizar los términos <i>velocidad</i>, <i>celeridad</i> y <i>rapidez</i> como sinónimos. Esto es así para la totalidad de las magnitudes vectoriales (aceleración, fuerza, momento, cantidad de movimiento, etc.) a cuyos módulos no se les asigna nombres específicos.
+</p>
+<p>La celeridad media se define como:
+</p>
+<p>donde <i>Δs</i> es la <i>distancia</i> recorrida (<a href="/wiki/Longitud_de_arco" title="Longitud de arco">longitud de arco</a>, en la figura).
+</p>
+<p>Ejemplo:
+</p>
+<p>La celeridad media o promedio es el término que se suele usar para referirnos a la celeridad media.
+</p>
+<p>La celeridad en sí es una magnitud escalar que relaciona la distancia recorrida con el tiempo y se calcula dividiendo la distancia total recorrida entre el intervalo total de tiempo necesario para recorrer esa distancia..
+</p>
+<p>La celeridad media de un cuerpo es la relación entre la distancia que recorre y el tiempo que tarda en recorrerla. Si la rapidez media de un coche es 80 km/h, esto quiere decir que el coche recorre una distancia de 80 km en cada hora.
+</p>
+<p>Un objeto en movimiento recorre una cierta distancia en un tiempo determinado. Un auto, por ejemplo, recorre un cierto número de kilómetros en una hora. La celeridad es una medida de que tán aprisa se mueve un objeto. La celeridad se expresa siempre en términos de una unidad de distancia dividida entre una unidad de tiempo: metros/segundo (m/s), kilómetros/hora (km/h).
+</p>
+<p>Se las define matemáticamente como:
+</p>
+<p>donde d<b>r</b> es el <a href="/wiki/Desplazamiento_(vector)" title="Desplazamiento (vector)">vector desplazamiento</a> y d<i>s</i> es la distancia, medida sobre la <a href="/wiki/Trayectoria" title="Trayectoria">trayectoria</a>, asociada al desplazamiento.
+</p>
+<p>Podemos expresar el vector velocidad en la forma
+</p>
+<p>donde <b>e<sub>t</sub></b> es el <a href="/wiki/Vector_unitario" title="Vector unitario">vector unitario</a> en la dirección de la velocidad, tangente a la trayectoria, por lo que recibe el nombre de <a class="mw-redirect" href="/wiki/Versor" title="Versor">versor</a> tangente.
+</p>
+<p>Los <a href="/wiki/Veloc%C3%ADmetro" title="Velocímetro">velocímetros</a> de que disponen los vehículos miden el módulo de la velocidad instantánea, esto es, la celeridad.
+</p>

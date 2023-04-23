@@ -1,0 +1,212 @@
+<p>El <b>voltio</b><sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ o <b>volt</b><sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ en inglés, cuyo símbolo es <b>V</b>, es la <a href="/wiki/Unidades_derivadas_del_Sistema_Internacional" title="Unidades derivadas del Sistema Internacional">unidad derivada del Sistema Internacional</a> para el <a href="/wiki/Potencial_el%C3%A9ctrico" title="Potencial eléctrico">potencial eléctrico</a>, la <a href="/wiki/Fuerza_electromotriz" title="Fuerza electromotriz">fuerza electromotriz</a> y la <a href="/wiki/Tensi%C3%B3n_(electricidad)" title="Tensión (electricidad)">tensión eléctrica</a>.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​ Recibe su nombre en honor a <a href="/wiki/Alessandro_Volta" title="Alessandro Volta">Alessandro Volta</a>, quien en 1800 inventó la <a class="mw-redirect" href="/wiki/Pila_voltaica" title="Pila voltaica">pila voltaica</a>, la primera <a class="mw-redirect" href="/wiki/Bater%C3%ADa_el%C3%A9ctrica" title="Batería eléctrica">batería</a> química.
+</p>
+<p>El voltio se define como la <a class="mw-redirect" href="/wiki/Diferencia_de_potencial" title="Diferencia de potencial">diferencia de potencial</a> a lo largo de un conductor cuando una <a href="/wiki/Corriente_el%C3%A9ctrica" title="Corriente eléctrica">corriente</a> de un <a href="/wiki/Amperio" title="Amperio">amperio</a> consume un <a href="/wiki/Vatio" title="Vatio">vatio</a> de <a href="/wiki/Potencia_el%C3%A9ctrica" title="Potencia eléctrica">potencia</a>.<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Así mismo, el voltio se define de forma equivalente como la <a href="/wiki/Tensi%C3%B3n_(electricidad)" title="Tensión (electricidad)">diferencia de potencial</a> existente entre dos puntos tales que hay que realizar un <a href="/wiki/Trabajo_(f%C3%ADsica)" title="Trabajo (física)">trabajo</a> de 1 <a href="/wiki/Julio_(unidad)" title="Julio (unidad)">J</a> para trasladar del uno al otro la <a href="/wiki/Carga_el%C3%A9ctrica" title="Carga eléctrica">carga</a> de 1 <a href="/wiki/Culombio" title="Culombio">C</a>.
+</p>
+<p>Puede ser expresado en las unidades básicas del <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">SI</a> (<a href="/wiki/Metro" title="Metro">m</a>, <a href="/wiki/Kilogramo" title="Kilogramo">kg</a>, <a href="/wiki/Segundo" title="Segundo">s</a>, y <a href="/wiki/Amperio" title="Amperio">A</a>) como:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\text{V}}={\frac {\text{W}}{\text{A}}}={\frac {\text{J}}{{\text{A}}\cdot {\text{s}}}}={\frac {\text{J}}{\text{C}}}={\frac {{\text{N}}\cdot {\text{m}}}{{\text{A}}\cdot {\text{s}}}}={\frac {{\text{kg}}\cdot {\text{m}}^{2}}{{\text{A}}\cdot {\text{s}}^{3}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>V</mtext>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mtext>W</mtext>
+<mtext>A</mtext>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mtext>J</mtext>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>s</mtext>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mtext>J</mtext>
+<mtext>C</mtext>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>N</mtext>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>m</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>s</mtext>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>kg</mtext>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>m</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>s</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{V}}={\frac {\text{W}}{\text{A}}}={\frac {\text{J}}{{\text{A}}\cdot {\text{s}}}}={\frac {\text{J}}{\text{C}}}={\frac {{\text{N}}\cdot {\text{m}}}{{\text{A}}\cdot {\text{s}}}}={\frac {{\text{kg}}\cdot {\text{m}}^{2}}{{\text{A}}\cdot {\text{s}}^{3}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\text{V}}={\frac {\text{W}}{\text{A}}}={\frac {\text{J}}{{\text{A}}\cdot {\text{s}}}}={\frac {\text{J}}{\text{C}}}={\frac {{\text{N}}\cdot {\text{m}}}{{\text{A}}\cdot {\text{s}}}}={\frac {{\text{kg}}\cdot {\text{m}}^{2}}{{\text{A}}\cdot {\text{s}}^{3}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/94fe58e0af0ea600c1c09f243777d2ae39f753cc" style="vertical-align: -2.171ex; width:42.239ex; height:6.009ex;"/></span>
+</p>
+<p>El instrumento de medición para medir la tensión eléctrica es el <a href="/wiki/Volt%C3%ADmetro" title="Voltímetro">voltímetro</a>.
+</p>
+<p>El voltio "<a class="new" href="/w/index.php?title=Unidad_el%C3%A9ctrica_convencional&amp;action=edit&amp;redlink=1" title="Unidad eléctrica convencional (aún no redactado)">convencional</a>", V<sub>90</sub>, definido en 1987 por la 18.ª <a class="mw-redirect" href="/wiki/Conferencia_General_de_Pesos_y_Medidas" title="Conferencia General de Pesos y Medidas">Conferencia General de Pesos y Medidas</a><sup class="reference separada" id="cite_ref-cgpm-18_5-0"><a href="#cite_note-cgpm-18-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ y en uso desde 1990, se implementa usando el <a href="/wiki/Efecto_Josephson" title="Efecto Josephson">efecto Josephson</a> para la conversión exacta de frecuencia a voltaje, combinado con el <a class="new" href="/w/index.php?title=Est%C3%A1ndar_de_cesio&amp;action=edit&amp;redlink=1" title="Estándar de cesio (aún no redactado)">estándar de frecuencia de cesio</a>.
+</p>
+<p>El voltio estándar se define utilizando un oscilador de unión Josephson, cuya frecuencia de oscilación (extraordinariamente estable) viene dada por:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f_{\text{Josephson}}={\frac {2e\Delta V}{h}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Josephson</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>e</mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>V</mi>
+</mrow>
+<mi>h</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f_{\text{Josephson}}={\frac {2e\Delta V}{h}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle f_{\text{Josephson}}={\frac {2e\Delta V}{h}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/85b8d5f6d6285054ba01fbfff86065f5ec75eca2" style="vertical-align: -2.005ex; width:18.532ex; height:5.509ex;"/></span>
+</p>
+<p>La relación entre la frecuencia y la tensión a través de la unión, depende únicamente de las constantes fundamentales <a class="mw-redirect" href="/wiki/Carga_del_electr%C3%B3n" title="Carga del electrón">e (carga del electrón)</a> y <a href="/wiki/Constante_de_Planck" title="Constante de Planck">h (constante de Planck)</a>. Para un microvoltio aplicado a la unión, la frecuencia es:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f_{\text{Josephson}}=483,5979{\text{ MHz}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Josephson</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>483</mn>
+<mo>,</mo>
+<mn>5979</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext> MHz</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f_{\text{Josephson}}=483,5979{\text{ MHz}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle f_{\text{Josephson}}=483,5979{\text{ MHz}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5a62b02bf2677189df958da04e227cf9742c4f00" style="vertical-align: -1.005ex; width:26.385ex; height:2.843ex;"/></span>
+</p>
+<p><i>El voltio estándar se define como el voltaje necesario para producir una frecuencia de 483,5979 MHz en un <a href="/wiki/Efecto_Josephson" title="Efecto Josephson">oscilador de unión Josephson</a>.</i><sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En 1800, como resultado de un desacuerdo profesional<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​ sobre la respuesta galvánica propugnada por <a href="/wiki/Luigi_Galvani" title="Luigi Galvani">Luigi Galvani</a>, <a href="/wiki/Alessandro_Volta" title="Alessandro Volta">Alessandro Volta</a> desarrolló su propia <a class="mw-redirect" href="/wiki/Pila_galv%C3%A1nica" title="Pila galvánica">pila</a>, que a la postre se convertiría en precursora de la <a class="mw-redirect" href="/wiki/Bater%C3%ADa_el%C3%A9ctrica" title="Batería eléctrica">batería</a>, que produjo una <a href="/wiki/Corriente_el%C3%A9ctrica" title="Corriente eléctrica">corriente eléctrica</a> constante. Volta había determinado la más eficaz manera de utilizar metales para producir <a href="/wiki/Electricidad" title="Electricidad">electricidad</a>, estos metales eran el <a href="/wiki/Zinc" title="Zinc">zinc</a> y la <a href="/wiki/Plata" title="Plata">plata</a>. 
+</p>
+<p>En la década de 1880, el Congreso Internacional de electricidad, ahora conocida como <a href="/wiki/Comisi%C3%B3n_Electrot%C3%A9cnica_Internacional" title="Comisión Electrotécnica Internacional">Comisión Electrotécnica Internacional</a> (IEC), aprobó el voltio como unidad para medir la <a href="/wiki/Fuerza_electromotriz" title="Fuerza electromotriz">fuerza electromotriz</a>. En ese momento, el voltio estaba definido como la <a class="mw-redirect" href="/wiki/Diferencia_de_potencial" title="Diferencia de potencial">diferencia de potencial</a> a través de un <a href="/wiki/Conductor_el%C3%A9ctrico" title="Conductor eléctrico">conductor eléctrico</a> cuando una corriente de un <a href="/wiki/Amperio" title="Amperio">amperio</a> disipa un vatio de <a href="/wiki/Potencia_el%C3%A9ctrica" title="Potencia eléctrica">potencia</a>. Antes de la evolución del sistema de medición de la tensión estándar de <a href="/wiki/Brian_David_Josephson" title="Brian David Josephson">Josephson</a>, en los laboratorios el voltio de referencia se medía mediante baterías especiales debidamente calibradas y construidas al efecto.
+</p>
+<p>La analogía <a href="/wiki/Hidr%C3%A1ulica" title="Hidráulica">hidráulica</a> se utiliza en muchas ocasiones para explicar el funcionamiento de los <a class="mw-redirect" href="/wiki/Circuito_el%C3%A9ctrico" title="Circuito eléctrico">circuitos eléctricos</a>: la corriente eléctrica se suele comparar con el <a href="/wiki/Agua" title="Agua">agua</a> en las tuberías. La tensión se asemeja a la <a href="/wiki/Presi%C3%B3n" title="Presión">presión</a> del agua, ya que en los fluidos esta presión es la que determina su <a class="mw-redirect" href="/wiki/Rapidez" title="Rapidez">velocidad</a>; el fluido circulante se asemeja a la intensidad de los electrones en el circuito eléctrico. La <a href="/wiki/Corriente_el%C3%A9ctrica" title="Corriente eléctrica">corriente</a> (en <a href="/wiki/Amperio" title="Amperio">amperios</a>), en la misma analogía, es una medida del <a href="/wiki/Caudal_(fluido)" title="Caudal (fluido)">caudal</a> de agua que fluye a través de un determinado punto, y la <a href="/wiki/Potencia_el%C3%A9ctrica" title="Potencia eléctrica">potencia</a> total se mide en <a href="/wiki/Vatio" title="Vatio">vatios</a>. 
+</p>
+<p>Se tiene una ecuación para unir los tres criterios: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (1{\text{ voltio}})(1{\text{ amperio}})=1{\text{ vatio}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext> voltio</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext> amperio</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext> vatio</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (1{\text{ voltio}})(1{\text{ amperio}})=1{\text{ vatio}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (1{\text{ voltio}})(1{\text{ amperio}})=1{\text{ vatio}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/714baa777765aa1ba83a195a944c89afe5e2e5b8" style="vertical-align: -0.838ex; width:30.945ex; height:2.843ex;"/></span>.
+</p>
+<p>A continuación figura una tabla de los múltiplos y submúltiplos del voltio en el <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a>:
+</p>
+<p><br/>
+</p>
+<p><br/>
+</p>
+<p>230 V en Europa, Asia (salvo Japón) y África;<br/>
+220 V en Sudamérica (menos en Colombia, Ecuador, Brasil y Venezuela);<br/>
+120 V en Norteamérica;<br/>
+110 V en Ecuador, Colombia, Brasil, Guatemala, El Salvador, Venezuela, República Dominicana y México;<br/>
+100 V en Japón.
+</p>

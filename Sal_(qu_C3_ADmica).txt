@@ -1,0 +1,846 @@
+<p>En química, una <b>sal</b> es un <a href="/wiki/Compuesto_qu%C3%ADmico" title="Compuesto químico">compuesto químico</a> formado por <a href="/wiki/Cati%C3%B3n" title="Catión">cationes</a> (<a href="/wiki/Ion" title="Ion">iones</a> con carga positiva) enlazados a <a href="/wiki/Ani%C3%B3n" title="Anión">aniones</a> (iones con carga negativa) mediante un <a href="/wiki/Enlace_i%C3%B3nico" title="Enlace iónico">enlace iónico</a>. Son el producto típico de una <a href="/wiki/Reacci%C3%B3n_qu%C3%ADmica" title="Reacción química">reacción química</a> entre una <b><a href="/wiki/Base_(qu%C3%ADmica)" title="Base (química)">base</a></b> y un <b><a href="/wiki/%C3%81cido" title="Ácido">ácido</a></b>,<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ donde la base proporciona el catión y el ácido el anión.
+</p>
+<p>La combinación química entre un ácido y un hidróxido (base) o un <a href="/wiki/%C3%93xido" title="Óxido">óxido</a> y un <a class="mw-redirect" href="/wiki/Ion_hidronio" title="Ion hidronio">hidronio</a> (ácido) origina una sal más líquida, lo que se denomina <a class="mw-redirect" href="/wiki/Neutralizaci%C3%B3n" title="Neutralización">neutralización</a>.
+</p>
+<p>Un ejemplo es la <a class="mw-redirect" href="/wiki/Sal_de_mesa" title="Sal de mesa">sal de mesa</a>, denominada en el lenguaje coloquial sal común o sal marina. Es la sal específica <a href="/wiki/Cloruro_de_sodio" title="Cloruro de sodio">cloruro de sodio</a>.<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ Su <a href="/wiki/F%C3%B3rmula_molecular" title="Fórmula molecular">fórmula molecular</a> es <a href="/wiki/Sodio" title="Sodio">Na</a><a href="/wiki/Cloro" title="Cloro">Cl</a> y es el producto de la base <a class="mw-redirect" href="/wiki/Hidr%C3%B3xido_s%C3%B3dico" title="Hidróxido sódico">hidróxido sódico</a> (NaOH) y <a href="/wiki/%C3%81cido_clorh%C3%ADdrico" title="Ácido clorhídrico">ácido clorhídrico</a>, <a href="/wiki/Hidr%C3%B3geno" title="Hidrógeno">H</a><a href="/wiki/Cloro" title="Cloro">Cl</a>.
+</p>
+<p>En general, las sales son <a href="/wiki/Compuesto_i%C3%B3nico" title="Compuesto iónico">compuestos iónicos</a> que forman <a href="/wiki/Cristal" title="Cristal">cristales</a>. Son generalmente <a class="mw-redirect" href="/wiki/Soluble" title="Soluble">solubles</a> en <a href="/wiki/Agua" title="Agua">agua</a>, donde se separan los dos iones. Las sales típicas tienen un <a href="/wiki/Punto_de_fusi%C3%B3n" title="Punto de fusión">punto de fusión</a> alto, baja dureza, y baja compresibilidad. Fundidas o disueltas en agua, conducen la <a href="/wiki/Electricidad" title="Electricidad">electricidad</a>.
+</p>
+<p><a href="/wiki/Mija%C3%ADl_Lomon%C3%B3sov" title="Mijaíl Lomonósov"> Lomonósov</a> en sus Obras de Química y Física describió el concepto de "sal" <sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​ <sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ de la siguiente manera:
+<style data-mw-deduplicate="TemplateStyles:r149592375">.mw-parser-output .flexquote{display:flex;flex-direction:column;background-color:#F9F9F9;border-left:3px solid #c8ccd1;font-size:90%;margin:1em 4em;padding:.4em .8em}.mw-parser-output .flexquote>.flex{display:flex;flex-direction:row}.mw-parser-output .flexquote>.flex>.quote{width:100%}.mw-parser-output .flexquote>.flex>.separator{border-left:1px solid #c8ccd1;border-top:1px solid #c8ccd1;margin:.4em .8em}.mw-parser-output .flexquote>.cite{text-align:right}@media all and (max-width:600px){.mw-parser-output .flexquote>.flex{flex-direction:column}}</style>
+</p>
+<p>Las sales están formadas por una reacción química entre: 
+</p>
+<p>Las sales también pueden formarse si se mezclan soluciones de diferentes sales, sus iones se recombinan, y la nueva sal es insoluble y precipita (ver: equilibrio de solubilidad), por ejemplo:
+</p>
+<p>        Pb (NO<sub>3</sub>) 2 + Na<sub>2</sub>SO4 → PbSO<sub>4</sub> ↓ + 2 NaNO<sub>3</sub>
+</p>
+<p>Según la nomenclatura tradicional, las sales se denominan con el nombre del anión, con cierto prefijo y sufijo, seguido de la preposición <i>de</i> y el nombre del catión. Hay que distinguir entre distintos casos:
+</p>
+<p>Las sales se pueden clasificar de diversas formas. Las sales que producen iones de <a href="/wiki/Hidr%C3%B3xido" title="Hidróxido">hidróxido</a> cuando se disuelven en <a href="/wiki/Agua" title="Agua">agua</a> se denominan sales alcalinas. Las sales que producen soluciones ácidas son <a href="/wiki/Sal_%C3%A1cida" title="Sal ácida">sales ácidas</a>. Las sales neutras son aquellas sales que no son ni ácidas ni básicas. Los <a href="/wiki/Zwitteri%C3%B3n" title="Zwitterión">zwitteriones</a> contienen un centro aniónico y catiónico en la misma molécula, pero no se consideran sales. Los ejemplos de zwitteriones incluyen <a href="/wiki/Amino%C3%A1cido" title="Aminoácido">aminoácidos</a>, muchos <a href="/wiki/Metabolito" title="Metabolito">metabolitos</a>, <a href="/wiki/P%C3%A9ptido" title="Péptido">péptidos</a> y <a href="/wiki/Prote%C3%ADna" title="Proteína">proteínas</a>.<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Si consideramos las sales como productos de sustitución de cationes en ácidos o grupos hidroxo en bases , entonces se pueden distinguir los siguientes tipos de sales:<sup class="reference separada" id="cite_ref-Sin-nombre-p1_l-1_6-0"><a href="#cite_note-Sin-nombre-p1_l-1-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Según el número de <a href="/wiki/Cati%C3%B3n" title="Catión"> cationes</a> y <a href="/wiki/Ani%C3%B3n" title="Anión"> aniones</a> presentes en la estructura , se distinguen los siguientes tipos de sales:<sup class="reference separada" id="cite_ref-Sin-nombre-p1_l-1_6-1"><a href="#cite_note-Sin-nombre-p1_l-1-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>También distinga entre sales de hidratos ( hidratos cristalinos ), que incluyen moléculas de agua de cristalización , por ejemplo, Na<sub>2</sub>SO<sub>4</sub>·10 H<sub>2</sub>O  y sales complejas que contienen un catión complejo o anión complejo K<sub>4</sub>[Fe(CN)<sub>6</sub>]  Las sales internas están formadas por iones bipolares , es decir, moléculas que contienen átomos cargados positivamente y cargados negativamente.<sup class="reference separada" id="cite_ref-Sin-nombre-p1_l-1_6-2"><a href="#cite_note-Sin-nombre-p1_l-1-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En general, las sales son materiales <a href="/wiki/Cristal" title="Cristal">cristalinos</a> con estructura iónica. Por ejemplo, los cristales de <a class="mw-redirect" href="/wiki/Haluro" title="Haluro">haluros</a> de los <a class="mw-redirect" href="/wiki/Metal_alcalino" title="Metal alcalino">metales alcalinos</a> y <a class="mw-redirect" href="/wiki/Alcalinot%C3%A9rreo" title="Alcalinotérreo">alcalinotérreos</a> (<a href="/wiki/Cloruro_de_sodio" title="Cloruro de sodio">NaCl</a>, <a href="/wiki/Cloruro_de_cesio" title="Cloruro de cesio">CsCl</a>, <a class="new" href="/w/index.php?title=Floururo_de_calcio&amp;action=edit&amp;redlink=1" title="Floururo de calcio (aún no redactado)">CaF<sub>2</sub></a>) formados por <a href="/wiki/Ani%C3%B3n" title="Anión">aniones</a>, situados al principio del <a href="/wiki/Empaquetamiento_de_esferas" title="Empaquetamiento de esferas">empaquetamiento esférico más denso</a>, y <a href="/wiki/Cati%C3%B3n" title="Catión">cationes</a> que ocupan huecos dentro del paquete. Cristales de sal iónicos pueden ser también formados a partir de residuos de <a href="/wiki/%C3%81cido" title="Ácido">ácido</a> combinados en un sinfín de estructuras dimensionales <a class="mw-redirect" href="/wiki/Ani%C3%B3nicos" title="Aniónicos">aniónicos</a> y fragmentos de estos con <a class="mw-redirect" href="/wiki/Cationes" title="Cationes">cationes</a> en las cavidades (como los <a href="/wiki/Silicato" title="Silicato">silicatos</a>). Esta estructura se refleja apropiadamente en sus propiedades físicas: tienen altos <a href="/wiki/Punto_de_fusi%C3%B3n" title="Punto de fusión">puntos de fusión</a> y en estado sólido son <a href="/wiki/Diel%C3%A9ctrico" title="Dieléctrico">dieléctricos</a>.<sup class="reference separada" id="cite_ref-Knuniants_8-0"><a href="#cite_note-Knuniants-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>También conocido son sales de estructura molecular (covalente) (por ejemplo, cloruro de aluminio AlCl<sub>3</sub>) En muchas sales, la naturaleza de los enlaces químicos es intermedia entre iónica y covalente. <sup class="reference separada" id="cite_ref-Sin-nombre-p1_l-1_6-3"><a href="#cite_note-Sin-nombre-p1_l-1-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>De particular interés son los <a href="/wiki/L%C3%ADquido_i%C3%B3nico" title="Líquido iónico">líquidos iónicos</a>, con puntos de fusión por debajo de 100 °C. Durante la fusión anormal de líquidos iónicos prácticamente no hay <a href="/wiki/Presi%C3%B3n_de_vapor" title="Presión de vapor">presión de vapor</a>, pero si una alta <a href="/wiki/Viscosidad" title="Viscosidad">viscosidad</a>. Las propiedades especiales de estas sales se explican por la baja simetría del catión, la interacción débil entre los iones y una buena distribución de la carga del catión.<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Las sales pueden tener la apariencia de ser claras y <a class="mw-redirect" href="/wiki/Transparencia" title="Transparencia">transparentes</a> (como el <a href="/wiki/Cloruro_de_sodio" title="Cloruro de sodio">cloruro de sodio</a>), <a href="/wiki/Opacidad" title="Opacidad">opacas</a> e incluso metálicas y brillantes (como la <a href="/wiki/Pirita" title="Pirita">pirita</a> o sulfuro de hierro). En muchos casos la opacidad o transparencia aparentes están relacionadas con la diferencia de tamaño de los <a href="/wiki/Monocristal" title="Monocristal">monocristales</a> individuales; como la luz se refleja en las fronteras de <a href="/wiki/Grano_(mineral)" title="Grano (mineral)">grano</a>, los <a href="/wiki/Cristal" title="Cristal">cristales</a> grandes tienden a ser transparentes, mientras que los agregados <a class="mw-redirect" href="/wiki/Policristal" title="Policristal">policristalinos</a> tienen la apariencia de polvo blanco.
+</p>
+<p>Las sales pueden tener muchos colores diferentes. Algunos ejemplos son:
+</p>
+<p>La mayoría de <a href="/wiki/Mineral" title="Mineral">minerales</a> y <a href="/wiki/Pigmento" title="Pigmento">pigmentos</a> inorgánicos, así como muchos <a href="/wiki/Tinte" title="Tinte">tintes</a> orgánicos sintéticos, son sales. El color de la sal específica es debido a la presencia de <a class="mw-redirect" href="/wiki/Electrones" title="Electrones">electrones</a> desparejados en el <a href="/wiki/Orbital_at%C3%B3mico" title="Orbital atómico">orbital atómico</a> de los <a class="mw-redirect" href="/wiki/Elementos_de_transici%C3%B3n" title="Elementos de transición">elementos de transición</a>.
+</p>
+<p>Las diferentes sales pueden provocar todos los cinco diferentes <a href="/wiki/Sabor" title="Sabor">sabores básicos</a> como, por ejemplo, el salado (<a href="/wiki/Cloruro_de_sodio" title="Cloruro de sodio">cloruro de sodio</a>), el dulce (<a class="mw-redirect" href="/wiki/Acetato_de_plomo_(II)" title="Acetato de plomo (II)">acetato de plomo (II)</a>, que provoca <a href="/wiki/Saturnismo" title="Saturnismo">saturnismo</a> si se ingiere), el agrio (<a href="/wiki/Bitartrato_de_potasio" title="Bitartrato de potasio">bitartrato de potasio</a>),<sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​ el amargo (<a href="/wiki/Sulfato_de_magnesio" title="Sulfato de magnesio">sulfato de magnesio</a>)<sup class="reference separada" id="cite_ref-11"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​ y el <a class="mw-redirect" href="/wiki/Sabor_umami" title="Sabor umami">umami</a> (<a href="/wiki/Glutamato_monos%C3%B3dico" title="Glutamato monosódico">glutamato monosódico</a>).<sup class="reference separada" id="cite_ref-12"><a href="#cite_note-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Las sales de ácidos fuertes y bases fuertes (sales fuertes), no suele ser <a href="/wiki/Volatilidad_(qu%C3%ADmica)" title="Volatilidad (química)">volátiles</a> y no tienen olor, mientras que las sales tanto de bases débiles como de ácidos débiles (sal débil), pueden tener olor en forma de ácido conjugado (por ejemplo, acetatos como el ácido acético o <a href="/wiki/Vinagre" title="Vinagre">vinagre</a>, y cianuros como el cianuro de hidrógeno en las <a href="/wiki/Almendra" title="Almendra">almendras</a>) o en forma de base conjugada (por ejemplo, sales de <a href="/wiki/Amonio" title="Amonio">amonio</a> como el <a class="mw-redirect" href="/wiki/Amoniaco" title="Amoniaco">amoniaco</a>) de los iones componentes. Esta descomposición parcial y lenta es usualmente acelerada en presencia de agua, ya que la <a href="/wiki/Hidr%C3%B3lisis" title="Hidrólisis">hidrólisis</a> es la otra mitad de la ecuación de la <a href="/wiki/Reacci%C3%B3n_reversible" title="Reacción reversible">reacción reversible</a> de formación de las sales débiles.
+</p>
+<p>Las sales tienen característicamente altos puntos de fusión. Por ejemplo, el cloruro de sodio se funde a 801 <a href="/wiki/Grado_Celsius" title="Grado Celsius">°C</a>. Algunas sales con energías reticulares bajas son líquidas a temperatura ambiente o cerca de ella. Estos incluyen sales fundidas, que suelen ser mezclas de sales, y líquidos iónicos, que normalmente contienen cationes orgánicos. Estos líquidos presentan propiedades inusuales como disolventes.
+</p>
+<p>Muchos compuestos iónicos exhiben una <a href="/wiki/Solubilidad" title="Solubilidad">solubilidad</a> significativa en agua u otros disolventes polares. A diferencia de los compuestos moleculares, las sales se disocian en solución en componentes aniónicos y catiónicos. La energía de la red, las fuerzas cohesivas entre estos iones dentro de un sólido, determina la solubilidad. La solubilidad depende de qué tan bien interactúe cada ion con el solvente, por lo que ciertos patrones se hacen evidentes. Por ejemplo, las sales de sodio, potasio y amonio suelen ser solubles en agua. Las excepciones notables incluyen <a class="new" href="/w/index.php?title=Hexacloroplatinato_de_amonio&amp;action=edit&amp;redlink=1" title="Hexacloroplatinato de amonio (aún no redactado)">hexacloroplatinato de amonio</a> y <a class="new" href="/w/index.php?title=Cobaltinitrito_de_potasio&amp;action=edit&amp;redlink=1" title="Cobaltinitrito de potasio (aún no redactado)">cobaltinitrito de potasio</a>. La mayoría de los <a class="mw-redirect" href="/wiki/Nitratos" title="Nitratos">nitratos</a> y muchos <a class="mw-redirect" href="/wiki/Sulfatos" title="Sulfatos">sulfatos</a> son solubles en agua. Las excepciones incluyen <a href="/wiki/Sulfato_de_bario" title="Sulfato de bario">sulfato de bario</a>, <a href="/wiki/Sulfato_de_calcio" title="Sulfato de calcio">sulfato de calcio</a> (escasamente soluble) y <a class="mw-redirect" href="/wiki/Sulfato_de_plomo_(II)" title="Sulfato de plomo (II)">sulfato de plomo (II)</a>, donde el emparejamiento 2+/2− conduce a energías reticulares elevadas. Por razones similares, la mayoría de los carbonatos metálicos no son solubles en agua. Algunas sales de carbonato solubles son: <a href="/wiki/Carbonato_de_sodio" title="Carbonato de sodio">carbonato de sodio</a>, <a href="/wiki/Carbonato_de_potasio" title="Carbonato de potasio">carbonato de potasio</a> y <a href="/wiki/Carbonato_de_amonio" title="Carbonato de amonio">carbonato de amonio</a>.
+</p>
+<p>Las sales son <a class="mw-disambig" href="/wiki/Aislante" title="Aislante">aislantes</a> característicos. Las sales fundidas o las soluciones de sales <a href="/wiki/Conductividad_el%C3%A9ctrica" title="Conductividad eléctrica">conducen la electricidad</a>. Por esta razón, las sales licuadas (fundidas) y las soluciones que contienen sales disueltas (por ejemplo, cloruro de sodio en agua) pueden usarse como <a href="/wiki/Electrolito" title="Electrolito">electrolitos</a>.
+</p>
+<p>Las propiedades químicas vienen determinadas por las propiedades de los cationes y aniones o una parte de ellos.
+</p>
+<p>Las sales reaccionan con los <a href="/wiki/%C3%81cido" title="Ácido">ácidos</a> y las <a href="/wiki/Base_(qu%C3%ADmica)" title="Base (química)">bases</a>, obteniéndose el producto de reacción y un gas, precipitado o una sustancia tal como agua
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {BaCl_{2}+H_{2}SO_{4}\longrightarrow BaSO_{4}\downarrow +2HCl}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">B</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">l</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mo mathvariant="sans-serif">+</mo>
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">S</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+</msub>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mi mathvariant="sans-serif">B</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mi mathvariant="sans-serif">S</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+</msub>
+<mo stretchy="false">↓<!-- ↓ --></mo>
+<mo mathvariant="sans-serif">+</mo>
+<mn mathvariant="sans-serif">2</mn>
+<mi mathvariant="sans-serif">H</mi>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">l</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {BaCl_{2}+H_{2}SO_{4}\longrightarrow BaSO_{4}\downarrow +2HCl}}}</annotation>
+</semantics>
+</math></span><img alt="\mathsf{BaCl_2 + H_2SO_4 \longrightarrow BaSO_4\downarrow + 2 HCl}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7957a9f6a842f02a20ba7a022ae9e4c7d64980a7" style="vertical-align: -0.671ex; width:36.294ex; height:2.509ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {NaHCO_{3}+HCl\longrightarrow NaCl+H_{2}O+CO_{2}\uparrow }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">N</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mi mathvariant="sans-serif">H</mi>
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<mo mathvariant="sans-serif">+</mo>
+<mi mathvariant="sans-serif">H</mi>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">l</mi>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mi mathvariant="sans-serif">N</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">l</mi>
+<mo mathvariant="sans-serif">+</mo>
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">O</mi>
+<mo mathvariant="sans-serif">+</mo>
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">↑<!-- ↑ --></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {NaHCO_{3}+HCl\longrightarrow NaCl+H_{2}O+CO_{2}\uparrow }}}</annotation>
+</semantics>
+</math></span><img alt="\mathsf{NaHCO_3 + HCl \longrightarrow NaCl + H_2O + CO_2 \uparrow}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b96caaffa95cae09a922881a0ff6b9de5d6d0de3" style="vertical-align: -0.671ex; width:41.237ex; height:2.509ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {Na_{2}SiO_{3}+2HCl\longrightarrow 2NaCl+H_{2}SiO_{3}\downarrow }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">S</mi>
+<mi mathvariant="sans-serif">i</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<mo mathvariant="sans-serif">+</mo>
+<mn mathvariant="sans-serif">2</mn>
+<mi mathvariant="sans-serif">H</mi>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">l</mi>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mn mathvariant="sans-serif">2</mn>
+<mi mathvariant="sans-serif">N</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">l</mi>
+<mo mathvariant="sans-serif">+</mo>
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">S</mi>
+<mi mathvariant="sans-serif">i</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<mo stretchy="false">↓<!-- ↓ --></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {Na_{2}SiO_{3}+2HCl\longrightarrow 2NaCl+H_{2}SiO_{3}\downarrow }}}</annotation>
+</semantics>
+</math></span><img alt="\mathsf{Na_2SiO_3 + 2 HCl \longrightarrow 2 NaCl + H_2SiO_3 \downarrow}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0942ba0cc5536b7c7e815148af2a905bc19524fa" style="vertical-align: -0.671ex; width:39.147ex; height:2.509ex;"/></span>
+</p>
+<p>Las sales reaccionan con los <a href="/wiki/Metal" title="Metal">metales</a> cuando este se libera de la sal de metal en una serie electroquímica de reactividad:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {Cu+HgCl_{2}\longrightarrow CuCl_{2}+Hg}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">u</mi>
+<mo mathvariant="sans-serif">+</mo>
+<mi mathvariant="sans-serif">H</mi>
+<mi mathvariant="sans-serif">g</mi>
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">l</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">u</mi>
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">l</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mo mathvariant="sans-serif">+</mo>
+<mi mathvariant="sans-serif">H</mi>
+<mi mathvariant="sans-serif">g</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {Cu+HgCl_{2}\longrightarrow CuCl_{2}+Hg}}}</annotation>
+</semantics>
+</math></span><img alt="\mathsf{Cu + HgCl_2 \longrightarrow CuCl_2 + Hg}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aa9b718fbea25c755795c21e9ae1fcc1e6df3f60" style="vertical-align: -0.671ex; width:27.959ex; height:2.509ex;"/></span>
+</p>
+<p>Las sales reaccionan entre sí y el producto resultante de la reacción (producen gas, y precipitan sedimentos o agua); 
+estas reacciones pueden tener lugar con el cambio en los <a class="mw-redirect" href="/wiki/Oxidaci%C3%B3n" title="Oxidación">estados de oxidación</a> de los átomos reactivos:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {CaCl_{2}+Na_{2}CO_{3}\longrightarrow CaCO_{3}\downarrow +2NaCl}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">l</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mo mathvariant="sans-serif">+</mo>
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<mo stretchy="false">↓<!-- ↓ --></mo>
+<mo mathvariant="sans-serif">+</mo>
+<mn mathvariant="sans-serif">2</mn>
+<mi mathvariant="sans-serif">N</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">l</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {CaCl_{2}+Na_{2}CO_{3}\longrightarrow CaCO_{3}\downarrow +2NaCl}}}</annotation>
+</semantics>
+</math></span><img alt="\mathsf{CaCl_2 + Na_2CO_3 \longrightarrow CaCO_3 \downarrow + 2 NaCl}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c7c0addff98b3419748d0c1845ade6c1fe259310" style="vertical-align: -0.671ex; width:38.787ex; height:2.509ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {AgNO_{3}+NaCl\longrightarrow AgCl\downarrow +NaNO_{3}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">A</mi>
+<mi mathvariant="sans-serif">g</mi>
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<mo mathvariant="sans-serif">+</mo>
+<mi mathvariant="sans-serif">N</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">l</mi>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mi mathvariant="sans-serif">A</mi>
+<mi mathvariant="sans-serif">g</mi>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">l</mi>
+<mo stretchy="false">↓<!-- ↓ --></mo>
+<mo mathvariant="sans-serif">+</mo>
+<mi mathvariant="sans-serif">N</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {AgNO_{3}+NaCl\longrightarrow AgCl\downarrow +NaNO_{3}}}}</annotation>
+</semantics>
+</math></span><img alt="\mathsf{AgNO_3 + NaCl \longrightarrow AgCl \downarrow + NaNO_3}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/730522cebf0ed8864b12bf59dfd61a2b6c16d5d5" style="vertical-align: -0.671ex; width:36.054ex; height:2.509ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {K_{2}Cr_{2}O_{7}+3Na_{2}SO_{3}+4H_{2}SO_{4}\longrightarrow Cr_{2}(SO_{4})_{3}+3Na_{2}SO_{4}+K_{2}SO_{4}+4H_{2}O}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi mathvariant="sans-serif">K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">7</mn>
+</mrow>
+</msub>
+<mo mathvariant="sans-serif">+</mo>
+<mn mathvariant="sans-serif">3</mn>
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">S</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<mo mathvariant="sans-serif">+</mo>
+<mn mathvariant="sans-serif">4</mn>
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">S</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+</msub>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mo mathvariant="sans-serif" stretchy="false">(</mo>
+<mi mathvariant="sans-serif">S</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+</msub>
+<msub>
+<mo mathvariant="sans-serif" stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<mo mathvariant="sans-serif">+</mo>
+<mn mathvariant="sans-serif">3</mn>
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">S</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+</msub>
+<mo mathvariant="sans-serif">+</mo>
+<msub>
+<mi mathvariant="sans-serif">K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">S</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+</msub>
+<mo mathvariant="sans-serif">+</mo>
+<mn mathvariant="sans-serif">4</mn>
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">O</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {K_{2}Cr_{2}O_{7}+3Na_{2}SO_{3}+4H_{2}SO_{4}\longrightarrow Cr_{2}(SO_{4})_{3}+3Na_{2}SO_{4}+K_{2}SO_{4}+4H_{2}O}}}</annotation>
+</semantics>
+</math></span><img alt="\mathsf{K_2Cr_2O_7 + 3 Na_2SO_3 + 4 H_2SO_4 \longrightarrow Cr_2(SO_4)_3 + 3 Na_2SO_4 + K_2SO_4 + 4 H_2O}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cba25608d3f5e3c3612247a3bdee6dbdc1ad42c3" style="vertical-align: -0.838ex; width:76.614ex; height:2.843ex;"/></span>
+</p>
+<p>Algunas sales se descomponen cuando se calientan:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {CuCO_{3}\longrightarrow CuO+CO_{2}\uparrow }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">u</mi>
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">u</mi>
+<mi mathvariant="sans-serif">O</mi>
+<mo mathvariant="sans-serif">+</mo>
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">↑<!-- ↑ --></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {CuCO_{3}\longrightarrow CuO+CO_{2}\uparrow }}}</annotation>
+</semantics>
+</math></span><img alt="\mathsf{CuCO_3 \longrightarrow CuO + CO_2 \uparrow}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0638609e932a9e89786abb086644099b30eaacf9" style="vertical-align: -0.671ex; width:25.329ex; height:2.509ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {Ca(NO_{3})_{2}\longrightarrow Ca(NO_{2})_{2}+O_{2}\uparrow }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mo mathvariant="sans-serif" stretchy="false">(</mo>
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<msub>
+<mo mathvariant="sans-serif" stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mo mathvariant="sans-serif" stretchy="false">(</mo>
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<msub>
+<mo mathvariant="sans-serif" stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mo mathvariant="sans-serif">+</mo>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">↑<!-- ↑ --></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {Ca(NO_{3})_{2}\longrightarrow Ca(NO_{2})_{2}+O_{2}\uparrow }}}</annotation>
+</semantics>
+</math></span><img alt="\mathsf{Ca(NO_3)_2 \longrightarrow Ca(NO_2)_2  + O_2\uparrow }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92bebb81f0187f6367324a27976243f128d3b3dc" style="vertical-align: -0.838ex; width:32.264ex; height:2.843ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {NH_{4}NO_{3}\longrightarrow N_{2}O\uparrow +2H_{2}O}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<msub>
+<mi mathvariant="sans-serif">N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">O</mi>
+<mo stretchy="false">↑<!-- ↑ --></mo>
+<mo mathvariant="sans-serif">+</mo>
+<mn mathvariant="sans-serif">2</mn>
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">O</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {NH_{4}NO_{3}\longrightarrow N_{2}O\uparrow +2H_{2}O}}}</annotation>
+</semantics>
+</math></span><img alt="\mathsf{NH_4NO_3 \longrightarrow N_2O \uparrow + 2 H_2O}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/862a208038fbee1bd394cc9ba2819ab101b1dac3" style="vertical-align: -0.671ex; width:28.096ex; height:2.509ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {NH_{4}NO_{2}\longrightarrow N_{2}\uparrow +2H_{2}O}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<msub>
+<mi mathvariant="sans-serif">N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">↑<!-- ↑ --></mo>
+<mo mathvariant="sans-serif">+</mo>
+<mn mathvariant="sans-serif">2</mn>
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">O</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {NH_{4}NO_{2}\longrightarrow N_{2}\uparrow +2H_{2}O}}}</annotation>
+</semantics>
+</math></span><img alt="\mathsf{NH_4NO_2 \longrightarrow N_2 \uparrow + 2 H_2O}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/324a695fee37c92741025ae32c9c51c842c94d0e" style="vertical-align: -0.671ex; width:26.385ex; height:2.509ex;"/></span>
+</p>
+<p>Las sales son electrolitos fuertes. Al diluirse en agua se disocian por completo, en una reacción llamada <a href="/wiki/Hidr%C3%B3lisis" title="Hidrólisis">hidrólisis</a>. Generalmente afecta el <a href="/wiki/PH" title="PH">pH</a> de la disolución.<sup class="reference separada" id="cite_ref-Chang_13-0"><a href="#cite_note-Chang-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Las disoluciones de sales que provienen de un <a href="/wiki/%C3%81cido_fuerte" title="Ácido fuerte">ácido fuerte</a> y una <a href="/wiki/Base_fuerte" title="Base fuerte">base fuerte</a> forman una disolución neutra. Por ejemplo, la disolución del nitrato de sodio:
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {NaNO_{3}\longrightarrow Na^{+}+NO_{3}^{-}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">N</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mi mathvariant="sans-serif">N</mi>
+<msup>
+<mi mathvariant="sans-serif">a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo mathvariant="sans-serif">+</mo>
+</mrow>
+</msup>
+<mo mathvariant="sans-serif">+</mo>
+<mi mathvariant="sans-serif">N</mi>
+<msubsup>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo mathvariant="sans-serif">−<!-- − --></mo>
+</mrow>
+</msubsup>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {NaNO_{3}\longrightarrow Na^{+}+NO_{3}^{-}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathsf {NaNO_{3}\longrightarrow Na^{+}+NO_{3}^{-}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/875536c1f0d33582e720d6b306da39feb5bbd209" style="vertical-align: -1.005ex; width:24.252ex; height:3.176ex;"/></span>
+</p>
+<p>En esta clase de reacciones, el pH de la disolución es cercano a siete.<sup class="reference separada" id="cite_ref-Chang_13-1"><a href="#cite_note-Chang-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Las disoluciones de sales provenientes de una base fuerte y un ácido débil son básicas, lo que significa que tienen un pH mayor a siete. Como ejemplo encontramos la disolución del acetato de sodio:<sup class="reference separada" id="cite_ref-Chang_13-2"><a href="#cite_note-Chang-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {CH_{3}COONa\longrightarrow Na^{+}+2CH_{3}COO^{-}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">O</mi>
+<mi mathvariant="sans-serif">O</mi>
+<mi mathvariant="sans-serif">N</mi>
+<mi mathvariant="sans-serif">a</mi>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mi mathvariant="sans-serif">N</mi>
+<msup>
+<mi mathvariant="sans-serif">a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo mathvariant="sans-serif">+</mo>
+</mrow>
+</msup>
+<mo mathvariant="sans-serif">+</mo>
+<mn mathvariant="sans-serif">2</mn>
+<mi mathvariant="sans-serif">C</mi>
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">O</mi>
+<msup>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo mathvariant="sans-serif">−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {CH_{3}COONa\longrightarrow Na^{+}+2CH_{3}COO^{-}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathsf {CH_{3}COONa\longrightarrow Na^{+}+2CH_{3}COO^{-}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e77bc259f59b53b571f62fc48675a017829f01b8" style="vertical-align: -0.671ex; width:35.831ex; height:2.843ex;"/></span>
+</p>
+<p>Por el contrario, las disoluciones de sales de una base débil y un ácido fuerte son ácidas, y el pH resultante es menor a siete. Un ejemplo es la disolución del cloruro de amonio:
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {Nh_{4}Cl\longrightarrow NH_{4}^{+}+Cl^{-}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">C</mi>
+<mi mathvariant="sans-serif">l</mi>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mi mathvariant="sans-serif">N</mi>
+<msubsup>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo mathvariant="sans-serif">+</mo>
+</mrow>
+</msubsup>
+<mo mathvariant="sans-serif">+</mo>
+<mi mathvariant="sans-serif">C</mi>
+<msup>
+<mi mathvariant="sans-serif">l</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo mathvariant="sans-serif">−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {Nh_{4}Cl\longrightarrow NH_{4}^{+}+Cl^{-}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathsf {Nh_{4}Cl\longrightarrow NH_{4}^{+}+Cl^{-}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9f10edc42fc006d406e1364969b74aa20c297427" style="vertical-align: -1.005ex; width:22.234ex; height:3.176ex;"/></span> Generalmente, todos los iones metálicos producen disoluciones ácidas.<sup class="reference separada" id="cite_ref-Chang_13-3"><a href="#cite_note-Chang-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Si la disolución se produce con una sal proveniente de una base y un ácido débiles, entonces el resultado dependerá de las fuerzas relativas que primen en la reacción. Este comportamiento puede predecirse mediante la <a href="/wiki/Constante_de_disociaci%C3%B3n" title="Constante de disociación">constante de disociación</a>.<sup class="reference separada" id="cite_ref-Chang_13-4"><a href="#cite_note-Chang-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Las sales fuertes o las sales de electrolitos fuertes son sales químicas compuestas de <a href="/wiki/Conductividad_(electrol%C3%ADtica)#Electrolitos_fuertes" title="Conductividad (electrolítica)">electrolitos fuertes</a>. Estos compuestos iónicos se disocian completamente en agua. Generalmente son inodoros y no volátiles.
+</p>
+<p>Las sales fuertes comienzan con  Na__, K__, NH<sub>4</sub>__, o terminan con __NO<sub>3</sub>, __ClO<sub>4</sub>, or __CH<sub>3</sub>COO. La mayoría de los metales de los grupos 1 y 2 forman sales fuertes. Las sales fuertes son especialmente útiles cuando se crean compuestos conductores, ya que sus iones constituyentes permiten una mayor conductividad.<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Las sales débiles o "sales de electrolitos débiles" están, como sugiere el nombre, compuestas de <a href="/wiki/Conductividad_(electrol%C3%ADtica)#Electrolitos_débiles" title="Conductividad (electrolítica)">electrolitos débiles</a>. Generalmente son más volátiles que las sales fuertes. Pueden tener un olor similar al ácido o la base de los que se derivan. Por ejemplo, el <a href="/wiki/Acetato_de_sodio" title="Acetato de sodio">acetato de sodio</a>, NaCH<sub>3</sub>COO, huele similar al <a href="/wiki/%C3%81cido_ac%C3%A9tico" title="Ácido acético">ácido acético</a> CH<sub>3</sub>COOH.
+</p>
+<p>Las sales se forman por una reacción química entre:
+</p>
+<p>En la reacción de metátesis de sal, en la que se mezclan dos sales diferentes en agua, sus iones se recombinan y la nueva sal es insoluble y se precipita. Por ejemplo:
+</p>
+<p>Las sales se pueden clasificar en los siguientes grupos:<sup class="reference separada" id="cite_ref-15"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Como puede verse en la clasificación de arriba, tanto las sales haloideas como las sales oxácidas, son llamadas «sales neutras» las sales naturales son las que comúnmente conocemos.
+</p>
+<p>Las sales se encuentran o bien en forma de <a href="/wiki/Mineral" title="Mineral">mineral</a> como parte de las rocas (como la <a href="/wiki/Halita" title="Halita">halita</a>), o bien disueltas en el <a href="/wiki/Agua" title="Agua">agua</a> (por ejemplo, el agua de mar). Son un componente vital de los <a class="mw-redirect" href="/wiki/Seres_vivos" title="Seres vivos">seres vivos</a>, en los que las podemos encontrar de diferentes formas:
+</p>
+<p>Las sales son omnipresentes tanto en la fabricación como en la vida cotidiana.
+</p>
+<p><a href="/wiki/Bicarbonato_de_potasio" title="Bicarbonato de potasio">Bicarbonato de potasio</a>
+</p>
+<p><a class="new" href="/w/index.php?title=Hexacianoferrato_de_potasio_(III)&amp;action=edit&amp;redlink=1" title="Hexacianoferrato de potasio (III) (aún no redactado)">Hexacianoferrato de potasio (III)</a>
+</p>
+<p><a class="new" href="/w/index.php?title=Sulfato_de_amonio-cerio_(IV)&amp;action=edit&amp;redlink=1" title="Sulfato de amonio-cerio (IV) (aún no redactado)">Sulfato de amonio-cerio (IV)</a>
+</p>
+<p><a href="/wiki/Nitrato_de_plomo_(II)" title="Nitrato de plomo (II)">Nitrato de plomo (II)</a>
+</p>
+<p><a class="new" href="/w/index.php?title=Fluoruro_de_amonio&amp;action=edit&amp;redlink=1" title="Fluoruro de amonio (aún no redactado)">Fluoruro de amonio</a>
+</p>
+<p><a class="new" href="/w/index.php?title=Seleniuro_de_galio&amp;action=edit&amp;redlink=1" title="Seleniuro de galio (aún no redactado)">Seleniuro de galio</a>
+</p>
+<p><a href="/wiki/Fluoruro_de_calcio" title="Fluoruro de calcio">Fluoruro de calcio</a>
+</p>
+<p><a class="new" href="/w/index.php?title=Ortofosfato_de_cobre_(II)&amp;action=edit&amp;redlink=1" title="Ortofosfato de cobre (II) (aún no redactado)">Ortofosfato de cobre (II)</a>
+</p>
+<p><a class="new" href="/w/index.php?title=Metasilicato_de_cobalto_(II)&amp;action=edit&amp;redlink=1" title="Metasilicato de cobalto (II) (aún no redactado)">Metasilicato de cobalto (II)</a>
+</p>
+<p><a class="new" href="/w/index.php?title=Bromuro_de_plomo&amp;action=edit&amp;redlink=1" title="Bromuro de plomo (aún no redactado)">Bromuro de plomo </a>
+</p>

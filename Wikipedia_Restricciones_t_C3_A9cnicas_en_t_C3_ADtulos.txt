@@ -1,0 +1,64 @@
+<p>No pueden contener los siguientes caracteres en los títulos de los artículos:
+</p>
+<p>Si este es el caso, agrega lo siguiente antes de empezar el párrafo de dicho artículo:
+</p>
+<p><code>{{<a href="/wiki/Plantilla:T%C3%ADtulo_err%C3%B3neo" title="Plantilla:Título erróneo">Título erróneo</a>|Título correcto}}</code>
+</p>
+<p>Lo cual, producirá este texto:
+</p>
+<p>Ejemplos de artículos afectados por este problema son:
+</p>
+<p>Si el nombre de la página debiera comenzar de la misma forma que un <a class="mw-redirect" href="/wiki/A:EN" title="A:EN">espacio de nombres</a>, entonces no podría distinguirse como perteneciente al espacio principal. De esa forma, un vínculo como <tt>[[Ayuda: ¡sálvanos!]]</tt> conducirá siempre al <a href="/wiki/Wikipedia:Espacio_de_nombres_Ayuda" title="Wikipedia:Espacio de nombres Ayuda">espacio Ayuda</a> y no a un artículo.
+</p>
+<p>Algunas palabras son interpretadas como una clave, llamada <b>prefijo</b>. Los prefijos pueden ser palabras completas o <a href="/wiki/Ap%C3%B3cope" title="Apócope">apócopes</a> que seguidos de <a href="/wiki/Dos_puntos" title="Dos puntos">dos puntos</a> adquieren un significado propio, usualmente redirigen a sitios externos. No se pueden crear páginas que comiencen de la misma forma que un prefijo, tampoco los reconocen <a href="/wiki/Especial:Buscar" title="Especial:Buscar">el buscador</a> y <a href="/wiki/Especial:P%C3%A1ginasPorPrefijo" title="Especial:PáginasPorPrefijo">Especial:PáginasPorPrefijo</a>. Si uno los sigue desde <a class="mw-redirect" href="/wiki/Wikipedia:EI" title="Wikipedia:EI">enlaces internos</a> o los escribe en la barra de direcciones se comportan como redirecciones a sitios externos, usualmente administrados por la Fundación Wikimedia o asociados de alguna forma a la misma.
+</p>
+<p>En <a href="/wiki/Especial:Enlaces_interling%C3%BC%C3%ADsticos" title="Especial:Enlaces interlingüísticos">Especial:Enlaces interlingüísticos</a> tienes una lista completa de los prefijos disponibles.
+</p>
+<p>Wikipedia está configurada para que no distinga entre mayúsculas y minúsculas iniciales en el título de una página (en otros proyectos como el <a class="extiw" href="https://es.wiktionary.org/wiki/Wikcionario:Portada" title="wikt:Wikcionario:Portada">Wikcionario</a> sí se diferencia). Todos los títulos de páginas comienzan por mayúscula independientemente de ser escritos con minúscula inicial. Por ejemplo <tt>[[laSexta]]</tt> se trata igual que <tt>[[LaSexta]]</tt>.
+</p>
+<p>Ejemplos de artículos afectados por este problema son:
+</p>
+<p>Para solucionar este problema, coloca la plantilla <code>{{<a class="mw-redirect" href="/wiki/Plantilla:T%C3%ADtulo_min%C3%BAscula" title="Plantilla:Título minúscula">Título minúscula</a>}}</code> en la parte superior de la página del artículo (y opcionalmente en la parte superior de su página de discusión). Esto hará que el título del artículo se muestre con la letra inicial en minúscula, como en <a class="mw-redirect" href="/wiki/LaSexta" title="LaSexta">laSexta</a>. Ten en cuenta que esto no soluciona todos los errores, como el historial, la edición o las páginas de registro.
+</p>
+<p>El título debe ser menor a 255 bytes cuando se codifica en <a href="/wiki/UTF-8" title="UTF-8">UTF-8</a>.
+</p>
+<p>Los títulos de las páginas no pueden contener tres o más <a href="/wiki/Virgulilla" title="Virgulilla">virgulillas</a> (~~~) consecutivas.
+</p>
+<p>El software trata los espacios y los guiones bajos por igual. Los títulos no pueden contener dos o más espacios o guiones bajos consecutivos, y no pueden comenzar o terminar con un espacio o guión bajo. Los títulos que consisten solo en espacios o guiones bajos no son válidos como vacíos.
+</p>
+<p>Los nombres de usuario están sujetos a las mismas restricciones técnicas que los títulos de las páginas (véase <a href="#Caracteres_prohibidos">Caracteres prohibidos</a> más arriba), en concreto no se admiten los símbolos <tt># &lt; &gt; [ ] | { } </tt>. También hay restricciones adicionales:
+</p>
+<p>Además hay restricciones probadas por <a class="extiw" href="https://www.mediawiki.org/wiki/Extension:AntiSpoof" title="mw:Extension:AntiSpoof">mw:Extension:AntiSpoof</a>, que incluyen más caracteres de lista negra (varios [caracteres] semejantes a '/' y escrituras inusuales como la rúnica como el <a href="/wiki/Alfabeto_r%C3%BAnico" title="Alfabeto rúnico">alfabeto rúnico</a>, el <a href="/wiki/Idioma_ugar%C3%ADtico" title="Idioma ugarítico">idioma ugarítico</a>, etcétera) y y verifica los scripts mixtos, También hay limitaciones impuestas por Meta <a class="extiw" href="https://meta.wikimedia.org/wiki/Title_blacklist" title="meta:Title blacklist">títulos de la lista negra</a> y MediaWiki <a href="/wiki/MediaWiki:Titleblacklist" title="MediaWiki:Titleblacklist">títulos de la lista negra</a>, tanto las listas negras como estas etiquetas <code>&lt;newaccountonly&gt;</code>. Entre los más destacados son las cuentas que contienen nombres de permisos avanzados (por ejemplo) o hacerse pasar por usuarios de altos perfiles que están bloqueados, e la longitud máxima del nombre de usuario está reducida a 40 caracteres.
+</p>
+<p>No pueden contener los siguientes caracteres en los títulos de los artículos:
+</p>
+<p>Si este es el caso, agrega lo siguiente antes de empezar el párrafo de dicho artículo:
+</p>
+<p><code>{{<a href="/wiki/Plantilla:T%C3%ADtulo_err%C3%B3neo" title="Plantilla:Título erróneo">Título erróneo</a>|Título correcto}}</code>
+</p>
+<p>Lo cual, producirá este texto:
+</p>
+<p>Ejemplos de artículos afectados por este problema son:
+</p>
+<p>Si el nombre de la página debiera comenzar de la misma forma que un <a class="mw-redirect" href="/wiki/A:EN" title="A:EN">espacio de nombres</a>, entonces no podría distinguirse como perteneciente al espacio principal. De esa forma, un vínculo como <tt>[[Ayuda: ¡sálvanos!]]</tt> conducirá siempre al <a href="/wiki/Wikipedia:Espacio_de_nombres_Ayuda" title="Wikipedia:Espacio de nombres Ayuda">espacio Ayuda</a> y no a un artículo.
+</p>
+<p>Algunas palabras son interpretadas como una clave, llamada <b>prefijo</b>. Los prefijos pueden ser palabras completas o <a href="/wiki/Ap%C3%B3cope" title="Apócope">apócopes</a> que seguidos de <a href="/wiki/Dos_puntos" title="Dos puntos">dos puntos</a> adquieren un significado propio, usualmente redirigen a sitios externos. No se pueden crear páginas que comiencen de la misma forma que un prefijo, tampoco los reconocen <a href="/wiki/Especial:Buscar" title="Especial:Buscar">el buscador</a> y <a href="/wiki/Especial:P%C3%A1ginasPorPrefijo" title="Especial:PáginasPorPrefijo">Especial:PáginasPorPrefijo</a>. Si uno los sigue desde <a class="mw-redirect" href="/wiki/Wikipedia:EI" title="Wikipedia:EI">enlaces internos</a> o los escribe en la barra de direcciones se comportan como redirecciones a sitios externos, usualmente administrados por la Fundación Wikimedia o asociados de alguna forma a la misma.
+</p>
+<p>En <a href="/wiki/Especial:Enlaces_interling%C3%BC%C3%ADsticos" title="Especial:Enlaces interlingüísticos">Especial:Enlaces interlingüísticos</a> tienes una lista completa de los prefijos disponibles.
+</p>
+<p>Wikipedia está configurada para que no distinga entre mayúsculas y minúsculas iniciales en el título de una página (en otros proyectos como el <a class="extiw" href="https://es.wiktionary.org/wiki/Wikcionario:Portada" title="wikt:Wikcionario:Portada">Wikcionario</a> sí se diferencia). Todos los títulos de páginas comienzan por mayúscula independientemente de ser escritos con minúscula inicial. Por ejemplo <tt>[[laSexta]]</tt> se trata igual que <tt>[[LaSexta]]</tt>.
+</p>
+<p>Ejemplos de artículos afectados por este problema son:
+</p>
+<p>Para solucionar este problema, coloca la plantilla <code>{{<a class="mw-redirect" href="/wiki/Plantilla:T%C3%ADtulo_min%C3%BAscula" title="Plantilla:Título minúscula">Título minúscula</a>}}</code> en la parte superior de la página del artículo (y opcionalmente en la parte superior de su página de discusión). Esto hará que el título del artículo se muestre con la letra inicial en minúscula, como en <a class="mw-redirect" href="/wiki/LaSexta" title="LaSexta">laSexta</a>. Ten en cuenta que esto no soluciona todos los errores, como el historial, la edición o las páginas de registro.
+</p>
+<p>El título debe ser menor a 255 bytes cuando se codifica en <a href="/wiki/UTF-8" title="UTF-8">UTF-8</a>.
+</p>
+<p>Los títulos de las páginas no pueden contener tres o más <a href="/wiki/Virgulilla" title="Virgulilla">virgulillas</a> (~~~) consecutivas.
+</p>
+<p>El software trata los espacios y los guiones bajos por igual. Los títulos no pueden contener dos o más espacios o guiones bajos consecutivos, y no pueden comenzar o terminar con un espacio o guión bajo. Los títulos que consisten solo en espacios o guiones bajos no son válidos como vacíos.
+</p>
+<p>Los nombres de usuario están sujetos a las mismas restricciones técnicas que los títulos de las páginas (véase <a href="#Caracteres_prohibidos">Caracteres prohibidos</a> más arriba), en concreto no se admiten los símbolos <tt># &lt; &gt; [ ] | { } </tt>. También hay restricciones adicionales:
+</p>
+<p>Además hay restricciones probadas por <a class="extiw" href="https://www.mediawiki.org/wiki/Extension:AntiSpoof" title="mw:Extension:AntiSpoof">mw:Extension:AntiSpoof</a>, que incluyen más caracteres de lista negra (varios [caracteres] semejantes a '/' y escrituras inusuales como la rúnica como el <a href="/wiki/Alfabeto_r%C3%BAnico" title="Alfabeto rúnico">alfabeto rúnico</a>, el <a href="/wiki/Idioma_ugar%C3%ADtico" title="Idioma ugarítico">idioma ugarítico</a>, etcétera) y y verifica los scripts mixtos, También hay limitaciones impuestas por Meta <a class="extiw" href="https://meta.wikimedia.org/wiki/Title_blacklist" title="meta:Title blacklist">títulos de la lista negra</a> y MediaWiki <a href="/wiki/MediaWiki:Titleblacklist" title="MediaWiki:Titleblacklist">títulos de la lista negra</a>, tanto las listas negras como estas etiquetas <code>&lt;newaccountonly&gt;</code>. Entre los más destacados son las cuentas que contienen nombres de permisos avanzados (por ejemplo) o hacerse pasar por usuarios de altos perfiles que están bloqueados, e la longitud máxima del nombre de usuario está reducida a 40 caracteres.
+</p>

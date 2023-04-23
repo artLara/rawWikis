@@ -1,0 +1,1690 @@
+<p>En <a href="/wiki/Geometr%C3%ADa" title="Geometría">geometría</a> plana, se llama <b>triángulo</b>, <b>trígono </b> o <b>trigonoide</b> al <a href="/wiki/Pol%C3%ADgono" title="Polígono">polígono</a> de tres lados. Los puntos comunes a cada par de lados se denominan <a href="/wiki/V%C3%A9rtice_(geometr%C3%ADa)" title="Vértice (geometría)">vértices del triángulo</a>.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ 
+</p>
+<p>Un triángulo tiene tres ángulos interiores, tres partes congruentes de ángulos exteriores,<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ tres lados y tres vértices entre otros elementos.
+</p>
+<p>Si está contenido en una superficie <a href="/wiki/Plano_(geometr%C3%ADa)" title="Plano (geometría)">plana</a> se denomina <b>triángulo</b> o <b>trígono</b>, un nombre menos común para este tipo de polígonos. Si está contenido en una superficie <a href="/wiki/Esfera" title="Esfera">esférica</a> se denomina <b><a class="mw-redirect" href="/wiki/Tri%C3%A1ngulo_esf%C3%A9rico" title="Triángulo esférico">triángulo esférico</a></b>. Representado, en <a href="/wiki/Cartograf%C3%ADa" title="Cartografía">cartografía</a>, sobre la superficie terrestre, se llama <b>triángulo geodésico</b>.
+</p>
+<p>Cada uno de los puntos que determinan un triángulo. Tal como los vértices de un polígono, suelen ser denotados por letras latinas mayúsculas: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A,B,C,\dots }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>,</mo>
+<mi>B</mi>
+<mo>,</mo>
+<mi>C</mi>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A,B,C,\dots }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A,B,C,\dots }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e52a4e31e9f1ae344fa5536be4835405050aa17" style="vertical-align: -0.671ex; width:11.098ex; height:2.509ex;"/></span>. Si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle AB+BC=AC}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mi>B</mi>
+<mo>+</mo>
+<mi>B</mi>
+<mi>C</mi>
+<mo>=</mo>
+<mi>A</mi>
+<mi>C</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle AB+BC=AC}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle AB+BC=AC}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3f2f4713941bb7bb129a92c89051b8db3f0497dc" style="vertical-align: -0.505ex; width:16.486ex; height:2.343ex;"/></span>, no existe triángulo que determine <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A,B}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>,</mo>
+<mi>B</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A,B}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A,B}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/96c3298ea9aa77c226be56a7d8515baaa517b90b" style="vertical-align: -0.671ex; width:4.541ex; height:2.509ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle C}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>C</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C}</annotation>
+</semantics>
+</math></span><img alt="C" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4fc55753007cd3c18576f7933f6f089196732029" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;"/></span>.
+</p>
+<p>Un triángulo se nombra, entonces, como cualquier otro polígono, designando sucesivamente sus vértices, por ejemplo <i><b>ABC</b></i>.
+En el caso del triángulo, los vértices pueden darse en cualquier orden, por cualquiera de las 6 maneras posibles (<i><b>ABC</b></i>, <i><b>ACB</b></i>, <i><b>BAC</b></i>, <i><b>BCA</b></i>, <i><b>CAB</b></i>, <i><b>CBA</b></i>), corresponde a un recorrido de su perímetro. Esto ya no es cierto para polígonos con más vértices.
+</p>
+<p>Cada par de vértices determina un segmento, que se conoce como lado del triángulo. No importa el orden de los vértices para nombrar un lado de modo AB, BA nombran a un mismo lado.
+</p>
+<p>Los lados del triángulo se denotan, como todos los segmentos, por sus extremos: <i><b>AB</b></i>, <i><b>BC</b></i> y <i><b>AC</b></i>.
+</p>
+<p>Para nombrar la <i>longitud</i> de un lado, por lo general se utiliza el nombre del vértice opuesto, convertido a minúscula latina: <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+</semantics>
+</math></span><img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/></span></b> para <i><b>BC</b></i>, <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle b}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>b</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle b}</annotation>
+</semantics>
+</math></span><img alt="b" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f11423fbb2e967f986e36804a8ae4271734917c3" style="vertical-align: -0.338ex; width:0.998ex; height:2.176ex;"/></span></b> para <i><b>AC</b></i>, <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c}</annotation>
+</semantics>
+</math></span><img alt="c" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/86a67b81c2de995bd608d5b2df50cd8cd7d92455" style="vertical-align: -0.338ex; width:1.007ex; height:1.676ex;"/></span></b> para <i><b>AB</b></i>.
+</p>
+<p>La suma de los lados de un triángulo se conoce como <b>perímetro</b>, denotado por <i>p</i> o 2<i>s</i>; cumple la ecuación <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p=2s=AB+BC+CA}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mi>s</mi>
+<mo>=</mo>
+<mi>A</mi>
+<mi>B</mi>
+<mo>+</mo>
+<mi>B</mi>
+<mi>C</mi>
+<mo>+</mo>
+<mi>C</mi>
+<mi>A</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p=2s=AB+BC+CA}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p=2s=AB+BC+CA}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5c7796c69d8f373760885d3e9afda350987f3660" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:25.936ex; height:2.509ex;"/></span>
+</p>
+<p>Cada par de lados con origen común al vértice de un triángulo y que contienen dos de esos lados concurrentes se llama <b>ángulo</b> del triángulo u -ocasionalmente- ángulo interior.
+</p>
+<p>La notación general para el ángulo entre dos segmentos <i><b>OP</b></i> y <i><b>OQ</b></i> prolongados y que concurren en el extremo <i><b>O</b></i> es <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\widehat {POQ}}.\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow>
+<mi>P</mi>
+<mi>O</mi>
+<mi>Q</mi>
+</mrow>
+<mo>^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>.</mo>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\widehat {POQ}}.\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\widehat {POQ}}.\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9bd25b691698c7ed304fc5a277d3aa5debd5f511" style="vertical-align: -0.671ex; width:6.391ex; height:3.509ex;"/></span>
+</p>
+<p>También es posible utilizar una letra minúscula -habitualmente una letra griega- coronada por un acento circunflejo (en rigor, los ángulos deben ser designados por letras mayúsculas y su medida por minúsculas, pero a menudo se utilizan los mismos nombres para los dos con el fin de simplificar la notación). En el caso de un triángulo, el ángulo entre dos lados todavía puede, por tolerancia y en ausencia de ambigüedad, ser designado por el nombre del vértice común, coronado por un acento circunflejo. En resumen, en el ejemplo se pueden observar los ángulos:
+</p>
+<p>El ángulo cuyo vértice coincide con uno de los vértices del triángulo y sus lados: son la prolongación de un lado triangular y el otro lado angular contiene a un lado triangular, se llama <b>ángulo externo</b>. En cada vértice triangular hay dos ángulos externos.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><br/>
+</p>
+<p>Los triángulos se pueden clasificar por la relación entre las longitudes de sus lados o por la amplitud de sus ángulos.
+</p>
+<p>Por la medida de sus lados, todo triángulo se clasifica en:
+</p>
+<p>Por la amplitud de sus ángulos los triángulos se clasifican en:
+</p>
+<p><br/>
+</p>
+<p>Los triángulos acutángulos pueden ser:
+</p>
+<p>Los triángulos rectángulos pueden ser:
+</p>
+<p>Los triángulos obtusángulos pueden ser:
+</p>
+<p>La medida de la calidad de triángulo (abreviada como <i>CT</i>) se determina por el producto de tres factores que se obtienen de la suma de dos de sus lados menos el tercero en forma cíclica, dividido por el producto de sus tres lados; y se representa mediante la siguiente fórmula:
+</p>
+<p>donde a, b, c son las longitudes de los lados del triángulo.
+</p>
+<p>Por lo tanto, si
+</p>
+<p>En otras palabras, la calidad del triángulo se aproxima a cero cuando la <a href="/wiki/Distancia_euclidiana" title="Distancia euclidiana">distancia euclidiana</a> de uno de sus lados es cercana a cero o cuando los tres puntos del triángulo tienden a ser colineales.
+</p>
+<p>La calidad de los triángulos tiene muchas aplicaciones en los métodos de <a href="/wiki/Triangulaci%C3%B3n" title="Triangulación">triangulación</a> como es el caso de la <a href="/wiki/Triangulaci%C3%B3n_de_Delaunay" title="Triangulación de Delaunay">triangulación de Delaunay</a> porque se necesitan generar una serie de puntos en el espacio para que la malla que se genere sea de buena calidad debido a la cantidad de puntos que se encuentran bien distribuidos en un espacio de dos dimensiones porque cuando se le asigne un valor o magnitud a cada punto de la malla la aproximación del triángulo va a tener un error mayor y la solución sería continuar asignando punto en el espacio de dos dimensiones para que la aproximación ser mejor y el error disminuya.
+</p>
+<p>Dos triángulos son congruentes si hay una correspondencia entre sus vértices de tal manera que el ángulo del vértice y los lados que lo componen, en uno de los triángulos, sean congruentes con los del otro triángulo.
+</p>
+<p>Dos triángulos son congruentes si dos lados de uno tienen la misma longitud que dos lados del otro triángulo, y los ángulos comprendidos entre esos lados tienen también la misma medida.
+</p>
+<p>Dos triángulos son congruentes si dos ángulos interiores y el lado comprendido entre ellos tienen la misma medida y longitud, respectivamente. (El lado comprendido entre dos ángulos es el lado común a ellos).
+</p>
+<p>Dos triángulos son congruentes si cada lado de un triángulo tiene la misma longitud que los correspondientes del otro triángulo.
+</p>
+<p>Dos triángulos son congruentes si dos ángulos y un lado, no comprendido entre los ángulos, tienen la misma medida y longitud, respectivamente.
+</p>
+<p>Dos <a href="/wiki/Tri%C3%A1ngulo_rect%C3%A1ngulo" title="Triángulo rectángulo">triángulos rectángulos</a> son semejantes si cumplen con al menos uno de los criterios siguientes:
+</p>
+<p>Se consideran dos triángulos semejantes con lados paralelos y con circuncentro común ( centro de la circunferencia circunscrita). La intersección del exterior del triángulo de menor área con el interior del triángulo de mayor área unida con los dos triángulos forma una región en el plano que se llama <b>corona triangular</b>.<sup class="reference separada" id="cite_ref-8"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La <i>frontera</i> de esta región es la unión de los dos triángulos. Un punto es <i>interior</i> si está entre las intersecciones que determina un rayo con origen en el circuncentro con los lados homólogos. El conjunto de los puntos interiores es el <i>interior</i> de la región. Un punto está en el <i>exterior</i> de la región si no está en la frontera ni en el interior. El interior es convexo, abierto y conexo. La frontera es la unión disjunta de dos poligonales cerradas. El exterior es un conjunto desconexo, abierto y no convexo. La corona triangular es un conjunto cerrado, conexo y convexo.<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ La corona triangular es homeomorfa con la corona circular, tienen las mismas propiedades topológicas.
+</p>
+<p>Un <i>triángulo</i> puede ser definido como un <a href="/wiki/Pol%C3%ADgono" title="Polígono">polígono</a> de tres lados, o como un polígono con tres vértices.
+El triángulo es el polígono más simple y el único que no tiene diagonal. Tres puntos no alineados definen siempre un triángulo (tanto en el plano como en el espacio).
+</p>
+<p>Si se agrega un cuarto punto <i><b>coplanar</b></i> y no alineado, se obtiene un <a href="/wiki/Cuadril%C3%A1tero" title="Cuadrilátero">cuadrilátero</a> que puede ser dividido en triángulos como el de la figura de la izquierda. En cambio, si el cuarto punto agregado es <i><b>no coplanar</b></i> y no alineado, se obtiene un <a href="/wiki/Tetraedro" title="Tetraedro">tetraedro</a> que es el <a href="/wiki/Poliedro" title="Poliedro">poliedro</a> más simple y está conformado por 4 caras triángulares.
+</p>
+<p>Todo polígono puede ser dividido en un número finito de triángulos, esto se logra por <a href="/wiki/Triangulaci%C3%B3n" title="Triangulación">triangulación</a>. El número mínimo de triángulos necesarios para esta división es n-2, donde <i>n</i> es el número de lados del polígono.
+El estudio de los triángulos es fundamental para el estudio de otros polígonos, por ejemplo para la demostración del <a href="/wiki/Teorema_de_Pick" title="Teorema de Pick">Teorema de Pick</a>.
+</p>
+<p>En <a href="/wiki/Geometr%C3%ADa_euclidiana" title="Geometría euclidiana">geometría euclidiana</a><sup class="reference separada" id="cite_ref-10"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​ la suma de los tres <a class="mw-redirect" href="/wiki/%C3%81ngulo_interno" title="Ángulo interno">ángulos internos</a> de un triángulo es siempre <b>180°</b>, lo que equivale a π <a href="/wiki/Radi%C3%A1n" title="Radián">radianes</a>:
+</p>
+<p><br/>
+</p>
+<p>Euclides había demostrado este resultado en sus <i><a class="mw-redirect" href="/wiki/Elementos" title="Elementos">Elementos</a></i> (proposición I-32) de la siguiente manera: se traza una paralela a la línea (AB) que pasa por C. Siendo paralelas, esta recta y la recta (AB) forman con la recta (AC) ángulos iguales, codificados en color rojo en la figura de la derecha (<a href="/wiki/%C3%81ngulos_entre_paralelas" title="Ángulos entre paralelas">ángulos alternos-internos</a>). Del mismo modo, los ángulos codificados en color azul son iguales (<a class="mw-redirect" href="/wiki/%C3%81ngulos_correspondientes" title="Ángulos correspondientes">ángulos correspondientes</a>). Por otro lado, la suma de los tres ángulos del vértice <i>C</i> es el ángulo llano. Así que la suma de las medidas del ángulo de color rojo, del ángulo verde y del azul es un ángulo de 180° (o π radianes). En conclusión, la suma de los ángulos de un triángulo es 180°.
+</p>
+<p>Esta propiedad es el resultado de la geometría euclidiana. No se verifica en general en la geometría no euclidiana.
+</p>
+<p>De la ecuación anterior se deducen fácilmente 3 fórmulas de aplicación práctica:
+</p>
+<p><a href="/wiki/Geometr%C3%ADa" title="Geometría">Geométricamente</a> se pueden definir varios casos que están ligados a un triángulo:
+</p>
+<p>El único caso en que el baricentro, incentro, ortocentro y circuncentro coínciden es en el triángulo equilátero.
+</p>
+<p>En general, hay varios métodos aceptados para calcular la longitud de un lado y la medida de un ángulo. Mientras que ciertos métodos pueden ser adecuados para calcular los valores de un <a href="/wiki/Tri%C3%A1ngulo_rect%C3%A1ngulo" title="Triángulo rectángulo">triángulo rectángulo</a>, otros pueden ser requeridos en situaciones más complejas.
+</p>
+<p>Para resolver triángulos (<i>en general</i>) se suele utilizar los teoremas <a href="/wiki/Teorema_del_seno" title="Teorema del seno">del seno</a> y <a href="/wiki/Teorema_del_coseno" title="Teorema del coseno">del coseno</a>, para el caso especial de triángulos rectángulos se utiliza generalmente el <a href="/wiki/Teorema_de_Pit%C3%A1goras" title="Teorema de Pitágoras">Teorema de Pitágoras</a>.
+</p>
+<p>En <a href="/wiki/Tri%C3%A1ngulo_rect%C3%A1ngulo" title="Triángulo rectángulo">triángulos rectángulos</a>, las razones trigonométricas del seno, el coseno y la tangente pueden ser usadas para encontrar los ángulos y las longitudes de lados desconocidos. Los lados del triángulo se denominan como sigue, con respecto a uno de los ángulo agudos:
+</p>
+<p>El seno de un ángulo es el cociente entre la longitud del cateto opuesto y la longitud de la hipotenusa.
+</p>
+<p>El coseno de un ángulo es el cociente entre la longitud del cateto del lado adyacente y la longitud de la hipotenusa.
+</p>
+<p>La tangente de un ángulo es el cociente entre la longitud del cateto opuesto y la longitud del cateto adyacente.
+</p>
+<p><b>Nota</b>: Los cocientes de las tres relaciones anteriores no dependen del tamaño del triángulo rectángulo.
+</p>
+<p>Las <a class="mw-redirect" href="/wiki/Funciones_trigonom%C3%A9tricas_inversas" title="Funciones trigonométricas inversas">funciones trigonométricas inversas</a> pueden ser usadas para calcular los ángulos internos de un triángulo rectángulo al tener la longitud de dos lados cualesquiera.
+</p>
+<p>Arcsin (arcoseno) puede ser usado para calcular un ángulo con la longitud del cateto opuesto y la de la hipotenusa.
+</p>
+<p>Arccos (arcocoseno) puede ser usado para calcular un ángulo con la longitud del cateto adyacente y la de la hipotenusa.
+</p>
+<p>Arctan (arcotangente) puede ser usada para calcular un ángulo con la longitud del cateto opuesto y la del cateto adyacente.
+</p>
+<p>En los cursos introductorios de geometría y trigonometría, la notación sin<sup>−1</sup>, cos<sup>−1</sup>, etc., es frecuentemente utilizada en lugar de arcsin, arccos, etc. Sin embargo, la notación de arcsin, arccos, etc., es estándar en matemáticas superiores donde las funciones trigonométricas son comúnmente elevadas a potencias, pues esto evita la confusión entre el <a href="/wiki/Inverso_multiplicativo" title="Inverso multiplicativo">inverso multiplicativo</a> y la <a href="/wiki/Funci%C3%B3n_inversa" title="Función inversa">función inversa</a>.
+</p>
+<p>Dado un punto en el plano euclídeo, diremos que este es <b>interior</b> a un triángulo si al trazar una recta por él, dicho punto se halla entre los cortes con los lados del triángulo. De otro modo un punto es punto <i>interior</i> de un triángulo, si está en el interior de cada ángulo del triángulo .<sup class="reference separada" id="cite_ref-14"><a href="#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​  Si consideramos una región triangular su <i>interior</i> coincide con el interior definido según la topología usual del plano.<sup class="reference separada" id="cite_ref-15"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Los tres lados de un triángulo constituyen su <b>frontera</b> y los puntos del plano que no están en el interior ni en la frontera están en el <b>exterior</b> del triángulo.<sup class="reference separada" id="cite_ref-16"><a href="#cite_note-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​ La unión del interior, del triángulo (frontera) y del exterior es igual al plano del triángulo. Cada par de los conjuntos aludidos tiene intersección vacía o son conjuntos mutuamente disjuntos.
+</p>
+<p>Cualquier triángulo es equivalente a una curva simple cerrada; en particular a una circunferencia. Esto es, entre una circunferencia y un triángulo se puede establecer una aplicación biyectiva y bicontinua. <sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><b>Ceviana</b> es una recta que pasa por un vértice de un triángulo y por la recta que contiene al lado opuesto; algunos autores incluyen como ceviana a los lados del triángulo.<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​ Se consideran cevianas interiores, si contiene puntos del interior triangular; y cevianas exteriores, cuando pasa por el exterior del triángulo. <sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El segmento de recta que va de un vértice al punto medio del lado opuesto de un triángulo se llama <i><b>mediana</b></i>.<sup class="reference separada" id="cite_ref-20"><a href="#cite_note-20"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>​ En algunos países (<i>por ej: Chile</i>) se las llama <b>transversales de gravedad</b>, reservando en esos lugares el término <b>mediana</b> para lo que habitualmente se denomina <b><a class="mw-redirect" href="/wiki/Paralela_media" title="Paralela media">paralela media</a></b>.
+</p>
+<p>Algunas propiedades de las <b>medianas</b> son:
+</p>
+<p>Del <a href="/wiki/Teorema_de_Apolonio" title="Teorema de Apolonio">teorema de Apolonio</a>, también llamado "teorema de la mediana", pueden deducirse varias fórmulas prácticas (<i>válidas para cualquier triángulo</i>), estas permiten calcular a partir del conocimiento de tres elementos, un cuarto elemento desconocido (<i>los elementos en cuestión son <b>lados</b> y <b>medianas</b></i>). La siguiente tabla muestra un resumen de las mismas (con notación acorde a la figura de la propia tabla):
+</p>
+<p><br/>
+</p>
+<p>Se llama mediatriz de un lado de un triángulo a la recta perpendicular a dicho lado trazada por su punto medio (<i>también llamada simetral</i>). El triángulo tiene tres <a href="/wiki/Mediatriz" title="Mediatriz">mediatrices</a>, una por cada uno de sus lados <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [AB]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<mi>A</mi>
+<mi>B</mi>
+<mo stretchy="false">]</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [AB]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle [AB]}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/13e80b9404482bdbe7fe18d8435b3dd42fd39bb0" style="vertical-align: -0.838ex; width:4.801ex; height:2.843ex;"/></span></b>, <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [AC]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<mi>A</mi>
+<mi>C</mi>
+<mo stretchy="false">]</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [AC]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle [AC]}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/49b377aec839d74e0b48a42d2ba192d3efefc575" style="vertical-align: -0.838ex; width:4.803ex; height:2.843ex;"/></span></b> y <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [BC]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<mi>B</mi>
+<mi>C</mi>
+<mo stretchy="false">]</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [BC]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle [BC]}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd2ee765006b05ac0001c01a206871306f108cbc" style="vertical-align: -0.838ex; width:4.824ex; height:2.843ex;"/></span></b>.<br/>
+</p>
+<p>Las tres mediatrices de un triángulo son concurrentes en un punto <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle O}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>O</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle O}</annotation>
+</semantics>
+</math></span><img alt="O" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d70e1d0d87e2ef1092ea1ffe2923d9933ff18fc" style="vertical-align: -0.338ex; width:1.773ex; height:2.176ex;"/></span></b> equidistante de los tres vértices. La circunferencia de centro <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle O}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>O</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle O}</annotation>
+</semantics>
+</math></span><img alt="O" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d70e1d0d87e2ef1092ea1ffe2923d9933ff18fc" style="vertical-align: -0.338ex; width:1.773ex; height:2.176ex;"/></span></b> y radio <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle OA}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>O</mi>
+<mi>A</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle OA}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle OA}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/db864cf94e2655d6a7b56c7479f63933e97afb06" style="vertical-align: -0.338ex; width:3.516ex; height:2.176ex;"/></span></b> que pasa por cada uno de los tres vértices del triángulo es la <b><a href="/wiki/Circunferencia_circunscrita" title="Circunferencia circunscrita">circunferencia circunscrita</a></b> al triángulo, y su centro se denomina <a href="/wiki/Circuncentro" title="Circuncentro">circuncentro</a>.<sup class="reference separada" id="cite_ref-24"><a href="#cite_note-24"><span class="corchete-llamada">[</span>24<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Un triángulo es rectángulo <a class="mw-redirect" href="/wiki/Si_y_solo_si" title="Si y solo si">si y solo si</a> el centro de su circunferencia circunscrita es el punto medio de su hipotenusa.
+</p>
+<p>Las <i><b>bisectrices</b></i> de un triángulo son las <a href="/wiki/Bisectriz" title="Bisectriz">bisectrices</a> de sus ángulos. Existen bisectrices internas (las usuales) y externas a estos ángulos.
+</p>
+<p>Las tres bisectrices internas de un triángulo son concurrentes en un punto <b>O</b>. La <b><a href="/wiki/Circunferencia_inscrita" title="Circunferencia inscrita">circunferencia inscrita</a></b> del triángulo es la única circunferencia tangente a los tres lados del triángulo y es interior al triángulo. Tiene por punto central el <a href="/wiki/Incentro" title="Incentro">incentro</a>, que es el <b>centro de la circunferencia inscrita</b> en el triángulo.<sup class="reference separada" id="cite_ref-25"><a href="#cite_note-25"><span class="corchete-llamada">[</span>25<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Además, las bisectrices exteriores de dos ángulos concurren con la bisectriz interior del ángulo restante en puntos denominados <a class="mw-redirect" href="/wiki/Exincentro" title="Exincentro">exincentros</a>, que son los <b>centros de las circunferencias exinscritas</b> del triángulo. Hay 3 exincentros, al igual que 3 circunferencias exinscritas. Las <b><a class="mw-redirect" href="/wiki/Exincentro" title="Exincentro">circunferencias exinscritas</a></b> son tangentes a un lado y a la extensión de los otros dos.
+</p>
+<p>La distancia desde un vértice el triángulo hasta los puntos de intersección de la circunferencia inscrita en el triángulo con los lados que se cruzan en dicho vértice por <a href="/wiki/Potencia_de_un_punto" title="Potencia de un punto">potencia de un punto</a> es la misma por lo que las longitudes de los lados de un triángulo son a=x+y, b=y+z, c=z+x, a esta forma de denotar a los lados de un triángulo se le conoce como <b>Transformación de Ravi</b>, en un triángulo rectángulo los lados son x+r, r+y, y+x con r el radio de la circunferencia inscrita en el triángulo.
+</p>
+<p>donde vA es la bisectriz del ángulo A; a, b, c, lados del triángulo y p el semiperímetro; siendo
+</p>
+<p><sup class="reference separada" id="cite_ref-García_Ardura_1_26-0"><a href="#cite_note-García_Ardura_1-26"><span class="corchete-llamada">[</span>26<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Siendo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle r_{a},r_{b},r_{c}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r_{a},r_{b},r_{c}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle r_{a},r_{b},r_{c}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1374a1081b98bb6e3301623abbcbdd6cb1f14321" style="vertical-align: -0.671ex; width:8.198ex; height:2.009ex;"/></span> radios de las circunferencias exinscritas de un triángulo <b>ABC</b>; <b>R</b> y <b>r</b> radios de la circunfrencia circunscrita e inscrita en el mismo triángulo, respectivamente, entonces se cumple la ecuación que sigue:
+</p>
+<p><sup class="reference separada" id="cite_ref-27"><a href="#cite_note-27"><span class="corchete-llamada">[</span>27<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Para cualquier triángulo, donde h = la menor altura, l = la menor bisectriz y S el área, se cumple lo siguiente
+</p>
+<p>Se nombra <b>simediana</b> a la recta (ceviana) que es simétrica a la mediana, siendo el eje de simetría la bisectriz con el mismo vértice. <sup class="reference separada" id="cite_ref-29"><a href="#cite_note-29"><span class="corchete-llamada">[</span>29<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El punto de Lemoine es un punto interior de un triángulo para el que la suma de los cuadrados de sus distancias a los lados es la mínima. Se nombra también <b>punto de Lemoine- L' Huiller</b>
+</p>
+<p>Se llama <b>altura de un triángulo</b> al segmento de recta perpendicular que une un vértice del triángulo con el lado opuesto de este  o su prolongación.   El lado opuesto se llama <b>base</b> del triángulo. Todos los triángulos tienen tres alturas.<sup class="reference separada" id="cite_ref-32"><a href="#cite_note-32"><span class="corchete-llamada">[</span>32<span class="corchete-llamada">]</span></a></sup>​ Estas 3 alturas se cortan en un punto único <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle H}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H}</annotation>
+</semantics>
+</math></span><img alt="H" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/75a9edddcca2f782014371f75dca39d7e13a9c1b" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span></b> (son <i>concurrentes</i>), llamado <i><b>ortocentro </b></i> del triángulo.<sup class="reference separada" id="cite_ref-33"><a href="#cite_note-33"><span class="corchete-llamada">[</span>33<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Para un triángulo Δ<i><b>ABC</b></i> cualquiera, conociendo la longitud de sus lados (<i><b>a</b></i>, <i><b>b</b></i>, <i><b>c</b></i>), se pueden calcular las respectivas longitudes de las alturas (<i><b>h<sub>a</sub></b></i>, <i><b>h<sub>b</sub></b></i>, <i><b>h<sub>c</sub></b></i>) aplicando las siguientes fórmulas:
+</p>
+<p>Donde <i><b>h<sub>a</sub></b></i> es la altura correspondiente al lado <i><b>a</b></i>, <i><b>h<sub>b</sub></b></i> es la altura correspondiente al lado <i><b>b</b></i>, <i><b>h<sub>c</sub></b></i> es la altura correspondiente al lado <i><b>c</b></i> y el término <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau }</annotation>
+</semantics>
+</math></span><img alt="\tau " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38a7dcde9730ef0853809fefc18d88771f95206c" style="vertical-align: -0.338ex; width:1.202ex; height:1.676ex;"/></span> es:
+</p>
+<p>La altura del lado <b>a</b> puede hallarse mediante la siguiente fórmula <sup class="reference separada" id="cite_ref-García_Ardura_1_26-1"><a href="#cite_note-García_Ardura_1-26"><span class="corchete-llamada">[</span>26<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>donde <b>h<sub>a</sub></b> es la altura indicada; <b>a</b>, <b>b</b>, <b>c</b> los lados y <b>p</b> el semiperímetro del triángulo. Para las otras dos alturas basta cambiar el denominador por el lado respectivo en la fórmula <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle *}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>∗<!-- ∗ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle *}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle *}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8e9972f426d9e07855984f73ee195a21dbc21755" style="vertical-align: 0.079ex; margin-bottom: -0.25ex; width:1.162ex; height:1.509ex;"/></span>.
+</p>
+<p>Dado un triángulo y sus tres alturas h<sub>a</sub>,  h<sub>b</sub> y  h<sub>c</sub> y el radio r de su círculo inscrito (inradio), cabe la siguiente igualdad:
+</p>
+<p>Los tres puntos <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle H}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H}</annotation>
+</semantics>
+</math></span><img alt="H" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/75a9edddcca2f782014371f75dca39d7e13a9c1b" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span></b>, <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+</semantics>
+</math></span><img alt="G" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5f3c8921a3b352de45446a6789b104458c9f90b" style="vertical-align: -0.338ex; width:1.827ex; height:2.176ex;"/></span></b> y <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle O}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>O</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle O}</annotation>
+</semantics>
+</math></span><img alt="O" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d70e1d0d87e2ef1092ea1ffe2923d9933ff18fc" style="vertical-align: -0.338ex; width:1.773ex; height:2.176ex;"/></span></b> están alineados en una línea recta llamada <i><b><a href="/wiki/Recta_de_Euler" title="Recta de Euler">recta de Euler</a></b></i> del triángulo y verifica la relación de Euler:<sup class="reference separada" id="cite_ref-35"><a href="#cite_note-35"><span class="corchete-llamada">[</span>35<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-36"><a href="#cite_note-36"><span class="corchete-llamada">[</span>36<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Los puntos medios de los tres lados, los tres pies de las alturas y los puntos medios de los segmentos <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [AH]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<mi>A</mi>
+<mi>H</mi>
+<mo stretchy="false">]</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [AH]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle [AH]}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/98621a04b0a0b00e439c7cda9894bf1e184781bf" style="vertical-align: -0.838ex; width:5.1ex; height:2.843ex;"/></span></b>, <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [BH]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<mi>B</mi>
+<mi>H</mi>
+<mo stretchy="false">]</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [BH]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle [BH]}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a2f58a4ff7ecbc9c1f643ed7500daba1612c57b4" style="vertical-align: -0.838ex; width:5.121ex; height:2.843ex;"/></span></b> y <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [CH]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<mi>C</mi>
+<mi>H</mi>
+<mo stretchy="false">]</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [CH]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle [CH]}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/49f6a126a2744c5e2e4a216010592f61ba749447" style="vertical-align: -0.838ex; width:5.124ex; height:2.843ex;"/></span></b> están en una misma circunferencia llamada circunferencia de <a class="mw-redirect" href="/wiki/Euler" title="Euler">Euler</a> o circunferencia de los nueve puntos del triángulo.
+</p>
+<p>El <a href="/wiki/Teorema_de_Carnot" title="Teorema de Carnot">teorema de Carnot</a> establece que, para un triángulo acutángulo de vértices ABC, la suma de las distancias respectivas <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x,y,z}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mo>,</mo>
+<mi>y</mi>
+<mo>,</mo>
+<mi>z</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x,y,z}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x,y,z}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bbeca34b28f569a407ef74a955d041df9f360268" style="vertical-align: -0.671ex; width:5.641ex; height:2.009ex;"/></span> desde el circuncentro a los lados del triángulo es igual a la suma de los radios <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle R,r}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>R</mi>
+<mo>,</mo>
+<mi>r</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R,r}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle R,r}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/06bb20a122b49cad876a2fb55b141e8ec1b816f4" style="vertical-align: -0.671ex; width:3.847ex; height:2.509ex;"/></span> de las circunferencias circunscrita e inscrita, respectivamente, del triángulo:<sup class="reference separada" id="cite_ref-37"><a href="#cite_note-37"><span class="corchete-llamada">[</span>37<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Usando un lado que se llama, en este contexto, <i>base</i> y su <i>altura</i>,  perpendicular ( y medida) trazada del vértice puesto a dicho lado o a su prolongación. La altura correspondiente se subindiza con letra del lado.
+</p>
+<p>El <a href="/wiki/%C3%81rea" title="Área">área</a> de un triángulo es igual al semiproducto de la base por su altura respectiva.
+</p>
+<p>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A={\frac {b\times h_{b}}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>b</mi>
+<mo>×<!-- × --></mo>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A={\frac {b\times h_{b}}{2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A={\frac {b\times h_{b}}{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4cae4d1cb99cd728ffbf5493249e505dd561b4f8" style="vertical-align: -1.838ex; width:11.792ex; height:5.343ex;"/></span>
+</p>
+<p>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A={\frac {a\times h_{a}}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>a</mi>
+<mo>×<!-- × --></mo>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A={\frac {a\times h_{a}}{2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A={\frac {a\times h_{a}}{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b1e55a84a9c9c7fe10f9a7edc14ed77ac5c1f34" style="vertical-align: -1.838ex; width:12.189ex; height:5.343ex;"/></span>
+</p>
+<p>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A={\frac {c\times h_{c}}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>c</mi>
+<mo>×<!-- × --></mo>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A={\frac {c\times h_{c}}{2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A={\frac {c\times h_{c}}{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5b842da82e1384fe700e73b55290baa643da440d" style="vertical-align: -1.838ex; width:11.808ex; height:5.343ex;"/></span>
+</p>
+<p>Esto es cierto para cualquier triángulo rectilíneo.El área es la medida de una región triangular, esto es, la unión de los tres segmentos y su interior. Se deduce en base al área de un paralelogramo.
+</p>
+<p>Conociendo la longitud de los tres lados <b>a</b>, <b>b</b> y <b>c</b>, se puede calcular el <i><b>área</b></i> para cualquier triángulo euclideo. Primero se calcula el semiperímetro <b>s</b> y luego se aplica la fórmula de <a href="/wiki/Her%C3%B3n_de_Alejandr%C3%ADa" title="Herón de Alejandría">Herón</a>, (<i>no se requiere conocer la altura</i>).
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle s={\frac {1}{2}}(a+b+c)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>s</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>a</mi>
+<mo>+</mo>
+<mi>b</mi>
+<mo>+</mo>
+<mi>c</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle s={\frac {1}{2}}(a+b+c)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle s={\frac {1}{2}}(a+b+c)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bd057f5a01447ab6dfeb670f5f2a410131ba71a0" style="vertical-align: -1.838ex; width:16.912ex; height:5.176ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathrm {{\acute {A}}rea} ={\sqrt {s(s-a)(s-b)(s-c)}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo>´<!-- ´ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">a</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>s</mi>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo>−<!-- − --></mo>
+<mi>a</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo>−<!-- − --></mo>
+<mi>b</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo>−<!-- − --></mo>
+<mi>c</mi>
+<mo stretchy="false">)</mo>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {{\acute {A}}rea} ={\sqrt {s(s-a)(s-b)(s-c)}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathrm {{\acute {A}}rea} ={\sqrt {s(s-a)(s-b)(s-c)}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5380196517dc4d5ef0df57825c90f7800a78628d" style="vertical-align: -1.838ex; width:31.817ex; height:4.843ex;"/></span>
+</p>
+<p>Si se aplica la Transformación de Ravi a los lados del triángulo tenemos que los lados son x+y, y+z, z+x y el área del triángulo es
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathrm {{\acute {A}}rea} ={\sqrt {xyz(x+y+z)}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo>´<!-- ´ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">a</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>x</mi>
+<mi>y</mi>
+<mi>z</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mi>y</mi>
+<mo>+</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {{\acute {A}}rea} ={\sqrt {xyz(x+y+z)}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathrm {{\acute {A}}rea} ={\sqrt {xyz(x+y+z)}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3724472811319cfedfe3c3be0ba1b7277582ffc" style="vertical-align: -1.838ex; width:24.908ex; height:4.843ex;"/></span>
+</p>
+<p>Conociendo la longitud de los tres lados <b>a</b>, <b>b</b> y <b>c</b>, se puede calcular el <i><b>área</b></i> para cualquier triángulo euclideo, (<i>estas fórmulas no requieren precalcular el semiperímetro ni conocer la altura</i>). <sup class="reference separada" id="cite_ref-39"><a href="#cite_note-39"><span class="corchete-llamada">[</span>39<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Si A es el área de un triángulo y a,b y c sus lados se verifica la siguiente inecuación<sup class="reference separada" id="cite_ref-40"><a href="#cite_note-40"><span class="corchete-llamada">[</span>40<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>donde <b>S</b> es el área; además <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a,b,c,p}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mo>,</mo>
+<mi>b</mi>
+<mo>,</mo>
+<mi>c</mi>
+<mo>,</mo>
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a,b,c,p}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a,b,c,p}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e4ab71cbab11c0fe46d8068191f1da3105c88171" style="vertical-align: -0.671ex; width:7.505ex; height:2.509ex;"/></span> son los lados y el semiperímetro del triángulo; <b>R</b>, radio de la circunferencia circunscrita o <b>circunradio</b>; <b>r</b>, radio de la circunferencia inscrita o <b>inradio</b> ;<sup class="reference separada" id="cite_ref-41"><a href="#cite_note-41"><span class="corchete-llamada">[</span>41<span class="corchete-llamada">]</span></a></sup>​ <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle r_{a},r_{b},r_{c}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r_{a},r_{b},r_{c}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle r_{a},r_{b},r_{c}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0de6f85221bce90b958edc80d5c58eaa612b44f5" style="vertical-align: -0.671ex; width:8.844ex; height:2.009ex;"/></span> radios de sendas circunferencias exinscritas <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h_{a},h_{b},h_{c}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h_{a},h_{b},h_{c}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle h_{a},h_{b},h_{c}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/97e3fcaa22f247ccfa9d7050a5ed1bf48384de50" style="vertical-align: -0.671ex; width:9.069ex; height:2.509ex;"/></span> son las respectivas alturas.<sup class="reference separada" id="cite_ref-42"><a href="#cite_note-42"><span class="corchete-llamada">[</span>42<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Si en la fórmula <b>área</b> = <b>ah/2</b>, siendo <b>h</b> la altura medida sobre la base <b>a</b>, se tiene en cuenta que
+</p>
+<p>e igualmente:
+</p>
+<p>Si en la fórmula <b>área</b> = <b>a b</b> sen <b>C</b> / 2 se tiene en cuenta que de acuerdo con el <a href="/wiki/Teorema_del_seno" title="Teorema del seno">teorema del seno</a> <b>b</b> = <b>a</b> sen <b>B</b> / sen <b>A</b>, se obtiene que:
+</p>
+<p>y teniendo en cuenta que <b>A</b> = <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span> - ( <b>B</b> + <b>C</b> ); y que sen(<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi }</annotation>
+</semantics>
+</math></span><img alt="\pi" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a" style="vertical-align: -0.338ex; width:1.332ex; height:1.676ex;"/></span> - <b>S</b>) = sen(<b>S</b>)
+</p>
+<p>e igualmente:
+</p>
+<p>Si un triángulo cualquiera (<i>en el plano euclidiano</i> ℝ²), tiene alguno de sus vértices (<i>supongamos el</i> A) ubicado en (0, 0) —<i>el origen de las <a href="/wiki/Coordenadas_cartesianas" title="Coordenadas cartesianas">coordenadas cartesianas</a></i>—, y las coordenadas de los otros dos vértices (<i>supongamos</i> B <i>y</i> C) vienen dadas por B = (<i>x</i><sub>B</sub>, <i>y</i><sub>B</sub>) y C = (<i>x</i><sub>C</sub>, <i>y</i><sub>C</sub>), entonces el área puede ser calculada como ½ del <a href="/wiki/Valor_absoluto" title="Valor absoluto">valor absoluto</a> del <a href="/wiki/Determinante_(matem%C3%A1tica)" title="Determinante (matemática)">determinate</a> (<i>reducido a los dos vértices arbitrarios B y C</i>).
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}\left|\det {\begin{bmatrix}x_{B}&amp;x_{C}\\y_{B}&amp;y_{C}\end{bmatrix}}\right|={\frac {1}{2}}|x_{B}y_{C}-x_{C}y_{B}|.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo>´<!-- ´ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">a</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow>
+<mo>|</mo>
+<mrow>
+<mo form="prefix" movablelimits="true">det</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}\left|\det {\begin{bmatrix}x_{B}&amp;x_{C}\\y_{B}&amp;y_{C}\end{bmatrix}}\right|={\frac {1}{2}}|x_{B}y_{C}-x_{C}y_{B}|.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}\left|\det {\begin{bmatrix}x_{B}&amp;x_{C}\\y_{B}&amp;y_{C}\end{bmatrix}}\right|={\frac {1}{2}}|x_{B}y_{C}-x_{C}y_{B}|.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/20c92dabc1a00147b36c90f9bae337e634cbe250" style="vertical-align: -2.505ex; width:47.131ex; height:6.176ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}|x_{B}y_{C}-x_{C}y_{B}|.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo>´<!-- ´ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">a</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}|x_{B}y_{C}-x_{C}y_{B}|.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}|x_{B}y_{C}-x_{C}y_{B}|.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/90011ef2e3c5176b2353675f1b6d17167aebaa40" style="vertical-align: -1.838ex; width:25.587ex; height:5.176ex;"/></span>
+</p>
+<p>Si un triángulo genérico (<i>en el plano euclidiano</i> ℝ²), tiene sus tres vértices ubicados de modo arbitrario (<i>ninguno en el origen</i>), entonces la ecuación es:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}\left|\det {\begin{bmatrix}x_{A}&amp;x_{B}&amp;x_{C}\\y_{A}&amp;y_{B}&amp;y_{C}\\1&amp;1&amp;1\end{bmatrix}}\right|={\frac {1}{2}}{\big |}x_{A}y_{B}-x_{A}y_{C}+x_{B}y_{C}-x_{B}y_{A}+x_{C}y_{A}-x_{C}y_{B}{\big |}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo>´<!-- ´ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">a</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow>
+<mo>|</mo>
+<mrow>
+<mo form="prefix" movablelimits="true">det</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo maxsize="1.2em" minsize="1.2em">|</mo>
+</mrow>
+</mrow>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo maxsize="1.2em" minsize="1.2em">|</mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}\left|\det {\begin{bmatrix}x_{A}&amp;x_{B}&amp;x_{C}\\y_{A}&amp;y_{B}&amp;y_{C}\\1&amp;1&amp;1\end{bmatrix}}\right|={\frac {1}{2}}{\big |}x_{A}y_{B}-x_{A}y_{C}+x_{B}y_{C}-x_{B}y_{A}+x_{C}y_{A}-x_{C}y_{B}{\big |}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}\left|\det {\begin{bmatrix}x_{A}&amp;x_{B}&amp;x_{C}\\y_{A}&amp;y_{B}&amp;y_{C}\\1&amp;1&amp;1\end{bmatrix}}\right|={\frac {1}{2}}{\big |}x_{A}y_{B}-x_{A}y_{C}+x_{B}y_{C}-x_{B}y_{A}+x_{C}y_{A}-x_{C}y_{B}{\big |}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee35c8ebb33de33fb7dde21e45801c761206b8e4" style="vertical-align: -4.171ex; width:85.265ex; height:9.509ex;"/></span>
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}{\big |}(x_{A}-x_{C})(y_{B}-y_{A})-(x_{A}-x_{B})(y_{C}-y_{A}){\big |}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo>´<!-- ´ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">a</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo maxsize="1.2em" minsize="1.2em">|</mo>
+</mrow>
+</mrow>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo maxsize="1.2em" minsize="1.2em">|</mo>
+</mrow>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}{\big |}(x_{A}-x_{C})(y_{B}-y_{A})-(x_{A}-x_{B})(y_{C}-y_{A}){\big |}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}{\big |}(x_{A}-x_{C})(y_{B}-y_{A})-(x_{A}-x_{B})(y_{C}-y_{A}){\big |}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/218b8a3d0715badb973cd8c7e9ea8d7a6a13cbd1" style="vertical-align: -1.838ex; width:54.983ex; height:5.176ex;"/></span>
+</p>
+<p>Para un triángulo genérico (<i>en el espacio euclidiano</i> ℝ³), cuyas coordenadas son { A = (<i>x</i><sub>A</sub>, <i>y</i><sub>A</sub>, <i>z</i><sub>A</sub>), B = (<i>x</i><sub>B</sub>, <i>y</i><sub>B</sub>, <i>z</i><sub>B</sub>) y C = (<i>x</i><sub>C</sub>, <i>y</i><sub>C</sub>, <i>z</i><sub>C</sub>) }, entonces el área viene dada por la suma pitagórica de las áreas de las respectivas proyecciones sobre los tres planos principales (es decir <i>x</i> = 0, <i>y</i> = 0 y <i>z</i> = 0):
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}{\sqrt {\left|\det {\begin{bmatrix}x_{A}&amp;x_{B}&amp;x_{C}\\y_{A}&amp;y_{B}&amp;y_{C}\\1&amp;1&amp;1\end{bmatrix}}\right|^{2}+\left|\det {\begin{bmatrix}y_{A}&amp;y_{B}&amp;y_{C}\\z_{A}&amp;z_{B}&amp;z_{C}\\1&amp;1&amp;1\end{bmatrix}}\right|^{2}+\left|\det {\begin{bmatrix}z_{A}&amp;z_{B}&amp;z_{C}\\x_{A}&amp;x_{B}&amp;x_{C}\\1&amp;1&amp;1\end{bmatrix}}\right|^{2}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="normal">A</mi>
+<mo>´<!-- ´ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">a</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msup>
+<mrow>
+<mo>|</mo>
+<mrow>
+<mo form="prefix" movablelimits="true">det</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mrow>
+<mo>|</mo>
+<mrow>
+<mo form="prefix" movablelimits="true">det</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mrow>
+<mo>|</mo>
+<mrow>
+<mo form="prefix" movablelimits="true">det</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>[</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<msub>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+<mtd>
+<mn>1</mn>
+</mtd>
+</mtr>
+</mtable>
+<mo>]</mo>
+</mrow>
+</mrow>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</msqrt>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}{\sqrt {\left|\det {\begin{bmatrix}x_{A}&amp;x_{B}&amp;x_{C}\\y_{A}&amp;y_{B}&amp;y_{C}\\1&amp;1&amp;1\end{bmatrix}}\right|^{2}+\left|\det {\begin{bmatrix}y_{A}&amp;y_{B}&amp;y_{C}\\z_{A}&amp;z_{B}&amp;z_{C}\\1&amp;1&amp;1\end{bmatrix}}\right|^{2}+\left|\det {\begin{bmatrix}z_{A}&amp;z_{B}&amp;z_{C}\\x_{A}&amp;x_{B}&amp;x_{C}\\1&amp;1&amp;1\end{bmatrix}}\right|^{2}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathrm {{\acute {A}}rea} ={\frac {1}{2}}{\sqrt {\left|\det {\begin{bmatrix}x_{A}&amp;x_{B}&amp;x_{C}\\y_{A}&amp;y_{B}&amp;y_{C}\\1&amp;1&amp;1\end{bmatrix}}\right|^{2}+\left|\det {\begin{bmatrix}y_{A}&amp;y_{B}&amp;y_{C}\\z_{A}&amp;z_{B}&amp;z_{C}\\1&amp;1&amp;1\end{bmatrix}}\right|^{2}+\left|\det {\begin{bmatrix}z_{A}&amp;z_{B}&amp;z_{C}\\x_{A}&amp;x_{B}&amp;x_{C}\\1&amp;1&amp;1\end{bmatrix}}\right|^{2}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/deaa3b6abe33d677b45ea8016b21473a961282a3" style="vertical-align: -4.171ex; width:86.786ex; height:10.509ex;"/></span>
+</p>
+<p>Esta fórmula es válida aún en el plano ℝ<sup>2</sup> ( por tanto en el plano complejo), con el cuidado de considerar la tercera coordenada igual a 0. Sin embargo para ℝ<sup>n</sup>, n &gt; 3, uno de los vectores se usa como base, luego se obtiene el coseno del ángulo que forman los lados concurrentes en A, por medio del producto escalar de los vectores correspondiente a dichos lados. Después el seno de tal ángulo, que propicia hallar la altura del triángulo.<sup class="reference separada" id="cite_ref-44"><a href="#cite_note-44"><span class="corchete-llamada">[</span>44<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En estos espacios está definido el producto escalar ( interno) de vectores . Sean <b>a</b> y <b>b</b> dos vectores de n componentes cualesquiera de un espacio euclídeo. El producto interno es &lt;<b>a</b>,  <b>b</b>&gt; = suma de a<sub>i</sub>b<sub>i</sub> para i = 1,2,..., n
+</p>
+<p>Cuando consideramos la obtención de <b>triángulos rectángulos</b> con <b>lados enteros</b> se encuentra la solución general de la ecuación 
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \ x^{2}+y^{2}=z^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \ x^{2}+y^{2}=z^{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \ x^{2}+y^{2}=z^{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59f80d93b52ee00b153b5d6a3df1a84da3d2471f" style="vertical-align: -0.671ex; width:13.263ex; height:3.009ex;"/></span>:
+</p>
+<p><sup class="reference separada" id="cite_ref-47"><a href="#cite_note-47"><span class="corchete-llamada">[</span>47<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-48"><a href="#cite_note-48"><span class="corchete-llamada">[</span>48<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Ver, también, <a href="/wiki/Terna_pitag%C3%B3rica" title="Terna pitagórica">terna pitagórica</a>
+</p>
+<p>En estas fórmulas, <i>u</i> y <i>v</i> son dos enteros positivos arbitrarios de distinta paridad tales que <i>u</i> &gt; <i>v</i> y son <a class="mw-redirect" href="/wiki/Primos_entre_s%C3%AD" title="Primos entre sí">primos entre sí</a>. El entero positivo m es uno cualquiera que cubre los casos en los que los elementos de la <a href="/wiki/Terna_pitag%C3%B3rica" title="Terna pitagórica">terna pitagórica</a> tienen un factor común. Cuando <i>m</i> = 1, tenemos las ternas pitagóricas con elementos primos entre sí dos a dos. Como el lector puede apreciar, aunque estas fórmulas fueron diseñadas para obtener ternas con lados enteros, al ser una identidad, también son válidas para lados reales, exceptuando el caso en que ambos catetos son iguales (que la hipotenusa sea diagonal de un cuadrado).
+</p>
+<p>Si realizamos el cálculo del área sobre la base de las expresiones encontradas para los catetos, pues la superficie de un triángulo rectángulo es igual al semiproducto de los catetos, nos queda una forma cúbica:
+</p>
+<p><sup class="reference separada" id="cite_ref-49"><a href="#cite_note-49"><span class="corchete-llamada">[</span>49<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Los números de la forma <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle uv\;(u^{2}-v^{2})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>u</mi>
+<mi>v</mi>
+<mspace width="thickmathspace"></mspace>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle uv\;(u^{2}-v^{2})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle uv\;(u^{2}-v^{2})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da7a56d315a1530aac915df0ea7fbe57a150a8b1" style="vertical-align: -0.838ex; width:12.318ex; height:3.176ex;"/></span>, cuando <i>u</i> y <i>v</i> son <i>u</i> &gt; <i>v</i> y enteros positivos <a class="mw-redirect" href="/wiki/N%C3%BAmero_impar" title="Número impar">impares</a> y <a href="/wiki/N%C3%BAmero_primo" title="Número primo">primos</a> entre sí, son números congruentes de Fibonacci, introducidos en su Liber Quadratorum (1225). No hay razón conocida para que <i>u</i> y <i>v</i> no puedan ser de distinta <a href="/wiki/N%C3%BAmeros_pares_e_impares" title="Números pares e impares">paridad</a>. <a class="mw-redirect" href="/wiki/Fibonacci" title="Fibonacci">Fibonacci</a> demostró que el producto de un congruente por un cuadrado también es congruente.<sup class="reference separada" id="cite_ref-50"><a href="#cite_note-50"><span class="corchete-llamada">[</span>50<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Como el área de cualquier triángulo puede ser descompuesto en la suma o resta del área de dos triángulos rectángulos, tenemos dos expresiones para el área de triángulos no rectángulos:
+</p>
+<p>Sin olvidar que esto solamente es válido para pares de triángulos rectángulos que no tengan catetos iguales. Es una forma más complicada de calcular el área de un triángulo, y también es poco conocida. Pero en algunos casos, su escritura puede echar luz sobre cuestiones que de otra forma pasan inadvertidas.
+</p>
+<p>Un triángulo de lados a,b y c, inscrito en una circunferencia de radio R, con perímetro 2p constante alcanza su máxima área cuando los tres lados son iguales.<sup class="reference separada" id="cite_ref-51"><a href="#cite_note-51"><span class="corchete-llamada">[</span>51<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El triángulo es la forma de las caras de tres <a href="/wiki/Poliedro" title="Poliedro">poliedros</a> regulares:
+</p>
+<p>En otros casos, las caras laterales de una pirámide son triángulos dos a dos con arista común; de la misma manera, las caras laterales de un antiprisma son triángulos .<sup class="reference separada" id="cite_ref-52"><a href="#cite_note-52"><span class="corchete-llamada">[</span>52<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La arquitectura monumental de la <a href="/wiki/Dinast%C3%ADa_III_de_Egipto" title="Dinastía III de Egipto">III Dinastía</a> y la <a href="/wiki/Dinast%C3%ADa_IV_de_Egipto" title="Dinastía IV de Egipto">IV Dinastía</a> de Egipto es una prueba notable de que los egipcios de esa época tenían conocimientos relativamente sofisticados de geometría, especialmente en el estudio de los triángulos; si bien ningún documento matemático del <a href="/wiki/Imperio_Antiguo_de_Egipto" title="Imperio Antiguo de Egipto">Antiguo Imperio</a> ha llegado hasta nosotros.<sup class="reference separada" id="cite_ref-53"><a href="#cite_note-53"><span class="corchete-llamada">[</span>53<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El cálculo del área de esta figura se analiza en los problemas R51 del <a class="mw-redirect" href="/wiki/Papiro_Rhind" title="Papiro Rhind">papiro Rhind</a>, M4, M7 y M17 del <a href="/wiki/Papiro_de_Mosc%C3%BA" title="Papiro de Moscú">papiro de Moscú</a>, que datan todos del <a href="/wiki/Imperio_Medio_de_Egipto" title="Imperio Medio de Egipto">Imperio Medio</a>. El problema R51 constituye en la historia mundial de las matemáticas, el primer testimonio escrito que trata del cálculo del área de un triángulo.
+</p>
+<p><b>Enunciado del problema R51 del <a class="mw-redirect" href="/wiki/Papiro_Rhind" title="Papiro Rhind">papiro Rhind</a>:</b><sup class="reference separada" id="cite_ref-54"><a href="#cite_note-54"><span class="corchete-llamada">[</span>54<span class="corchete-llamada">]</span></a></sup>​
+<style data-mw-deduplicate="TemplateStyles:r149592375">.mw-parser-output .flexquote{display:flex;flex-direction:column;background-color:#F9F9F9;border-left:3px solid #c8ccd1;font-size:90%;margin:1em 4em;padding:.4em .8em}.mw-parser-output .flexquote>.flex{display:flex;flex-direction:row}.mw-parser-output .flexquote>.flex>.quote{width:100%}.mw-parser-output .flexquote>.flex>.separator{border-left:1px solid #c8ccd1;border-top:1px solid #c8ccd1;margin:.4em .8em}.mw-parser-output .flexquote>.cite{text-align:right}@media all and (max-width:600px){.mw-parser-output .flexquote>.flex{flex-direction:column}}</style>
+</p>
+<p>El término <i>mryt</i> significa probablemente la altura o el lado. Sin embargo, la fórmula utilizada para calcular el área hace pensar en la interpretación en favor de la primera solución.<sup class="reference separada" id="cite_ref-55"><a href="#cite_note-55"><span class="corchete-llamada">[</span>55<span class="corchete-llamada">]</span></a></sup>​ El escriba tomaba la mitad de la base del triángulo y calculaba el área del rectángulo formado por ese lado y la altura; es decir
+</p>
+<p>equivalente a la fórmula común utilizada en nuestros días:
+</p>
+<p>El hecho de que un triángulo de lados 3-4-5 es un triángulo rectángulo también era conocido por los antiguos egipcios y mesopotámicos.
+</p>
+<p><a href="/wiki/Euclides" title="Euclides">Euclides</a>, en el Libro I de sus <i> <a href="/wiki/Elementos_de_Euclides" title="Elementos de Euclides">Elementos</a> </i>, hacia el 300 antes de Cristo, enunció la propiedad de la suma de los ángulos del triángulo.
+</p>
+<p><b>Tipos de triángulos</b>:
+</p>

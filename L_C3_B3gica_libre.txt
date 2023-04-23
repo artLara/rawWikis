@@ -1,0 +1,29 @@
+<p><br/>
+La <b>lógica libre</b> (del inglés <i>Free logic</i>) es un <a class="mw-redirect" href="/wiki/Sistema_l%C3%B3gico" title="Sistema lógico">sistema lógico</a> sin presupuestos existenciales. Esto es, sus teoremas son válidos en todos los <a href="/wiki/Dominio_de_discurso" title="Dominio de discurso">dominios</a>, incluyendo el dominio vacío. Fue propuesta por primera vez en la década del cincuenta. Karel Lambert, uno de sus fundadores, fue quien acuñó el término. De acuerdo con Lambert, la expresión "lógica libre" es una abreviación de "libre de suposiciones de existencia con respecto a sus términos, generales o singulares".
+</p>
+<p>La lógica libre comprende una parte de la <b>lógica formal no clásica</b> cuyos predicados son procesados de forma análoga a la <a href="/wiki/L%C3%B3gica_cl%C3%A1sica" title="Lógica clásica">lógica clásica</a> de <a href="/wiki/Gottlob_Frege" title="Gottlob Frege">Gottlob Frege</a>. Sin embargo, sus términos pueden referirse a objetos fuera del dominio de los predicados, pudiendo analizar o hablar de cuestiones fuera de la existencia. Al hablar de lógica libre, Lambert nos quiere transmitir que dicha lógica carece de cualquier suposición en relación con cualquiera de sus términos, tanto <a class="new" href="/w/index.php?title=T%C3%A9rmino_singular_(L%C3%B3gica)&amp;action=edit&amp;redlink=1" title="Término singular (Lógica) (aún no redactado)">singulares</a> como generales (<a href="/wiki/Predicado_(l%C3%B3gica)" title="Predicado (lógica)">predicados</a>).
+</p>
+<p>La lógica clásica tiene problemas para tratar con objetos no existentes(los términos siempre denotan cosas existentes ∃), en ese punto es donde la lógica libre entra en acción. Pueden ser tratados los términos inexistentes de forma que resuelvan un predicado que de otra forma no podría hacerse. 
+</p>
+<p>Tomemos este enunciado (<b>S</b>): "<i>No hay movimiento de la Tierra debido al éter</i>".
+</p>
+<p>El predicado <b>S</b> es correcto debido a que se ha descubierto la no existencia del éter, sin embargo, desde el punto de vista de la lógica clásica este predicado es falso, ya que implica la existencia del éter.
+</p>
+<p>La lógica libre hace uso de términos singulares que no indican ningún miembro del dominio del predicado al rechazar cualquier inferencia cuya validez dependa de los miembros del dominio. En la lógica libre, aunque todos los objetos del dominio <b>D</b> satisfagan un predicado <b>A</b>, si un término <i>t</i> no denota ningún miembro de <b>D</b> entonces no satisface <b>A</b>. Se observa que esta lógica rechaza estas inferencias clásicas, aunque tampoco acepta inferencias no válidas en la lógica clásica, lo que dota a la lógica libre de una gran desventaja ante la lógica clásica con un mismo vocabulario.
+</p>
+<p><br/>
+En la <a href="/wiki/L%C3%B3gica_cl%C3%A1sica" title="Lógica clásica">lógica clásica</a> hay teoremas que presuponen claramente que algo existe bajo el <a href="/wiki/Dominio_de_discurso" title="Dominio de discurso">dominio</a> que se está evaluando. Tomemos estos ejemplos que son válidos desde la perspectiva de la lógica clásica.
+</p>
+<p>Un esquema válido en la teoría de <a href="/wiki/L%C3%B3gica_de_primer_orden" title="Lógica de primer orden">Lógica de primer orden</a> que exhibe la misma característica es
+</p>
+<p>De manera informal, si F es '=y', G es 'es Pegasus', y sustituimos 'Pegasus' por y, entonces (4) podemos inferir de 'toda identidad con Pegasus es Pegasus' que algo es idéntico a Pegasus. El problema viene al intentar sustituir constantes que no designan nada por variables: de hecho, no podemos realizar dicha transformación mediante las fórmulas estándar de la <a href="/wiki/L%C3%B3gica_de_primer_orden" title="Lógica de primer orden">Lógica de primer orden</a>, ya que no hay constantes designatorias. En la lógica clásica ∃x(x=y) se puede deducir del axioma Y=Y por la particulización(3). 
+</p>
+<p>En la lógica libre, (1) se reemplaza por
+</p>
+<p>Modificaciones similares son realizadas a otros teoremas con énfasis en la existencia.
+<a href="/wiki/Sistema_axiom%C3%A1tico" title="Sistema axiomático">Sistemas axiomáticos</a> válidos han sido analizados y ofrecidos por <a href="/wiki/Jaakko_Hintikka" title="Jaakko Hintikka">Jaakko Hintikka</a><sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ y <a class="new" href="/w/index.php?title=Karel_Lambert&amp;action=edit&amp;redlink=1" title="Karel Lambert (aún no redactado)">Karel Lambert</a>.
+</p>
+<p>A pesar de sus limitaciones, la lógica libre es usada en varios ámbitos: la teoría de descripciones definidas, lógica con funciones no estrictas o parcialmente estrictas, lógica con semántica de Kripke, lógica de ficción, lógica de Meinong, entre otras.
+</p>
+<p><br/>
+</p>

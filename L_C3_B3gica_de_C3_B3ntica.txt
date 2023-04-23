@@ -1,0 +1,46 @@
+<p>La <b>lógica deóntica</b> (del <a href="/wiki/Griego_antiguo" title="Griego antiguo">griego</a> δέον[τος] <i>déon</i>[<i>tos</i>] 'lo debido , lo necesario') es la lógica de las normas y de las ideas normativas. Su campo de estudio corresponde, como «autorizado», «prohibido», «obligatorio», «indiferente».<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Es un tipo de <a href="/wiki/L%C3%B3gica_modal" title="Lógica modal">lógica modal</a> y se expresa que su desarrollo arranca con el descubrimiento de la similitud entre los conceptos deónticos y modales. Alois Höffler, lógico austriaco, fue uno de los iniciadores del estudio de esta similitud.<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​ La lógica deóntica fue pensada para analizar <a class="mw-redirect" href="/wiki/L%C3%B3gica_formal" title="Lógica formal">formalmente</a> las normas o las <a href="/wiki/Proposici%C3%B3n" title="Proposición">proposiciones</a> que tratan acerca de las normas.
+</p>
+<p>Normas son, por ejemplo, los significados de las siguientes frases : "¡te ordeno que te calles, grosero!", "prohibido el paso; perro agresivo puede atacar", "todo ser humano es libre de expresar su pensamiento".
+</p>
+<p>Lo anterior se lee: "(Obligatorio <i>p</i>) si y solamente si (prohibido no <i>p</i>) si y solamente si (no permitido no <i>p</i>)".
+</p>
+<p>La lógica deóntica estándar expresaría los ejemplos dados antes a través del lenguaje simplificado que acabamos de mencionar, aunque cierta información o matiz se pierdan: "¡te ordeno que te calles, grosero!" se expresaría diciendo simplemente "obligatorio callarse" u "obligatorio que haya silencio"; "prohibido el paso; perro agresivo puede atacar" se expresaría diciendo "prohibida la conducta de entrar" o "prohibido que haya alguien adentro"; "todo ser humano es libre de expresar su pensamiento" se expresaría diciendo "permitido el acto de expresar el propio pensamiento" o "permitido que sea expresado el propio pensamiento". Algunos lenguajes deónticos más complejos pueden expresar rigurosamente nociones asociadas, como el concepto de sanción o amenaza de sanción (evocada en el ejemplo del perro) o el concepto de derecho individual (como el ejemplo del derecho a la libre expresión de las ideas).
+</p>
+<p>Lo anterior se lee: "(Facultativo <i>p</i>) si y solamente si (Permitido <i>p</i> y permitido no <i>p</i>)".
+</p>
+<p>El operador de facultad parece más adecuado para expresar el último de los ejemplos. "Todo ser humano es libre de expresar su pensamiento" quedaría: "es facultativa la conducta de expresar el propio pensamiento" o "es facultativo que sea expresado el propio pensamiento" o, lo que es lo mismo, "están permitidas ambas conductas: expresar y no expresar el propio pensamiento".
+</p>
+<p class="mw-empty-elt">
+</p>
+<p>El operador F no permite definir a los otros operadores por sí solo.
+</p>
+<p><i>Principio de permisión</i> :
+</p>
+<p>Se lee: “acerca de todo acto (o de toda proposición concerniente a un acto), o bien éste está permitido o bien está permitida su negación”.
+</p>
+<p><i>Principio de distribución deóntica</i> : 
+</p>
+<p>Se lee: “el enunciado según el cual la disyunción de dos actos está permitida equivale, a su vez, a la disyunción de dos enunciados: el que afirma que el primer acto está permitido y el que afirma que el segundo acto está permitido".
+</p>
+<p>Este último axioma se escribe a veces:
+</p>
+<p><a href="/wiki/Gottfried_Leibniz" title="Gottfried Leibniz">Gottfried Leibniz</a> es el precursor de la lógica deóntica. En 1671, en sus <i>Elementos de derecho natural</i>, Leibniz observa la analogía de los conceptos normativos “justo”, “injusto” y “facultativo” con los conceptos modales <a class="new" href="/w/index.php?title=Al%C3%A9tico&amp;action=edit&amp;redlink=1" title="Alético (aún no redactado)">aléticos</a> “necesario”, “posible” e “imposible”. Por ejemplo, Leibniz escribe que “todo lo que es justo es posible para aquel que ama a todo el mundo” (<i>amanti omnes</i>). O, más cerca de la lógica deóntica contemporánea, postula que “todo aquello que es obligatorio (<i>debitum</i>) es necesario para aquel que ama a todo el mundo”. En símbolos contemporáneos, podemos representar esta última frase del siguiente modo (donde N es el operador alético de necesidad, G es una constante que significa, digamos, “ser bueno”, <i>a</i> es un individuo del que se predica lo anterior y -&gt; es el condicional material):
+</p>
+<p>El análisis de Leibniz fue redescubierto por el filósofo sueco <a class="new" href="/w/index.php?title=Kanger&amp;action=edit&amp;redlink=1" title="Kanger (aún no redactado)">Kanger</a>, en 1950, quien interpreta G como “aquello que es prescrito por la moral”. En 1956, <a href="/wiki/Alan_Ross_Anderson" title="Alan Ross Anderson">Alan Ross Anderson</a> popularizó un esquema de reducción equivalente al de Leibniz y Kanger (en el cual S puede significar la amenaza de una sanción o el hecho de que la norma ha sido violada):
+</p>
+<p>El filósofo austriaco <a href="/wiki/Ernst_Mally" title="Ernst Mally">Ernst Mally</a> es autor de una tentativa de formalización de un sistema de ética puro, en 1926. Dicho sistema resultó insatisfactorio porque permitía probar el teorema siguiente, cuyas consecuencias son absurdas:
+</p>
+<p>…que se lee "que <i>p</i> es el caso equivale a que es obligatorio realizar <i>p</i> o hacer lo propio para que <i>p</i> ocurra". El sistema fundador de la lógica deóntica contemporánea es obra del filósofo finlandés <a class="mw-redirect" href="/wiki/Georg_Heinrik_von_Wright" title="Georg Heinrik von Wright">Georg Heinrik von Wright</a>, en su artículo “Deontic Logic” publicado en <i>Mind</i> en 1951. Por su parte, el llamado sistema estándar es una interpretación modal de dicho sistema fundador en términos de la semántica de mundos posibles [ver el artículo <a href="/wiki/L%C3%B3gica_modal" title="Lógica modal">lógica modal</a>]. La interpretación modal significó el abandono del llamado <a class="new" href="/w/index.php?title=Axioma_de_contingencia_de%C3%B3ntica&amp;action=edit&amp;redlink=1" title="Axioma de contingencia deóntica (aún no redactado)">axioma de contingencia deóntica</a> presente en el sistema fundador de von Wright, <a href="/wiki/Axioma" title="Axioma">axioma</a> según el cual “un acto tautológico no es necesariamente obligatorio y una contradicción no está necesariamente prohibida”. Una de las objeciones recurrentes que se le hacen al sistema estándar es dicha pérdida de contingencia, pues, por ejemplo, si bien es <i>verdad</i> que 2 + 2 = 4 ¿por qué este hecho tiene que ser considerado como <i>obligatorio</i>? La <a class="new" href="/w/index.php?title=Sem%C3%A1ntica_de_mundos_posibles&amp;action=edit&amp;redlink=1" title="Semántica de mundos posibles (aún no redactado)">semántica de mundos posibles</a> ofrece una respuesta posible a dicha objeción: un hecho que es verdadero en todos los mundos posibles lo será también en los mundos que son considerados como obligatorios (suponiendo que 2 + 2 = 4 sea verdad en TODO mundo posible, entonces también será verdad en cualquiera de los mundos posibles que un legislador ordene que eso ocurra).
+</p>
+<p>Todo el resto de su vida, von Wright abrió nuevas líneas de investigación en lógica deóntica. En particular, en materia de lógica de la acción y lógica deóntica con modalidades condicionales o relativas.
+Si bien podría pensarse que la lógica deóntica contemporánea nació como una creación escandinava (dada la nacionalidad de los padres fundadores Von Wright y Kanger, inspirados por la escuela realista escandinava de filosofía del derecho), otras importantes contribuciones han surgido en los Estados Unidos, en el resto de Europa y en América Latina. En esta última región, destacan los trabajos pioneros de los argentinos <a class="new" href="/w/index.php?title=Carlos_Eduardo_Alchourr%C3%B3n&amp;action=edit&amp;redlink=1" title="Carlos Eduardo Alchourrón (aún no redactado)">Carlos Eduardo Alchourrón</a> y <a class="new" href="/w/index.php?title=Eugenio_Bulygin&amp;action=edit&amp;redlink=1" title="Eugenio Bulygin (aún no redactado)">Eugenio Bulygin</a> en materia de aplicación de la lógica deóntica a la <a href="/wiki/Teor%C3%ADa_del_derecho" title="Teoría del derecho">teoría del derecho</a>, así como los trabajos del primero de ellos en lógica no monotónica¹.
+</p>
+<p>[¹Llamamos regla de monotonía a la exigencia de coherencia según la cual una inferencia válida no es menos válida por la adición de nuevas premisas:
+</p>
+<p>Pero dicha regla no es válida en lógica no monotónica, pues una premisa puede derrotar una conclusión que era válida.
+Ejemplo:
+</p>
+<p>Como resulta evidente intuitivamente, el conjunto P<i>r</i> en la segunda premisa (que hace las veces de una excepción) altera la validez general de la conclusión O<i>q</i>. Sin embargo, en lugar de exigir que la primera premisa contenga una lista exhaustiva de excepciones, las lógicas no monotónicas admiten que existen premisas derrotables.]
+</p>
+<p>Entre las preguntas que quedan abiertas entre los investigadores en lógica deóntica destacan, entre otras, las siguientes:
+</p>

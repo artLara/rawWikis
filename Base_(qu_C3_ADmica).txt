@@ -1,0 +1,611 @@
+<p>Una <b>base</b> o <b>álcali</b> (del <a href="/wiki/Idioma_%C3%A1rabe" title="Idioma árabe">árabe</a>: <i>al-qaly</i> القلي ,القالي, 'ceniza') es una sustancia que presenta <a class="mw-redirect" href="/wiki/Alcalinidad" title="Alcalinidad">propiedades alcalinas</a>. En primera aproximación <a href="/wiki/Sustancia_qu%C3%ADmica" title="Sustancia química">sustancia</a> que en <a href="/wiki/Disoluci%C3%B3n" title="Disolución">disolución</a> <a href="/wiki/Agua" title="Agua">acuosa</a> aporta <a href="/wiki/Ion" title="Ion">iones</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {OH-}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>OH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {OH-}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {OH-}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/67df34a451cb63d51af2da3befde8d614e821737" style="vertical-align: -0.338ex; width:5.062ex; height:2.509ex;"/></span> al medio.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Un ejemplo claro es el <a href="/wiki/Hidr%C3%B3xido_de_potasio" title="Hidróxido de potasio">hidróxido de potasio</a>, de fórmula <b>KOH</b>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {KOH_{(aq)}\longrightarrow {K^{+}}_{(aq)}+{OH^{-}}_{(aq)}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>KOH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mtext>aq</mtext>
+<mo stretchy="false">)</mo>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>K</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mtext>aq</mtext>
+<mo stretchy="false">)</mo>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>OH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mtext>aq</mtext>
+<mo stretchy="false">)</mo>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {KOH_{(aq)}\longrightarrow {K^{+}}_{(aq)}+{OH^{-}}_{(aq)}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {KOH_{(aq)}\longrightarrow {K^{+}}_{(aq)}+{OH^{-}}_{(aq)}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e787298df2c728ec96f400f6b9a928a8b3422971" style="vertical-align: -1.505ex; width:31.281ex; height:3.676ex;"/></span>
+</p>
+<p>Los conceptos de base y <a href="/wiki/%C3%81cido" title="Ácido">ácido</a> son contrapuestos. Para medir la basicidad (o <a class="mw-redirect" href="/wiki/Alcalinidad" title="Alcalinidad">alcalinidad</a>) de un medio acuoso se utiliza el concepto de <a href="/wiki/POH" title="POH">pOH</a>, que se complementa con el de <a href="/wiki/PH" title="PH">pH</a>, de forma tal que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle pH+pOH=pK_{w}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mi>H</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mi>O</mi>
+<mi>H</mi>
+<mo>=</mo>
+<mi>p</mi>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>w</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle pH+pOH=pK_{w}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle pH+pOH=pK_{w}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4e978d4093c136095e61ceab1ee38db4d425a596" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:18.819ex; height:2.509ex;"/></span>, (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K_{w}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>w</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{w}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle K_{w}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/71de1e2fde304def502c373a8280825ec3fbc229" style="vertical-align: -0.671ex; width:3.382ex; height:2.509ex;"/></span> en <a href="/wiki/Condiciones_normalizadas_de_presi%C3%B3n_y_temperatura" title="Condiciones normalizadas de presión y temperatura">CNPT</a> es igual a <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 10^{-14}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>14</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 10^{-14}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 10^{-14}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92a08bbb40a2400004de406f706eb549de0d1e3e" style="vertical-align: -0.338ex; width:5.48ex; height:2.676ex;"/></span>. Por este motivo, está generalizado el uso de pH tanto para ácidos como para bases.<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-Chemistry_9E_3-0"><a href="#cite_note-Chemistry_9E-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La definición inicial corresponde a la formulada en 1887 por <a href="/wiki/Svante_August_Arrhenius" title="Svante August Arrhenius">Svante August Arrhenius</a>.<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ La <a href="/wiki/Teor%C3%ADa_%C3%A1cido-base_de_Br%C3%B8nsted-Lowry" title="Teoría ácido-base de Brønsted-Lowry">teoría ácido-base de Brønsted-Lowry</a>, formulada por <b><a class="mw-redirect" href="/wiki/Br%C3%B8nsted" title="Brønsted">Brønsted</a> y <a href="/wiki/Thomas_Lowry" title="Thomas Lowry">Lowry</a></b> en 1923, dice que una sustancia alcalina es aquella capaz de aceptar un <a href="/wiki/Hidr%C3%B3n" title="Hidrón">protón</a> (H<sup>+</sup>).<sup class="reference separada" id="cite_ref-:0_5-0"><a href="#cite_note-:0-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ Esta definición engloba la anterior: en el ejemplo anterior, el KOH al disociarse en disolución de iones OH<sup>−</sup>, que son los que actúan como base al poder aceptar un protón. Esta teoría también se puede aplicar en <a href="/wiki/Disolvente" title="Disolvente">disolventes</a> no acuosos.<sup class="reference separada" id="cite_ref-:0_5-1"><a href="#cite_note-:0-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p><b><a href="/wiki/Gilbert_N._Lewis" title="Gilbert N. Lewis">Lewis</a></b> en 1923 amplió aún más la definición de <a href="/wiki/%C3%81cido" title="Ácido">ácidos</a> y bases, aunque esta teoría no tendría repercusión hasta años más tarde. Según la <a class="mw-redirect" href="/wiki/%C3%81cidos_y_bases_de_Lewis" title="Ácidos y bases de Lewis">teoría de Lewis</a> una base es aquella sustancia que puede donar un par de <a href="/wiki/Electr%C3%B3n" title="Electrón">electrones</a>.<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​ El ion OH<sup>−</sup>, al igual que otros iones o moléculas como el <a href="/wiki/Amon%C3%ADaco" title="Amoníaco">NH<sub>3</sub></a>, <a href="/wiki/Agua" title="Agua">H<sub>2</sub>O</a>, etc., tienen un par de electrones no enlazantes, por lo que son bases. Todas las bases según la teoría de Arrhenius o la de Brønsted y Lowry son a su vez bases de Lewis.
+</p>
+<p>Algunas de las propiedades generales de las bases son:<sup class="reference separada" id="cite_ref-fisicaquimica264_7-0"><a href="#cite_note-fisicaquimica264-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El químico sueco <a href="/wiki/Svante_August_Arrhenius" title="Svante August Arrhenius">Svante August Arrhenius</a> propuso una <a href="/wiki/Teor%C3%ADa_de_la_disociaci%C3%B3n_electrol%C3%ADtica" title="Teoría de la disociación electrolítica">teoría de la disociación electrolítica</a> en <a href="/wiki/1887" title="1887">1887</a><sup class="reference separada" id="cite_ref-arrhenius_9-0"><a href="#cite_note-arrhenius-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​ que indicaba que los <a class="mw-redirect" href="/wiki/Electr%C3%B3lito" title="Electrólito">electrólitos</a>, en disolución acuosa o husos, se disocian parcialmente en iones cargados eléctricamente.
+</p>
+<p>Los <a class="mw-redirect" href="/wiki/Electr%C3%B3lito" title="Electrólito">electrólitos</a> se clasifican en <a class="mw-redirect" href="/wiki/%C3%81cidos" title="Ácidos">ácidos</a>, <a class="mw-selflink selflink">bases</a> y <a href="/wiki/Sal_(qu%C3%ADmica)" title="Sal (química)">sales</a>. Según Arrhenius, en concreto, las <a class="mw-selflink selflink">bases</a> son sustancias que en disolución acuosa dan aniones <a class="mw-redirect" href="/wiki/Hidroxilo" title="Hidroxilo">hidroxilo</a>, OH<sup>-</sup>, esto es, contienen uno o más grupos <a class="mw-redirect" href="/wiki/Hidroxilo" title="Hidroxilo">hidroxilo</a> que pueden ser sustituidos por radicales ácidos negativos para formar sales. Por ejemplo:
+</p>
+<p>El químico danés <a href="/wiki/Johannes_Nicolaus_Br%C3%B8nsted" title="Johannes Nicolaus Brønsted">Johannes Nicolaus Brønsted</a> y el inglés <a class="mw-redirect" href="/wiki/Thomas_Martin_Lowry" title="Thomas Martin Lowry">Thomas Martin Lowry</a>, en <a href="/wiki/1923" title="1923">1923</a>, publicaron de forma independiente, una teoría sobre el comportamiento de los <a class="mw-redirect" href="/wiki/%C3%81cidos" title="Ácidos">ácidos</a> y de las bases que superaba la vigente, en aquellos años, <a class="new" href="/w/index.php?title=Teor%C3%ADa_%C3%A1cido-base_de_Arrhenius&amp;action=edit&amp;redlink=1" title="Teoría ácido-base de Arrhenius (aún no redactado)">teoría ácido-base de Arrhenius</a>, puesto que podía aplicarse a cualquier tipo de <a href="/wiki/Disolvente" title="Disolvente">disolvente</a> mientras que la de <a href="/wiki/Svante_August_Arrhenius" title="Svante August Arrhenius">Arrhenius</a> solo podía emplearse por disoluciones acuosas.<sup class="reference separada" id="cite_ref-Brønsted_10-0"><a href="#cite_note-Brønsted-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-Lowry_11-0"><a href="#cite_note-Lowry-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​ Según esta nueva teoría, <i>un ácido es una sustancia que puede ceder protones, y una base es una sustancia que puede aceptar</i>. Un <a href="/wiki/%C3%81cido" title="Ácido">ácido</a> y una <a class="mw-selflink selflink">base</a> son <i>conjugados</i> cuando están relacionados por la ecuación:
+</p>
+<p>Como ejemplos tenemos:
+</p>
+<p>NH<sub>4</sub><sup>+</sup> <img alt="está en equilibrio con" data-file-height="119" data-file-width="139" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Equilibrium.svg/15px-Equilibrium.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Equilibrium.svg/23px-Equilibrium.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Equilibrium.svg/30px-Equilibrium.svg.png 2x" title="está en equilibrio con" width="15"/> H<sup>+</sup> + NH<sub>3</sub>
+</p>
+<p>Los <a class="mw-redirect" href="/wiki/%C3%81cidos" title="Ácidos">ácidos</a> y las <a class="mw-selflink selflink">bases</a> pueden ser iones o moléculas neutras.
+Si esté en cuenta la <a href="/wiki/Solvataci%C3%B3n" title="Solvatación">solvatación</a> del protón, H<sup>+</sup>, por parte del <a href="/wiki/Disolvente" title="Disolvente">disolvente</a>, la relación entre <i>parejas conjugadas</i> en disolución acuosa es:
+</p>
+<p>en este caso el <a href="/wiki/Agua" title="Agua">agua</a> actúa como un aceptor de <a href="/wiki/Prot%C3%B3n" title="Protón">protones</a>, es decir, como una <a class="mw-selflink selflink">base</a>. El cambio se puede generalizar así:
+</p>
+<p>Johannes Nicolaus Brønsted
+</p>
+<p>Thomas Martin Lowry
+</p>
+<p>donde el ácido 1 es conjugado en la base 1 y el ácido 2 lo está en la base 2. Hay que observar que el <a href="/wiki/Agua" title="Agua">agua</a> puede actuar como <a href="/wiki/%C3%81cido" title="Ácido">ácido</a> o cómo <a class="mw-selflink selflink">base</a>.
+</p>
+<p>La teoría de <a href="/wiki/Teor%C3%ADa_%C3%A1cido-base_de_Br%C3%B8nsted-Lowry" title="Teoría ácido-base de Brønsted-Lowry">Brønsted y Lowry</a> no es suficientemente amplia para comprender todos los casos de comportamiento ácido o básico de las sustancias, puesto que es limitado a las reacciones con intercambio de <a href="/wiki/Prot%C3%B3n" title="Protón">protones</a>. Hay sustancias que no tienen <a href="/wiki/Hidr%C3%B3geno" title="Hidrógeno">hidrógeno</a> y tienen comportamiento <a href="/wiki/%C3%81cido" title="Ácido">ácido</a>, por ejemplo el <a href="/wiki/Di%C3%B3xido_de_carbono" title="Dióxido de carbono">dióxido de carbono</a>, CO<sub>2</sub>, o el <a class="mw-redirect" href="/wiki/Tri%C3%B3xido_de_azufre" title="Trióxido de azufre">trióxido de azufre</a>, SO<sub>3</sub>, se comportan como <a class="mw-redirect" href="/wiki/%C3%81cidos" title="Ácidos">ácidos</a>, puesto que en presencia de <a href="/wiki/%C3%93xido" title="Óxido">óxidos</a> básicos, como por ejemplo el <a href="/wiki/%C3%93xido_de_calcio" title="Óxido de calcio">óxido de calcio</a>, CaO, o el <a href="/wiki/%C3%93xido_de_sodio" title="Óxido de sodio">óxido de sodio</a>, Na<sub>2</sub>O, en ausencia de <a href="/wiki/Disolvente" title="Disolvente">disolvente</a> y, por lo tanto, sin transferencia de protones, reaccionan para formar <a href="/wiki/Sal_(qu%C3%ADmica)" title="Sal (química)">sales</a>, el <a href="/wiki/Carbonato_de_sodio" title="Carbonato de sodio">carbonato de sodio</a>, CaCO<sub>3</sub> o el <a href="/wiki/Sulfato_de_sodio" title="Sulfato de sodio">sulfato de sodio</a>, Na<sub>2</sub>SO<sub>4</sub>,por ejemplo. Las reacciones podemos representarlas con las siguientes ecuaciones químicas:
+</p>
+<p>Del mismo modo la reacción entre el <a class="new" href="/w/index.php?title=Cloruro_de_tionil&amp;action=edit&amp;redlink=1" title="Cloruro de tionil (aún no redactado)">cloruro de tionil</a>, Cl<sub>2</sub>SO, y lo <a href="/wiki/Sulfito_de_potasio" title="Sulfito de potasio">sulfito de potasio</a>, K<sub>2</sub>SO<sub>3</sub>, disueltos en <a href="/wiki/Di%C3%B3xido_de_azufre" title="Dióxido de azufre">dióxido de azufre</a> líquido reaccionan según la ecuación:
+</p>
+<p>que tampoco incluye <a class="new" href="/w/index.php?title=Prot%C3%B3lisis&amp;action=edit&amp;redlink=1" title="Protólisis (aún no redactado)">protólisis</a>, es a la reacción en <a href="/wiki/Disoluci%C3%B3n" title="Disolución">disolución</a> acuosa entre la <a href="/wiki/%C3%81cido_clorh%C3%ADdrico" title="Ácido clorhídrico">ácido clorhídrico</a>, HCl, y el <a href="/wiki/Hidr%C3%B3xido_de_sodio" title="Hidróxido de sodio">hidróxido de sodio</a>, NaOH, que sí que se puede explicar con la <a href="/wiki/Teor%C3%ADa_%C3%A1cido-base_de_Br%C3%B8nsted-Lowry" title="Teoría ácido-base de Brønsted-Lowry">teoría de Brønsted y Lowry</a>:
+</p>
+<p>Estas reacciones implican la cesión parcial, intermediando <a class="new" href="/w/index.php?title=Enlace_covalente_dativo&amp;action=edit&amp;redlink=1" title="Enlace covalente dativo (aún no redactado)">enlace covalente dativo</a>, de una pareja de <a href="/wiki/Electr%C3%B3n" title="Electrón">electrones</a> de un <a href="/wiki/%C3%81tomo" title="Átomo">átomo</a> de <a href="/wiki/Ox%C3%ADgeno" title="Oxígeno">oxígeno</a> a otro átomo.
+</p>
+<p>Estos hechos llevaron a <a class="mw-redirect" href="/wiki/Gilbert_Newton_Lewis" title="Gilbert Newton Lewis">Gilbert Newton Lewis</a> a enunciar en <a href="/wiki/1923" title="1923">1923</a><sup class="reference separada" id="cite_ref-lewis_12-0"><a href="#cite_note-lewis-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​ y a desarrollar en <a href="/wiki/1938" title="1938">1938</a> una teoría más general de ácido y bases, en la cual se define que:
+</p>
+<p>La teoría de Lewis no proporciona, pero, una estimación cuantitativa de la reacción de las bases con los ácidos. Por este motivo, se acostumbra a aplicar una evaluación cualitativa conocida como <a class="new" href="/w/index.php?title=Teor%C3%ADa_%C3%A1cido-base_dura-blanda&amp;action=edit&amp;redlink=1" title="Teoría ácido-base dura-blanda (aún no redactado)">Teoría ácido-base dura-blanda</a> de Pearson (conocida con las siglas HSAB), que describe como los ácidos <i>blandos</i> reaccionan más rápidamente y forman <a class="mw-redirect" href="/wiki/Enlace_qu%C3%ADmico" title="Enlace químico">enlaces</a> más <a href="/wiki/Fuerza_de_enlace" title="Fuerza de enlace">fuertes</a> con bases <i>blandas</i>, mientras que los ácidos <i>duros</i> reaccionan más rápido y forman enlaces más fuertes con bases <i>duras</i>, manteniéndose iguales todos los otros factores.<sup class="reference separada" id="cite_ref-IUPAC_13-0"><a href="#cite_note-IUPAC-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​ La clasificación al trabajo original estaba basada en las <a class="new" href="/w/index.php?title=Constando_de_equilibrio&amp;action=edit&amp;redlink=1" title="Constando de equilibrio (aún no redactado)">constantes de equilibrio</a> para las reacciones de dos <a href="/wiki/Teor%C3%ADa_%C3%A1cido-base_de_Lewis" title="Teoría ácido-base de Lewis">bases de Lewis</a> compitiendo por un <a href="/wiki/Teor%C3%ADa_%C3%A1cido-base_de_Lewis" title="Teoría ácido-base de Lewis">ácido de Lewis</a>.
+</p>
+<p>Los <b>ácidos duros</b> y las <b>bases duras</b> tienden a tener:
+</p>
+<p>Finalmente, según <a href="/wiki/Robert_Boyle" title="Robert Boyle">Boyle</a>, bases son aquellas sustancias que presentan las siguientes propiedades:
+</p>
+<p>Una <a href="/wiki/Base_fuerte" title="Base fuerte">base fuerte</a> es la que se <a href="/wiki/Disociaci%C3%B3n_(qu%C3%ADmica)" title="Disociación (química)">disocia</a> completamente en el agua, <sup class="reference separada" id="cite_ref-15"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​ es decir, aporta el máximo número de <a href="/wiki/Ion" title="Ion">iones</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {OH-}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>OH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {OH-}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {OH-}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/67df34a451cb63d51af2da3befde8d614e821737" style="vertical-align: -0.338ex; width:5.062ex; height:2.509ex;"/></span>. El hidróxido potásico es un ejemplo de una base fuerte.
+</p>
+<p>Un base débil también aporta iones <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {OH-}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>OH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {OH-}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {OH-}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/67df34a451cb63d51af2da3befde8d614e821737" style="vertical-align: -0.338ex; width:5.062ex; height:2.509ex;"/></span> al medio, pero está en equilibrio el número de <a href="/wiki/Mol%C3%A9cula" title="Molécula">moléculas</a> disociadas con las que no lo están. 
+</p>
+<p>En este caso, el <a href="/wiki/Hidr%C3%B3xido_de_aluminio" title="Hidróxido de aluminio">hidróxido de aluminio</a> está en <a href="/wiki/Equilibrio_qu%C3%ADmico" title="Equilibrio químico">equilibrio</a> (descomponiéndose y formándose) con los iones que genera.
+</p>
+<p>Una base se forma cuando un <a class="mw-redirect" href="/wiki/%C3%93xido_met%C3%A1lico" title="Óxido metálico">óxido metálico</a> reacciona con <a href="/wiki/Agua" title="Agua">agua</a> (<a href="/wiki/Hidr%C3%B3lisis" title="Hidrólisis">hidrólisis</a>):<sup class="reference separada" id="cite_ref-16"><a href="#cite_note-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>igual es:
+</p>
+<p>Para crear una base usando diversas nomenclaturas para ellas tomadas a partir de los nombres de los elementos y juntándolos con un <b>ion hidroxilo (OH)</b>, tomando el número de valencia del elemento y combinarlos (cambiándolos de posición) como se muestra en la tabla:
+</p>
+<p>Cuando un elemento tiene más de dos valencias no se le pone nomenclatura tradicional. Al usar la menor valencia, el elemento termina en <b>oso</b> y cuando se usa la mayor termina en <b>ico</b>.<sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-18"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​ En la nomenclatura <a class="mw-redirect" href="/wiki/IUPAC" title="IUPAC">IUPAC</a> se le va a dar una conformación de prefijos al elemento según su valencia usada (Mono, Di, Tri, Tetra, Penta, Hexa, etc) junto con la terminación <i>-hidroxi</i> u <i>-oxidrilo</i> que es el ion OH con carga −1  (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {OH-}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>OH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {OH-}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {OH-}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/67df34a451cb63d51af2da3befde8d614e821737" style="vertical-align: -0.338ex; width:5.062ex; height:2.509ex;"/></span>).<sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Algunos ejemplos de bases son:
+</p>
+<p>El <a href="/wiki/PH" title="PH">pH</a> de una muestra <a href="/wiki/Agua" title="Agua">acuosa</a> es una medida de su acidez.<sup class="reference separada" id="cite_ref-GECpH_20-0"><a href="#cite_note-GECpH-20"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>​ En el agua pura, aproximadamente uno de cada diez millones de moléculas de disociar en iones de oxoni (H<sub>3</sub>O<sup>+</sup>) y los iones de hidróxido (OH-), de acuerdo con la siguiente ecuación:
+</p>
+<p>La concentración, medida en molaridad (M o moles por dm³), de la cual se indica como iones [H<sub>3</sub>O<sup>+</sup>] y [OH<sup>−</sup>], y su producto es la constante de disociación del agua y tiene el valor 10<sup>−7</sup> <i>M</i>. El pH se define como −log [H<sub>3</sub>O<sup>+</sup>], por lo cual el agua pura tiene un pH de 7. Estos números son correctos a 23 °C y son ligeramente diferentes a otras temperaturas.
+</p>
+<p>Una base acepta (saca) hydronium iones (H<sub>3</sub>O<sup>+</sup>) de la solución, o mujer de los iones de hidróxido (OH<sup>−</sup>) a la solución. Ambas acciones se baja la concentración de iones hydronium y, por lo tanto, aumentar el pH. Por el contrario, un ácido da iones H<sub>3</sub>O<sup>+</sup> a la solución o lo acepta OH<sup>−</sup>, por lo tanto, un descenso de pH.
+</p>
+<p>Por ejemplo, si 1 mol de hidróxido de sodio (40 g) se disuelve en agua para hacer 1 litro de solución, la concentración de los iones de hidróxido se convierte en [[OH<sup>−</sup>]] = 1 mol/L. Por lo tanto [H<sup>+</sup>] = 10<sup>−14</sup> mol/L, i pH = −log 10<sup>−14</sup> = 14. Tened en cuenta que en este cálculo, se supone que la actividad es equivalente a la concentración, que no es realista en las concentraciones de más de 0.1 mol dm<sup>−3</sup>.
+</p>
+<p>La base de la disociación o constando K<sub>b</sub> es una medida de basicidad. PKB es la negativa de registro de Kb y los relativos a la de los valores de pKa por la simple relación de los valores de pK<sub>a</sub> + pK<sub>b</sub> = 14.
+</p>
+<p>La <a class="mw-redirect" href="/wiki/Alcalinidad" title="Alcalinidad">alcalinidad</a> es una medida de la capacidad de una solución para neutralizar los ácidos a la equivalencia de puntos de carbonatos o hidrogenocarbonados.
+</p>
+<p>Cuando se disuelve en el agua una base fuerte, como el hidróxido de sodio, esta se descompone (en este caso en los iones sodio e hidróxido):
+</p>
+<p>Del mismo modo, si se disuelve en agua un ácido también se disocia; por ejemplo, al disolver el cloruro de hidrógeno (ácido clorhídrico) se forman iones oxoni e iones cloruro:
+</p>
+<p>Cuando las dos soluciones con los iones disociados se mezclan, los iones H<sub>3</sub>O<sup>+</sup> y los iones OH<sup>−</sup> se combinan para formar <a class="mw-redirect" href="/wiki/Mol%C3%A9culas" title="Moléculas">moléculas</a> de agua:
+</p>
+<p>Si se disuelven las mismas cantidades de hidróxido de sodio y de ácido clorhídrico, la base y el ácido se neutralizan de manera exacta, dejando solo NaCl en forma de apresurado (<a href="/wiki/Sal_com%C3%BAn" title="Sal común">sal común</a>) y agua. De forma general se puede decir que:<sup class="reference separada" id="cite_ref-fisicaquimica266_21-0"><a href="#cite_note-fisicaquimica266-21"><span class="corchete-llamada">[</span>21<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>ácido + base → sal + agua
+</p>
+<p>Para neutralizar los derramamientos de cualquier ácido se tienen que utilizar bases débiles, como la sosa o la clara de huevo. Si se intenta neutralizar el derramamiento de un ácido con una base fuerte como el hidróxido de sodio o el hidróxido de potasio, se puede provocar una violenta reacción exotérmica, y la acción de la misma base puede causar tanto de mal como el derramamiento de ácido.
+</p>
+<p>Las bases son generalmente compuestos que pueden neutralizar una gran cantidad de ácidos. Tanto el amoníaco como el carbonato de sodio son bases, aunque ninguno de estas sustancias contienen grupos OH<sup>?</sup>. Ambos compuestos aceptan H<sup>+</sup> cuando se disuelven en el agua:
+</p>
+<p>A partir de esto, un pH o acidez, puede ser calculado para soluciones acuosas de bases. Bases de actuar también directamente como parejo electrón-donantes:
+</p>
+<p>El <a href="/wiki/Carbono" title="Carbono">carbono</a> puede actuar como base, y también lo <a href="/wiki/Nitr%C3%B3geno" title="Nitrógeno">nitrógeno</a> y el <a href="/wiki/Ox%C3%ADgeno" title="Oxígeno">oxígeno</a>. Esto sucede habitualmente en compuestos como butilo de litio, alcóxidos y amidas de metales, como la almida de <a href="/wiki/Sodio" title="Sodio">sodio</a>. Las bases de carbono, nitrógeno y oxígeno sin la resonancia estabilizada suelen ser muy fuertes; se denominan <a href="/wiki/Superbase" title="Superbase">superbases</a>, y no pueden existir en una solución de agua debido a la misma acidez del agua. La estabilización de la resonancia, pero, lo permite en bases más débiles como los carboxilatos; por ejemplo, el acetato de sodio es una base débil.
+</p>
+<p>Una base fuerte es la que se <a class="new" href="/w/index.php?title=Disociaci%C3%B3n_qu%C3%ADmica&amp;action=edit&amp;redlink=1" title="Disociación química (aún no redactado)">disocia</a> completamente en el agua, es decir, aporta el máximo número de iones OH<sup>-</sup>. Por ejemplo, el hidróxido de potasio es una base fuerte.
+</p>
+<p>La teoría de Bronsted - Lowry cuantifica la fuerza de las bases, es decir, su capacidad para escindir un protón del ácido. Se mide mediante la constante <i>K<sub>b</sub></i> - la <a href="/wiki/Constante_de_equilibrio" title="Constante de equilibrio">constante de equilibrio</a> de la reacción con la base de ácido de comparación. Cuanto mayor sea la constante de basicidad, más grande será la fuerza de la base y más grande es su capacidad para escindir los protones. Habitualmente la constante de basicidad se expresa como el índice de basicidad constantes p<i>K<sub>b</sub></i>. Por ejemplo, el amoníaco como una base de Bronsted puede ser descrito:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K_{b}={\frac {[{\mathsf {NH_{4}^{+}}}]\cdot [{\mathsf {OH^{-}}}]}{[{\mathsf {NH_{3}}}]}}=1{,}79\cdot 10^{-5};}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">N</mi>
+<msubsup>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo mathvariant="sans-serif">+</mo>
+</mrow>
+</msubsup>
+</mrow>
+</mrow>
+<mo stretchy="false">]</mo>
+<mo>⋅<!-- ⋅ --></mo>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">O</mi>
+<msup>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo mathvariant="sans-serif">−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">N</mi>
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">3</mn>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+<mo stretchy="false">]</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>,</mo>
+</mrow>
+<mn>79</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>5</mn>
+</mrow>
+</msup>
+<mo>;</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{b}={\frac {[{\mathsf {NH_{4}^{+}}}]\cdot [{\mathsf {OH^{-}}}]}{[{\mathsf {NH_{3}}}]}}=1{,}79\cdot 10^{-5};}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle K_{b}={\frac {[{\mathsf {NH_{4}^{+}}}]\cdot [{\mathsf {OH^{-}}}]}{[{\mathsf {NH_{3}}}]}}=1{,}79\cdot 10^{-5};}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3a84df26045c54cf2f49c317887b42b68713f776" style="vertical-align: -2.671ex; width:34.997ex; height:6.676ex;"/></span>
+</p>
+<p>Para bases polibásicas se pueden obtener varios valores de las constantes de disociación <i>K<sub>b1</sub></i>, <i>K<sub>b2</sub></i>, etc Por ejemplo, un ion fosfato puede estar protonado tres veces
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathsf {HPO_{4}^{2-}+H_{2}O}}\rightleftharpoons {\mathsf {H_{2}PO_{4}^{-}+OH^{-}}};K_{\mathrm {b2} }={\frac {[{\mathsf {H_{2}PO_{4}^{-}}}]\cdot [{\mathsf {OH^{-}}}]}{[{\mathsf {HPO_{4}^{2-}}}]}}=1{,}58\cdot 10^{-7};}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">H</mi>
+<mi mathvariant="sans-serif">P</mi>
+<msubsup>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+<mo mathvariant="sans-serif">−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo mathvariant="sans-serif">+</mo>
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">O</mi>
+</mrow>
+</mrow>
+<mo class="MJX-variant" stretchy="false">⇌<!-- ⇌ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">P</mi>
+<msubsup>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo mathvariant="sans-serif">−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo mathvariant="sans-serif">+</mo>
+<mi mathvariant="sans-serif">O</mi>
+<msup>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo mathvariant="sans-serif">−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mo>;</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">b</mi>
+<mn>2</mn>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+</mrow>
+</msub>
+<mi mathvariant="sans-serif">P</mi>
+<msubsup>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo mathvariant="sans-serif">−<!-- − --></mo>
+</mrow>
+</msubsup>
+</mrow>
+</mrow>
+<mo stretchy="false">]</mo>
+<mo>⋅<!-- ⋅ --></mo>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">O</mi>
+<msup>
+<mi mathvariant="sans-serif">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo mathvariant="sans-serif">−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="sans-serif">H</mi>
+<mi mathvariant="sans-serif">P</mi>
+<msubsup>
+<mi mathvariant="sans-serif">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn mathvariant="sans-serif">2</mn>
+<mo mathvariant="sans-serif">−<!-- − --></mo>
+</mrow>
+</msubsup>
+</mrow>
+</mrow>
+<mo stretchy="false">]</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>,</mo>
+</mrow>
+<mn>58</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>7</mn>
+</mrow>
+</msup>
+<mo>;</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathsf {HPO_{4}^{2-}+H_{2}O}}\rightleftharpoons {\mathsf {H_{2}PO_{4}^{-}+OH^{-}}};K_{\mathrm {b2} }={\frac {[{\mathsf {H_{2}PO_{4}^{-}}}]\cdot [{\mathsf {OH^{-}}}]}{[{\mathsf {HPO_{4}^{2-}}}]}}=1{,}58\cdot 10^{-7};}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mathsf {HPO_{4}^{2-}+H_{2}O}}\rightleftharpoons {\mathsf {H_{2}PO_{4}^{-}+OH^{-}}};K_{\mathrm {b2} }={\frac {[{\mathsf {H_{2}PO_{4}^{-}}}]\cdot [{\mathsf {OH^{-}}}]}{[{\mathsf {HPO_{4}^{2-}}}]}}=1{,}58\cdot 10^{-7};}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/98f41277386fdfb0493fa73864e09fc0d5efa8e7" style="vertical-align: -3.005ex; width:72.819ex; height:7.009ex;"/></span>
+</p>
+<p>La potencia de la base también se puede caracterizar por la <a class="mw-redirect" href="/wiki/Constante_de_acidez" title="Constante de acidez">constante de acidez</a> de su ácido conjugado <i>K<sub>a</sub></i> (BH<sup>+</sup>), donde la basicidad del producto es constante <i>K<sub>b</sub></i> por una constante <i>K<sub>a</sub></i> (BH<sup>+</sup>), el <a class="mw-redirect" href="/wiki/Producto_i%C3%B3nico" title="Producto iónico">producto iónico</a> del agua para soluciones acuosas, y la constante de <a href="/wiki/Autoprot%C3%B3lisis" title="Autoprotólisis">autoprotólisis</a> del disolvente general.
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {K_{a}\mathrm {(NH_{4}^{+})} }\cdot {K_{b}\mathrm {(NH_{3})} }=K_{w}=1\cdot 10^{-14};}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mi mathvariant="normal">N</mi>
+<msubsup>
+<mi mathvariant="normal">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">)</mo>
+</mrow>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mi mathvariant="normal">N</mi>
+<msub>
+<mi mathvariant="normal">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mrow>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>w</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>14</mn>
+</mrow>
+</msup>
+<mo>;</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {K_{a}\mathrm {(NH_{4}^{+})} }\cdot {K_{b}\mathrm {(NH_{3})} }=K_{w}=1\cdot 10^{-14};}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {K_{a}\mathrm {(NH_{4}^{+})} }\cdot {K_{b}\mathrm {(NH_{3})} }=K_{w}=1\cdot 10^{-14};}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/590f9002c685539693bb7d16b5fbd1f2eaee4c5d" style="vertical-align: -1.005ex; width:39.368ex; height:3.343ex;"/></span>
+</p>
+<p>Otros ejemplos de bases fuertes son los <a href="/wiki/Hidr%C3%B3xido" title="Hidróxido">hidróxidos</a> de los <a class="mw-redirect" href="/wiki/Metal_alcalino" title="Metal alcalino">metales alcalinos</a> y las <a class="new" href="/w/index.php?title=Alcalinoterri&amp;action=edit&amp;redlink=1" title="Alcalinoterri (aún no redactado)">tierras alcalinas</a>:
+</p>
+<p>Una base débil también aporta iones <span class="fquim" style="white-space:nowrap;">OH<span style="display:inline-block; margin-bottom:-0.3em; vertical-align:0.8em; line-height:1.2em; font-size:85%; text-align:left;">−<br/></span></span> al medio, pero está en equilibrio el número de moléculas disociadas con las que no lo están.
+</p>
+<p>En este caso, el hidróxido de aluminio está en <a href="/wiki/Equilibrio_qu%C3%ADmico" title="Equilibrio químico">equilibrio</a> (descomponiéndose y formándose continuamente) con los iones que genera. La constante de basicidad (<i>K<sub>b</sub></i>) de una base indica su grado de disociación.
+</p>
+<p>Dada una base B, al disolverla en agua se obtiene su ácido conjugado BH<sup>+</sup>:
+</p>
+<p>Y será válida la siguiente ecuación (solo por bases débiles), que relaciona la <a class="mw-redirect" href="/wiki/Concentraci%C3%B3n_(qu%C3%ADmica)" title="Concentración (química)">concentración</a> con la constante de basicidad;
+</p>
+<p>Las sales del grupo 1 de <a href="/wiki/Carbani%C3%B3n" title="Carbanión">carbaniones</a>, <a class="new" href="/w/index.php?title=Amida_(grupo_funcional)&amp;action=edit&amp;redlink=1" title="Amida (grupo funcional) (aún no redactado)">amidas</a> y <a href="/wiki/Hidruro" title="Hidruro">hidruros</a> tienden a ser unas bases todavía más fuertes debido a la extrema debilidad de sus ácidos conjugados, que son <a href="/wiki/Hidrocarburo" title="Hidrocarburo">hidrocarburos</a>, <a href="/wiki/Amina" title="Amina">aminas</a> y <a class="mw-redirect" href="/wiki/Dihidrogeno" title="Dihidrogeno">dihidrógenos</a>, respectivamente. Normalmente, estas bases se crean añadiendo metales alcalinos puros –tales como el sodio– al ácido conjugado.<sup class="reference separada" id="cite_ref-superbases_22-0"><a href="#cite_note-superbases-22"><span class="corchete-llamada">[</span>22<span class="corchete-llamada">]</span></a></sup>​ Se denominan <a href="/wiki/Superbase" title="Superbase">superbases</a> y no es posible mantenerlas en disolución acuosa debido al hecho que son bases más fuertes que el ion hidróxido, por lo cual <a class="mw-redirect" href="/wiki/Desprotonaci%C3%B3n" title="Desprotonación">desprotonan</a> el agua del ácido conjugado. Por ejemplo, el ion etòxid (base conjugada del <a href="/wiki/Etanol" title="Etanol">etanol</a>) en presencia de agua experimenta la siguiente reacción:
+</p>
+<p>Algunas superbases son:
+</p>
+<p>Cuando una base fuerte, como el hidróxido de sodio, se disuelve en agua se descompone en iones <a href="/wiki/Hidr%C3%B3xido" title="Hidróxido">hidróxido</a> (<sup>-</sup>OH) e iones de sodio:
+</p>
+<p>de manera similar, el <a href="/wiki/%C3%81cido_clorh%C3%ADdrico" title="Ácido clorhídrico">ácido clorhídrico</a> o cloruro de hidrógeno se disuelve en agua formando iones <a class="mw-redirect" href="/wiki/Oxonio" title="Oxonio">oxonio</a> (H<sub>3</sub> O<sup>+</sup>) e iones de cloro:
+</p>
+<p>Cuando mezclamos las dos soluciones, los iones H<sub>3</sub>O<sup>+</sup> y OH<sup>-</sup> se combinan para formar moléculas de agua:
+</p>
+<p>Si disolvemos cantidades iguales de NaOH y HCl, la base y el ácido se neutralizan de manera exacta, dejando solo NaCl, <a href="/wiki/Sal_com%C3%BAn" title="Sal común">sal común</a>, en solución.
+</p>
+<p>Las bases débiles, como la <a class="mw-disambig" href="/wiki/Soda" title="Soda">soda</a> o la <a href="/wiki/Clara_de_huevo" title="Clara de huevo">clara de huevo</a>, pueden ser utilizadas para neutralizar los derramamientos de ácido. La utilización de bases fuertes como el hidróxido de sodio o el hidróxido de potasio podrían causar una reacción exotérmica violenta con unos efectos más peligrosos que el derramamiento de ácido original.
+</p>
+<p>Las sustancias básicas se pueden utilizar como <a class="mw-redirect" href="/wiki/Catalizador" title="Catalizador">catalizadores</a> heterogéneos de <a class="new" href="/w/index.php?title=Solubilidad_insolubles&amp;action=edit&amp;redlink=1" title="Solubilidad insolubles (aún no redactado)">solubilidad insolubles</a> de <a href="/wiki/Reacci%C3%B3n_qu%C3%ADmica" title="Reacción química">reacciones químicas</a>. Algunos ejemplos son los óxidos metálicos como por ejemplo el <a href="/wiki/%C3%93xido_de_magnesio" title="Óxido de magnesio">óxido de magnesio</a>, el <a href="/wiki/%C3%93xido_de_calcio" title="Óxido de calcio">óxido de calcio</a>, y el <a href="/wiki/%C3%93xido_de_bario" title="Óxido de bario">óxido de bario</a>, así como el <a class="new" href="/w/index.php?title=Fluoruro_de_potasio_en_al%C3%BAmina&amp;action=edit&amp;redlink=1" title="Fluoruro de potasio en alúmina (aún no redactado)">fluoruro de potasio en alúmina</a> y algunas <a href="/wiki/Zeolita" title="Zeolita">zeolitas</a>. Muchos <a href="/wiki/Metal_de_transici%C3%B3n" title="Metal de transición">metales de transición</a> hacen de buenos catalizadores, muchos de los cuales forman sustancias básicas. Algunos catalizadores básicos se han utilizado para <a href="/wiki/Hidrogenaci%C3%B3n" title="Hidrogenación">hidrogenaciones</a>, la migraciones de <a class="mw-redirect" href="/wiki/Doble_enlace" title="Doble enlace">doble enlace</a>, en la <a class="mw-redirect" href="/wiki/Reducci%C3%B3n_de_Meerwein-Ponndorf-Verley" title="Reducción de Meerwein-Ponndorf-Verley">reducción de Meerwein-Ponndorf-Verley</a>, la <a href="/wiki/Reacci%C3%B3n_de_Michael" title="Reacción de Michael">reacción de Michael</a>, y otras muchas reacciones.
+</p>

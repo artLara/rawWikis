@@ -1,0 +1,136 @@
+<p>Esta página contiene numerosos <b>recursos con licencias libres</b> compatibles con los proyectos de la <a href="/wiki/Fundaci%C3%B3n_Wikimedia" title="Fundación Wikimedia">Fundación Wikimedia</a>, bien porque se publicaron desde un primer momento bajo esas licencias, bien porque acabaron cayendo en el <a href="/wiki/Dominio_p%C3%BAblico" title="Dominio público">dominio público</a> con el paso de los años. Es posible que algunos de los recursos aquí enumerados no sean completamente libres o compatibles con <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, por lo que debes comprobar la licencia antes de usarlos.
+</p>
+<p>La finalidad primordial de esta página es tener organizados los recursos que pueden utilizarse a priori para mejorar los contenidos de Wikipedia, aunque también puede haber enlaces a repositorios de imágenes libres (como los de la <a href="/wiki/NASA" title="NASA">NASA</a> o el <a class="mw-redirect" href="/wiki/NOAA" title="NOAA">NOAA</a>) o bibliotecas de libros libres (<a href="/wiki/Proyecto_Gutenberg" title="Proyecto Gutenberg">Proyecto Gutenberg</a>), que son materiales que deben ser subidos a otros proyectos (<a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> y <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> respectivamente) pero sí deben ser enlazados desde los artículos pertinentes de Wikipedia.
+</p>
+<p>Los recursos mostrados más abajo son valiosos, pero muchos de ellos son antiguos, están escritos de manera no neutral, contienen sesgos, errores u omisiones, etc, por lo que no los hacen aptos para ser integrados en la enciclopedia directamente.
+</p>
+<p>Por favor, si copias material de estos recursos, tómate tu tiempo para verificar la precisión de la información: edita y actualiza, o haz todo lo necesario para producir un artículo bueno, en vez de copiar y pegar directamente.
+</p>
+<p><a class="external free" href="http://www.gutenberg.org/" rel="nofollow">http://www.gutenberg.org/</a>
+</p>
+<p><a class="external free" href="http://www.europeanaregia.eu/es" rel="nofollow">http://www.europeanaregia.eu/es</a>
+(incluye más de 1000 manuscritos medievales y renacentistas)
+</p>
+<p>Obra monumental de <a href="/wiki/Pascual_Madoz" title="Pascual Madoz">Pascual Madoz</a> publicada en 1847, y por lo tanto en el <a href="/wiki/Dominio_p%C3%BAblico" title="Dominio público">dominio público</a>.
+</p>
+<p>Se encuentra digitalizado (página a página, en formato TIFF) en la Biblioteca Virtual de Andalucía (<a class="external text" href="http://www.juntadeandalucia.es/cultura/bibliotecavirtualandalucia/consulta/resultados_autores.cmd?campo=idautor&amp;idValor=468&amp;forma=ficha&amp;posicion=1" rel="nofollow">aquí</a>). Uno de sus tomos (el VII) está en <a class="external text" href="http://books.google.com/books/pdf/Diccionario_geogr__fico_estad__stico_his.pdf?id=pOACAAAAYAAJ&amp;output=pdf&amp;sig=po-imiD8rlmNR67S5yK6DEd873Y" rel="nofollow">Google Books</a>, en formato PDF completo, pero también en formato imagen (para pasar a texto sería necesario <a class="mw-redirect" href="/wiki/OCR" title="OCR">OCR</a>).
+</p>
+<p>A pesar de encontrarse en el dominio público, su utilización en un artículo precisa citar la autoría. De acuerdo con <a class="mw-redirect" href="/wiki/Wikipedia:EE" title="Wikipedia:EE">WP:EE</a>, hay que incluir un enlace en la sección de Enlaces externos.
+</p>
+<p>A semejanza de wikipedia, han surgido numerosos proyectos colaborativos que siguen la filosofía de aquella, especialmente en lo relativo a su elaboración por parte de voluntarios y su licencia, GFDL. Sin embargo, la inclusión de material procedente de dichos proyectos, aunque posible desde el punto de vista de las licencias, no es siempre aconsejable. A cualquier material procedente de dichos proyectos hay que aplicarles las mismas normas que si se tratase de material publicado originalmente en wikipedia, especialmente relevancia (un material relevante en una locapedia, por ejemplo, podría no serlo en wikipedia), que no sea fuente primaria (la republicación de material original o no referenciado en dichos proyectos no hace a su republicación en wikipedia una fuente secundaria) o punto de vista neutral (varios de los proyectos incluyen explícitamente la posibilidad de publicar ensayos o artículos de opinión). La pregunta, en todo caso, siempre será la misma: «si publicase originalmente este material en wikipedia, ¿se atendría a nuestras políticas?». Sólo si la respuesta es positiva, se puede utilizar dicho material.
+</p>
+<p>Un procedimiento habitual para escribir artículos en Wikipedia en Español es la traducción de artículos en otras wikipedias (Wikipedia en Inglés, habitualmente, pero también wikipedias en idiomas cercanos al español, o en cualquier otro idioma; ahí están los wikiproyectos <a href="/wiki/Wikiproyecto:Traducci%C3%B3n_de_art%C3%ADculos_destacados" title="Wikiproyecto:Traducción de artículos destacados">Traducción de artículos destacados</a>, <a href="/wiki/Wikiproyecto:Traducci%C3%B3n_de_la_semana" title="Wikiproyecto:Traducción de la semana">Traducción de la semana</a> o <a href="/wiki/Wikiproyecto:Traducciones_cercanas" title="Wikiproyecto:Traducciones cercanas">Traducciones cercanas</a>).
+</p>
+<p>La licencia de cualquier wikipedia es obviamente compatible con Wikipedia en Español, pero es necesario <b>siempre</b> que se cumplan las condiciones de la licencia GFDL, que exigen la atribución de la autoría (algo que incluso si no lo exigiese la licencia entra dentro de los denominados "derechos morales" y es obligatorio; si no, parecería que el autor de un artículo es su traductor y no sus redactores originales) y el enlace al contenido original (hay que tener en cuenta que una traducción es una obra derivada de la original en otro idioma). En los proyectos de la Fundación Wikimedia, se considera que esto se hace mediante el historial de los artículos, algo que obviamente se pierde si no se cita al hacer la traducción. Eso se traduce en que en el resumen de edición de la primera versión del artículo traducido debe constar <b>siempre</b> el nombre del artículo traducido y la versión que se usa (un enlace interwiki no es válido). Puedes utilizar algo de este tipo:
+</p>
+<p>Por poner algún ejemplo:
+</p>
+<p>Si has olvidado hacerlo, siempre puedes hacer una edición mínima en el artículo en cualquier momento e incluir la autoría, de la forma:
+</p>
+<p>La <a class="mw-redirect" href="/wiki/Enciclopedia_Libre" title="Enciclopedia Libre">Enciclopedia Libre</a> es una escisión de Wikipedia en Español que tuvo lugar en 2002. De hecho, cuando Wikipedia en Español se reactivó en 2003, un bot copió íntegramente los contenidos de Enciclopedia Libre. Poseen la misma licencia que Wikipedia y sus contenidos son incorporables a Wikipedia en Español sin otra restricción que las marcadas por la licencia GFDL.
+</p>
+<p>No obstante, debido a su evolución separada, aparte de un formato distinto, Enciclopedia Libre funciona también como wikisource y como wikcionario, por lo que no todos sus contenidos son susceptibles de ser utilizados. 
+</p>
+<p>Se utiliza la plantilla <code>{{<a href="/wiki/Plantilla:EL" title="Plantilla:EL">EL</a>}}</code> incluyendo como argumento el nombre del artículo original, usando guiones bajos entre las distintas palabras en lugar de espacios.
+</p>
+<p>Durante 2006 comenzaron a surgir diversas iniciativas en España
+</p>
+<p>La <i><a class="mw-redirect" href="/wiki/Enciclopedia_Britannica_de_1911" title="Enciclopedia Britannica de 1911">Enciclopedia Britannica de 1911</a></i> se encuentra en el dominio público, aunque los contenidos están en inglés. Este wikiproyecto, que contiene los listados de la A a la Z con todos los nombres de los artículos de la enciclopedia, pretende crear los artículos que faltan, traduciéndolos del inglés o creándolos desde cero. Puedes consultar una versión escaneada en PNG en <a class="external free" href="https://en.wikisource.org/wiki/User:Tim_Starling/ScanSet_PNG_demo">http://en.wikisource.org/wiki/User:Tim_Starling/ScanSet_PNG_demo</a>. El progreso de este wikiproyecto se detalla en <code>{{<a href="/wiki/Plantilla:Progreso1911" title="Plantilla:Progreso1911">Progreso1911</a>}}</code>.
+</p>
+<p>Si el texto del artículo que has creado lo has obtenido a través de la traducción del artículo de Britannica, incluye la plantilla <code>{{<a class="mw-redirect" href="/wiki/Plantilla:1911" title="Plantilla:1911">1911</a>}}</code> en el artículo.
+</p>
+<p><code>{{<a href="/wiki/Plantilla:Espasa" title="Plantilla:Espasa">Espasa</a>}}</code>
+</p>
+<p><a class="new" href="/w/index.php?title=Wikanda&amp;action=edit&amp;redlink=1" title="Wikanda (aún no redactado)">Wikanda</a> es un proyecto de la <a href="/wiki/Junta_de_Andaluc%C3%ADa" title="Junta de Andalucía">Junta de Andalucía</a> que absorbió en noviembre de 2007 a otras locapedias ya establecidas como <a class="new" href="/w/index.php?title=C%C3%B3rdobapedia&amp;action=edit&amp;redlink=1" title="Córdobapedia (aún no redactado)">Córdobapedia</a> y <a class="new" href="/w/index.php?title=Sevillapedia&amp;action=edit&amp;redlink=1" title="Sevillapedia (aún no redactado)">Sevillapedia</a>. Al igual que las anteriores, tiene licencia <a class="mw-redirect" href="/wiki/CC-BY-SA" title="CC-BY-SA">CC-BY-SA</a> 2.5 España (desde el 1 de agosto de 2009) y sigue a grandes rasgos las políticas de Wikipedia. No obstante, es preciso tener en cuenta que no se respeta siembre la directriz relativa a las <a class="mw-redirect" href="/wiki/Wikipedia:NFP" title="Wikipedia:NFP">fuentes primarias</a>. De acuerdo con sus <a class="external text" href="http://www.wikanda.es/wiki/Wikanda:Fundamentos" rel="nofollow">fundamentos</a>: 
+</p>
+<p>La publicación en wikianda no hace que su uso en wikipedia no constituya una fuente primaria igualmente, por lo que contenidos de tal tipo no deberán usarse en wikipedia.
+</p>
+<p>El diario español en línea <i><a class="mw-redirect" href="/wiki/20_minutos" title="20 minutos">20 minutos</a></i>  ha cambiado su licencia a "Todos los derechos reservados", excepto en aquellos sitios web sobre los que 20 minutos mantenga una licencia Creative Commons, lo cual se indicará mediante el símbolo correspondiente. Véase el <a class="external text" href="http://www.20minutos.es/especial/corporativo/aviso-legal/" rel="nofollow">aviso legal</a>.
+</p>
+<p>Aquellos artículos cuyo contenido proviene de este periódico usan la plantilla <code>{{<a class="mw-redirect" href="/wiki/Plantilla:20minutos" title="Plantilla:20minutos">20minutos</a>}}</code>.
+</p>
+<p>Según la propia web:
+<link href="mw-data:TemplateStyles:r149592375" rel="mw-deduplicated-inline-style"/>
+</p>
+<p>En su catálogo de datos (<a class="external text" href="http://opendata.euskadi.net/w79-buscador/es/contenidos/informacion/form_busquedas/es_form/formulario_busqueda.html" rel="nofollow">consultar</a>) existe material estadístico, geográfico, meteorológico, turístico y administrativo.
+</p>
+<p>A raiz de un hilo en el Café (<a class="external text" href="https://es.wikipedia.org/wiki/Wikipedia:Caf%C3%A9/Portal/Archivo/Noticias/2010/04#Open_Data_Euskadi">ver</a>), se propuso importar los datos útiles para generar nuevos artículos o mejorar los existentes.
+</p>
+<p>El uso habrá de hacerse son sujeción a los siguiente términos:
+</p>
+<p><b>La información disponible en este sitio web, salvo indicación expresa en contrario, es susceptible de reutilización; quedando autorizada su reproducción total o parcial, modificación, distribución y comunicación, para usos comerciales y no comerciales, con sujeción a las siguientes condiciones:</b>
+</p>
+<p>El uso habrá de hacerse son sujeción a los siguiente términos:
+</p>
+<p>Estos recursos están completamente libres de restricciones de copyright, y por lo tanto pueden ser usados y modificados a discreción para cualquier página de Wikipedia. Algunos pueden encontrarse en el dominio público ya sea porque el autor ha renunciado a sus derechos de autor o porque son bastante antiguos y sus derechos de autor han expirado. (Debe tenerse cuidado para mantener tales textos actualizados).
+</p>
+<p>Estos recursos poseen copyright y se encuentran amparados bajo términos de licencias que permiten su libre redistribución de alguna forma. Puede requerirse dar el crédito correspondiente a los autores originales, o pueden existir restricciones respecto a las modificaciones de contenido. Revise la licencia publicada en cada sitio con el propósito de conocer y cumplir con tales términos de uso.
+</p>
+<p>Esta página contiene numerosos <b>recursos con licencias libres</b> compatibles con los proyectos de la <a href="/wiki/Fundaci%C3%B3n_Wikimedia" title="Fundación Wikimedia">Fundación Wikimedia</a>, bien porque se publicaron desde un primer momento bajo esas licencias, bien porque acabaron cayendo en el <a href="/wiki/Dominio_p%C3%BAblico" title="Dominio público">dominio público</a> con el paso de los años. Es posible que algunos de los recursos aquí enumerados no sean completamente libres o compatibles con <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, por lo que debes comprobar la licencia antes de usarlos.
+</p>
+<p>La finalidad primordial de esta página es tener organizados los recursos que pueden utilizarse a priori para mejorar los contenidos de Wikipedia, aunque también puede haber enlaces a repositorios de imágenes libres (como los de la <a href="/wiki/NASA" title="NASA">NASA</a> o el <a class="mw-redirect" href="/wiki/NOAA" title="NOAA">NOAA</a>) o bibliotecas de libros libres (<a href="/wiki/Proyecto_Gutenberg" title="Proyecto Gutenberg">Proyecto Gutenberg</a>), que son materiales que deben ser subidos a otros proyectos (<a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> y <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> respectivamente) pero sí deben ser enlazados desde los artículos pertinentes de Wikipedia.
+</p>
+<p>Los recursos mostrados más abajo son valiosos, pero muchos de ellos son antiguos, están escritos de manera no neutral, contienen sesgos, errores u omisiones, etc, por lo que no los hacen aptos para ser integrados en la enciclopedia directamente.
+</p>
+<p>Por favor, si copias material de estos recursos, tómate tu tiempo para verificar la precisión de la información: edita y actualiza, o haz todo lo necesario para producir un artículo bueno, en vez de copiar y pegar directamente.
+</p>
+<p><a class="external free" href="http://www.gutenberg.org/" rel="nofollow">http://www.gutenberg.org/</a>
+</p>
+<p><a class="external free" href="http://www.europeanaregia.eu/es" rel="nofollow">http://www.europeanaregia.eu/es</a>
+(incluye más de 1000 manuscritos medievales y renacentistas)
+</p>
+<p>Obra monumental de <a href="/wiki/Pascual_Madoz" title="Pascual Madoz">Pascual Madoz</a> publicada en 1847, y por lo tanto en el <a href="/wiki/Dominio_p%C3%BAblico" title="Dominio público">dominio público</a>.
+</p>
+<p>Se encuentra digitalizado (página a página, en formato TIFF) en la Biblioteca Virtual de Andalucía (<a class="external text" href="http://www.juntadeandalucia.es/cultura/bibliotecavirtualandalucia/consulta/resultados_autores.cmd?campo=idautor&amp;idValor=468&amp;forma=ficha&amp;posicion=1" rel="nofollow">aquí</a>). Uno de sus tomos (el VII) está en <a class="external text" href="http://books.google.com/books/pdf/Diccionario_geogr__fico_estad__stico_his.pdf?id=pOACAAAAYAAJ&amp;output=pdf&amp;sig=po-imiD8rlmNR67S5yK6DEd873Y" rel="nofollow">Google Books</a>, en formato PDF completo, pero también en formato imagen (para pasar a texto sería necesario <a class="mw-redirect" href="/wiki/OCR" title="OCR">OCR</a>).
+</p>
+<p>A pesar de encontrarse en el dominio público, su utilización en un artículo precisa citar la autoría. De acuerdo con <a class="mw-redirect" href="/wiki/Wikipedia:EE" title="Wikipedia:EE">WP:EE</a>, hay que incluir un enlace en la sección de Enlaces externos.
+</p>
+<p>A semejanza de wikipedia, han surgido numerosos proyectos colaborativos que siguen la filosofía de aquella, especialmente en lo relativo a su elaboración por parte de voluntarios y su licencia, GFDL. Sin embargo, la inclusión de material procedente de dichos proyectos, aunque posible desde el punto de vista de las licencias, no es siempre aconsejable. A cualquier material procedente de dichos proyectos hay que aplicarles las mismas normas que si se tratase de material publicado originalmente en wikipedia, especialmente relevancia (un material relevante en una locapedia, por ejemplo, podría no serlo en wikipedia), que no sea fuente primaria (la republicación de material original o no referenciado en dichos proyectos no hace a su republicación en wikipedia una fuente secundaria) o punto de vista neutral (varios de los proyectos incluyen explícitamente la posibilidad de publicar ensayos o artículos de opinión). La pregunta, en todo caso, siempre será la misma: «si publicase originalmente este material en wikipedia, ¿se atendría a nuestras políticas?». Sólo si la respuesta es positiva, se puede utilizar dicho material.
+</p>
+<p>Un procedimiento habitual para escribir artículos en Wikipedia en Español es la traducción de artículos en otras wikipedias (Wikipedia en Inglés, habitualmente, pero también wikipedias en idiomas cercanos al español, o en cualquier otro idioma; ahí están los wikiproyectos <a href="/wiki/Wikiproyecto:Traducci%C3%B3n_de_art%C3%ADculos_destacados" title="Wikiproyecto:Traducción de artículos destacados">Traducción de artículos destacados</a>, <a href="/wiki/Wikiproyecto:Traducci%C3%B3n_de_la_semana" title="Wikiproyecto:Traducción de la semana">Traducción de la semana</a> o <a href="/wiki/Wikiproyecto:Traducciones_cercanas" title="Wikiproyecto:Traducciones cercanas">Traducciones cercanas</a>).
+</p>
+<p>La licencia de cualquier wikipedia es obviamente compatible con Wikipedia en Español, pero es necesario <b>siempre</b> que se cumplan las condiciones de la licencia GFDL, que exigen la atribución de la autoría (algo que incluso si no lo exigiese la licencia entra dentro de los denominados "derechos morales" y es obligatorio; si no, parecería que el autor de un artículo es su traductor y no sus redactores originales) y el enlace al contenido original (hay que tener en cuenta que una traducción es una obra derivada de la original en otro idioma). En los proyectos de la Fundación Wikimedia, se considera que esto se hace mediante el historial de los artículos, algo que obviamente se pierde si no se cita al hacer la traducción. Eso se traduce en que en el resumen de edición de la primera versión del artículo traducido debe constar <b>siempre</b> el nombre del artículo traducido y la versión que se usa (un enlace interwiki no es válido). Puedes utilizar algo de este tipo:
+</p>
+<p>Por poner algún ejemplo:
+</p>
+<p>Si has olvidado hacerlo, siempre puedes hacer una edición mínima en el artículo en cualquier momento e incluir la autoría, de la forma:
+</p>
+<p>La <a class="mw-redirect" href="/wiki/Enciclopedia_Libre" title="Enciclopedia Libre">Enciclopedia Libre</a> es una escisión de Wikipedia en Español que tuvo lugar en 2002. De hecho, cuando Wikipedia en Español se reactivó en 2003, un bot copió íntegramente los contenidos de Enciclopedia Libre. Poseen la misma licencia que Wikipedia y sus contenidos son incorporables a Wikipedia en Español sin otra restricción que las marcadas por la licencia GFDL.
+</p>
+<p>No obstante, debido a su evolución separada, aparte de un formato distinto, Enciclopedia Libre funciona también como wikisource y como wikcionario, por lo que no todos sus contenidos son susceptibles de ser utilizados. 
+</p>
+<p>Se utiliza la plantilla <code>{{<a href="/wiki/Plantilla:EL" title="Plantilla:EL">EL</a>}}</code> incluyendo como argumento el nombre del artículo original, usando guiones bajos entre las distintas palabras en lugar de espacios.
+</p>
+<p>Durante 2006 comenzaron a surgir diversas iniciativas en España
+</p>
+<p>La <i><a class="mw-redirect" href="/wiki/Enciclopedia_Britannica_de_1911" title="Enciclopedia Britannica de 1911">Enciclopedia Britannica de 1911</a></i> se encuentra en el dominio público, aunque los contenidos están en inglés. Este wikiproyecto, que contiene los listados de la A a la Z con todos los nombres de los artículos de la enciclopedia, pretende crear los artículos que faltan, traduciéndolos del inglés o creándolos desde cero. Puedes consultar una versión escaneada en PNG en <a class="external free" href="https://en.wikisource.org/wiki/User:Tim_Starling/ScanSet_PNG_demo">http://en.wikisource.org/wiki/User:Tim_Starling/ScanSet_PNG_demo</a>. El progreso de este wikiproyecto se detalla en <code>{{<a href="/wiki/Plantilla:Progreso1911" title="Plantilla:Progreso1911">Progreso1911</a>}}</code>.
+</p>
+<p>Si el texto del artículo que has creado lo has obtenido a través de la traducción del artículo de Britannica, incluye la plantilla <code>{{<a class="mw-redirect" href="/wiki/Plantilla:1911" title="Plantilla:1911">1911</a>}}</code> en el artículo.
+</p>
+<p><code>{{<a href="/wiki/Plantilla:Espasa" title="Plantilla:Espasa">Espasa</a>}}</code>
+</p>
+<p><a class="new" href="/w/index.php?title=Wikanda&amp;action=edit&amp;redlink=1" title="Wikanda (aún no redactado)">Wikanda</a> es un proyecto de la <a href="/wiki/Junta_de_Andaluc%C3%ADa" title="Junta de Andalucía">Junta de Andalucía</a> que absorbió en noviembre de 2007 a otras locapedias ya establecidas como <a class="new" href="/w/index.php?title=C%C3%B3rdobapedia&amp;action=edit&amp;redlink=1" title="Córdobapedia (aún no redactado)">Córdobapedia</a> y <a class="new" href="/w/index.php?title=Sevillapedia&amp;action=edit&amp;redlink=1" title="Sevillapedia (aún no redactado)">Sevillapedia</a>. Al igual que las anteriores, tiene licencia <a class="mw-redirect" href="/wiki/CC-BY-SA" title="CC-BY-SA">CC-BY-SA</a> 2.5 España (desde el 1 de agosto de 2009) y sigue a grandes rasgos las políticas de Wikipedia. No obstante, es preciso tener en cuenta que no se respeta siembre la directriz relativa a las <a class="mw-redirect" href="/wiki/Wikipedia:NFP" title="Wikipedia:NFP">fuentes primarias</a>. De acuerdo con sus <a class="external text" href="http://www.wikanda.es/wiki/Wikanda:Fundamentos" rel="nofollow">fundamentos</a>: 
+</p>
+<p>La publicación en wikianda no hace que su uso en wikipedia no constituya una fuente primaria igualmente, por lo que contenidos de tal tipo no deberán usarse en wikipedia.
+</p>
+<p>El diario español en línea <i><a class="mw-redirect" href="/wiki/20_minutos" title="20 minutos">20 minutos</a></i>  ha cambiado su licencia a "Todos los derechos reservados", excepto en aquellos sitios web sobre los que 20 minutos mantenga una licencia Creative Commons, lo cual se indicará mediante el símbolo correspondiente. Véase el <a class="external text" href="http://www.20minutos.es/especial/corporativo/aviso-legal/" rel="nofollow">aviso legal</a>.
+</p>
+<p>Aquellos artículos cuyo contenido proviene de este periódico usan la plantilla <code>{{<a class="mw-redirect" href="/wiki/Plantilla:20minutos" title="Plantilla:20minutos">20minutos</a>}}</code>.
+</p>
+<p>Según la propia web:
+<link href="mw-data:TemplateStyles:r149592375" rel="mw-deduplicated-inline-style"/>
+</p>
+<p>En su catálogo de datos (<a class="external text" href="http://opendata.euskadi.net/w79-buscador/es/contenidos/informacion/form_busquedas/es_form/formulario_busqueda.html" rel="nofollow">consultar</a>) existe material estadístico, geográfico, meteorológico, turístico y administrativo.
+</p>
+<p>A raiz de un hilo en el Café (<a class="external text" href="https://es.wikipedia.org/wiki/Wikipedia:Caf%C3%A9/Portal/Archivo/Noticias/2010/04#Open_Data_Euskadi">ver</a>), se propuso importar los datos útiles para generar nuevos artículos o mejorar los existentes.
+</p>
+<p>El uso habrá de hacerse son sujeción a los siguiente términos:
+</p>
+<p><b>La información disponible en este sitio web, salvo indicación expresa en contrario, es susceptible de reutilización; quedando autorizada su reproducción total o parcial, modificación, distribución y comunicación, para usos comerciales y no comerciales, con sujeción a las siguientes condiciones:</b>
+</p>
+<p>El uso habrá de hacerse son sujeción a los siguiente términos:
+</p>
+<p>Estos recursos están completamente libres de restricciones de copyright, y por lo tanto pueden ser usados y modificados a discreción para cualquier página de Wikipedia. Algunos pueden encontrarse en el dominio público ya sea porque el autor ha renunciado a sus derechos de autor o porque son bastante antiguos y sus derechos de autor han expirado. (Debe tenerse cuidado para mantener tales textos actualizados).
+</p>
+<p>Estos recursos poseen copyright y se encuentran amparados bajo términos de licencias que permiten su libre redistribución de alguna forma. Puede requerirse dar el crédito correspondiente a los autores originales, o pueden existir restricciones respecto a las modificaciones de contenido. Revise la licencia publicada en cada sitio con el propósito de conocer y cumplir con tales términos de uso.
+</p>

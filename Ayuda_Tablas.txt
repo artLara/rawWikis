@@ -1,0 +1,658 @@
+<p>En Wikipedia, una <b>tabla</b> es una forma de representar mucha información de manera esquematizada, ordenada y compacta. Aunque Wikipedia acepta el código <a href="/wiki/HTML" title="HTML">HTML</a> para la creación de tablas como en cualquier <a href="/wiki/P%C3%A1gina_web" title="Página web">página web</a>, posee también un código propio, cuya <a href="/wiki/Sintaxis" title="Sintaxis">sintaxis</a> basada en barras verticales resulta bastante más limpia y compacta.
+</p>
+<p>Los parámetros de tabla y de celdas son los mismos como en HTML, ver <a class="external autonumber" href="http://www.w3.org/TR/html401/struct/tables.html#edef-TABLE" rel="nofollow">[1]</a> (página en inglés) y <a class="extiw" href="https://en.wikipedia.org/wiki/HTML_element#Tables" title="w:HTML element">HTML element#Tables</a> (wiki en inglés). Sin embargo los elementos <tt>thead</tt>, <tt>tbody</tt>, <tt>tfoot</tt>, <tt>colgroup</tt> y <tt>col</tt> actualmente no son <a class="mw-redirect" href="/wiki/Html#Permitted_HTML" title="Html">soportados en MediaWiki</a>.
+</p>
+<p>Una tabla puede ser útil aún si ninguna de sus celdas tiene contenido, notablemente porque con el uso de colores de fondo de celdas la tabla puede ser un diagrama; véase por ejemplo <a href="/wiki/Ajedrez#El_tablero_de_ajedrez" title="Ajedrez">Ajedrez#El tablero de ajedrez</a>. En algunos casos, una "imagen" en forma de tabla es mucho más conveniente para ser editada que un archivo de imagen propiamente dicho.
+</p>
+<p>Cada fila debe tener el mismo número de celdas que las otras filas, así la cantidad de columnas en la tabla continúa siendo consistente (a menos que haya celdas que abarquen varias columnas o filas, véase <tt>colspan</tt> y <tt>rowspan</tt> en ejemplo mezcla más abajo). Para celdas vacías, use el espacio “non-breaking” <tt>&amp;nbsp;</tt> como contenido para asegurar que las celdas sean mostradas.
+</p>
+<p>Como se expone a continuación, para simplificar el problema del código redundante necesario en muchas ocasiones para definir tablas por el procedimiento descrito anteriormente, se dispone de la opción <b><code>class="wikitable"</code></b>, que facilita <b>TABLAS PREDEFINIDAS</b> (que aquí se denominan de forma abreviada <i>Wikitablas</i>), dotadas de una apariencia estandarizada, y que son mucho más fácilmente configurables y con menos necesidad de código que las aquí denominadas a partir de ahora <i>Tablas normales</i> (es decir, las que no tienen declarado el parámetro "class="). 
+</p>
+<p><br/>
+</p>
+<p><br/>
+</p>
+<p><br/>
+</p>
+<p>Los bloques de código fuente:
+</p>
+<p>y
+</p>
+<p>Ambos generan:
+</p>
+<p>Para alinear las columnas a la izquierda, derecha o centro, se utilizan las clases “<tt>col<b>n</b>izq</tt>”, “<tt>col<b>n</b>der</tt>” y “<tt>col<b>n</b>cen</tt>”, donde <tt><b>n</b></tt> se reemplaza por el número de columna. Para anular esta preferencia en una celda particular, se puede usar <tt>style="text-align:..."</tt> en la misma celda.
+</p>
+<p>Las clases no cambian la alineación de los encabezados, solo de las celdas comunes.
+</p>
+<p>Las clases "colnder", "colnizq" o "colncen", no funcionan de modo regular si en la tabla se han unido varias celdas (mediante "colspan" o  "rowspan").
+</p>
+<p>El código fuente:
+</p>
+<p>Genera la siguiente tabla:
+</p>
+<p>Hemos complicado un poco esta tabla poniendo atributos de alineación a celdas y a filas enteras para que se pueda apreciar cómo se ponen los atributos a nivel de fila y a nivel de celda cuando las celdas se escriben sobre la misma línea de código.
+</p>
+<p>Obsérvese también que NO se pueden mezclar en una misma línea de código una celda de datos y una celda de título.
+</p>
+<p>Hay dos formas de especificar el color del texto y del fondo para cada celda individualmente:
+</p>
+<p>Como se ve <code>&lt;span style="color:white"&gt;</code> funciona para una sola celda, aún sin etiqueta de cierre: la etiqueta de cierre es añadida por el sistema. (<i>Nota: No se aconseja utilizar esta etiqueta, ya que está desaprobada en HTML 4 en beneficio del atributo style.</i>)
+</p>
+<p>Así mismo, se puede especificar el <b>tamaño del texto</b> y el <b>interlineado</b>, combinando los atributos:<br/>
+<code>style="font-size:85%;line-height:125%;"</code>
+</p>
+<p>Como otros parámetros, los colores pueden también ser especificados para una fila completa o para una tabla completa; los parámetros para una fila sobrescriben los valores para la tabla, y los de una celda sobrescriben los de la fila:
+</p>
+<p>El comando <code>font-weight: bold;</code> permite que el texto de color blanco aparezca en <b>negrita</b>.
+</p>
+<p>Los nombres de los colores que pueden emplearse en una tabla son:
+</p>
+<p>Los colores se pueden definir como la combinación de los tres colores básicos: rojo, verde y azul, según el <a class="mw-redirect" href="/wiki/Modelo_de_color_RGB" title="Modelo de color RGB">modelo de color RGB</a>. Para ello se emplea el signo almohadilla (#) seguido de los valores de rojo, verde y azul en <a class="mw-redirect" href="/wiki/Hexadecimal" title="Hexadecimal">hexadecimal</a>, como en los ejemplos siguientes:
+</p>
+<p>Los colores también se pueden definir a través de la <a href="/wiki/Plantilla:RGB" title="Plantilla:RGB">Plantilla:RGB</a> en la que con solo un parámetro que indica el color y un número se precisa la tonalidad deseada, tiene posibilidad de 50 colores con 11 tonalidades cada uno. Para más información consulte la <a href="/wiki/Plantilla:RGB" title="Plantilla:RGB">plantilla</a>; acá unos ejemplos:
+</p>
+<p>Las distintas órdenes en las que hay que especificar un grosor (como por ejemplo: <code>style="border: 1px solid;"</code>, para fijar el ancho de las líneas de contorno de una tabla) admiten distintas unidades de medida para especificarlas. Así, es posible establecer estos grosores en:
+</p>
+<p>Como se ha señalado, para las aplicaciones más frecuentes en las tablas, lo más habitual es utilizar <i>px</i>.
+</p>
+<p>Cuando es necesario especificar una longitud (como por ejemplo: <code>width=200px</code>, para fijar el ancho de una tabla o de una columna) también se pueden utilizar las unidades de medida descritas en el apartado anterior, siendo posible además utilizarse medidas <i>proporcionales</i>, del tipo <code>width=20%</code>.
+</p>
+<p>Debe tenerse en cuenta que:
+</p>
+<p>Las alturas en principio siguen el mismo criterio ya expuesto para los grosores.
+</p>
+<p>El ancho y el alto de toda la tabla puede ser especificado, así como también el alto de una fila. Para fijar el ancho de una columna se puede especificar el ancho en una celda cualquiera de la columna. Si no se especifica el ancho para todas las columnas, ni el alto de todas las filas, entonces habrá alguna ambigüedad, y el resultado dependerá del navegador.
+</p>
+<p>Da como resultado:
+</p>
+<p>Se pueden utilizar una serie de instrucciones para alinear el texto de una determinada manera en una <u><i>tabla entera</i></u>, o en <u><i>alguna de sus columnas</i></u>:
+</p>
+<p>Por ejemplo:
+</p>
+<p><u>TABLA TEXTO CENTRADO:</u>
+</p>
+<p><b>Código:</b>
+</p>
+<p><u>TABLA TEXTO IZQUIERDA:</u>
+</p>
+<p><b>Código:</b>
+</p>
+<p><u>TABLA TEXTO DERECHA:</u>
+</p>
+<p><b>Código:</b>
+</p>
+<p>También es posible combinar instrucciones para toda la tabla, y especificar la alineación particular de determinadas columnas:
+</p>
+<p><u>TABLA CON TEXTO ALINEADO POR COLUMNAS:</u>
+</p>
+<p><b>Código:</b>
+</p>
+<p>En este caso, se ha dispuesto primero que todas las columnas de la tabla vayan centradas, y luego se han fijado la columna 8 a la izquierda, y la 9 a la derecha. En la primera fila no se nota el efecto, porque el ancho de las celdas coincide con el de los textos.<br/>
+</p>
+<p>Para disponer verticalmente el texto de una celda, se debe utilizar el estilo <code>style= "writing-mode: vertical-rl; transform: rotate(180deg);"</code>. Este estilo alinea el texto vertical de abajo hacia arriba, y ordena las sucesivas líneas de izquierda a derecha.
+</p>
+<p>Si se utiliza <code>style="writing-mode: vertical-lr; transform: rotate(180deg);"</code>, las sucesivas líneas se ordenan de derecha hacia izquierda.
+</p>
+<p>El comando <code>style= transform: rotate(225deg);</code> permite orientar el texto en los grados que se desee (en este ejemplo, 225°).
+</p>
+<p>Por ejemplo:
+</p>
+<p><small>
+</small></p>
+<p><small></small>
+</p>
+<p>Se puede ubicar la tabla en sí, todo el contenido de una fila, y el contenido de una celda, pero no todo el contenido de una tabla con un solo parámetro. Lo habitual es utilizar <i>align</i> para el posicionado horizontal y <i>valign</i> para el vertical.
+</p>
+<p>Sin embargo, cuando se desea que una tabla se <i><b>alinee por debajo a continuación de UNA FICHA o de una IMAGEN</b></i>, es necesario utilizar los parámetros <code>class="floatright"</code> o <code>class="floatleft"</code>
+</p>
+<p>Por ejemplo:
+</p>
+<p>También puede especificarse el espaciado entre celdas (<i>cellspacing</i>), el espaciado del contenido de una celda respecto de sus bordes internos (<i>cellpadding</i>) y el margen de una tabla respecto de los elementos que están fuera de ella (<i>margin</i>) o el relleno (<i>padding</i>).
+</p>
+<p>La orden margin admite las expresiones <i>left</i>, <i>right</i>, <i>top</i> y <i>bottom</i>: 
+</p>
+<p>Los valores <i>npx</i> pueden sustituirse por la expresión <i>auto</i>. Si se cambian ambos, la tabla se centra automáticamente. También pueden utilizarse valores negativos, con lo que se pueden obtener efectos de superposición.
+</p>
+<p>Aquí hay un ejemplo más avanzado que muestra más opciones disponibles para «maquillar» tablas. Puede jugar con estos ajustes en su propia tabla para ver los efectos que tienen. No todas estas técnicas pueden ser apropiadas en todos los casos; ya que adicionar fondos coloreados, por ejemplo, puede no ser una buena idea. Trate de mantener el “maquillaje” en sus tablas relativamente simple –recuerde , otras personas estarán editando también el artículo. Este ejemplo le da una idea de lo que es posible.
+</p>
+<p>lado derecho
+</p>
+<p>Dos logos de Wikipedia
+</p>
+<p>Algunas tablas se pueden hacer ordenables añadiendo <tt>class="sortable"</tt> (información más detallada en <b><a class="extiw" href="https://en.wikipedia.org/wiki/Help:Sorting" title="en:Help:Sorting">Help:Sorting</a></b> (en inglés)). A pesar de ser muy útil, es importante mantener las posibilidades y limitaciones de la presentación presentes a la hora de diseñar una tabla. Por ejemplo:
+</p>
+<p>Una forma de contenido muy abreviada se puede poner en la leyenda fuera de la tabla.
+</p>
+<p>Se entiende por tablas <i>colapsables</i> aquellas cuyo contenido se puede mostrar u ocultar alternativamente pulsando el enlace que aparece en su cabecera, que es la única parte que en cualquier caso permanece siempre visible. Para que una tabla sea <i>colapsable</i> basta agregar la clase <code>mw-collapsible</code>. Para que aparezca el enlace [mostrar] / [ocultar], <u>la primera fila de la tabla debe ser una fila de encabezado</u>, es decir, una de las celdas de la primera fila debe declararse con un signo de exclamación. El uso de la clase <code>wikitable</code> en el siguiente ejemplo es únicamente para mostrar su apariencia; y no sería imprescindible para poder usar la función <code>mw-collapsible</code>. Añadiendo el comando <code>mw-collapsed</code>, la tabla aparece contraída (si se desea, el ancho de la tabla una vez contraída se puede controlar con el parámetro <code>style="min-width:100%;"</code>):
+</p>
+<p>Utilizando la sintaxis anterior, las tablas plegables se utilizan a menudo para mostrar solo una introducción o resumen de un párrafo muy largo o de una sección de contenido, al tiempo que se oculta la mayoría del contenido de su visión inmediata. El mensaje resumido se sitúa en la celda del encabezado y el contenido se coloca en el cuerpo de la celda. El contenido es accesible haciendo clic en el botón 'Extender'. La función también está disponible para tablas más grandes y más complicadas.
+</p>
+<p>Este tipo de tabla dispone de una ventana cuyo tamaño se puede fijar, con unos cursores laterales deslizantes que permiten visualizar el contenido de la tabla desplazándose verticalmente y/o horizontalmente por la ventana. Adicionalmente, también se pueden hacer colapsables.
+</p>
+<p><big><b>Ventana deslizante vertical:</b></big>
+</p>
+<p><b>NÚMEROS Y SUS EXPRESIONES</b>
+</p>
+<p>En el caso de que se desee que el interior de la ventana deslice horizontalmente, se debe utilizar el código siguiente:
+</p>
+<p><b>NOTA:</b> si la orden <code>&lt;div&gt;</code> se encuentra dentro de una celda de una tabla, es necesario fijar el ancho de la ventana con una declaración del tipo <code>width: 800px</code>. En caso contrario, funcionan correctamente las declaraciones del tipo <code>width: 100%</code>, como en el ejemplo siguiente:
+</p>
+<p>Se puede agregar la clase <code>striped</code> para que la tabla muestre las <a href="/wiki/Papel_pijama" title="Papel pijama">líneas alternativamente</a> de distinto color. Esto es útil para ayudar a visualizar las líneas cuando la tabla es ancha y no tiene bordes y especialmente en tablas ordenables, pues no se descolocan los colores programados al ordenar las columnas.
+</p>
+<p>Ejemplo de tabla con colores usando <code>class="wikitable sortable"</code> y marcando las filas pares con <code>bgcolor="yellow"</code>:
+</p>
+<p>Mismo ejemplo con <code>class="wikitable sortable <b>striped</b>"</code> y prescindiendo de los colores personalizados:
+</p>
+<p>Mismo ejemplo con <code>class="wikitable sortable <b>striped</b>"</code> y personalizando los colores en toda la tabla con <code>style="background-color:yellow;"</code>:
+</p>
+<p>Para fusionar filas se utiliza <code>|rowspan=número de celdas a fusionar|</code>:
+</p>
+<p><br/>
+</p>
+<p>No se debe olvidar que esas celdas ya estarán fusionadas, por lo que quedarán obviadas en el código. En el ejemplo se puede ver que se ha obviado introducir el contenido de la celda de la columna 2, fila 2.
+</p>
+<p>Para fusionar columnas se utiliza <code>|colspan=número de celdas a fusionar|</code>:
+</p>
+<p><br/><br/>
+</p>
+<p>Como en el caso anterior, no debe olvidarse que esas celdas ya estarán fusionadas, por lo que quedarán obviadas en el código. En el ejemplo puede verse que se ha obviado introducir el contenido de la celda de la Fila 1, columna 2.
+</p>
+<p>No debe olvidarse que <b>las tablas anidadas deben comenzar obligatoriamente en una nueva línea.</b>
+</p>
+<p>Otros tipos de sintaxis de tablas que soporta MediaWiki son:
+</p>
+<p>Los tres son compatibles con MediaWiki y crean (actualmente) una visualización HTML válida, pero la sintaxis con barras verticales es la más simple, excepto tal vez para las personas que ya están familiarizadas con HTML. También, HTML y sintaxis wiki &lt;td&gt; no necesariamente permanecerán soportadas por los navegadores en el futuro por venir, especialmente por las computadoras de mano (handheld) con posibilidad de acceder a internet.
+</p>
+<p>Véase también <a class="extiw" href="https://en.wikipedia.org/wiki/HTML_element#Tables" title="w:HTML element">HTML element#Tables</a> (en Wikipedia en inglés).
+</p>
+<p>&lt;td&gt;celda1&lt;/td&gt;<br/>
+&lt;td&gt;celda2&lt;/td&gt;
+</p>
+<p>&lt;td&gt;celda1<br/>
+&lt;td&gt;celda2
+</p>
+<p>Puede ser previsualizado/depurado con cualquier editor XHTML
+</p>
+<p>Puede dársele un formato para mejor lectura
+</p>
+<p>Bien conocido
+</p>
+<p>Puede ser previsualizado/depurado con cualquier editor HTML
+</p>
+<p>Puede dársele un formato para mejor lectura
+</p>
+<p>Bien conocido
+</p>
+<p>Ocupa menos espacio que XHTML
+</p>
+<p>Fácil de escribir
+</p>
+<p>Fácil de leer
+</p>
+<p>Ocupa menos espacio
+</p>
+<p>Tedioso
+</p>
+<p>Ocupa mucho espacio
+</p>
+<p>Difícil de leer rápidamente
+</p>
+<p>Confusa, especialmente para gente con poca experiencia en HTML
+</p>
+<p>Formato pobre
+</p>
+<p>Pobremente desarrollado
+</p>
+<p>Generalmente tiene aspecto raro
+</p>
+<p>Puede no tener soporte de navegadores en el futuro
+</p>
+<p>Sintaxis no familiar
+</p>
+<p>Estructura rígida
+</p>
+<p>No se pueden colocar sangrías
+</p>
+<p>El texto (como en etiquetas HTML) puede ser más fácil de leer para algunas personas que series de barras verticales, signos de suma, de exclamación, etc. 
+</p>
+<p>La sintaxis de barras verticales, desarrollada por <a class="extiw" href="https://meta.wikimedia.org/wiki/User:Magnus_Manske" title="m:User:Magnus Manske"> Magnus Manske</a>, substituye barras verticales (|) por HTML. Las barras verticales deben estar al comienzo de una nueva línea, excepto cuando separan parámetros de contenido o cuando se usan dos barras verticales seguidas <tt>||</tt> para separar celdas en una misma línea. Los parámetros son opcionales.
+</p>
+<p>Una tabla está definida por
+
+ {| ''parámetros''
+ |}
+
+que genera el código HTML "&lt;table <i>parámetros</i>&gt;"&lt;/table&gt;
+</p>
+<p>En cada tabla, la etiqueta HTML &lt;tr&gt; será generada automáticamente para la primera fila. Para comenzar una nueva fila, use
+</p>
+<p>que genera otra etiqueta &lt;tr&gt;
+</p>
+<p>Se pueden añadir los parámetros de la siguiente forma:
+</p>
+<p>que genera &lt;tr <i>parámetros</i>&gt;
+</p>
+<p>Nota:
+</p>
+<p>Las celdas son generadas de las siguientes formas, así:
+</p>
+<p>o bien así:
+</p>
+<p>ambas generan el código 
+"&lt;td&gt;celda1&lt;/td&gt;&lt;td&gt;celda2&lt;/td&gt;&lt;td&gt;celda3&lt;/td&gt;". La "||" equivale a escribir una nueva línea + "|".
+</p>
+<p>Se pueden usar parámetros en las celdas de la siguiente forma:
+</p>
+<p>que dará como resultado 
+</p>
+<p>Funcionan de la misma forma que TD, excepto que se debe usar "!" en lugar de "|" para abrirlas. También se puede usar "!!" en vez de "||". Sin embargo para los parámetros se sigue usando "|". Ejemplo:
+</p>
+<p>La etiqueta &lt;tdcaption&gt; se crea con
+</p>
+<p>que genera el código HTML
+"&lt;caption&gt;Título&lt;/caption&gt;".
+</p>
+<p>También puede usar parámetros:
+</p>
+<p>que generará "&lt;caption <i>parámetros</i>&gt;Título&lt;/caption&gt;".
+</p>
+<p>Las plantillas también utilizan el carácter de barra vertical para su funcionamiento, por lo que las barras verticales de una tabla situada en el interior de una plantilla pueden interferir con las del código de la propia plantilla. Para evitarlo, se sustituyen las barras verticales de la tabla por <code>{{!}}</code>. Por ejemplo, la siguiente tabla:
+</p>
+<p>Puede ser sustuituida por el siguiente código, manteniendo la misma funcionalidad:
+</p>
+<p>Este código puede ser introducido en una plantilla, como en el siguiente ejemplo:
+</p>
+<p>Dando el siguiente resultado:
+</p>
+<p><i>(Para ver los efectos debes aumentar o disminuir el tamaño de la fuente del navegador; también puedes cambiar el ancho de la ventana del navegador.)</i>
+</p>
+<p>Se puede usar <code>align="right"</code> para que el texto que sigue a la tabla aparezca a la izquierda de la misma:
+</p>
+<p><br/>
+</p>
+<p>Aquí comienza el texto inmediatamente después de la tabla de multiplicar 5*3.
+<br clear="all"/>
+Y sigo escribiendo más cosas después de la tabla relativas a las propias tablas de multiplicar números enteros...
+</p>
+<p>Sin embargo, <b>no se puede colocar texto preformateado</b> porque este puede solaparse a la tabla. <br/>
+Para prevenir esto usa <code>&lt;br style="clear:both;"&gt;</code>:
+</p>
+<p><br/><br/>
+</p>
+<p>Aquí comienza el texto inmediatamente después de la tabla de multiplicar 4*3…  ahora viene el salto especificado con el comando BR: <br style="clear:both;"/>
+Y sigo escribiendo más cosas después de la tabla relativas a las propias tablas de multiplicar números enteros...
+</p>
+<p>El texto preformateado empezaría solo después de que la tabla termine. 
+</p>
+<p>Se puede usar <code>align="left"</code>, y la tabla aparecerá a la izquierda y el texto que sigue a la misma a la derecha (pero posiblemente demasiado cerca):
+</p>
+<p><br clear="all"/>
+Y sigo escribiendo a continuación...
+</p>
+<p>Para crear espacio alrededor de una tabla, imagen o texto, crea una tabla de 1×1 alrededor de estos elementos con «cellpadding»:
+</p>
+<p><br clear="all"/>
+</p>
+<p>Si quieres forzar el ancho de columna de acuerdo a tus necesidades en vez de aceptar el ancho del mayor elemento en una celda de una columna, sigue este ejemplo. Nótese que el espacio alrededor del texto está impuesto. La instrucción utilizada es <code>width=<i>n</i>px</code> (que fija el ancho en <i>n</i>px; también admite el formato con el valor entrecomillado en la forma <code>width="<i>n</i>"</code>); pudiendo usarse también el formato <code>width=<i>p</i>%</code> (donde <i>p</i> es el porcentaje del ancho de la tabla que se desea utilizar). Esta orden (en sus dos formatos) se pueden aplicar tanto a columnas individuales como a tablas completas (por ejemplo, fijando el ancho total de la tabla en su encabezamiento en <i>n</i>px, y repartiendo las columnas en <i>p</i>%).
+</p>
+<p><b>Resultado:</b>
+</p>
+<p>En el siguiente ejemplo se muestra el procedimiento para forzar la altura de una fila (o de una tabla completa) en vez de aceptar por defecto la altura del mayor elemento de las celdas que la componen. En este caso, se ha fijado la altura total de la tabla en <code>300px</code> con el comando que figura en la cabecera <code>style="height: 300px;"</code>, y después se reparte proporcionalmente entre las filas mediante las órdenes <code>height=<i>p</i>%</code> (también se podrían utilizar con los formatos <code>height=<i>n</i>px</code> y <code>height="<i>n</i>"</code>).
+</p>
+<p><b>Resultado:</b>
+</p>
+<p>Al comienzo de una celda adiciona su parámetro seguido de una sola barra vertical. Por ejemplo <code>width=300px|</code> esto determinará una celda con un ancho de 300 píxeles. Para establecer más de un parámetro deja un espacio entre cada uno.
+</p>
+<p><br/><br/>
+</p>
+<p>Un método para obtener columnas de números alineadas en el <a href="/wiki/Separador_decimal" title="Separador decimal">separador decimal</a> es como sigue:
+</p>
+<p>En casos simples se puede regular manualmente el encolumnado de la tabla, y simplemente comenzar la línea con un espacio y poniendo espacios en la posición de los números faltantes:
+</p>
+<p>Existen clases CSS para hacer tablas con estilo más fácilmente. En vez de recordar parámetros de tablas puede incluir una clase de estilo apropiada después de <code>{|</code>.  Esta ayuda conserva el formato de tablas consistente y puede permitir que un simple cambio en la plantilla repare un problema o realce la apariencia de todas las tablas que la usen. 
+</p>
+<p>simplemente reemplazando la sección <code>border="1" cellpadding="2"</code> por <code><b>class="wikitable" border="1"</b></code>.
+</p>
+<p>Como un subproducto de la característica de galería de imágenes, una tabla puede ser hecha con una etiqueta de galería; si una entrada de texto contiene un enlace, la entrada entera es ignorada.
+</p>
+<p>da:
+</p>
+<p>Para generar diagramas de barras, se pueden utilizar celdas conteniendo comandos del tipo:<br/>
+</p>
+<p>donde <i>width:</i> indica el ancho de la barra en píxeles, <i>height:</i> su altura también en píxeles, y <i>background:</i> el color de la barra.<br/>
+<br/>
+Por ejemplo, el código:
+</p>
+<p>produce el resultado siguiente:
+</p>
+<p>En este caso, se ha mantenido la proporcionalidad entre las cifras de producción y la superficie de las barras, jugando con su longitud y su altura. En el caso de "China", cuya producción es 1600 tm, la barra mide 400px de longitud, pero su anchura es 32px, 4 veces más que la del resto de barras, que miden 8px de altura.
+</p>
+<p>En Wikipedia, una <b>tabla</b> es una forma de representar mucha información de manera esquematizada, ordenada y compacta. Aunque Wikipedia acepta el código <a href="/wiki/HTML" title="HTML">HTML</a> para la creación de tablas como en cualquier <a href="/wiki/P%C3%A1gina_web" title="Página web">página web</a>, posee también un código propio, cuya <a href="/wiki/Sintaxis" title="Sintaxis">sintaxis</a> basada en barras verticales resulta bastante más limpia y compacta.
+</p>
+<p>Los parámetros de tabla y de celdas son los mismos como en HTML, ver <a class="external autonumber" href="http://www.w3.org/TR/html401/struct/tables.html#edef-TABLE" rel="nofollow">[1]</a> (página en inglés) y <a class="extiw" href="https://en.wikipedia.org/wiki/HTML_element#Tables" title="w:HTML element">HTML element#Tables</a> (wiki en inglés). Sin embargo los elementos <tt>thead</tt>, <tt>tbody</tt>, <tt>tfoot</tt>, <tt>colgroup</tt> y <tt>col</tt> actualmente no son <a class="mw-redirect" href="/wiki/Html#Permitted_HTML" title="Html">soportados en MediaWiki</a>.
+</p>
+<p>Una tabla puede ser útil aún si ninguna de sus celdas tiene contenido, notablemente porque con el uso de colores de fondo de celdas la tabla puede ser un diagrama; véase por ejemplo <a href="/wiki/Ajedrez#El_tablero_de_ajedrez" title="Ajedrez">Ajedrez#El tablero de ajedrez</a>. En algunos casos, una "imagen" en forma de tabla es mucho más conveniente para ser editada que un archivo de imagen propiamente dicho.
+</p>
+<p>Cada fila debe tener el mismo número de celdas que las otras filas, así la cantidad de columnas en la tabla continúa siendo consistente (a menos que haya celdas que abarquen varias columnas o filas, véase <tt>colspan</tt> y <tt>rowspan</tt> en ejemplo mezcla más abajo). Para celdas vacías, use el espacio “non-breaking” <tt>&amp;nbsp;</tt> como contenido para asegurar que las celdas sean mostradas.
+</p>
+<p>Como se expone a continuación, para simplificar el problema del código redundante necesario en muchas ocasiones para definir tablas por el procedimiento descrito anteriormente, se dispone de la opción <b><code>class="wikitable"</code></b>, que facilita <b>TABLAS PREDEFINIDAS</b> (que aquí se denominan de forma abreviada <i>Wikitablas</i>), dotadas de una apariencia estandarizada, y que son mucho más fácilmente configurables y con menos necesidad de código que las aquí denominadas a partir de ahora <i>Tablas normales</i> (es decir, las que no tienen declarado el parámetro "class="). 
+</p>
+<p><br/>
+</p>
+<p><br/>
+</p>
+<p><br/>
+</p>
+<p>Los bloques de código fuente:
+</p>
+<p>y
+</p>
+<p>Ambos generan:
+</p>
+<p>Para alinear las columnas a la izquierda, derecha o centro, se utilizan las clases “<tt>col<b>n</b>izq</tt>”, “<tt>col<b>n</b>der</tt>” y “<tt>col<b>n</b>cen</tt>”, donde <tt><b>n</b></tt> se reemplaza por el número de columna. Para anular esta preferencia en una celda particular, se puede usar <tt>style="text-align:..."</tt> en la misma celda.
+</p>
+<p>Las clases no cambian la alineación de los encabezados, solo de las celdas comunes.
+</p>
+<p>Las clases "colnder", "colnizq" o "colncen", no funcionan de modo regular si en la tabla se han unido varias celdas (mediante "colspan" o  "rowspan").
+</p>
+<p>El código fuente:
+</p>
+<p>Genera la siguiente tabla:
+</p>
+<p>Hemos complicado un poco esta tabla poniendo atributos de alineación a celdas y a filas enteras para que se pueda apreciar cómo se ponen los atributos a nivel de fila y a nivel de celda cuando las celdas se escriben sobre la misma línea de código.
+</p>
+<p>Obsérvese también que NO se pueden mezclar en una misma línea de código una celda de datos y una celda de título.
+</p>
+<p>Hay dos formas de especificar el color del texto y del fondo para cada celda individualmente:
+</p>
+<p>Como se ve <code>&lt;span style="color:white"&gt;</code> funciona para una sola celda, aún sin etiqueta de cierre: la etiqueta de cierre es añadida por el sistema. (<i>Nota: No se aconseja utilizar esta etiqueta, ya que está desaprobada en HTML 4 en beneficio del atributo style.</i>)
+</p>
+<p>Así mismo, se puede especificar el <b>tamaño del texto</b> y el <b>interlineado</b>, combinando los atributos:<br/>
+<code>style="font-size:85%;line-height:125%;"</code>
+</p>
+<p>Como otros parámetros, los colores pueden también ser especificados para una fila completa o para una tabla completa; los parámetros para una fila sobrescriben los valores para la tabla, y los de una celda sobrescriben los de la fila:
+</p>
+<p>El comando <code>font-weight: bold;</code> permite que el texto de color blanco aparezca en <b>negrita</b>.
+</p>
+<p>Los nombres de los colores que pueden emplearse en una tabla son:
+</p>
+<p>Los colores se pueden definir como la combinación de los tres colores básicos: rojo, verde y azul, según el <a class="mw-redirect" href="/wiki/Modelo_de_color_RGB" title="Modelo de color RGB">modelo de color RGB</a>. Para ello se emplea el signo almohadilla (#) seguido de los valores de rojo, verde y azul en <a class="mw-redirect" href="/wiki/Hexadecimal" title="Hexadecimal">hexadecimal</a>, como en los ejemplos siguientes:
+</p>
+<p>Los colores también se pueden definir a través de la <a href="/wiki/Plantilla:RGB" title="Plantilla:RGB">Plantilla:RGB</a> en la que con solo un parámetro que indica el color y un número se precisa la tonalidad deseada, tiene posibilidad de 50 colores con 11 tonalidades cada uno. Para más información consulte la <a href="/wiki/Plantilla:RGB" title="Plantilla:RGB">plantilla</a>; acá unos ejemplos:
+</p>
+<p>Las distintas órdenes en las que hay que especificar un grosor (como por ejemplo: <code>style="border: 1px solid;"</code>, para fijar el ancho de las líneas de contorno de una tabla) admiten distintas unidades de medida para especificarlas. Así, es posible establecer estos grosores en:
+</p>
+<p>Como se ha señalado, para las aplicaciones más frecuentes en las tablas, lo más habitual es utilizar <i>px</i>.
+</p>
+<p>Cuando es necesario especificar una longitud (como por ejemplo: <code>width=200px</code>, para fijar el ancho de una tabla o de una columna) también se pueden utilizar las unidades de medida descritas en el apartado anterior, siendo posible además utilizarse medidas <i>proporcionales</i>, del tipo <code>width=20%</code>.
+</p>
+<p>Debe tenerse en cuenta que:
+</p>
+<p>Las alturas en principio siguen el mismo criterio ya expuesto para los grosores.
+</p>
+<p>El ancho y el alto de toda la tabla puede ser especificado, así como también el alto de una fila. Para fijar el ancho de una columna se puede especificar el ancho en una celda cualquiera de la columna. Si no se especifica el ancho para todas las columnas, ni el alto de todas las filas, entonces habrá alguna ambigüedad, y el resultado dependerá del navegador.
+</p>
+<p>Da como resultado:
+</p>
+<p>Se pueden utilizar una serie de instrucciones para alinear el texto de una determinada manera en una <u><i>tabla entera</i></u>, o en <u><i>alguna de sus columnas</i></u>:
+</p>
+<p>Por ejemplo:
+</p>
+<p><u>TABLA TEXTO CENTRADO:</u>
+</p>
+<p><b>Código:</b>
+</p>
+<p><u>TABLA TEXTO IZQUIERDA:</u>
+</p>
+<p><b>Código:</b>
+</p>
+<p><u>TABLA TEXTO DERECHA:</u>
+</p>
+<p><b>Código:</b>
+</p>
+<p>También es posible combinar instrucciones para toda la tabla, y especificar la alineación particular de determinadas columnas:
+</p>
+<p><u>TABLA CON TEXTO ALINEADO POR COLUMNAS:</u>
+</p>
+<p><b>Código:</b>
+</p>
+<p>En este caso, se ha dispuesto primero que todas las columnas de la tabla vayan centradas, y luego se han fijado la columna 8 a la izquierda, y la 9 a la derecha. En la primera fila no se nota el efecto, porque el ancho de las celdas coincide con el de los textos.<br/>
+</p>
+<p>Para disponer verticalmente el texto de una celda, se debe utilizar el estilo <code>style= "writing-mode: vertical-rl; transform: rotate(180deg);"</code>. Este estilo alinea el texto vertical de abajo hacia arriba, y ordena las sucesivas líneas de izquierda a derecha.
+</p>
+<p>Si se utiliza <code>style="writing-mode: vertical-lr; transform: rotate(180deg);"</code>, las sucesivas líneas se ordenan de derecha hacia izquierda.
+</p>
+<p>El comando <code>style= transform: rotate(225deg);</code> permite orientar el texto en los grados que se desee (en este ejemplo, 225°).
+</p>
+<p>Por ejemplo:
+</p>
+<p><small>
+</small></p>
+<p><small></small>
+</p>
+<p>Se puede ubicar la tabla en sí, todo el contenido de una fila, y el contenido de una celda, pero no todo el contenido de una tabla con un solo parámetro. Lo habitual es utilizar <i>align</i> para el posicionado horizontal y <i>valign</i> para el vertical.
+</p>
+<p>Sin embargo, cuando se desea que una tabla se <i><b>alinee por debajo a continuación de UNA FICHA o de una IMAGEN</b></i>, es necesario utilizar los parámetros <code>class="floatright"</code> o <code>class="floatleft"</code>
+</p>
+<p>Por ejemplo:
+</p>
+<p>También puede especificarse el espaciado entre celdas (<i>cellspacing</i>), el espaciado del contenido de una celda respecto de sus bordes internos (<i>cellpadding</i>) y el margen de una tabla respecto de los elementos que están fuera de ella (<i>margin</i>) o el relleno (<i>padding</i>).
+</p>
+<p>La orden margin admite las expresiones <i>left</i>, <i>right</i>, <i>top</i> y <i>bottom</i>: 
+</p>
+<p>Los valores <i>npx</i> pueden sustituirse por la expresión <i>auto</i>. Si se cambian ambos, la tabla se centra automáticamente. También pueden utilizarse valores negativos, con lo que se pueden obtener efectos de superposición.
+</p>
+<p>Aquí hay un ejemplo más avanzado que muestra más opciones disponibles para «maquillar» tablas. Puede jugar con estos ajustes en su propia tabla para ver los efectos que tienen. No todas estas técnicas pueden ser apropiadas en todos los casos; ya que adicionar fondos coloreados, por ejemplo, puede no ser una buena idea. Trate de mantener el “maquillaje” en sus tablas relativamente simple –recuerde , otras personas estarán editando también el artículo. Este ejemplo le da una idea de lo que es posible.
+</p>
+<p>lado derecho
+</p>
+<p>Dos logos de Wikipedia
+</p>
+<p>Algunas tablas se pueden hacer ordenables añadiendo <tt>class="sortable"</tt> (información más detallada en <b><a class="extiw" href="https://en.wikipedia.org/wiki/Help:Sorting" title="en:Help:Sorting">Help:Sorting</a></b> (en inglés)). A pesar de ser muy útil, es importante mantener las posibilidades y limitaciones de la presentación presentes a la hora de diseñar una tabla. Por ejemplo:
+</p>
+<p>Una forma de contenido muy abreviada se puede poner en la leyenda fuera de la tabla.
+</p>
+<p>Se entiende por tablas <i>colapsables</i> aquellas cuyo contenido se puede mostrar u ocultar alternativamente pulsando el enlace que aparece en su cabecera, que es la única parte que en cualquier caso permanece siempre visible. Para que una tabla sea <i>colapsable</i> basta agregar la clase <code>mw-collapsible</code>. Para que aparezca el enlace [mostrar] / [ocultar], <u>la primera fila de la tabla debe ser una fila de encabezado</u>, es decir, una de las celdas de la primera fila debe declararse con un signo de exclamación. El uso de la clase <code>wikitable</code> en el siguiente ejemplo es únicamente para mostrar su apariencia; y no sería imprescindible para poder usar la función <code>mw-collapsible</code>. Añadiendo el comando <code>mw-collapsed</code>, la tabla aparece contraída (si se desea, el ancho de la tabla una vez contraída se puede controlar con el parámetro <code>style="min-width:100%;"</code>):
+</p>
+<p>Utilizando la sintaxis anterior, las tablas plegables se utilizan a menudo para mostrar solo una introducción o resumen de un párrafo muy largo o de una sección de contenido, al tiempo que se oculta la mayoría del contenido de su visión inmediata. El mensaje resumido se sitúa en la celda del encabezado y el contenido se coloca en el cuerpo de la celda. El contenido es accesible haciendo clic en el botón 'Extender'. La función también está disponible para tablas más grandes y más complicadas.
+</p>
+<p>Este tipo de tabla dispone de una ventana cuyo tamaño se puede fijar, con unos cursores laterales deslizantes que permiten visualizar el contenido de la tabla desplazándose verticalmente y/o horizontalmente por la ventana. Adicionalmente, también se pueden hacer colapsables.
+</p>
+<p><big><b>Ventana deslizante vertical:</b></big>
+</p>
+<p><b>NÚMEROS Y SUS EXPRESIONES</b>
+</p>
+<p>En el caso de que se desee que el interior de la ventana deslice horizontalmente, se debe utilizar el código siguiente:
+</p>
+<p><b>NOTA:</b> si la orden <code>&lt;div&gt;</code> se encuentra dentro de una celda de una tabla, es necesario fijar el ancho de la ventana con una declaración del tipo <code>width: 800px</code>. En caso contrario, funcionan correctamente las declaraciones del tipo <code>width: 100%</code>, como en el ejemplo siguiente:
+</p>
+<p>Se puede agregar la clase <code>striped</code> para que la tabla muestre las <a href="/wiki/Papel_pijama" title="Papel pijama">líneas alternativamente</a> de distinto color. Esto es útil para ayudar a visualizar las líneas cuando la tabla es ancha y no tiene bordes y especialmente en tablas ordenables, pues no se descolocan los colores programados al ordenar las columnas.
+</p>
+<p>Ejemplo de tabla con colores usando <code>class="wikitable sortable"</code> y marcando las filas pares con <code>bgcolor="yellow"</code>:
+</p>
+<p>Mismo ejemplo con <code>class="wikitable sortable <b>striped</b>"</code> y prescindiendo de los colores personalizados:
+</p>
+<p>Mismo ejemplo con <code>class="wikitable sortable <b>striped</b>"</code> y personalizando los colores en toda la tabla con <code>style="background-color:yellow;"</code>:
+</p>
+<p>Para fusionar filas se utiliza <code>|rowspan=número de celdas a fusionar|</code>:
+</p>
+<p><br/>
+</p>
+<p>No se debe olvidar que esas celdas ya estarán fusionadas, por lo que quedarán obviadas en el código. En el ejemplo se puede ver que se ha obviado introducir el contenido de la celda de la columna 2, fila 2.
+</p>
+<p>Para fusionar columnas se utiliza <code>|colspan=número de celdas a fusionar|</code>:
+</p>
+<p><br/><br/>
+</p>
+<p>Como en el caso anterior, no debe olvidarse que esas celdas ya estarán fusionadas, por lo que quedarán obviadas en el código. En el ejemplo puede verse que se ha obviado introducir el contenido de la celda de la Fila 1, columna 2.
+</p>
+<p>No debe olvidarse que <b>las tablas anidadas deben comenzar obligatoriamente en una nueva línea.</b>
+</p>
+<p>Otros tipos de sintaxis de tablas que soporta MediaWiki son:
+</p>
+<p>Los tres son compatibles con MediaWiki y crean (actualmente) una visualización HTML válida, pero la sintaxis con barras verticales es la más simple, excepto tal vez para las personas que ya están familiarizadas con HTML. También, HTML y sintaxis wiki &lt;td&gt; no necesariamente permanecerán soportadas por los navegadores en el futuro por venir, especialmente por las computadoras de mano (handheld) con posibilidad de acceder a internet.
+</p>
+<p>Véase también <a class="extiw" href="https://en.wikipedia.org/wiki/HTML_element#Tables" title="w:HTML element">HTML element#Tables</a> (en Wikipedia en inglés).
+</p>
+<p>&lt;td&gt;celda1&lt;/td&gt;<br/>
+&lt;td&gt;celda2&lt;/td&gt;
+</p>
+<p>&lt;td&gt;celda1<br/>
+&lt;td&gt;celda2
+</p>
+<p>Puede ser previsualizado/depurado con cualquier editor XHTML
+</p>
+<p>Puede dársele un formato para mejor lectura
+</p>
+<p>Bien conocido
+</p>
+<p>Puede ser previsualizado/depurado con cualquier editor HTML
+</p>
+<p>Puede dársele un formato para mejor lectura
+</p>
+<p>Bien conocido
+</p>
+<p>Ocupa menos espacio que XHTML
+</p>
+<p>Fácil de escribir
+</p>
+<p>Fácil de leer
+</p>
+<p>Ocupa menos espacio
+</p>
+<p>Tedioso
+</p>
+<p>Ocupa mucho espacio
+</p>
+<p>Difícil de leer rápidamente
+</p>
+<p>Confusa, especialmente para gente con poca experiencia en HTML
+</p>
+<p>Formato pobre
+</p>
+<p>Pobremente desarrollado
+</p>
+<p>Generalmente tiene aspecto raro
+</p>
+<p>Puede no tener soporte de navegadores en el futuro
+</p>
+<p>Sintaxis no familiar
+</p>
+<p>Estructura rígida
+</p>
+<p>No se pueden colocar sangrías
+</p>
+<p>El texto (como en etiquetas HTML) puede ser más fácil de leer para algunas personas que series de barras verticales, signos de suma, de exclamación, etc. 
+</p>
+<p>La sintaxis de barras verticales, desarrollada por <a class="extiw" href="https://meta.wikimedia.org/wiki/User:Magnus_Manske" title="m:User:Magnus Manske"> Magnus Manske</a>, substituye barras verticales (|) por HTML. Las barras verticales deben estar al comienzo de una nueva línea, excepto cuando separan parámetros de contenido o cuando se usan dos barras verticales seguidas <tt>||</tt> para separar celdas en una misma línea. Los parámetros son opcionales.
+</p>
+<p>Una tabla está definida por
+
+ {| ''parámetros''
+ |}
+
+que genera el código HTML "&lt;table <i>parámetros</i>&gt;"&lt;/table&gt;
+</p>
+<p>En cada tabla, la etiqueta HTML &lt;tr&gt; será generada automáticamente para la primera fila. Para comenzar una nueva fila, use
+</p>
+<p>que genera otra etiqueta &lt;tr&gt;
+</p>
+<p>Se pueden añadir los parámetros de la siguiente forma:
+</p>
+<p>que genera &lt;tr <i>parámetros</i>&gt;
+</p>
+<p>Nota:
+</p>
+<p>Las celdas son generadas de las siguientes formas, así:
+</p>
+<p>o bien así:
+</p>
+<p>ambas generan el código 
+"&lt;td&gt;celda1&lt;/td&gt;&lt;td&gt;celda2&lt;/td&gt;&lt;td&gt;celda3&lt;/td&gt;". La "||" equivale a escribir una nueva línea + "|".
+</p>
+<p>Se pueden usar parámetros en las celdas de la siguiente forma:
+</p>
+<p>que dará como resultado 
+</p>
+<p>Funcionan de la misma forma que TD, excepto que se debe usar "!" en lugar de "|" para abrirlas. También se puede usar "!!" en vez de "||". Sin embargo para los parámetros se sigue usando "|". Ejemplo:
+</p>
+<p>La etiqueta &lt;tdcaption&gt; se crea con
+</p>
+<p>que genera el código HTML
+"&lt;caption&gt;Título&lt;/caption&gt;".
+</p>
+<p>También puede usar parámetros:
+</p>
+<p>que generará "&lt;caption <i>parámetros</i>&gt;Título&lt;/caption&gt;".
+</p>
+<p>Las plantillas también utilizan el carácter de barra vertical para su funcionamiento, por lo que las barras verticales de una tabla situada en el interior de una plantilla pueden interferir con las del código de la propia plantilla. Para evitarlo, se sustituyen las barras verticales de la tabla por <code>{{!}}</code>. Por ejemplo, la siguiente tabla:
+</p>
+<p>Puede ser sustuituida por el siguiente código, manteniendo la misma funcionalidad:
+</p>
+<p>Este código puede ser introducido en una plantilla, como en el siguiente ejemplo:
+</p>
+<p>Dando el siguiente resultado:
+</p>
+<p><i>(Para ver los efectos debes aumentar o disminuir el tamaño de la fuente del navegador; también puedes cambiar el ancho de la ventana del navegador.)</i>
+</p>
+<p>Se puede usar <code>align="right"</code> para que el texto que sigue a la tabla aparezca a la izquierda de la misma:
+</p>
+<p><br/>
+</p>
+<p>Aquí comienza el texto inmediatamente después de la tabla de multiplicar 5*3.
+<br clear="all"/>
+Y sigo escribiendo más cosas después de la tabla relativas a las propias tablas de multiplicar números enteros...
+</p>
+<p>Sin embargo, <b>no se puede colocar texto preformateado</b> porque este puede solaparse a la tabla. <br/>
+Para prevenir esto usa <code>&lt;br style="clear:both;"&gt;</code>:
+</p>
+<p><br/><br/>
+</p>
+<p>Aquí comienza el texto inmediatamente después de la tabla de multiplicar 4*3…  ahora viene el salto especificado con el comando BR: <br style="clear:both;"/>
+Y sigo escribiendo más cosas después de la tabla relativas a las propias tablas de multiplicar números enteros...
+</p>
+<p>El texto preformateado empezaría solo después de que la tabla termine. 
+</p>
+<p>Se puede usar <code>align="left"</code>, y la tabla aparecerá a la izquierda y el texto que sigue a la misma a la derecha (pero posiblemente demasiado cerca):
+</p>
+<p><br clear="all"/>
+Y sigo escribiendo a continuación...
+</p>
+<p>Para crear espacio alrededor de una tabla, imagen o texto, crea una tabla de 1×1 alrededor de estos elementos con «cellpadding»:
+</p>
+<p><br clear="all"/>
+</p>
+<p>Si quieres forzar el ancho de columna de acuerdo a tus necesidades en vez de aceptar el ancho del mayor elemento en una celda de una columna, sigue este ejemplo. Nótese que el espacio alrededor del texto está impuesto. La instrucción utilizada es <code>width=<i>n</i>px</code> (que fija el ancho en <i>n</i>px; también admite el formato con el valor entrecomillado en la forma <code>width="<i>n</i>"</code>); pudiendo usarse también el formato <code>width=<i>p</i>%</code> (donde <i>p</i> es el porcentaje del ancho de la tabla que se desea utilizar). Esta orden (en sus dos formatos) se pueden aplicar tanto a columnas individuales como a tablas completas (por ejemplo, fijando el ancho total de la tabla en su encabezamiento en <i>n</i>px, y repartiendo las columnas en <i>p</i>%).
+</p>
+<p><b>Resultado:</b>
+</p>
+<p>En el siguiente ejemplo se muestra el procedimiento para forzar la altura de una fila (o de una tabla completa) en vez de aceptar por defecto la altura del mayor elemento de las celdas que la componen. En este caso, se ha fijado la altura total de la tabla en <code>300px</code> con el comando que figura en la cabecera <code>style="height: 300px;"</code>, y después se reparte proporcionalmente entre las filas mediante las órdenes <code>height=<i>p</i>%</code> (también se podrían utilizar con los formatos <code>height=<i>n</i>px</code> y <code>height="<i>n</i>"</code>).
+</p>
+<p><b>Resultado:</b>
+</p>
+<p>Al comienzo de una celda adiciona su parámetro seguido de una sola barra vertical. Por ejemplo <code>width=300px|</code> esto determinará una celda con un ancho de 300 píxeles. Para establecer más de un parámetro deja un espacio entre cada uno.
+</p>
+<p><br/><br/>
+</p>
+<p>Un método para obtener columnas de números alineadas en el <a href="/wiki/Separador_decimal" title="Separador decimal">separador decimal</a> es como sigue:
+</p>
+<p>En casos simples se puede regular manualmente el encolumnado de la tabla, y simplemente comenzar la línea con un espacio y poniendo espacios en la posición de los números faltantes:
+</p>
+<p>Existen clases CSS para hacer tablas con estilo más fácilmente. En vez de recordar parámetros de tablas puede incluir una clase de estilo apropiada después de <code>{|</code>.  Esta ayuda conserva el formato de tablas consistente y puede permitir que un simple cambio en la plantilla repare un problema o realce la apariencia de todas las tablas que la usen. 
+</p>
+<p>simplemente reemplazando la sección <code>border="1" cellpadding="2"</code> por <code><b>class="wikitable" border="1"</b></code>.
+</p>
+<p>Como un subproducto de la característica de galería de imágenes, una tabla puede ser hecha con una etiqueta de galería; si una entrada de texto contiene un enlace, la entrada entera es ignorada.
+</p>
+<p>da:
+</p>
+<p>Para generar diagramas de barras, se pueden utilizar celdas conteniendo comandos del tipo:<br/>
+</p>
+<p>donde <i>width:</i> indica el ancho de la barra en píxeles, <i>height:</i> su altura también en píxeles, y <i>background:</i> el color de la barra.<br/>
+<br/>
+Por ejemplo, el código:
+</p>
+<p>produce el resultado siguiente:
+</p>
+<p>En este caso, se ha mantenido la proporcionalidad entre las cifras de producción y la superficie de las barras, jugando con su longitud y su altura. En el caso de "China", cuya producción es 1600 tm, la barra mide 400px de longitud, pero su anchura es 32px, 4 veces más que la del resto de barras, que miden 8px de altura.
+</p>

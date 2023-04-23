@@ -1,0 +1,90 @@
+<p>El <b>círculo</b> es una región del <a href="/wiki/Plano_(geometr%C3%ADa)" title="Plano (geometría)">plano</a> delimitada por una <a href="/wiki/Circunferencia" title="Circunferencia">circunferencia</a> y, por tanto, tiene asociada un <a href="/wiki/%C3%81rea" title="Área">área</a>.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Un <b>círculo</b> es el <a href="/wiki/Lugar_geom%C3%A9trico" title="Lugar geométrico">lugar geométrico</a> de los <a href="/wiki/Punto_(geometr%C3%ADa)" title="Punto (geometría)">puntos</a> del plano cuya distancia a otro punto fijo, llamado <a class="mw-redirect" href="/wiki/Centro_(Geometr%C3%ADa)" title="Centro (Geometría)">centro</a>, es  menor o igual que una cantidad constante, llamada <a href="/wiki/Radio_(geometr%C3%ADa)" title="Radio (geometría)">radio</a>.
+</p>
+<p>A veces se utiliza indistintamente <i><a class="mw-selflink selflink">círculo</a></i> por <i><a href="/wiki/Circunferencia" title="Circunferencia">circunferencia</a></i> siendo esta última su borde, es decir, la <a href="/wiki/Curva" title="Curva">curva</a> <a href="/wiki/Per%C3%ADmetro" title="Perímetro">perimetral</a> que lo determina y que solo posee <a href="/wiki/Longitud" title="Longitud">longitud</a>.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Elementos relevantes del círculo compartidos con la <a href="/wiki/Circunferencia#Terminología_frecuente" title="Circunferencia">circunferencia</a> por ser su borde:
+</p>
+<p>El <a href="/wiki/Per%C3%ADmetro" title="Perímetro">perímetro</a> de un círculo es el de su <a href="/wiki/Circunferencia" title="Circunferencia">circunferencia</a> y en función del radio <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle r}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>r</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+</semantics>
+</math></span><img alt="r" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" style="vertical-align: -0.338ex; width:1.049ex; height:1.676ex;"/></span> o del diámetro <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle d=2\cdot r}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>r</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d=2\cdot r}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle d=2\cdot r}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/64f41dd43b5c3723f14c0bb6c441a27dec294614" style="vertical-align: -0.338ex; width:8.205ex; height:2.176ex;"/></span> tiene el valor:
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \pi =3,14159\dots }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>π<!-- π --></mi>
+<mo>=</mo>
+<mn>3</mn>
+<mo>,</mo>
+<mn>14159</mn>
+<mo>…<!-- … --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \pi =3,14159\dots }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \pi =3,14159\dots }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/18246500191ec3892cca8a8a0e06f240603f69ba" style="vertical-align: -0.671ex; width:15.549ex; height:2.509ex;"/></span> es la <a href="/wiki/N%C3%BAmero_%CF%80" title="Número π">constante pi</a>, de la circunferencia.
+</p>
+<p>El <a href="/wiki/%C3%81rea" title="Área">área</a> de un círculo de radio <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle r}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>r</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+</semantics>
+</math></span><img alt="r" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" style="vertical-align: -0.338ex; width:1.049ex; height:1.676ex;"/></span> o diámetro <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle d=2\cdot r}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>r</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d=2\cdot r}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle d=2\cdot r}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/64f41dd43b5c3723f14c0bb6c441a27dec294614" style="vertical-align: -0.338ex; width:8.205ex; height:2.176ex;"/></span>, tendrá un valor:
+</p>
+<p>Didácticamente hay demostraciones no rigurosas al deshacer la curvatura del círculo en figuras rectilíneas:
+</p>
+<p>Posiciones de las rectas respecto del círculo:
+</p>
+<p>Se llama <b>punto de tangencia</b> cada uno de los puntos que comparte el círculo con los diferentes elementos tangentes, es decir, el punto donde se produce la tangencia. En todo punto de su circunferencia se pueden hacer tangencias.
+</p>
+<p>Posiciones entre círculos:
+</p>
+<p>Posición de los ángulos respecto de un círculo, puede ser:
+</p>
+<p>Elementos relacionados con partes de las regiones del círculo, figura 1:
+</p>
+<p>En algunos textos y otros idiomas, para evitar referirse al interior de un ángulo o evitar aumentar las indicaciones, se hacen las distinciones siguientes:
+</p>
+<p>Se cambia el uso de círculo por el de <a href="/wiki/Disco_(topolog%C3%ADa)" title="Disco (topología)">disco</a> o más en general <a href="/wiki/Bola_(matem%C3%A1tica)" title="Bola (matemática)">bola</a> para analizar o fundamentar espacios topológicos con más precisión.
+</p>
+<p>Llamativamente, geómetras y topólogos adoptan convenios diferentes para el significado de "<a href="/wiki/N-esfera" title="N-esfera">n-esfera</a>". Para los geómetras, la superficie de la esfera es llamada <a href="/wiki/3-esfera" title="3-esfera">3-esfera</a>, mientras que topólogos se refieren a ella como <i>2-esfera</i>.<sup class="reference separada" id="cite_ref-7"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​
+</p>

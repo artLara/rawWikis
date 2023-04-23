@@ -1,0 +1,40 @@
+<p>Una vez que te familiarices con las <a href="/wiki/Wikipedia:Convenciones_de_t%C3%ADtulos" title="Wikipedia:Convenciones de títulos">convenciones para nombrar páginas</a>, puede que quieras cambiar el nombre de una página, porque hayas cometido u otro usuario haya cometido un error, o hayas comprobado que existe un nombre más adecuado.
+</p>
+<p>Aunque existe la tentación de simplemente crear la página con el nuevo nombre, y pegar en ella una copia del contenido existente bajo el nombre anterior, ese procedimiento es incorrecto porque no preserva el <a class="mw-redirect" href="/wiki/Wikipedia:Historial" title="Wikipedia:Historial">historial</a> de las ediciones.
+</p>
+<p>Para poder realizar el cambio adecuadamente, es imprescindible que estés <b><a href="/wiki/Ayuda:Registro" title="Ayuda:Registro">registrado</a></b> y que seas ya un <b><a class="mw-redirect" href="/wiki/Wikipedia:Usuarios_autoconfirmados" title="Wikipedia:Usuarios autoconfirmados">usuario autoconfirmado</a></b>. Si aún no cumples estos requisitos, puedes añadir la plantilla <code>{{<a href="/wiki/Plantilla:Renombrar" title="Plantilla:Renombrar">renombrar</a>}}</code> al comienzo de la página, de la forma que se indica en su documentación, o solicitar el cambio en el <a class="mw-redirect" href="/wiki/Wikipedia:C/A" title="Wikipedia:C/A">Café de Ayuda</a>. Si ya los cumples, puedes seguir este procedimiento:
+</p>
+<p>Si funciona, ¡bravo!, ya está listo.
+</p>
+<p>Si no funciona y te da algún error es porque una página con ese título ya existe y el sistema no permitirá cambiarlo. Los pasos a seguir dependerán de las página implicadas:
+</p>
+<p>Qué hacer con esa redirección si no es un título correcto es todavía materia de debate. Algunos prefieren borrar los <i>redirect</i> que son errores ortográficos. Otros prefieren dejarlos, ya que con esto se evita que alguien ponga contenido bajo el título incorrecto. Además, las redirecciones no aparecen al presionar "página aleatoria" ni se cuentan en el número de artículos totales, y pueden servir para que personas que no conocen la ortografía correcta de un tema puedan encontrar la información.
+</p>
+<p>Por supuesto títulos correctos pero alternativos se deben conservar.
+</p>
+<p>También es posible usar la <a href="/wiki/Ayuda:Palabras_m%C3%A1gicas" title="Ayuda:Palabras mágicas">palabra mágica</a> <code>{{MOSTRARTÍTULO:título modificado}}</code> o <code>{{DISPLAYTITLE:título modificado}}</code> para mostrar el título de una página con una combinación diferente de mayúsculas y minúsculas o para sustituir espacios por guiones bajos, lo cual hace que la página mantenga el título original pero el visible sea diferente. El título de la página y el título modificado mediante MOSTRARTÍTULO, una vez normalizados, deben coincidir para que MOSTRARTÍTULO tenga efecto. Para cualquier otro tipo de modificación del título se debe <b>cambiar el nombre</b> de la página mediante el método anterior.
+</p>
+<p>Un uso aceptado de MOSTRARTÍTULO es para mostrar la letra inicial en minúsculas, para lo cual existe <code>{{<a href="/wiki/Plantilla:T%C3%ADtulo_en_min%C3%BAscula" title="Plantilla:Título en minúscula">Título en minúscula</a>}}</code>. Sin embargo, no debe usarse para que un título o parte de él se vea en cursiva en lugar de redonda, puesto que esta posibilidad fue rechazada por <a href="/wiki/Wikipedia:Votaciones/2013/Sobre_el_uso_de_it%C3%A1licas_en_los_t%C3%ADtulos_de_los_art%C3%ADculos" title="Wikipedia:Votaciones/2013/Sobre el uso de itálicas en los títulos de los artículos">votación</a>.
+</p>
+<p>La palabra mágica MOSTRARTÍTULO no admite el uso de <code>sust:</code>.
+</p>
+<p>Una vez que te familiarices con las <a href="/wiki/Wikipedia:Convenciones_de_t%C3%ADtulos" title="Wikipedia:Convenciones de títulos">convenciones para nombrar páginas</a>, puede que quieras cambiar el nombre de una página, porque hayas cometido u otro usuario haya cometido un error, o hayas comprobado que existe un nombre más adecuado.
+</p>
+<p>Aunque existe la tentación de simplemente crear la página con el nuevo nombre, y pegar en ella una copia del contenido existente bajo el nombre anterior, ese procedimiento es incorrecto porque no preserva el <a class="mw-redirect" href="/wiki/Wikipedia:Historial" title="Wikipedia:Historial">historial</a> de las ediciones.
+</p>
+<p>Para poder realizar el cambio adecuadamente, es imprescindible que estés <b><a href="/wiki/Ayuda:Registro" title="Ayuda:Registro">registrado</a></b> y que seas ya un <b><a class="mw-redirect" href="/wiki/Wikipedia:Usuarios_autoconfirmados" title="Wikipedia:Usuarios autoconfirmados">usuario autoconfirmado</a></b>. Si aún no cumples estos requisitos, puedes añadir la plantilla <code>{{<a href="/wiki/Plantilla:Renombrar" title="Plantilla:Renombrar">renombrar</a>}}</code> al comienzo de la página, de la forma que se indica en su documentación, o solicitar el cambio en el <a class="mw-redirect" href="/wiki/Wikipedia:C/A" title="Wikipedia:C/A">Café de Ayuda</a>. Si ya los cumples, puedes seguir este procedimiento:
+</p>
+<p>Si funciona, ¡bravo!, ya está listo.
+</p>
+<p>Si no funciona y te da algún error es porque una página con ese título ya existe y el sistema no permitirá cambiarlo. Los pasos a seguir dependerán de las página implicadas:
+</p>
+<p>Qué hacer con esa redirección si no es un título correcto es todavía materia de debate. Algunos prefieren borrar los <i>redirect</i> que son errores ortográficos. Otros prefieren dejarlos, ya que con esto se evita que alguien ponga contenido bajo el título incorrecto. Además, las redirecciones no aparecen al presionar "página aleatoria" ni se cuentan en el número de artículos totales, y pueden servir para que personas que no conocen la ortografía correcta de un tema puedan encontrar la información.
+</p>
+<p>Por supuesto títulos correctos pero alternativos se deben conservar.
+</p>
+<p>También es posible usar la <a href="/wiki/Ayuda:Palabras_m%C3%A1gicas" title="Ayuda:Palabras mágicas">palabra mágica</a> <code>{{MOSTRARTÍTULO:título modificado}}</code> o <code>{{DISPLAYTITLE:título modificado}}</code> para mostrar el título de una página con una combinación diferente de mayúsculas y minúsculas o para sustituir espacios por guiones bajos, lo cual hace que la página mantenga el título original pero el visible sea diferente. El título de la página y el título modificado mediante MOSTRARTÍTULO, una vez normalizados, deben coincidir para que MOSTRARTÍTULO tenga efecto. Para cualquier otro tipo de modificación del título se debe <b>cambiar el nombre</b> de la página mediante el método anterior.
+</p>
+<p>Un uso aceptado de MOSTRARTÍTULO es para mostrar la letra inicial en minúsculas, para lo cual existe <code>{{<a href="/wiki/Plantilla:T%C3%ADtulo_en_min%C3%BAscula" title="Plantilla:Título en minúscula">Título en minúscula</a>}}</code>. Sin embargo, no debe usarse para que un título o parte de él se vea en cursiva en lugar de redonda, puesto que esta posibilidad fue rechazada por <a href="/wiki/Wikipedia:Votaciones/2013/Sobre_el_uso_de_it%C3%A1licas_en_los_t%C3%ADtulos_de_los_art%C3%ADculos" title="Wikipedia:Votaciones/2013/Sobre el uso de itálicas en los títulos de los artículos">votación</a>.
+</p>
+<p>La palabra mágica MOSTRARTÍTULO no admite el uso de <code>sust:</code>.
+</p>

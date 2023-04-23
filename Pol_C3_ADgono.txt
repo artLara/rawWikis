@@ -1,0 +1,220 @@
+<p>En <a href="/wiki/Geometr%C3%ADa" title="Geometría">geometría</a>, un <b>polígono</b> es una <a href="/wiki/Figura_geom%C3%A9trica" title="Figura geométrica">figura geométrica</a> plana compuesta por una secuencia finita  de <a href="/wiki/Segmento" title="Segmento">segmentos</a> rectos consecutivos que encierran una región en el <a href="/wiki/Plano_(geometr%C3%ADa)" title="Plano (geometría)">plano</a>.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Estos segmentos son llamados lados, y los puntos en que se intersectan se llaman vértices. El polígono es el caso <a href="/wiki/Bidimensional" title="Bidimensional">bidimensional</a> del <a href="/wiki/Politopo" title="Politopo">politopo</a>.
+</p>
+<p>La palabra <i>polígono</i> deriva del <a href="/wiki/Griego_antiguo" title="Griego antiguo">griego antiguo</a> πολύγωνος (<i>polúgōnos</i>), a su vez formado por πολύ (<i>polú</i>) ‘muchos’ y γωνία (<i>gōnía</i>) ‘ángulo’,<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ aunque hoy en día los polígonos son usualmente entendidos por el número de sus lados.
+</p>
+<p>La noción geométrica elemental ha sido adaptada de distintas maneras para servir a propósitos específicos. A matemáticos a menudo les interesan solo las líneas poligonales cerradas y los polígonos simples (aquellos en los cuales sus lados solo se intersecan en los vértices), y pueden definir un polígono de acuerdo a ello. Es requisito geométrico que dos lados que se intersecan en un vértice formen un ángulo no llano (distinto a 180°), ya que de otra manera los segmentos se considerarían partes de un único lado; sin embargo, esos vértices podrían permitirse algunas veces por cuestiones prácticas. En el ámbito de la computación, la definición de polígono ha sido ligeramente alterada debido a la manera en que las figuras son almacenadas y manipuladas en la <a href="/wiki/Computaci%C3%B3n_gr%C3%A1fica" title="Computación gráfica">computación gráfica</a> para la generación de imágenes.
+</p>
+<p>La definición del <b>polígono</b> depende del uso que se le quiera dar, así por ejemplo para hacer referencia a una región del plano se tiene:
+</p>
+<p>Para hacer referencia al estudio euclidiano de las longitudes de los lados de un polígono, se tiene:
+</p>
+<p>Se denomina <b>línea poligonal</b> o <b>línea quebrada</b> al conjunto de <a href="/wiki/Segmento" title="Segmento">segmentos</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle s_{1},\dots ,s_{n}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle s_{1},\dots ,s_{n}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle s_{1},\dots ,s_{n}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4762dfbc741e653099a090f875d5b5b2c87b04b3" style="vertical-align: -0.671ex; width:9.632ex; height:2.009ex;"/></span>, unidos sucesivamente por sus extremos donde el extremo de cada uno es origen del siguiente, tal que dos segmentos sucesivos no están alineados, en tal caso se considera ambos como un único segmento.<sup class="reference separada" id="cite_ref-DicCiencias_5-1"><a href="#cite_note-DicCiencias-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Sean <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{i}}</annotation>
+</semantics>
+</math></span><img alt="P_{i}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3ba1396129f7be3c7f828a571b6649e6807d10d3" style="vertical-align: -0.671ex; width:2.292ex; height:2.509ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{i+1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>+</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{i+1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{i+1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f136f56b4622ba295774deff5319b5b773c0c88c" style="vertical-align: -0.671ex; width:4.392ex; height:2.509ex;"/></span> los extremos de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle s_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle s_{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle s_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cfda82668232cbdc0874ed28ab8b6079420d1ffe" style="vertical-align: -0.671ex; width:1.89ex; height:2.009ex;"/></span>, entonces:
+</p>
+<p>Ejemplo de una línea poligonal de seis segmentos:
+</p>
+<p><a class="image" href="/wiki/Archivo:Poligonal.svg"><img alt="Poligonal.svg" data-file-height="125" data-file-width="730" decoding="async" height="82" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Poligonal.svg/480px-Poligonal.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Poligonal.svg/720px-Poligonal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Poligonal.svg/960px-Poligonal.svg.png 2x" width="480"/></a>
+</p>
+<p><b>Véase también</b>
+</p>
+<p>La definición y su aplicación del concepto de <a href="/wiki/Grafo" title="Grafo">Grafo</a> de la <a href="/wiki/Teor%C3%ADa_de_grafos" title="Teoría de grafos">teoría de grafos</a>.
+</p>
+<p>La definición de <a href="/wiki/S%C3%ADmplex" title="Símplex">símplex</a> usada en <a href="/wiki/Topolog%C3%ADa_algebraica" title="Topología algebraica">topología algebraica</a>.
+</p>
+<p>En un polígono se distinguen los siguientes elementos geométricos:
+</p>
+<p>En un <a href="/wiki/Pol%C3%ADgono_regular" title="Polígono regular">polígono regular</a> se puede distinguir, además:
+</p>
+<p>Los vértices son <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+</semantics>
+</math></span><img alt="n" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;"/></span>
+</p>
+<p>Como cada diagonal está contada dos veces se tiene que el número de diagonales sale de:
+</p>
+<p>Existen varias clasificaciones posibles de los polígonos. Para ver una clasificación basada en su número de lados, vea la <a href="#Nombres_de_polígonos_según_su_número_de_lados">tabla inferior</a>.
+</p>
+<p><a href="/wiki/Pol%C3%ADgono_regular" title="Polígono regular"> Regulares</a>
+</p>
+<p><a href="/wiki/Pol%C3%ADgono_irregular" title="Polígono irregular"> Irregulares</a>
+</p>
+<p><a href="/wiki/Pol%C3%ADgono_c%C3%B3ncavo" title="Polígono cóncavo">Cóncavos</a>
+</p>
+<p><a class="mw-redirect" href="/wiki/Pol%C3%ADgono_complejo" title="Polígono complejo">Complejos</a>
+</p>
+<p>Según las propiedades que cumpla el contorno del polígono, es posible realizar las siguientes clasificaciones.
+</p>
+<p>Polígono simple, cóncavo e irregular.
+</p>
+<p>Polígono complejo, no convexo e irregular.
+</p>
+<p>Polígono convexo y regular (equilátero y equiángulo).
+</p>
+<p>Polígono estrellado.
+</p>
+<p>Los polígonos tienen un nombre especial para designar el número de lados del mismo. Los nombres más comunes están en la siguiente tabla:<sup class="reference separada" id="cite_ref-12"><a href="#cite_note-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>• <a href="/wiki/Tri%C3%A1ngulos_agudos_y_obtusos" title="Triángulos agudos y obtusos">Agudo</a>
+• <a href="/wiki/Tri%C3%A1ngulo_equil%C3%A1tero" title="Triángulo equilátero">Equilátero</a>
+• <a href="/wiki/Tri%C3%A1ngulo_ideal" title="Triángulo ideal">Ideal</a>
+• <a href="/wiki/Tri%C3%A1ngulo_is%C3%B3sceles" title="Triángulo isósceles">Isósceles</a>
+• <a href="/wiki/Tri%C3%A1ngulo_de_Kepler" title="Triángulo de Kepler">de Kepler</a>
+• <a href="/wiki/Tri%C3%A1ngulos_agudos_y_obtusos" title="Triángulos agudos y obtusos">Obtuso</a>
+• <a href="/wiki/Tri%C3%A1ngulo_rect%C3%A1ngulo" title="Triángulo rectángulo">Rectángulo</a>
+</p>
+<p>• <a href="/wiki/Antiparalelogramo" title="Antiparalelogramo">Antiparalelogramo</a>
+• <a href="/wiki/Cuadril%C3%A1tero_bic%C3%A9ntrico" title="Cuadrilátero bicéntrico">Bicéntrico</a>
+• <a href="/wiki/Cuadril%C3%A1tero" title="Cuadrilátero">Cruzado</a>
+• <a href="/wiki/Cuadril%C3%A1tero_c%C3%ADclico" title="Cuadrilátero cíclico">Cíclico</a>
+• <a href="/wiki/Cuadril%C3%A1tero_equidiagonal" title="Cuadrilátero equidiagonal">Equidiagonal</a>
+• <a href="/wiki/Cuadril%C3%A1tero_circunscrito" title="Cuadrilátero circunscrito">Tangencial</a>
+• <a href="/wiki/Cuadril%C3%A1tero_extangencial" title="Cuadrilátero extangencial">Extangential</a>
+• <a href="/wiki/Cuadril%C3%A1tero_arm%C3%B3nico" title="Cuadrilátero armónico">Armónico</a>
+• <a href="/wiki/Cuadril%C3%A1tero_ortodiagonal" title="Cuadrilátero ortodiagonal">Ortodiagonal</a>
+• <a href="/wiki/Paralelogramo" title="Paralelogramo">Paralelogramo</a>
+• <a href="/wiki/Cuadrado" title="Cuadrado">Cuadrado</a>
+• <a href="/wiki/Rect%C3%A1ngulo" title="Rectángulo">Rectángulo</a>
+• <a href="/wiki/Rombo" title="Rombo">Rombo</a>
+• <a href="/wiki/Deltoide" title="Deltoide">Deltoide</a>
+• <a href="/wiki/Deltoide_recto" title="Deltoide recto">Deltoide recto</a>
+• <a href="/wiki/Trapecio_(geometr%C3%ADa)" title="Trapecio (geometría)">Trapecio</a>
+• <a href="/wiki/Trapecio_is%C3%B3sceles" title="Trapecio isósceles">Trapecio isósceles</a>
+• <a href="/wiki/Trapecio_tangencial" title="Trapecio tangencial">Trapecio tangencial</a>
+</p>
+<p>• <a href="/wiki/Mon%C3%B3gono" title="Monógono">Monógono (1)</a>
+• <a href="/wiki/D%C3%ADgono" title="Dígono">Dígono (2)</a>
+• <a href="/wiki/Tri%C3%A1ngulo" title="Triángulo">Triángulo (3)</a>
+• <a href="/wiki/Cuadril%C3%A1tero" title="Cuadrilátero">Cuadrilátero (4)</a>
+• <a href="/wiki/Pent%C3%A1gono" title="Pentágono">Pentágono (5)</a>
+• <a href="/wiki/Hex%C3%A1gono" title="Hexágono">Hexágono (6)</a>
+• <a href="/wiki/Hept%C3%A1gono" title="Heptágono">Heptágono (7)</a>
+• <a href="/wiki/Oct%C3%B3gono" title="Octógono">Octágono (8)</a>
+• <a href="/wiki/Ene%C3%A1gono" title="Eneágono">Eneágono (9)</a>
+• <a href="/wiki/Dec%C3%A1gono" title="Decágono">Decágono (10)</a>
+</p>
+<p>• <a href="/wiki/Endec%C3%A1gono" title="Endecágono">Endecágono (11)</a>
+• <a href="/wiki/Dodec%C3%A1gono" title="Dodecágono">Dodecágono (12)</a>
+• <a href="/wiki/Tridec%C3%A1gono" title="Tridecágono">Tridecágono (13)</a>
+• <a href="/wiki/Tetradec%C3%A1gono" title="Tetradecágono">Tetradecágono (14)</a>
+• <a href="/wiki/Pentadec%C3%A1gono" title="Pentadecágono">Pentadecágono (15)</a>
+• <a href="/wiki/Hexadec%C3%A1gono" title="Hexadecágono">Hexadecágono (16)</a>
+• <a href="/wiki/Heptadec%C3%A1gono" title="Heptadecágono">Heptadecágono (17)</a>
+• <a href="/wiki/Octodec%C3%A1gono" title="Octodecágono">Octadecágono (18)</a>
+• <a href="/wiki/Eneadec%C3%A1gono" title="Eneadecágono">Eneadecágono (19)</a>
+• <a href="/wiki/Isodec%C3%A1gono" title="Isodecágono">Isodecágono (20)</a>
+</p>
+<p>• <a href="/wiki/Icositri%C3%A1gono" title="Icositriágono">Icositriágono (23)</a>
+• <a href="/wiki/Icositetr%C3%A1gono" title="Icositetrágono">Icositetrágono (24)</a>
+• <a href="/wiki/Triacont%C3%A1gono" title="Triacontágono">Triacontágono (30)</a>
+• <a href="/wiki/Tetracont%C3%A1gono" title="Tetracontágono">Tetracontágono (40)</a>
+• <a href="/wiki/Pentacont%C3%A1gono" title="Pentacontágono">Pentacontágono (50)</a>
+• <a href="/wiki/Hect%C3%A1gono" title="Hectágono">Hectágono (100)</a>
+• <a href="/wiki/257-gono" title="257-gono">257-gono</a>
+• <a href="/wiki/Chili%C3%A1gono" title="Chiliágono">Chiliágono (1000)</a>
+• <a href="/wiki/Miri%C3%A1gono" title="Miriágono">Miriágono (10.000)</a>
+• <a href="/wiki/65537-gono" title="65537-gono">65537-gono</a>
+• <a href="/wiki/Meg%C3%A1gono" title="Megágono">Megágono (1.000.000)</a>
+• <a href="/wiki/Apeir%C3%B3gono" title="Apeirógono">Apeirógono (∞)</a>
+</p>
+<p>• <a href="/wiki/Estrella_pentagonal" title="Estrella pentagonal">Estrella pentagonal</a>
+• <a href="/wiki/Hexagrama" title="Hexagrama">Hexagrama</a>
+• <a href="/wiki/Heptagrama" title="Heptagrama">Heptagrama</a>
+• <a href="/wiki/Octagrama" title="Octagrama">Octagrama</a>
+• <a href="/wiki/Eneagrama" title="Eneagrama">Eneagrama</a>
+• <a href="/wiki/Decagrama_(geometr%C3%ADa)" title="Decagrama (geometría)">Decagrama</a>
+• <a href="/wiki/Endecagrama" title="Endecagrama">Endecagrama</a>
+• <a href="/wiki/Dodecagrama" title="Dodecagrama">Dodecagrama</a>
+</p>
+<p>• <a href="/wiki/Pol%C3%ADgono_de_Reinhardt" title="Polígono de Reinhardt">Reinhardt</a>
+• <a href="/wiki/Pol%C3%ADgono_de_Reuleaux" title="Polígono de Reuleaux">Reuleaux</a>
+</p>
+<p>• <a href="/wiki/Pol%C3%ADgono_c%C3%B3ncavo" title="Polígono cóncavo">Cóncavo</a>
+• <a href="/wiki/Pol%C3%ADgono_convexo" title="Polígono convexo">Convexo</a>
+• <a href="/wiki/Circunferencia_circunscrita" title="Circunferencia circunscrita">Cíclico</a>
+• <a href="/wiki/Pol%C3%ADgono_equiangular" title="Polígono equiangular">Equiangular</a>
+• <a href="/wiki/Pol%C3%ADgono_equil%C3%A1tero" title="Polígono equilátero">Equilátero</a>
+• <a href="/wiki/Pol%C3%ADgono_infinito_oblicuo" title="Polígono infinito oblicuo">Infinito oblicuo</a>
+• <a href="/wiki/Figura_isogonal" title="Figura isogonal">Isogonal</a>
+• <a href="/wiki/Figura_isotoxal" title="Figura isotoxal">Isotoxal</a>
+• <a href="/wiki/Pol%C3%ADgono_m%C3%A1gico" title="Polígono mágico">Mágico</a>
+• <a href="/wiki/Pseudotri%C3%A1ngulo" title="Pseudotriángulo">Pseudotriángulo</a>
+• <a href="/wiki/Pol%C3%ADgono_regular" title="Polígono regular">Regular</a>
+• <a href="/wiki/Pol%C3%ADgono_simple" title="Polígono simple">Simple</a>
+• <a href="/wiki/Pol%C3%ADgono_alabeado" title="Polígono alabeado">Alabeado</a>
+• <a class="mw-redirect" href="/wiki/Pol%C3%ADgono_estrellado" title="Polígono estrellado">Estrellado</a>
+• <a href="/wiki/Pol%C3%ADgono_tangencial" title="Polígono tangencial">Tangencial</a>
+</p>

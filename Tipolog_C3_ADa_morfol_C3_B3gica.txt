@@ -1,0 +1,20 @@
+<p>La <b>tipología morfológica</b> es un sistema que se emplea para clasificar las lenguas creado por los hermanos <a class="mw-redirect" href="/wiki/Karl_Wilhelm_Friedrich_von_Schlegel" title="Karl Wilhelm Friedrich von Schlegel">Friedrich</a> y <a href="/wiki/August_Wilhelm_von_Schlegel" title="August Wilhelm von Schlegel">August von Schlegel</a>.
+</p>
+<p>En este tipo de lenguas, apenas existe la derivación morfológica. El orden de las palabras es muy importante para dar a entender el significado y la relación sintáctica de las palabras. El radical permanece solitario y no se modifica.
+</p>
+<p>Entre otras, algunas lenguas analíticas son el <a href="/wiki/Idioma_chino" title="Idioma chino">chino</a> y el <a href="/wiki/Idioma_vietnamita" title="Idioma vietnamita">vietnamita</a>.
+</p>
+<p>Estas lenguas tienen cierta complejidad morfológica, pero los morfemas (elementos estructurales) siempre se pueden separar claramente. Aunque el radical se modifique, permanecen inalterables en el sentido de que la modificación se realiza mediante afijos que se añaden al radical. Los <a href="/wiki/Afijo" title="Afijo">afijos</a> que se usan con más frecuencia son <a href="/wiki/Sufijo" title="Sufijo">sufijos</a>. Se añaden dependiendo de la función de la palabra. El orden de las palabras es algo menos importante que en las lenguas analíticas. Esto se debe a que los sufijos añaden información útil para averiguar el papel sintáctico de la palabra.
+</p>
+<p>Algunos ejemplos de lengua aglutinante son el <a href="/wiki/Idioma_coreano" title="Idioma coreano">coreano</a>, el <a href="/wiki/Idioma_turco" title="Idioma turco">turco</a> y el <a href="/wiki/Idioma_japon%C3%A9s" title="Idioma japonés">japonés</a>.
+</p>
+<p>Las lenguas fusionantes son las lenguas de mayor complejidad morfológica de los tres tipos. A menudo, no se puede separar los morfemas del lexema o radical. En ocasiones, el lexema no se puede diferenciar de los afijos. El orden de las palabras no es importante en absoluto, ya que la gran parte o la totalidad de la información de la estructura sintáctica se revela mediante la morfología de las palabras. Es decir, el orden de los sintagmas no altera el significado de la oración.
+</p>
+<p>Algunos ejemplos de lengua sintética son el <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a> y el <a href="/wiki/Idioma_anglosaj%C3%B3n" title="Idioma anglosajón">anglosajón</a>.
+</p>
+<p>Al principio del <a href="/wiki/Siglo_XX" title="Siglo XX">siglo <span style="font-variant:small-caps;text-transform:lowercase">XX</span></a>, A. F. Pott estudió lenguas que los von Schlegel no conocieron, y añadió una cuarta categoría, las lenguas polisintéticas.
+</p>
+<p>Es una forma más avanzada de las lenguas sintéticas. La morfología de estas lenguas es extremadamente compleja. Normalmente incorporan muchos elementos en una palabra o sintagma. Todos los términos tienden a fundirse con la raíz verbal.
+</p>
+<p>Muchas <a href="/wiki/Lenguas_amerindias" title="Lenguas amerindias">lenguas amerindias</a> son polisintéticas. El <a class="mw-redirect" href="/wiki/Inuktitut" title="Inuktitut">inuktitut</a> es un ejemplo de ellas, y un ejemplo específico es el sintagma: <i>tavvakiqutiqarpiit</i> que podría intentar traducirse por algo así como "¿Tienes algo de tabaco en venta?"
+</p>

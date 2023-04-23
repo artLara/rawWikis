@@ -1,0 +1,100 @@
+<p>En <a href="/wiki/F%C3%ADsica_moderna" title="Física moderna">física moderna</a>, el <b>peso</b> es una medida de la <a href="/wiki/Gravedad" title="Gravedad">fuerza gravitatoria</a> que actúa sobre un objeto.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ El peso equivale a la <a href="/wiki/Fuerza" title="Fuerza">fuerza</a> que ejerce un cuerpo sobre un punto de apoyo, originada por la acción del <a href="/wiki/Intensidad_del_campo_gravitatorio" title="Intensidad del campo gravitatorio">campo gravitatorio</a> local sobre la <a href="/wiki/Masa" title="Masa">masa</a> del cuerpo. Por ser una fuerza, el peso se representa como un <a href="/wiki/Vector" title="Vector">vector</a>, definido por su módulo, dirección y sentido, aplicado en el <a href="/wiki/Centro_de_gravedad" title="Centro de gravedad">centro de gravedad</a> de la masa y dirigido aproximadamente hacia el centro de la Tierra. Por extensión de esta definición, también podemos referirnos al peso de un cuerpo en cualquier otro astro (<a href="/wiki/Luna" title="Luna">Luna</a>, <a href="/wiki/Marte_(planeta)" title="Marte (planeta)">Marte</a>, entre otros) en cuyas proximidades se encuentre.
+</p>
+<p>La magnitud del peso de un objeto, desde la definición operacional de peso, depende tan solo de la <a href="/wiki/Intensidad_del_campo_gravitatorio" title="Intensidad del campo gravitatorio">intensidad del campo gravitatorio</a> local y de la masa del cuerpo, en un sentido estricto. Sin embargo, desde un punto de vista legal y práctico, se establece que el peso, cuando el <a href="/wiki/Sistema_de_referencia" title="Sistema de referencia">sistema de referencia</a> es la <a href="/wiki/Tierra" title="Tierra">Tierra</a>, comprende no solo la fuerza gravitatoria local, sino también la <a href="/wiki/Fuerza_centr%C3%ADfuga" title="Fuerza centrífuga">fuerza centrífuga</a> local debido a la <a href="/wiki/Rotaci%C3%B3n_de_la_Tierra" title="Rotación de la Tierra">rotación de la Tierra</a>; por el contrario, el empuje atmosférico no se incluye, ni ninguna otra fuerza externa.<sup class="reference separada" id="cite_ref-2"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Peso y <a href="/wiki/Masa" title="Masa">masa</a> son dos conceptos y magnitudes físicas muy diferentes, aunque aún en estos momentos, en el habla cotidiana, el término “peso” se utiliza a menudo erróneamente como sinónimo de masa. La Academia reconoce esta confusión en la definición de «pesar»: “Determinar el peso, o más propiamente, la masa de algo por medio de la balanza o de otro instrumento equivalente”.<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La masa de un cuerpo es una propiedad intrínseca del mismo, la cantidad de <a href="/wiki/Materia" title="Materia">materia</a>, independiente de la intensidad del campo gravitatorio y de cualquier otro efecto. Representa la <a href="/wiki/Inercia" title="Inercia">inercia</a> o resistencia del cuerpo a los cambios de estado de movimiento (<a href="/wiki/Aceleraci%C3%B3n" title="Aceleración">aceleración</a>, <a href="/wiki/Masa_inercial" title="Masa inercial">masa inercial</a>), además de hacerla sensible a los efectos de los campos gravitatorios (<a href="/wiki/Masa_gravitacional" title="Masa gravitacional">masa gravitacional</a>).
+</p>
+<p>El peso de un cuerpo, en cambio, no es una propiedad intrínseca del mismo, ya que depende de la intensidad del campo gravitatorio en el lugar del espacio ocupado por el cuerpo. La distinción científica entre “masa” y “peso” no es importante para muchos efectos prácticos porque la fuerza gravitatoria no experimenta grandes cambios en las proximidades de la superficie terrestre. En un campo gravitatorio constante la fuerza que ejerce la gravedad sobre un cuerpo (su peso) es directamente proporcional a su masa. Pero en realidad el campo gravitatorio terrestre no es constante; puede llegar a variar hasta en un 0,5 % entre los distintos lugares de la Tierra, lo que significa que se altera la relación “masa-peso” con la variación de la fuerza de la gravedad.
+</p>
+<p>Por el contrario, el peso de un mismo cuerpo experimenta cambios muy significativos al cambiar el objeto masivo que crea el campo gravitatorio. Así, por ejemplo, una persona de <i>60 <a href="/wiki/Kilogramo" title="Kilogramo">kg</a></i> (6,118 <a href="/wiki/Unidad_t%C3%A9cnica_de_masa" title="Unidad técnica de masa">UTM</a>) de masa, pesa <i>588,60 <a href="/wiki/Newton_(unidad)" title="Newton (unidad)">N</a></i> (60 <a href="/wiki/Kilopondio" title="Kilopondio">kgf</a>) en la superficie de la Tierra. La misma persona, en la superficie de la Luna pesaría tan solo unos <i>98,05 N</i> (10 kgf); sin embargo, su masa seguirá siendo de <i>60 kg</i> (6,118 UTM). <b>Nota</b>: En <i>cursiva</i>, Sistema Internacional; (entre paréntesis), Sistema Técnico de Unidades.
+</p>
+<p>Bajo la denominación de <a href="/wiki/Peso_aparente" title="Peso aparente">peso aparente</a> se incluyen otros efectos, además de la fuerza gravitatoria y el <a href="/wiki/Fuerza_centr%C3%ADfuga" title="Fuerza centrífuga">efecto centrífugo</a>, como <a href="/wiki/Principio_de_Arqu%C3%ADmedes" title="Principio de Arquímedes">la flotación</a>, el carácter no inercial del sistema de referencia (v.g., un ascensor acelerado), etc. El peso que mide el <a href="/wiki/Dinam%C3%B3metro" title="Dinamómetro">dinamómetro</a>, es en realidad el peso aparente; el peso real sería el que mediría en el vacío en un <a href="/wiki/Sistema_de_referencia_inercial" title="Sistema de referencia inercial">sistema de referencia inercial</a>.
+</p>
+<p>Como el peso es una fuerza, se mide en unidades de fuerza. Sin embargo, las unidades de peso y masa tienen una larga historia compartida, en parte porque su diferencia no fue bien entendida cuando dichas unidades comenzaron a utilizarse.
+</p>
+<p>Este sistema es el prioritario o único legal en la mayor parte de las naciones (excluidas Birmania y los Estados Unidos), por lo que en las publicaciones científicas, en los proyectos técnicos, en las especificaciones de máquinas, etc., las magnitudes físicas se expresan en unidades del <a href="/wiki/Sistema_Internacional_de_Unidades" title="Sistema Internacional de Unidades">Sistema Internacional de Unidades</a> (SI). Así, el peso se expresa en unidades de fuerza del SI, esto es, en <a href="/wiki/Newton_(unidad)" title="Newton (unidad)">newtons</a> (N):
+</p>
+<p>En el <a href="/wiki/Sistema_T%C3%A9cnico_de_Unidades" title="Sistema Técnico de Unidades">Sistema Técnico de Unidades</a>, el peso se mide en <a href="/wiki/Kilopondio" title="Kilopondio">kilogramo-fuerza</a> (kgf) o <a href="/wiki/Kilopondio" title="Kilopondio">kilopondio</a> (kp), definido como la fuerza ejercida sobre un <a href="/wiki/Kilogramo" title="Kilogramo">kilogramo</a> de masa por la aceleración en caída libre (g = 9,80665 <a href="/wiki/Metro" title="Metro">m</a>/<a href="/wiki/Segundo" title="Segundo">s</a>²)<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>También se suele indicar el peso en unidades de fuerza de otros sistemas, como la <a href="/wiki/Dina_(unidad_de_medida)" title="Dina (unidad de medida)">dina</a>, la libra-fuerza, la onza-fuerza, etcétera.
+</p>
+<p>La dina es la unidad <a href="/wiki/Sistema_Cegesimal_de_Unidades" title="Sistema Cegesimal de Unidades">CGS</a> de fuerza y no forma parte del SI. Algunas unidades inglesas, como la <a class="mw-redirect" href="/wiki/Libra_(unidad_de_fuerza)" title="Libra (unidad de fuerza)">libra</a>, pueden ser de fuerza o de masa. Las unidades relacionadas, como el <a href="/wiki/Slug" title="Slug">slug</a>, forman parte de sub-sistemas de unidades.
+</p>
+<p>El cálculo del peso de un cuerpo a partir de su masa se puede expresar mediante la <a href="/wiki/Leyes_de_Newton" title="Leyes de Newton">segunda ley de la dinámica</a>:
+</p>
+<p>donde el valor de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\textstyle g}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mi>g</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\textstyle g}</annotation>
+</semantics>
+</math></span><img alt="{\textstyle g}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38dc9ad184fe5486391b456b9e68767ff77f3719" style="vertical-align: -0.671ex; width:1.116ex; height:2.009ex;"/></span> es la <a href="/wiki/Intensidad_del_campo_gravitatorio" title="Intensidad del campo gravitatorio">aceleración de la gravedad</a> en el lugar en el que se encuentra el cuerpo. En primera aproximación, si consideramos a la Tierra como una esfera homogénea, se puede expresar con la siguiente fórmula:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle g={\frac {F}{m}}={\frac {GM_{T}}{{R_{T}}^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>g</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>F</mi>
+<mi>m</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>G</mi>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msub>
+</mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle g={\frac {F}{m}}={\frac {GM_{T}}{{R_{T}}^{2}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle g={\frac {F}{m}}={\frac {GM_{T}}{{R_{T}}^{2}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/41ce489c4949e844ee437692904cfc935a75d643" style="vertical-align: -2.671ex; width:16.496ex; height:6.176ex;"/></span>
+</p>
+<p>de acuerdo a la <a href="/wiki/Ley_de_gravitaci%C3%B3n_universal" title="Ley de gravitación universal">ley de gravitación universal</a>.
+</p>
+<p>En realidad, el valor de la aceleración de la <a href="/wiki/Gravedad" title="Gravedad">gravedad</a> en la Tierra, a nivel del mar, varía entre 9,789 m/s² en el ecuador y 9,832 m/s² en los polos. Se fijó convencionalmente en 9,80665 m/s<sup>2</sup> en la tercera <a href="/wiki/Conferencia_General_de_Pesas_y_Medidas" title="Conferencia General de Pesas y Medidas">Conferencia General de Pesas y Medidas</a> convocada en 1901 por la <a href="/wiki/Oficina_Internacional_de_Pesas_y_Medidas" title="Oficina Internacional de Pesas y Medidas">Oficina Internacional de Pesas y Medidas</a> (Bureau International des Poids et Mesures).<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ Como consecuencia, el peso varía en la misma proporción.
+</p>
+<p>La siguiente lista describe el peso de un cuerpo de «masa unidad» en la superficie de algunos cuerpos del <a class="mw-redirect" href="/wiki/Sistema_Solar" title="Sistema Solar">Sistema Solar</a>, comparándolo con su peso en la Tierra:
+</p>
+<p>Por término medio, un <a href="/wiki/Neonato" title="Neonato">recién nacido</a> tiene una masa de 3 a 4 kilogramos (coloquialmente se dice que pesa de 3 a 4 <a href="/wiki/Kilopondio" title="Kilopondio">kilos</a>), y a los doce meses tiene una masa de 9 a 12 kilogramos.
+</p>
+<p>Ya en la edad adulta, los hombres generalmente pesan más que una mujer, debido a la diferencia de estaturas que suele ser mayor en el hombre. Un hombre adulto promedio pesa entre 70 y 90 kg (de una estatura de 1,75 m); Mientras que la mujer adulta promedio pesa entre 50 y 70 kg (de una estatura de 1,60 m). Ejemplo de peso: 
+</p>
+<p>El <a href="/wiki/%C3%8Dndice_de_masa_corporal" title="Índice de masa corporal">índice de masa corporal</a> establece la relación entre la masa y la <a href="/wiki/Estatura" title="Estatura">talla</a> de la <a href="/wiki/Persona" title="Persona">persona</a>. La ecuación para calcular el IMC es: masa corporal (“peso”, expresada en kilogramos) dividida entre el cuadrado de la estatura (expresada en metros).
+</p>
+<p>Se han dado casos extremos en los que la diferencia entre el peso de una persona y el peso promedio llegaba a exceder cientos de kilogramos. Hasta la fecha, <a href="/wiki/Jon_Brower_Minnoch" title="Jon Brower Minnoch">Jon Brower Minnoch</a> es la persona que más ha pesado de la que se tienen datos.
+</p>
+<p>La sensación de peso se debe a la fuerza ejercida por los fluidos del sistema vestibular, un juego de tres dimensiones de las cavidades del oído interno. En realidad, la sensación de “Fuerza G”, independientemente de ser estacionaria la presencia de la gravedad, o, si el cuerpo está en movimiento, el resultado de otras fuerzas que actúan sobre el mismo, como en el caso de la aceleración o desaceleración de un ascensor, o la fuerza que sentimos al montar en una montaña rusa.
+</p>
+<p>Los conceptos newtonianos de la gravedad fueron cuestionados por la <a href="/wiki/Teor%C3%ADa_de_la_relatividad" title="Teoría de la relatividad">Teoría de la relatividad</a> en el siglo <span style="font-variant:small-caps;text-transform:lowercase">XX</span>. El <a href="/wiki/Principio_de_equivalencia" title="Principio de equivalencia">principio de equivalencia</a> de <a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a> sitúa a todos los observadores en el mismo plano. Esto condujo a una ambigüedad en cuanto a qué es exactamente lo que se entiende por “fuerza de la gravedad” y, en consecuencia, el “peso”. Las ambigüedades introducidas por la relatividad condujeron, a partir de la década de 1960, a un amplio debate en la comunidad educativa sobre cómo definir el peso a sus alumnos. La elección fue una definición newtoniana de peso como la fuerza de un objeto en reposo en el suelo debido a la gravedad, o una definición operacional definida por el acto de pesaje.<sup>[<i><a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">cita requerida</a></i>]</sup> En la definición operacional, el peso se convierte en cero, en condiciones de ingravidez como en la órbita de la Tierra o la caída libre en el vacío. En tales situaciones, la visión newtoniana es que sigue existiendo una fuerza debido a la gravedad que no se mide (causando así un peso aparente de cero), mientras que la vista einsteiniana es que nunca existe una fuerza medible debido a la gravedad (incluso en el suelo), sino que, en caída libre, ninguna fuerza puede medirse debido a que el suelo no ejerce la fuerza mecánica que ordinariamente se observó como “peso”.
+</p>

@@ -1,0 +1,189 @@
+<p><b>Leonardo de Pisa</b> (<a href="/wiki/Pisa" title="Pisa">Pisa</a>, <a href="/wiki/Circa" title="Circa">c.</a> <a href="/wiki/1170" title="1170">1170</a> - <a class="mw-redirect" href="/wiki/Ib." title="Ib.">ib.</a>, post. <a href="/wiki/1240" title="1240">1240</a>),<sup class="reference separada" id="cite_ref-Muccillo_1-0"><a href="#cite_note-Muccillo-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ también llamado <b>Leonardo Pisano</b>, <b>Leonardo Bigollo Pisano</b> (Leonardo el viajero de Pisa) o simplemente <b>Fibonacci</b>, fue un <a href="/wiki/Matem%C3%A1tico" title="Matemático">matemático</a> <a class="mw-redirect" href="/wiki/Pueblo_italiano" title="Pueblo italiano">italiano</a> de la <a href="/wiki/Rep%C3%BAblica_de_Pisa" title="República de Pisa">República de Pisa</a>, considerado "el matemático occidental de mayor talento de la <a href="/wiki/Edad_Media" title="Edad Media">Edad Media</a>". Difundió en <a href="/wiki/Europa" title="Europa">Europa</a> la utilidad práctica del <a href="/wiki/Sistema_de_numeraci%C3%B3n" title="Sistema de numeración">sistema de numeración</a> <a class="mw-redirect" href="/wiki/N%C3%BAmeros_ar%C3%A1bigos" title="Números arábigos">indo-arábigo</a> frente a la <a href="/wiki/Numeraci%C3%B3n_romana" title="Numeración romana">numeración romana</a>, y fue el primer europeo en describir la <a class="mw-redirect" href="/wiki/Sucesi%C3%B3n_matem%C3%A1tica" title="Sucesión matemática">sucesión numérica</a> que precisamente <a href="/wiki/Sucesi%C3%B3n_de_Fibonacci" title="Sucesión de Fibonacci">lleva su nombre</a>.<sup class="reference separada" id="cite_ref-Horadam_2-0"><a href="#cite_note-Horadam-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>​<sup class="reference separada" id="cite_ref-3"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El apodo de Guglielmo (Guillermo), padre de Leonardo, era <i>Bonacci</i> (simple o bien intencionado). Leonardo recibió póstumamente el apodo de <i>Fibonacci</i> (por <i>filius Bonacci</i>, hijo de Bonacci). Guglielmo dirigía un puesto de comercio en <a href="/wiki/Bug%C3%ADa" title="Bugía">Bugía</a>, en el <a href="/wiki/%C3%81frica_del_Norte" title="África del Norte">norte de África</a> (hoy Bejaia, <a href="/wiki/Argelia" title="Argelia">Argelia</a>), y según algunas versiones era el <a href="/wiki/C%C3%B3nsul_(servicio_exterior)" title="Cónsul (servicio exterior)">cónsul</a> de la <a href="/wiki/Rep%C3%BAblica_de_Pisa" title="República de Pisa">República de Pisa</a>. De niño Leonardo viajó con él para ayudarle, y fue allí donde aprendió el sistema de numeración árabe.<sup class="reference separada" id="cite_ref-MacTutor_4-0"><a href="#cite_note-MacTutor-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Consciente de la superioridad de los numerales árabes (con un <a href="/wiki/Sistema_de_numeraci%C3%B3n_decimal" title="Sistema de numeración decimal">sistema de numeración decimal</a>, <a href="/wiki/Notaci%C3%B3n_posicional" title="Notación posicional">notación posicional</a> y un dígito de valor nulo: el <a href="/wiki/Cero" title="Cero">cero</a>), Fibonacci viajó a través de los países del <a href="/wiki/Mar_Mediterr%C3%A1neo" title="Mar Mediterráneo">Mediterráneo</a> para estudiar con los <a class="mw-redirect" href="/wiki/Matem%C3%A1tica_en_el_islam_medieval" title="Matemática en el islam medieval">matemáticos árabes</a><sup class="reference separada" id="cite_ref-elementos_5-0"><a href="#cite_note-elementos-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ más destacados de ese tiempo, regresando hacia el 1200.
+</p>
+<p>En <a href="/wiki/1202" title="1202">1202</a>, a los 32 años de edad, publicó lo que había aprendido en el <i><a href="/wiki/Liber_abaci" title="Liber abaci">Liber abaci</a></i> («<i>abaci</i>» en el sentido de <a href="/wiki/Aritm%C3%A9tica" title="Aritmética">aritmética</a> y no del <a href="/wiki/%C3%81baco" title="Ábaco">ábaco</a> como instrumento, es decir, El libro del cálculo). Este libro mostró la importancia del nuevo sistema de numeración aplicándolo a la <a href="/wiki/Contabilidad" title="Contabilidad">contabilidad</a> comercial, <a href="/wiki/Conversi%C3%B3n_de_unidades" title="Conversión de unidades">conversión</a> de <a href="/wiki/Peso" title="Peso">pesos</a> y <a href="/wiki/Unidad_de_medida" title="Unidad de medida">medidas</a>, <a href="/wiki/C%C3%A1lculo" title="Cálculo">cálculo</a>, <a href="/wiki/Inter%C3%A9s" title="Interés">intereses</a>, cambio de <a href="/wiki/Moneda" title="Moneda">moneda</a>, y otras numerosas aplicaciones. En estas páginas describe el cero, la notación posicional, la <a href="/wiki/Factorizaci%C3%B3n_de_enteros" title="Factorización de enteros">descomposición en factores primos</a>, los criterios de <a href="/wiki/Divisibilidad" title="Divisibilidad">divisibilidad</a>. El libro fue recibido con entusiasmo entre el público culto, teniendo un impacto profundo en el pensamiento matemático europeo.
+</p>
+<p>Leonardo fue huésped del emperador <a href="/wiki/Federico_II_Hohenstaufen" title="Federico II Hohenstaufen">Federico II</a>, que se interesaba en las matemáticas y la ciencia en general.
+</p>
+<p>En el año <a href="/wiki/1225" title="1225">1225</a> publicó su cuarto libro, y el más famoso de todos ellos: <i><b>Liber Quadratorum</b></i> (<i>El libro de los números cuadrados</i>), a raíz de un desafío de un matemático de la corte de Federico II, <a class="new" href="/w/index.php?title=Teodoro_de_Antioqu%C3%ADa_(fil%C3%B3sofo)&amp;action=edit&amp;redlink=1" title="Teodoro de Antioquía (filósofo) (aún no redactado)">Teodoro de Antioquía</a>, que le propuso encontrar un <a href="/wiki/Cuadrado_perfecto" title="Cuadrado perfecto">cuadrado</a> tal que si se le sumaba o restaba el número <a href="/wiki/Cinco" title="Cinco">cinco</a> diera como resultado en ambos casos números cuadrados. Curiosamente, el año de publicación del libro es un número cuadrado.
+</p>
+<p>Fibonacci comienza con los rudimentos de lo que se conocía de los números cuadrados desde la antigua Grecia y avanza gradualmente resolviendo proposiciones hasta dar solución al problema de análisis indeterminado que le habían lanzado como desafío.
+</p>
+<p>En la parte original de la obra introduce unos números que denomina <a href="/wiki/Congruencia_(teor%C3%ADa_de_n%C3%BAmeros)" title="Congruencia (teoría de números)"><i>congruentes</i></a> (Proposición IX) y que define, en terminología actual, como <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c=m\times n(m^{2}-n^{2})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+<mi>m</mi>
+<mo>×<!-- × --></mo>
+<mi>n</mi>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c=m\times n(m^{2}-n^{2})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c=m\times n(m^{2}-n^{2})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2f6dde283bcae19c6c800250e00a16861e81b8bf" style="vertical-align: -0.838ex; width:20.574ex; height:3.176ex;"/></span>, donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+</semantics>
+</math></span><img alt="m" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+</semantics>
+</math></span><img alt="n" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;"/></span> son enteros positivos impares tales que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m&gt;n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+<mo>&gt;</mo>
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m&gt;n}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle m&gt;n}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/637039c4a193f33fee72ebfeb6cb003593696160" style="vertical-align: -0.338ex; width:6.534ex; height:1.843ex;"/></span>. De esta forma, el menor de ellos es <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 24}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>24</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 24}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 24}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0be92101c8b0277e66fdefeef1ccdd7788e88ef5" style="vertical-align: -0.338ex; width:2.325ex; height:2.176ex;"/></span>. Enuncia y muestra que el producto de un número congruente por un cuadrado es otro número congruente.
+</p>
+<p>Utiliza estos números como herramientas para sus posteriores proposiciones y los hace intervenir en una identidad que es conocida como <b>identidad de Fibonacci</b> (Proposición XI). La identidad es:
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {1}{2}}\left(m^{2}+n^{2}\right)\pm mn\left(m^{2}-n^{2}\right)=\left[{\frac {1}{2}}\left(m^{2}-n^{2}\right)\pm mn\right]^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msup>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>±<!-- ± --></mo>
+<mi>m</mi>
+<mi>n</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msup>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<msup>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msup>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>±<!-- ± --></mo>
+<mi>m</mi>
+<mi>n</mi>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1}{2}}\left(m^{2}+n^{2}\right)\pm mn\left(m^{2}-n^{2}\right)=\left[{\frac {1}{2}}\left(m^{2}-n^{2}\right)\pm mn\right]^{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {1}{2}}\left(m^{2}+n^{2}\right)\pm mn\left(m^{2}-n^{2}\right)=\left[{\frac {1}{2}}\left(m^{2}-n^{2}\right)\pm mn\right]^{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/49287e1709bc3cf45ca0958e4b7a29ce3205285d" style="vertical-align: -2.505ex; width:55.859ex; height:6.509ex;"/></span>
+</p>
+<p>Esta permite pasar con facilidad de un triángulo rectángulo a otro.
+</p>
+<p>Leonardo de Pisa utiliza frecuentemente las proposiciones precedentes como lemas para las siguientes, por lo que el libro lleva un encadenamiento lógico. Sus demostraciones son del tipo retórico y usa segmentos de recta como representación de cantidades. Algunas proposiciones no están rigurosamente demostradas, sino que hace una especie de inducción incompleta, dando ejemplos prácticos y específicos, pero su dominio algorítmico es excelente y todo lo que afirma puede ser demostrado con las herramientas actuales. No se encuentran errores importantes si se hace excepción de la incompletitud de algunas demostraciones. El contenido del libro supera a la respuesta al desafío recibido y muestra el estado de la matemática de su época.
+</p>
+<p>En <a href="/wiki/1240" title="1240">1240</a>, la República de Pisa lo honra concediéndole un salario permanente (bajo su nombre alternativo de Leonardo Bigollo) en agradecimiento a sus servicios asesorando en materias de contabilidad a la ciudad y enseñado a los ciudadanos.<sup class="reference separada" id="cite_ref-MacTutor_4-1"><a href="#cite_note-MacTutor-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ No existen más referencias sobre su vida después de esta fecha, se cree que falleció con posterioridad en la ciudad de Pisa.<sup class="reference separada" id="cite_ref-Muccillo_1-1"><a href="#cite_note-Muccillo-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La lista de sus obras está tomada del libro <i>El Libro de los Números Cuadrados</i>:<sup class="reference separada" id="cite_ref-listaobras_6-0"><a href="#cite_note-listaobras-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>

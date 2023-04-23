@@ -1,0 +1,48 @@
+<p>Si quieres incluir un <b>enlace hacia un sitio externo a Wikipedia</b>, este deberá ir en una sección separada que llevará el título de "<a href="/wiki/Wikipedia:Enlaces_externos" title="Wikipedia:Enlaces externos">Enlaces externos</a>" y que se ubicará al final de un artículo. 
+</p>
+<p>Puedes añadir un <i>enlace externo</i> fácilmente presionando el botón <img alt="Enlace" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/4/48/Vector_toolbar_insert_link_button.png" width="28"/> que aparece en la barra de botones de la caja de edición: selecciona la casilla "<i>a una página web externa</i>" y escribe en "<i>título de la página</i>" la dirección web o URL del sitio escogido (no olvides escribir el prefijo "http://").
+</p>
+<p>La mejor forma de crear enlaces externos es incluir una descripción que indique el contenido de la <a class="mw-redirect" href="/wiki/URL" title="URL">dirección web</a> de la página. Esta descripción aparecerá en reemplazo de la dirección web. Por ejemplo: <a class="external text" href="http://www.google.com" rel="nofollow">Motor de búsqueda de Google</a>. Para crear un enlace como este, escribe una dirección web y luego puedes escribir el nombre alternativo en la caja "<i>título del enlace</i>", como se muestra en la imagen de ejemplo. También puedes hacerlo manualmente escribiendo un <b>espacio en blanco</b> (<i>no</i> una barra vertical) después de la dirección web, y encierra todo el texto en corchetes simples:
+</p>
+<p>Cuando agregues enlaces en la sección "Enlaces externos", hazlo usando viñetas de la siguiente manera:
+</p>
+<p>No olvides que puedes insertar viñetas con el botón <img alt="Lista viñeteada" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/2/25/Vector_toolbar_bulleted_list_button.png" width="28"/>.
+</p>
+<p><i>Nota</i>: Al usar algunos caracteres, como la barra vertical (<tt>|</tt>) en la dirección de un enlace, el enlace fallará; sin embargo, puedes especificar el uso de un carácter usando su equivalente <a class="mw-redirect" href="/wiki/Hexadecimal" title="Hexadecimal">hexadecimal</a> de su representación <a href="/wiki/ASCII" title="ASCII">ASCII</a>, así que puedes, por ejemplo, escribir <tt>%7C</tt> en vez de la barra vertical. Ver nuestra <a href="/wiki/ASCII#Caracteres_ASCII" title="ASCII">tabla de caracteres ASCII</a> para más códigos hexadecimales.
+</p>
+<p>Existen otras dos formas de incluir enlaces externos.
+</p>
+<p>Encerrando la dirección del enlace (no olvides el prefijo "http://") entre corchetes simples sin especificar una descripción; puedes utilizar el botón <img alt="Enlace externo" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/a/a5/Vector_toolbar_insert_external_link_button.png" width="28"/>, el cual inserta los corchetes automáticamente. <i>Nota</i>: para utilizar este botón de la barra de herramientas, accede a tus «<i>preferencias</i>» de usuario y en la sección de opciones de edición, desmarca la casilla que dice "<i>Habilitar diálogos para insertar enlaces, tablas y más</i>": esto deshabilitará el asistente mostrado anteriormente en la imagen de ejemplo.
+</p>
+<p>Esto mostrará el enlace como un número entre corchetes, así: <a class="external autonumber" href="http://www.google.com" rel="nofollow">[1]</a>. Este formato se utiliza para citar las fuentes de información entre el artículo. Parece un pie de página, así que es mejor solo utilizarlo de esa manera (por ejemplo, después de una cita textual o declaración que requiere un enlace hacia la fuente). Evita hacer uso de los enlaces externos de la siguiente manera: "De acuerdo con  <a class="external autonumber" href="http://members.lycos.nl/JoyceHoen/moon2000.htm" rel="nofollow">[2]</a>, la última luna llena del milenio ocurrió el <a href="/wiki/11_de_diciembre" title="11 de diciembre">11 de diciembre</a> del <a href="/wiki/2000" title="2000">2000</a>". También evita usar los enlaces externos cuando sea posible obtener el mismo resultado con un enlace interno a un artículo en Wikipedia.
+</p>
+<p>Finalmente, puedes simplemente escribir la dirección web de la página que deseas enlazar: 
+</p>
+<p>La <i>wiki</i> lo reconocerá automáticamente como un enlace (al igual que al enlace de arriba) y mostrará la dirección completa, incluyendo la parte de "http://". Dado que de esa forma no solemos ofrecer una descripción adecuada del sitio enlazado, esta opción no es recomendable en la práctica.
+</p>
+<p><br clear="all"/>
+</p>
+<p>Si quieres incluir un <b>enlace hacia un sitio externo a Wikipedia</b>, este deberá ir en una sección separada que llevará el título de "<a href="/wiki/Wikipedia:Enlaces_externos" title="Wikipedia:Enlaces externos">Enlaces externos</a>" y que se ubicará al final de un artículo. 
+</p>
+<p>Puedes añadir un <i>enlace externo</i> fácilmente presionando el botón <img alt="Enlace" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/4/48/Vector_toolbar_insert_link_button.png" width="28"/> que aparece en la barra de botones de la caja de edición: selecciona la casilla "<i>a una página web externa</i>" y escribe en "<i>título de la página</i>" la dirección web o URL del sitio escogido (no olvides escribir el prefijo "http://").
+</p>
+<p>La mejor forma de crear enlaces externos es incluir una descripción que indique el contenido de la <a class="mw-redirect" href="/wiki/URL" title="URL">dirección web</a> de la página. Esta descripción aparecerá en reemplazo de la dirección web. Por ejemplo: <a class="external text" href="http://www.google.com" rel="nofollow">Motor de búsqueda de Google</a>. Para crear un enlace como este, escribe una dirección web y luego puedes escribir el nombre alternativo en la caja "<i>título del enlace</i>", como se muestra en la imagen de ejemplo. También puedes hacerlo manualmente escribiendo un <b>espacio en blanco</b> (<i>no</i> una barra vertical) después de la dirección web, y encierra todo el texto en corchetes simples:
+</p>
+<p>Cuando agregues enlaces en la sección "Enlaces externos", hazlo usando viñetas de la siguiente manera:
+</p>
+<p>No olvides que puedes insertar viñetas con el botón <img alt="Lista viñeteada" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/2/25/Vector_toolbar_bulleted_list_button.png" width="28"/>.
+</p>
+<p><i>Nota</i>: Al usar algunos caracteres, como la barra vertical (<tt>|</tt>) en la dirección de un enlace, el enlace fallará; sin embargo, puedes especificar el uso de un carácter usando su equivalente <a class="mw-redirect" href="/wiki/Hexadecimal" title="Hexadecimal">hexadecimal</a> de su representación <a href="/wiki/ASCII" title="ASCII">ASCII</a>, así que puedes, por ejemplo, escribir <tt>%7C</tt> en vez de la barra vertical. Ver nuestra <a href="/wiki/ASCII#Caracteres_ASCII" title="ASCII">tabla de caracteres ASCII</a> para más códigos hexadecimales.
+</p>
+<p>Existen otras dos formas de incluir enlaces externos.
+</p>
+<p>Encerrando la dirección del enlace (no olvides el prefijo "http://") entre corchetes simples sin especificar una descripción; puedes utilizar el botón <img alt="Enlace externo" data-file-height="28" data-file-width="28" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/a/a5/Vector_toolbar_insert_external_link_button.png" width="28"/>, el cual inserta los corchetes automáticamente. <i>Nota</i>: para utilizar este botón de la barra de herramientas, accede a tus «<i>preferencias</i>» de usuario y en la sección de opciones de edición, desmarca la casilla que dice "<i>Habilitar diálogos para insertar enlaces, tablas y más</i>": esto deshabilitará el asistente mostrado anteriormente en la imagen de ejemplo.
+</p>
+<p>Esto mostrará el enlace como un número entre corchetes, así: <a class="external autonumber" href="http://www.google.com" rel="nofollow">[1]</a>. Este formato se utiliza para citar las fuentes de información entre el artículo. Parece un pie de página, así que es mejor solo utilizarlo de esa manera (por ejemplo, después de una cita textual o declaración que requiere un enlace hacia la fuente). Evita hacer uso de los enlaces externos de la siguiente manera: "De acuerdo con  <a class="external autonumber" href="http://members.lycos.nl/JoyceHoen/moon2000.htm" rel="nofollow">[2]</a>, la última luna llena del milenio ocurrió el <a href="/wiki/11_de_diciembre" title="11 de diciembre">11 de diciembre</a> del <a href="/wiki/2000" title="2000">2000</a>". También evita usar los enlaces externos cuando sea posible obtener el mismo resultado con un enlace interno a un artículo en Wikipedia.
+</p>
+<p>Finalmente, puedes simplemente escribir la dirección web de la página que deseas enlazar: 
+</p>
+<p>La <i>wiki</i> lo reconocerá automáticamente como un enlace (al igual que al enlace de arriba) y mostrará la dirección completa, incluyendo la parte de "http://". Dado que de esa forma no solemos ofrecer una descripción adecuada del sitio enlazado, esta opción no es recomendable en la práctica.
+</p>
+<p><br clear="all"/>
+</p>

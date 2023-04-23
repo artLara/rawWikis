@@ -1,0 +1,68 @@
+<p>En <a href="/wiki/L%C3%B3gica" title="Lógica">lógica</a>, una <b>conectiva lógica</b>, o también <b>conectiva</b> (también llamado <b>operador lógico</b> o <b>conectores lógicos</b>) es un símbolo o palabra que se utiliza para conectar dos <a href="/wiki/F%C3%B3rmula_bien_formada" title="Fórmula bien formada">fórmulas bien formadas</a> o sentencias (<a href="/wiki/F%C3%B3rmula_at%C3%B3mica" title="Fórmula atómica">atómicas</a> o moleculares), de modo que el <a href="/wiki/Valor_de_verdad" title="Valor de verdad">valor de verdad</a> de la fórmula compuesta depende del valor de verdad de las fórmulas componentes.
+</p>
+<p>Los conectivos lógicos más comunes son los <b>conectivos binarios</b> (también llamados <b>conectivos diádicos</b>) que unen dos frases, que pueden ser consideradas los operandos de la función. También es común considerar a la negación como un conectivo monádico.
+</p>
+<p>Las conectivas lógicas son, junto con los <a href="/wiki/Cuantificador" title="Cuantificador">cuantificadores</a>, las principales <a href="/wiki/Constante_l%C3%B3gica" title="Constante lógica">constantes lógicas</a> de muchos <a class="mw-redirect" href="/wiki/Sistema_l%C3%B3gico" title="Sistema lógico">sistemas lógicos</a>, principalmente la <a href="/wiki/L%C3%B3gica_proposicional" title="Lógica proposicional">lógica proposicional</a> y la <a class="mw-redirect" href="/wiki/L%C3%B3gica_de_predicados" title="Lógica de predicados">lógica de predicados</a>.
+</p>
+<p>En <a href="/wiki/Programaci%C3%B3n" title="Programación">programación</a> se utilizan para combinar valores de verdad y obtener nuevos valores que determinen el flujo de control de un <a href="/wiki/Algoritmo" title="Algoritmo">algoritmo</a> o <a class="mw-redirect" href="/wiki/Programa_(computaci%C3%B3n)" title="Programa (computación)">programa</a>.
+</p>
+<p>En la gramática de los lenguajes naturales, dos frases pueden unirse mediante una conjunción gramatical para formar una oración gramaticalmente compuesta. Algunas de estas conjunciones gramaticales, pero no todas, son funciones de verdad. Por ejemplo, considere las siguientes frases:
+</p>
+<p>Las expresiones «<i>y</i>» y «<i>por lo tanto</i>» son conjunciones <i>gramaticales</i> que unen las oraciones (A) y (B) para formar las oraciones compuestas (C) y (D). La <i>y</i> de (C) es un conector <i>lógico</i>, ya que da el valor de verdad de (C) que está completamente determinado por el valor de (A) y (B), tiene sentido para el estado (A) <i>y</i> (B) con el resultado (C). Del mismo modo, <i>por lo tanto</i> en (D) es conector lógico, ya que para (A) y (B) con el resultado (D).
+</p>
+<p>En los lenguajes formales, las funciones de verdad son representadas por símbolos inequívocos. Estos símbolos se llaman "conectivos lógicos", "operadores lógicos", "operadores proposicionales", o, en la lógica clásica, la "de funciones conectivos de verdad." Véase fórmulas bien formadas para saber las reglas que permiten las nuevas fórmulas bien formadas sean construidas al juntar otras fórmulas bien formadas utilizando conectivos de funciones de verdad.
+</p>
+<p>Los conectivos lógicos pueden ser utilizados para conectar más de dos afirmaciones, entonces es común hablar de "conector lógico <i>n</i>-ario".
+</p>
+<p>Conectivos lógicos comúnmente usados:
+</p>
+<p>Por ejemplo, el significado de los estados está lloviendo y estoy en el interior se transforma cuando los dos se combinan con conectivos lógicos:
+</p>
+<p>Por declaración P = <i>Está lloviendo</i>; Q = <i>Estoy dentro de casa</i>.
+</p>
+<p>También es común considerar la fórmula <i>siempre verdadera</i> y la fórmula <i>siempre falsa</i> como conectivos
+</p>
+<p>La contrarrecíproca ¬q→¬p de una implicación p→q tiene la misma tabla de verdad que p→q.
+La contrarrecíproca es falsa solo cuando ¬p es falsa y ¬q es verdadera, esto es, solo cuando p es verdadera y q es falsa. Por otra parte, ni la recíproca, q→p , ni la inversa, ¬p→¬q, tienen los mismos valores de verdad que p→q para todos los posibles valores de p y q. Cuando dos fórmulas tienen siempre los mismo valores de verdad, las llamamos equivalentes, de tal forma que una implicación y su contrarrecíproca son equivalentes.La recíproca y la inversa de una implicación también son equivalentes.
+</p>
+<p>Ejemplo:
+Recíproca, contrarrecíproca e inversa de "Sí viene Juan, no iré de acampada".
+</p>
+<p>Aquí podemos encontrar la implicación o condicionalidad mutua. Si p y q son proposiciones, entonces podemos formar la proposición bicondicional p ↔ q , leída «p si y solo si q ».Si p y q son los enunciados «Estoy en casa» y «Está lloviendo», entonces p ↔ q denota «Estoy en casa si y solo si está lloviendo».
+</p>
+<p>Algunas formas alternativas en que se expresa «p si y solo si q» en español:
+</p>
+<p>Algunos autores utilizan letras para conectivos en algún momento de la historia: <b>u.</b> para conjunción (del alemán "und", significa "y") y el. para la disyunción (del alemán "oder", significa "o") en los primeros trabajos de Hilbert (1904); <b>N</b> para la negación, <b>K</b> para la conjunción, <b>A</b> para la disyunción, <b>C</b> para bicondicional en <a href="/wiki/Jan_%C5%81ukasiewicz" title="Jan Łukasiewicz">Łukasiewicz</a> (1929).<sup class="reference separada" id="cite_ref-12"><a href="#cite_note-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>El conectivo lógico de la implicación recíproca ← es en realidad el mismo que el condicional material con las premisas cambiadas, luego el símbolo de implicación es recripoca es redundante. En algunos cálculos lógicos (en particular, en la lógica clásica, ciertas afirmaciones compuestas esencialmente diferentes son lógicamente equivalentes. Un ejemplo menos trivial es una redundancia de la equivalencia clásica entre ¬ P ∨ Q y P → Q. Por lo tanto, un sistema lógico de base clásica no necesita del operador condicional "→" si "¬" (no) y "∨" (o) operador condicional que ya se utilizan, o se puede utilizar el "→" solo con un azúcar sintáctico para una composición que tiene una negación y una disyunción.
+</p>
+<p>Hay 16 funciones booleanas que asocian los valores verdad de entrada de P y Q con salidas binarias 4 dígitos. Estos corresponden a las posibles opciones conectivos lógicos binarios para la lógica clásica. Una implementación diferente de la lógica clásica puede elegir diferentes subconjuntos de funcionalmente completos de conectivos.
+</p>
+<p>Un método consiste en elegir un <i>mínimo</i> establecido y fijado por cualquier otra manera lógicas como en el ejemplo con el condicional material anteriormente. Los siguientes son conjuntos mínimos funcionalmente completos de conectivos de los operadores en la lógica clásica, cuyo aridades no excedan 2:
+</p>
+<p>Vea más detalles sobre <a class="new" href="/w/index.php?title=Integridad_funcional&amp;action=edit&amp;redlink=1" title="Integridad funcional (aún no redactado)">integridad funcional</a>.
+</p>
+<p>Otro enfoque es utilizar en igualdad de derechos, de un cierto conjunto conveniente y funcionalmente completo, pero no mínimo. Este enfoque requiere más axiomas proposicionales y cada equivalencia entre las formas lógicas debe ser o bien un axioma o comprobada como un teorema.
+</p>
+<p>Pero la lógica intuicionista tiene una situación más complicada. De sus cinco conectivos {∧, ∨, →, ¬, ⊥} solamente la negación ¬ tiene que ser reducida a otros conectivos (¬p ≡ (p → ⊥)). Ni la conjunción, disyunción y condicional material tiene una forma equivalente construida de los otros cuatro conectivos lógicos.
+</p>
+<p>Algunos conectivos lógicos tienen propiedades que se pueden expresar en teoremas que contienen el conectivo. Algunas de estas propiedades que una conectiva lógica puede tener son:
+</p>
+<p>En la lógica clásica, tanto la conjunción y la disyunción son asociativas, conmutativas e idempotentes, en la mayoría de las variedades de lógica multi-valuada y la lógica intuicionista. Lo mismo es cierto sobre distributiva de la conjunción y la disyunción sobre más de conjunción, así como para la ley de absorción.
+</p>
+<p>En lógica clásica y algunas variedades de lógica multi-valuada, la conjunción y la disyunción son duales, y la negación es auto-dual, en la lógica intuicionista, esta última también es auto-dual.
+</p>
+<p>El planteamiento funcional a la verdad a los operadores lógicos se implementa como <a class="mw-redirect" href="/wiki/Puertas_l%C3%B3gicas" title="Puertas lógicas">puertas lógicas</a> en <a class="new" href="/w/index.php?title=Circuitos_digitales&amp;action=edit&amp;redlink=1" title="Circuitos digitales (aún no redactado)">circuitos digitales</a>. Prácticamente todos los circuitos digitales (la principal excepción es <a href="/wiki/DRAM" title="DRAM">DRAM</a>) se construye a partir de <a class="new" href="/w/index.php?title=Barra_de_Sheffer&amp;action=edit&amp;redlink=1" title="Barra de Sheffer (aún no redactado)">NAND</a>, <a class="new" href="/w/index.php?title=NOR_l%C3%B3gico&amp;action=edit&amp;redlink=1" title="NOR lógico (aún no redactado)">NOR</a>, <a href="/wiki/Negaci%C3%B3n_l%C3%B3gica" title="Negación lógica">NOT</a> y <a href="/wiki/Puerta_l%C3%B3gica" title="Puerta lógica">puertas de transmisión</a>; ver más detalles en <a href="/wiki/Funci%C3%B3n_de_verdad#Ciencia_de_la_computación" title="Función de verdad">función de verdad en informática</a>. Los operadores lógicos más de vectores de bits (correspondientes a finita álgebra de boole) son <a class="new" href="/w/index.php?title=Operaciones_bit_a_bit&amp;action=edit&amp;redlink=1" title="Operaciones bit a bit (aún no redactado)">operaciones bit a bit</a>.
+</p>
+<p>Pero no todo uso de un conector lógico en <a href="/wiki/Programaci%C3%B3n" title="Programación">programación informática</a> tiene una semántica de Boole. Por ejemplo, a veces se implementa <a href="/wiki/Evaluaci%C3%B3n_perezosa" title="Evaluación perezosa">evaluación perezosa</a> para <span class="texhtml"><i>P</i> ∧ <i>Q</i></span> y <span class="texhtml"><i>P</i> ∨ <i>Q</i></span>, de modo que estos conectores no son conmutativo si algunas de las expresiones <span class="texhtml">P</span>, <span class="texhtml">Q</span> tiene <a href="/wiki/Efecto_secundario_(inform%C3%A1tica)" title="Efecto secundario (informática)">efecto secundario</a>. También, un <a href="/wiki/Sentencia_condicional" title="Sentencia condicional">condicional</a>, que en cierto sentido corresponde al conectivo <a href="/wiki/Condicional_material" title="Condicional material">condicional material</a>, es esencialmente no-booleano porque para <code>si (P) entonces Q;</code> la consiguiente Q no se ejecuta si el <a href="/wiki/Antecedente_(l%C3%B3gica)" title="Antecedente (lógica)">antecedente</a> P es falso (aunque un compuesto como un todo es exitosa ≈ "verdadera" en tal caso). Esto se acerca más a las ópticas intuicionistas y <a class="mw-redirect" href="/wiki/Constructivismo_(matem%C3%A1ticas)" title="Constructivismo (matemáticas)">constructivistas</a> sobre el condicional material, más que a las de la lógica clásica.
+</p>
+<p>Si vemos las distintas conectivas por su número de argumentos podemos distinguir:
+</p>
+<p>Las conectivas lógicas sin argumentos son:
+</p>
+<p>Las conectivas con solo un argumento son:
+</p>
+<p>Las conectivas que necesitan dos argumentos son:
+</p>
+<p><br/>
+</p>

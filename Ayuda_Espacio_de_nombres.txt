@@ -1,0 +1,130 @@
+<p>Un <b>espacio de nombres</b> es un conjunto de nombres o identificadores en el que todos los nombres son únicos. En el contexto de los espacios de nombres, cada nombre está asociado a un espacio de nombres. El mismo nombre puede estar definido en varios espacios de nombres, el significado de un nombre en un determinado espacio de nombres es distinto e independiente del significado del mismo nombre en otro espacio de nombres.
+</p>
+<p>Por ejemplo, Pedro trabaja para la compañía X y su número de empleado es 123. María trabaja para la compañía Y y su número de empleada también es 123. La razón por la cual Pedro y María pueden ser identificados con el mismo número de empleado es porque trabajan para compañías diferentes. En este caso cada compañía tiene su propio espacio de nombres.
+</p>
+<p>Como todos los <a href="/wiki/Wiki" title="Wiki">wikis</a> basados en <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a>, Wikipedia utiliza espacios de nombres para diferenciar los tipos de páginas. La Wikipedia en español tiene 26 espacios de nombres: 12 básicos, 12 son sus correspondientes páginas de discusión asociadas, y 2 virtuales.
+</p>
+<p>Los espacios de nombres de Wikipedia tienen tres funciones:
+</p>
+<p>La siguiente tabla lista los espacios de nombres que existen en Wikipedia:
+</p>
+<p>Con este sistema cada página se nombra así: «Prefijo del espacio:Tema de la página».
+</p>
+<p>El espacio de nombres principal carece de prefijo. Los prefijos del resto de espacios de nombres se listan a continuación junto a las variables que contienen sus nombres:
+</p>
+<p>Cada espacio de nombres tiene un espacio de discusión asociado, cuyo nombre se forma añadiendo «Discusión» a su correspondiente prefijo. Las discusiones sirven para debatir sobre la página a la que están asociadas. Por ejemplo para discutir sobre el contenido de esta página, accede a <a href="/wiki/Ayuda_discusi%C3%B3n:Espacio_de_nombres" title="Ayuda discusión:Espacio de nombres">Ayuda discusión:Espacio de nombres</a>.
+</p>
+<p>El <a href="/wiki/Ayuda:Art%C3%ADculo" title="Ayuda:Artículo">espacio de nombres principal</a> es la enciclopedia en sí. Es el espacio por omisión y no usa un prefijo. El número de artículos de la enciclopedia solo cuenta sus páginas.
+</p>
+<p>El <a class="new" href="/w/index.php?title=Ayuda:Espacio_de_nombres_de_proyecto&amp;action=edit&amp;redlink=1" title="Ayuda:Espacio de nombres de proyecto (aún no redactado)">espacio de nombres de proyecto</a>, en nuestro caso Wikipedia: es el espacio donde se albergan las páginas relacionadas con la enciclopedia, sin ser parte de la enciclopedia en sí, por ejemplo, esta página, el <a href="/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café">Wikipedia:Café</a>, etc.
+</p>
+<p>El espacio de nombres de usuario es el destinado a las páginas personales de los <a href="/wiki/Wikipedia:Wikipedistas" title="Wikipedia:Wikipedistas">wikipedistas</a>. En ellas solemos escribir lo que queremos que nuestros compañeros sepan de nosotros, enlaces a nuestras contribuciones, o lo que queramos. En el espacio de discusión asociado se reciben mensajes de otros usuarios con notificación.
+</p>
+<p>El <a class="new" href="/w/index.php?title=Ayuda:Espacio_de_nombres_de_imagen&amp;action=edit&amp;redlink=1" title="Ayuda:Espacio de nombres de imagen (aún no redactado)">espacio de nombres de imágenes</a> alberga las <a class="mw-redirect" href="/wiki/Wikipedia:P%C3%A1gina_de_descripci%C3%B3n_de_imagen" title="Wikipedia:Página de descripción de imagen">páginas de descripción de imagen</a> y por extensión de cualquier tipo de archivo subido al servidor. 
+</p>
+<p>Hay tres tipos de enlace a estas páginas:
+</p>
+<p>El <a href="/wiki/Ayuda:Espacio_de_nombres_de_MediaWiki" title="Ayuda:Espacio de nombres de MediaWiki">espacio de nombres de MediaWiki</a> alberga las páginas de mensajes de la interfaz de usuario de modo que los administradores pueden traducir la interfaz solo con editar estas páginas.
+</p>
+<p>El <a class="new" href="/w/index.php?title=Ayuda:Espacio_de_nombres_de_plantilla&amp;action=edit&amp;redlink=1" title="Ayuda:Espacio de nombres de plantilla (aún no redactado)">espacio de nombres de plantillas</a> permite crear <a class="mw-redirect" href="/wiki/Wikipedia:Mensajes_personalizados_de_MediaWiki" title="Wikipedia:Mensajes personalizados de MediaWiki">mensajes parametrizables</a> para insertar en los artículos.
+</p>
+<p>El <a class="new" href="/w/index.php?title=Ayuda:Espacio_de_nombres_de_categor%C3%ADa&amp;action=edit&amp;redlink=1" title="Ayuda:Espacio de nombres de categoría (aún no redactado)">espacio de nombres de categorías</a> permite clasificar a los artículos simplemente añadiendo enlaces normales a sus páginas desde ellos. Cada <a href="/wiki/Ayuda:Categor%C3%ADa" title="Ayuda:Categoría">categoría</a> contiene una lista ordenada de las páginas que pertenecen a ella.
+</p>
+<p>El <a class="new" href="/w/index.php?title=Ayuda:Espacio_de_nombres_de_ayuda&amp;action=edit&amp;redlink=1" title="Ayuda:Espacio de nombres de ayuda (aún no redactado)">espacio de nombres de ayuda</a> está destinado a las páginas de ayuda a los usuarios, especialmente desde el punto de vista de uso del software MediaWiki. 
+</p>
+<p>Los espacios de <a class="mw-redirect" href="/wiki/Wikipedia:Wikiproyecto" title="Wikipedia:Wikiproyecto">Wikiproyectos</a> y <a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">Portales</a> no están predefinidos en MediaWiki, es decir, otros wikis basados en el mismo programa no tienen por qué tenerlos. Estos espacios se han definido en Wikipedia para albergar este tipo de contenidos, que no forman parte de la información enciclopédica, pero por su especialización han sido independizados del espacio Wikipedia:.
+</p>
+<p>El <a class="new" href="/w/index.php?title=Ayuda:Espacio_de_nombres_de_anexo&amp;action=edit&amp;redlink=1" title="Ayuda:Espacio de nombres de anexo (aún no redactado)">espacio de nombres de anexos</a> tiene por objeto albergar información complementaria del espacio principal, tal como <a href="/wiki/Ayuda:Anexo" title="Ayuda:Anexo">anexos</a> u <a href="/wiki/Wikipedia:Informaci%C3%B3n_de_soporte_enciclop%C3%A9dico" title="Wikipedia:Información de soporte enciclopédico">otro contenido</a> que no constituya propiamente un artículo enciclopédico.
+</p>
+<p>El <a href="/wiki/Wikipedia:Lua" title="Wikipedia:Lua">espacio de nombres de módulos</a> (module) tiene por objeto albergar los módulos o <a href="/wiki/Script" title="Script">script</a> creados en <a href="/wiki/Wikipedia:Lua" title="Wikipedia:Lua">Lua</a> (<a class="extiw" href="https://www.mediawiki.org/wiki/Extension:Scribunto" title="mw:Extension:Scribunto">extensión Scribunto</a>). Estos script solo es posible crearlos en este espacio de nombres. Dentro de este espacio solo se admite <a href="/wiki/Wikitexto" title="Wikitexto">wikitexto</a> en las subpáginas doc (documentación del módulo). Además cada módulo puede tener una subpágina tests para realizar una <a href="/wiki/Prueba_unitaria" title="Prueba unitaria">prueba unitaria</a>, la cual se debe comprobar en la discusión correspondiente. Dadas la peculiaridades descritas este espacio cuenta con su propia <a href="/wiki/M%C3%B3dulo:Zona_de_pruebas" title="Módulo:Zona de pruebas">zona de pruebas</a>.
+</p>
+<p>Todo espacio de nombres, excepto el Especial, tienen un espacio de nombres de <a class="mw-redirect" href="/wiki/Wikipedia:P%C3%A1gina_de_discusi%C3%B3n" title="Wikipedia:Página de discusión">discusión</a> asociado. Este espacio sirve para discutir la página correspondiente en el espacio de nombres asociado. El prefijo de estas páginas se forma añadiendo «Discusión» a los prefijos correspondiente, por ejemplo «Discusión», «Wikipedia Discusión», «Categoría Discusión», etc.
+</p>
+<p>La política de uso de estas páginas en Wikipedia se describe en <a class="mw-redirect" href="/wiki/Wikipedia:Pol%C3%ADticas_de_edici%C3%B3n_y_p%C3%A1ginas_de_discusi%C3%B3n" title="Wikipedia:Políticas de edición y páginas de discusión">Wikipedia:Políticas de edición y páginas de discusión</a>.
+</p>
+<p>Hay dos espacios de nombres que no almacenan páginas editables:
+</p>
+<p>Para crear una página en un espacio de nombres simplemente hay que nombrarla de este modo: «Prefijo del espacio:Tema de la página». Como prefijo del espacio vale tanto la versión traducida a nuestra Wikipedia como el nombre original en inglés usado en el <a href="/wiki/C%C3%B3digo_fuente" title="Código fuente">código fuente</a> (esto último vale para cualquier Wikipedia) y que puedes ver en la tabla anterior como nombre de las variables.
+</p>
+<p>El que una página tenga un carácter «:» en su nombre no quiere decir que esté bajo un espacio de nombres distinto al principal, es necesario que el prefijo sea uno de los indicados en esta página.
+</p>
+<p>Además existen enlaces que se parecen a enlaces a páginas con espacio de nombres, pero en realidad son <a class="mw-redirect" href="/wiki/Wikipedia:C%C3%B3mo_se_edita_una_p%C3%A1gina#Enlaces_a_otros_wikis" title="Wikipedia:Cómo se edita una página">enlaces a otros wikis</a>.
+</p>
+<p>Las palabras mágicas son variables que van encerradas en mayúsculas (para distinguirlas de las plantillas) entre dos dobles llaves:
+</p>
+<p>Las siguientes palabras mágicas tienen relación con los espacios de nombres:
+</p>
+<p>De esta forma, el siguiente código:
+</p>
+<p>produciría:
+<br/>
+</p>
+<p>Ayuda:Espacio de nombres
+</p>
+<p>En los enlaces se puede utilizar el carácter «|» para ocultar el espacio de nombres del texto del enlace. Por ejemplo: [[Wikipedia:Café]], se muestra así: <a href="/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café">Café</a>.
+</p>
+<p>Un <b>espacio de nombres</b> es un conjunto de nombres o identificadores en el que todos los nombres son únicos. En el contexto de los espacios de nombres, cada nombre está asociado a un espacio de nombres. El mismo nombre puede estar definido en varios espacios de nombres, el significado de un nombre en un determinado espacio de nombres es distinto e independiente del significado del mismo nombre en otro espacio de nombres.
+</p>
+<p>Por ejemplo, Pedro trabaja para la compañía X y su número de empleado es 123. María trabaja para la compañía Y y su número de empleada también es 123. La razón por la cual Pedro y María pueden ser identificados con el mismo número de empleado es porque trabajan para compañías diferentes. En este caso cada compañía tiene su propio espacio de nombres.
+</p>
+<p>Como todos los <a href="/wiki/Wiki" title="Wiki">wikis</a> basados en <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a>, Wikipedia utiliza espacios de nombres para diferenciar los tipos de páginas. La Wikipedia en español tiene 26 espacios de nombres: 12 básicos, 12 son sus correspondientes páginas de discusión asociadas, y 2 virtuales.
+</p>
+<p>Los espacios de nombres de Wikipedia tienen tres funciones:
+</p>
+<p>La siguiente tabla lista los espacios de nombres que existen en Wikipedia:
+</p>
+<p>Con este sistema cada página se nombra así: «Prefijo del espacio:Tema de la página».
+</p>
+<p>El espacio de nombres principal carece de prefijo. Los prefijos del resto de espacios de nombres se listan a continuación junto a las variables que contienen sus nombres:
+</p>
+<p>Cada espacio de nombres tiene un espacio de discusión asociado, cuyo nombre se forma añadiendo «Discusión» a su correspondiente prefijo. Las discusiones sirven para debatir sobre la página a la que están asociadas. Por ejemplo para discutir sobre el contenido de esta página, accede a <a href="/wiki/Ayuda_discusi%C3%B3n:Espacio_de_nombres" title="Ayuda discusión:Espacio de nombres">Ayuda discusión:Espacio de nombres</a>.
+</p>
+<p>El <a href="/wiki/Ayuda:Art%C3%ADculo" title="Ayuda:Artículo">espacio de nombres principal</a> es la enciclopedia en sí. Es el espacio por omisión y no usa un prefijo. El número de artículos de la enciclopedia solo cuenta sus páginas.
+</p>
+<p>El <a class="new" href="/w/index.php?title=Ayuda:Espacio_de_nombres_de_proyecto&amp;action=edit&amp;redlink=1" title="Ayuda:Espacio de nombres de proyecto (aún no redactado)">espacio de nombres de proyecto</a>, en nuestro caso Wikipedia: es el espacio donde se albergan las páginas relacionadas con la enciclopedia, sin ser parte de la enciclopedia en sí, por ejemplo, esta página, el <a href="/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café">Wikipedia:Café</a>, etc.
+</p>
+<p>El espacio de nombres de usuario es el destinado a las páginas personales de los <a href="/wiki/Wikipedia:Wikipedistas" title="Wikipedia:Wikipedistas">wikipedistas</a>. En ellas solemos escribir lo que queremos que nuestros compañeros sepan de nosotros, enlaces a nuestras contribuciones, o lo que queramos. En el espacio de discusión asociado se reciben mensajes de otros usuarios con notificación.
+</p>
+<p>El <a class="new" href="/w/index.php?title=Ayuda:Espacio_de_nombres_de_imagen&amp;action=edit&amp;redlink=1" title="Ayuda:Espacio de nombres de imagen (aún no redactado)">espacio de nombres de imágenes</a> alberga las <a class="mw-redirect" href="/wiki/Wikipedia:P%C3%A1gina_de_descripci%C3%B3n_de_imagen" title="Wikipedia:Página de descripción de imagen">páginas de descripción de imagen</a> y por extensión de cualquier tipo de archivo subido al servidor. 
+</p>
+<p>Hay tres tipos de enlace a estas páginas:
+</p>
+<p>El <a href="/wiki/Ayuda:Espacio_de_nombres_de_MediaWiki" title="Ayuda:Espacio de nombres de MediaWiki">espacio de nombres de MediaWiki</a> alberga las páginas de mensajes de la interfaz de usuario de modo que los administradores pueden traducir la interfaz solo con editar estas páginas.
+</p>
+<p>El <a class="new" href="/w/index.php?title=Ayuda:Espacio_de_nombres_de_plantilla&amp;action=edit&amp;redlink=1" title="Ayuda:Espacio de nombres de plantilla (aún no redactado)">espacio de nombres de plantillas</a> permite crear <a class="mw-redirect" href="/wiki/Wikipedia:Mensajes_personalizados_de_MediaWiki" title="Wikipedia:Mensajes personalizados de MediaWiki">mensajes parametrizables</a> para insertar en los artículos.
+</p>
+<p>El <a class="new" href="/w/index.php?title=Ayuda:Espacio_de_nombres_de_categor%C3%ADa&amp;action=edit&amp;redlink=1" title="Ayuda:Espacio de nombres de categoría (aún no redactado)">espacio de nombres de categorías</a> permite clasificar a los artículos simplemente añadiendo enlaces normales a sus páginas desde ellos. Cada <a href="/wiki/Ayuda:Categor%C3%ADa" title="Ayuda:Categoría">categoría</a> contiene una lista ordenada de las páginas que pertenecen a ella.
+</p>
+<p>El <a class="new" href="/w/index.php?title=Ayuda:Espacio_de_nombres_de_ayuda&amp;action=edit&amp;redlink=1" title="Ayuda:Espacio de nombres de ayuda (aún no redactado)">espacio de nombres de ayuda</a> está destinado a las páginas de ayuda a los usuarios, especialmente desde el punto de vista de uso del software MediaWiki. 
+</p>
+<p>Los espacios de <a class="mw-redirect" href="/wiki/Wikipedia:Wikiproyecto" title="Wikipedia:Wikiproyecto">Wikiproyectos</a> y <a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">Portales</a> no están predefinidos en MediaWiki, es decir, otros wikis basados en el mismo programa no tienen por qué tenerlos. Estos espacios se han definido en Wikipedia para albergar este tipo de contenidos, que no forman parte de la información enciclopédica, pero por su especialización han sido independizados del espacio Wikipedia:.
+</p>
+<p>El <a class="new" href="/w/index.php?title=Ayuda:Espacio_de_nombres_de_anexo&amp;action=edit&amp;redlink=1" title="Ayuda:Espacio de nombres de anexo (aún no redactado)">espacio de nombres de anexos</a> tiene por objeto albergar información complementaria del espacio principal, tal como <a href="/wiki/Ayuda:Anexo" title="Ayuda:Anexo">anexos</a> u <a href="/wiki/Wikipedia:Informaci%C3%B3n_de_soporte_enciclop%C3%A9dico" title="Wikipedia:Información de soporte enciclopédico">otro contenido</a> que no constituya propiamente un artículo enciclopédico.
+</p>
+<p>El <a href="/wiki/Wikipedia:Lua" title="Wikipedia:Lua">espacio de nombres de módulos</a> (module) tiene por objeto albergar los módulos o <a href="/wiki/Script" title="Script">script</a> creados en <a href="/wiki/Wikipedia:Lua" title="Wikipedia:Lua">Lua</a> (<a class="extiw" href="https://www.mediawiki.org/wiki/Extension:Scribunto" title="mw:Extension:Scribunto">extensión Scribunto</a>). Estos script solo es posible crearlos en este espacio de nombres. Dentro de este espacio solo se admite <a href="/wiki/Wikitexto" title="Wikitexto">wikitexto</a> en las subpáginas doc (documentación del módulo). Además cada módulo puede tener una subpágina tests para realizar una <a href="/wiki/Prueba_unitaria" title="Prueba unitaria">prueba unitaria</a>, la cual se debe comprobar en la discusión correspondiente. Dadas la peculiaridades descritas este espacio cuenta con su propia <a href="/wiki/M%C3%B3dulo:Zona_de_pruebas" title="Módulo:Zona de pruebas">zona de pruebas</a>.
+</p>
+<p>Todo espacio de nombres, excepto el Especial, tienen un espacio de nombres de <a class="mw-redirect" href="/wiki/Wikipedia:P%C3%A1gina_de_discusi%C3%B3n" title="Wikipedia:Página de discusión">discusión</a> asociado. Este espacio sirve para discutir la página correspondiente en el espacio de nombres asociado. El prefijo de estas páginas se forma añadiendo «Discusión» a los prefijos correspondiente, por ejemplo «Discusión», «Wikipedia Discusión», «Categoría Discusión», etc.
+</p>
+<p>La política de uso de estas páginas en Wikipedia se describe en <a class="mw-redirect" href="/wiki/Wikipedia:Pol%C3%ADticas_de_edici%C3%B3n_y_p%C3%A1ginas_de_discusi%C3%B3n" title="Wikipedia:Políticas de edición y páginas de discusión">Wikipedia:Políticas de edición y páginas de discusión</a>.
+</p>
+<p>Hay dos espacios de nombres que no almacenan páginas editables:
+</p>
+<p>Para crear una página en un espacio de nombres simplemente hay que nombrarla de este modo: «Prefijo del espacio:Tema de la página». Como prefijo del espacio vale tanto la versión traducida a nuestra Wikipedia como el nombre original en inglés usado en el <a href="/wiki/C%C3%B3digo_fuente" title="Código fuente">código fuente</a> (esto último vale para cualquier Wikipedia) y que puedes ver en la tabla anterior como nombre de las variables.
+</p>
+<p>El que una página tenga un carácter «:» en su nombre no quiere decir que esté bajo un espacio de nombres distinto al principal, es necesario que el prefijo sea uno de los indicados en esta página.
+</p>
+<p>Además existen enlaces que se parecen a enlaces a páginas con espacio de nombres, pero en realidad son <a class="mw-redirect" href="/wiki/Wikipedia:C%C3%B3mo_se_edita_una_p%C3%A1gina#Enlaces_a_otros_wikis" title="Wikipedia:Cómo se edita una página">enlaces a otros wikis</a>.
+</p>
+<p>Las palabras mágicas son variables que van encerradas en mayúsculas (para distinguirlas de las plantillas) entre dos dobles llaves:
+</p>
+<p>Las siguientes palabras mágicas tienen relación con los espacios de nombres:
+</p>
+<p>De esta forma, el siguiente código:
+</p>
+<p>produciría:
+<br/>
+</p>
+<p>Ayuda:Espacio de nombres
+</p>
+<p>En los enlaces se puede utilizar el carácter «|» para ocultar el espacio de nombres del texto del enlace. Por ejemplo: [[Wikipedia:Café]], se muestra así: <a href="/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café">Café</a>.
+</p>

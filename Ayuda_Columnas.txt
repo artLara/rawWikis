@@ -1,0 +1,38 @@
+<p>Para disponer texto de tipo <b><a href="/wiki/Ayuda:Listas" title="Ayuda:Listas">lista</a></b> en columnas existen una colección de plantillas que lo permiten. Recordamos que el texto habitual de un artículo no debe ponerse en columnas.
+</p>
+<p>De estas plantillas, la que permite su edición desde el <a href="/wiki/Wikipedia:Editor_Visual" title="Wikipedia:Editor Visual">editor visual</a>, y al mismo tiempo simple y potente es <b><code>{{<a href="/wiki/Plantilla:XCols" title="Plantilla:XCols">XCols</a>}}</code></b>.
+</p>
+<p><b>Primero</b></p>
+<p>Segundo</p>
+<p><b>Tercero</b></p>
+<p>Cuarto</p>
+<p>Quinto</p>
+<p>Sexto</p>
+<p>Séptimo</p>
+<p>Encontrará <b>muchos más ejemplos</b> en la documentación de la plantilla.
+</p>
+<p><br/>
+</p>
+<p>No está incluida <code>{{<a href="/wiki/Plantilla:Ficha/Columnas" title="Plantilla:Ficha/Columnas">Ficha/Columnas</a>}}</code> que queda alineada a la derecha como tabla ajustada a la derecha como la de esta página.
+</p>
+<p>diferente para cada columna
+</p>
+<p>Para disponer texto de tipo <b><a href="/wiki/Ayuda:Listas" title="Ayuda:Listas">lista</a></b> en columnas existen una colección de plantillas que lo permiten. Recordamos que el texto habitual de un artículo no debe ponerse en columnas.
+</p>
+<p>De estas plantillas, la que permite su edición desde el <a href="/wiki/Wikipedia:Editor_Visual" title="Wikipedia:Editor Visual">editor visual</a>, y al mismo tiempo simple y potente es <b><code>{{<a href="/wiki/Plantilla:XCols" title="Plantilla:XCols">XCols</a>}}</code></b>.
+</p>
+<p><b>Primero</b></p>
+<p>Segundo</p>
+<p><b>Tercero</b></p>
+<p>Cuarto</p>
+<p>Quinto</p>
+<p>Sexto</p>
+<p>Séptimo</p>
+<p>Encontrará <b>muchos más ejemplos</b> en la documentación de la plantilla.
+</p>
+<p><br/>
+</p>
+<p>No está incluida <code>{{<a href="/wiki/Plantilla:Ficha/Columnas" title="Plantilla:Ficha/Columnas">Ficha/Columnas</a>}}</code> que queda alineada a la derecha como tabla ajustada a la derecha como la de esta página.
+</p>
+<p>diferente para cada columna
+</p>

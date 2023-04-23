@@ -1,0 +1,24 @@
+<p>En <a href="/wiki/Biolog%C3%ADa" title="Biología">biología</a>, el <b>desarrollo</b> es la progresión de estados vitales desde la <a href="/wiki/Fecundaci%C3%B3n" title="Fecundación">fecundación</a> hasta la <a href="/wiki/Senescencia" title="Senescencia">senescencia</a>. Distintos <a href="/wiki/Gen" title="Gen">genes</a> están internamente programados para ser expresados en diferentes momentos de los estados de desarrollo obteniendo así cambios en el <a href="/wiki/Fenotipo" title="Fenotipo">fenotipo</a> del ser vivo. Este es un proceso universal.
+</p>
+<p>El desarrollo es, también, el proceso por el cual una sola <a href="/wiki/C%C3%A9lula" title="Célula">célula</a> se convierte en una criatura compuesta por una infinidad de células con funciones distintas. Estas células están organizadas en órganos funcionales de cuerpos adultos o juveniles. De una sola <a href="/wiki/C%C3%A9lula" title="Célula">célula</a> proveniente de un <a href="/wiki/%C3%93vulo" title="Óvulo">óvulo</a> pueden surgir desde células musculares del <a href="/wiki/Coraz%C3%B3n" title="Corazón">corazón</a> hasta <a class="mw-redirect" href="/wiki/Gl%C3%B3bulos_rojos" title="Glóbulos rojos">glóbulos rojos</a> o las células sensibles a la luz de la <a href="/wiki/Retina" title="Retina">retina</a> en los ojos.
+El principio esencial a través del cual sucede esto es que una sola célula se divide en dos, estas dos células son distintas una de la otra y van a seguir caminos distintos. Es decir, la <a href="/wiki/Mitosis" title="Mitosis">mitosis</a> puede generar células no equivalentes.
+</p>
+<p>Existen actualmente distintos conceptos del desarrollo utilizados en biología, a continuación se explicaran brevemente una gran mayoría.
+</p>
+<p>Algunas especies modifican su ciclo de vida extendiendo o acortando el periodo larval que atraviesan antes de convertirse en adultos. Cuando un embrión abandona de forma total sus estados larvales y se construye así mismo como un adulto en miniatura se denomina desarrollo directo.
+</p>
+<p>La mayoría de los <a href="/wiki/Filo" title="Filo">filos</a> de animales invertebrados, los patrones de <a href="/wiki/Segmentaci%C3%B3n_(biolog%C3%ADa)" title="Segmentación (biología)">segmentación</a> son constantes, la transcripción de los genes se activa relativamente temprano, y la señalización que resultara en la especificación de varios linajes de células sucede antes de la gastrulación.
+En la mayoría de los organismos que se desarrollan de esta forma, el primer estado vital es una larva nadadora ciliada que en su interior guarda las células que se convertirán en el juvenil que será libre únicamente después de la metamorfosis.
+</p>
+<p>Es una transformación rápida y radical en un individuo adulto sexualmente maduro.
+</p>
+<p>También se denomina desarrollo independiente o en mosaico, y significa que los destinos de determinadas células están determinados y ellas se desarrollan con independencia del tejido por el que se encuentren rodeadas.
+</p>
+<p>También llamado condicional ya que los destinos finales de las células  dependen de la localización en el embrión.
+Lo que determina en un embrión que el desarrollo de ciertas células sea dependiente o independiente es el estado de <a href="/wiki/Gastrulaci%C3%B3n" title="Gastrulación">gastrulación</a> en el que se encuentre, sea temprano o tardío.
+</p>
+<p>En este desarrollo en particular la maduración del cerebro continua a lo largo de la vida adulta del <i><a href="/wiki/Homo_sapiens" title="Homo sapiens">Homo sapiens</a></i>, conservándose la velocidad de proliferación de neuronas original del feto. Además, se observa una elevada actividad transcripcional en la zona cerebral comparada con la de <a class="mw-redirect" href="/wiki/Simio" title="Simio">Simios</a> similares.
+</p>
+<p>El desarrollo de las gónadas comienza en la sexta semana el epitelio celómico prolifera y se une con el mesénquima de ula cresta genital. 
+El desarrollo de los testículos se caracteriza por un continuo desarrollo de las cuerdas epiteliales que forman los tubos seminales. En las hembras, las cuerdas epiteliales se degeneran y una segunda ola de proliferación de cuerdas epiteliales las forma.
+</p>

@@ -1,0 +1,654 @@
+<p><a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> usa etiquetas AMS-LaTeX para las fórmulas matemáticas. El
+marcado AMS-LaTeX se derivan de <a href="/wiki/LaTeX" title="LaTeX">LaTeX</a>, que a la vez proviene de
+<a href="/wiki/TeX" title="TeX">TeX</a>. AMS-LaTeX genera imágenes <a class="mw-redirect" href="/wiki/PNG" title="PNG">PNG</a> por defecto. También existe
+la opción de usar <a href="/wiki/MathJax" title="MathJax">MathJax</a>, que combina <a href="/wiki/HTML" title="HTML">HTML</a> y <a href="/wiki/CSS" title="CSS">CSS</a> para
+visualizar las ecuaciones. MathJax se puede seleccionar en el menú de
+<a href="/wiki/Especial:Preferencias#mw-prefsection-rendering" title="Especial:Preferencias">Preferencias de
+Usuario (Apariencia)</a>.
+</p>
+<p>La diferencia entre TeX y LaTeX y la versión implementada por
+MediaWiki consiste en que, en los dos primeros casos, el resultado
+final es un solo documento que engloba las fórmulas y texto en su
+totalidad, mientras que en el último el marcado es filtrado
+por las herramientas <a class="mw-redirect" href="/wiki/Texvc" title="Texvc">Texvc</a> u, opcionalmente, por <a href="/wiki/MathJax" title="MathJax">MathJax</a>, que a su vez
+redirigen el resultado a TeX para la compilación final.
+</p>
+<p>Visualmente, MathJax proporciona mejores resultados. La calidad de la tipografía es muy superior y se eliminan ciertos problemas, como el diferente tamaño de las fórmulas con respecto al texto circundante o falta de alineación. Por otro lado, la herramienta <a class="mw-redirect" href="/wiki/Javascript" title="Javascript">javascript</a> empleada por MathJax para interpretar las expresiones matemáticas toma más tiempo que <a class="mw-redirect" href="/wiki/Texvc" title="Texvc">Texvc</a>.
+</p>
+<p>Las expresiones matemáticas escritas en TeX deben estar entre las <a href="/wiki/Etiqueta_(lenguaje_de_marcado)" title="Etiqueta (lenguaje de marcado)">etiquetas</a> de comienzo y cierre:
+</p>
+<p>Para ello se puede seleccionar el código TeX y pulsar el botón <a class="image" href="/wiki/Archivo:Math_icon.png"><img alt="Math icon.png" data-file-height="22" data-file-width="23" decoding="async" height="22" src="//upload.wikimedia.org/wikipedia/commons/5/5b/Math_icon.png" width="23"/></a> que aparece en la barra de botones que está encima de la caja de edición (es posible que en tu navegador no aparezca), o escribir las etiquetas directamente.
+</p>
+<p>El atributo <code>alt</code> de las imágenes TeX (al dejar el cursor sobre la imagen el texto que se muestra en la caja de ayuda flotante) es el texto wiki a partir de la que se generó, excluyendo las etiquetas de comienzo y cierre.
+</p>
+<p>Las imágenes PNG son generadas en negro sobre fondo blanco no transparente. Estos colores, así como los tamaños y tipos de fuente, son independientes de la configuración del navegador y del <a href="/wiki/CSS" title="CSS">CSS</a> utilizado. Los tamaños y tipos de fuente diferirán a menudo de los usados por el navegador para mostrar el HTML. El selector CSS de las imágenes es <code>img.tex</code>.
+</p>
+<p>Las expresiones escritas en TeX, pueden formar parte de una línea de texto, insertarse en una tabla o ocupar un espacio entre párrafos según se desee, pero debe tenerse en cuenta que dentro de las etiquetas de comienzo y cierre no es válido el código <a href="/wiki/Ayuda:Edici%C3%B3n" title="Ayuda:Edición">Ayuda:Edición</a> para edición en <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> y que las etiquetas de comienzo y cierre de TeX no pueden anidarse.
+</p>
+<p>Si entre las etiquetas de comienzo y cierre no hay código TeX, o es incorrecto, se presentará un mensaje de error:
+</p>
+<p><code><b>Error al representar (error de sintaxis): {\displaystyle á }</b></code>
+</p>
+<p>los informes de errores y peticiones, deberán enviarse a la <a class="new" href="/w/index.php?title=Mailing_list&amp;action=edit&amp;redlink=1" title="Mailing list (aún no redactado)">Wikitech-l mailing list</a>. O también pueden ser dirigidas a <a class="external text" href="https://bugzilla.wikipedia.org">Mediazilla</a> en <i>MediaWiki extensiones</i>.
+</p>
+<p>La expresiones escritas en TeX se presentan normalmente en formato HTML, si el resultado es una sola línea, sin signos especiales:
+</p>
+<p>Si dentro de la expresión hay un solo signo que TeX tenga que representar en formato PNG, toda la expresión se representará en formato PNG.
+</p>
+<p>Para forzar que la fórmula se muestre como una imagen PNG, basta con añadir <b>\,</b> (espacio pequeño) al final de la fórmula (donde no será representado).
+</p>
+<p>También puede usarse <b>\,\!</b> (espacio pequeño y espacio negativo, que se cancelan) en cualquier lugar dentro de las etiquetas de comienzo y cierre de TeX. Esto <b>sí</b> fuerza la generación del PNG.
+</p>
+<p>Esto puede utilizarse para corregir fórmulas que se muestran incorrectamente en HTML, generando un subrayado sobrante, o para forzar una imagen en PNG cuando normalmente se mostraría en HTML.
+</p>
+<p>Por ejemplo:
+</p>
+<p>Estos ejemplos han sido probados con la mayoría de las fórmulas de esta página, y parecen funcionar perfectamente.
+</p>
+<p>Entre las etiquetas de comienzo y cierre de TeX se pueden poner tantos espacios en blanco y saltos de línea como se quiera sin que afecte al código TeX, pudiendo de este modo darle un aspecto más ordenado y claro al ser editado (por ejemplo, un salto de línea después de cada término o de cada fila de una matriz).
+</p>
+<p>Podemos considerar como un buen estilo en la edición de fórmulas matemáticas en TeX, los siguientes consejos:
+</p>
+<p>Estos consejos no son obligatorios pero facilitarán la edición de la expresión y su corrección futura y le dará claridad.
+</p>
+<p>Debido al estilo CSS por defecto: <code>img.tex { vertical-align: middle; }</code>
+</p>
+<p>Una expresión en línea como:
+</p>
+<p>Quedaría bien alineada en el renglón-
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">←<!-- ← --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/013c41dc23977bf60cf0e646b91c798b0dc3bcb9" style="vertical-align: -2.338ex; width:14.915ex; height:6.343ex;"/></span>
+- en el que esta insertada.
+</p>
+<p>Si se necesita alinearla de otra forma, usa <tt>&lt;span style="vertical-align:-100%;"&gt;&lt;math&gt;...&lt;/math&gt;&lt;/span&gt;</tt> y juega con el parámetro de <tt>vertical-align</tt> hasta que obtengas el resultado deseado. Sin embargo, el resultado final depende de la configuración del navegador.
+</p>
+<p>Con <b>vertical-align:10%</b> quedaría así:
+</p>
+<p>Línea de texto -
+<span style="vertical-align:10%;">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">←<!-- ← --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/013c41dc23977bf60cf0e646b91c798b0dc3bcb9" style="vertical-align: -2.338ex; width:14.915ex; height:6.343ex;"/></span>
+</span>
+- esta es la línea de texto
+</p>
+<p>Con <b>vertical-align:5%</b> quedaría así:
+</p>
+<p>Línea de texto -
+<span style="vertical-align:5%;">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">←<!-- ← --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/013c41dc23977bf60cf0e646b91c798b0dc3bcb9" style="vertical-align: -2.338ex; width:14.915ex; height:6.343ex;"/></span>
+</span>
+- esta es la línea de texto
+</p>
+<p>Con <b>vertical-align:0%</b> quedaría así:
+</p>
+<p>Línea de texto -
+<span style="vertical-align:0%;">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">←<!-- ← --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/013c41dc23977bf60cf0e646b91c798b0dc3bcb9" style="vertical-align: -2.338ex; width:14.915ex; height:6.343ex;"/></span>
+</span>
+- esta es la línea de texto
+</p>
+<p>Con <b>vertical-align:-5%</b> quedaría así:
+</p>
+<p>Línea de texto -
+<span style="vertical-align:-5%;">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">←<!-- ← --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/013c41dc23977bf60cf0e646b91c798b0dc3bcb9" style="vertical-align: -2.338ex; width:14.915ex; height:6.343ex;"/></span>
+</span>
+- esta es la línea de texto
+</p>
+<p>El valor de <b>vertical-align</b>, puede tomar valores positivos o negativos, incluso superiores a 100.
+</p>
+<p>Los caracteres que pueden utilizarse directamente, son las letras minúsculas:
+</p>
+<p>las letras mayúsculas:
+</p>
+<p>los signos de puntuación:
+</p>
+<p>y los signos:
+</p>
+<p>los números:
+</p>
+<p>y los signos matemáticos:
+</p>
+<p>Si dentro de la expresión TeX, se incluye un carácter especial se producirá una imagen PNG:
+</p>
+<p>Las letras del alfabeto español: ñ, Ñ, á, é, í, ó, ú, ü, Á, É, Í, Ó, Ú, Ü, se pueden obtener, siempre como imagen PNG, así:
+</p>
+<p>los caracteres ºª~\{}#&amp;, tampoco pueden incluirse en TeX, tienen que hacerse así:
+</p>
+<p>Los signos: <b>\</b>, <b>{</b>, <b>}</b> y <b>&amp;</b> no solo no se pueden representar directamente, sino que tienen un significado dentro de TeX, 
+</p>
+<p>Los signos: <b>Ç</b>, <b>ç</b>, <b>¡</b>, <b>¿</b>, <b>_</b>, <b>^</b>, <b>"</b>, <b>@</b> y <b>€</b> no pueden presentarse en una expresión TeX.
+</p>
+<p>Se usan según la convención <b>\palabrareservada{vocal}</b>, de acuerdo a los ejemplos de la tabla. También estos acentos pueden usarse con consonantes, como en el caso de: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\acute {s}},\;{\check {s}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>s</mi>
+<mo>´<!-- ´ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>s</mi>
+<mo stretchy="false">ˇ<!-- ˇ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\acute {s}},\;{\check {s}}}</annotation>
+</semantics>
+</math></span><img alt="{\acute  {s}},\;{\check  {s}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b52ac88fa239162260a151f4f3a13661e209d28" style="vertical-align: -0.671ex; width:4.262ex; height:2.676ex;"/></span>.
+</p>
+<p>En todos los casos, para que la expresión aparezca con caracteres más grandes, ésta debe cerrarse con <code>\,</code>.
+</p>
+<p>La expresión se puede tachar o cancelar del siguiente modo:
+</p>
+<p>Se pueden poner una o dos líneas de texto signos o expresiones:
+</p>
+<p>Adviértase que TeX ajusta casi todo el espaciado automáticamente, pero a veces se necesita un control manual.
+</p>
+<p>La estructura <b>\begin{array}</b> tiene que ir seguida, entre llaves, de una letra por columna <b>l</b>, <b>c</b> o <b>r</b>, según se quiera que los datos de la columna estén alineados a la derecha, centrados o izquierda, se pueden insertar entre estas letras una barra vertical, sencilla o doble, para que en la tabla haya una línea divisoria entre las columnas.
+</p>
+<p>El tamaño de los delimitadores tiene que corresponder con el de la expresión que delimitan:
+</p>
+<p>La forma de los delimitadores verticales viene definida por los siguientes signos:
+</p>
+<p>Los delimitadores verticales constantes vienen definidos en cuanto tamaños por las palabras reservadas:
+</p>
+<p>Los delimitadores constantes, pueden alternarse en cualquier orden y la apertura de uno de ellos no obliga necesariamenta tener que cerrarlo.
+</p>
+<p>Veamos algunos ejemplos.
+</p>
+<p>Los delimitadores variables se ajustan automáticamente al tamaño de la expresión que delimitan, comenzando siempre con la palabra reservada: <b>\left</b> y finalizando con: <b>\right</b>, todo \left a de ser cerrado obligatoriamente con un \right, si bien el signo de apertura y cierre no tienen porque ser iguales, si alguno de los dos signos no se quiere que aparezca en su lugar se pone un punto (.).
+</p>
+<p>Podemos ver algunos ejemplos de estos delimitadores.
+</p>
+<p>Los delimitadores pueden mezclarse, siempre que cada <code>\left</code> vaya cerrado por un <code>\right</code>
+</p>
+<p>Usa <code>\left .</code> y <code>\right .</code> si no quieres que se muestre un delimitador
+</p>
+<p>Cualquier símbolo precedido de <b>\not</b> se representa cruzado con una barra inclinada, indicando negación, hay símbolos que ya indican negación directamente, si existen emplearlos preferentemente, si no poner \not y el signo que se quiere negar.
+</p>
+<p>Los símbolos que se pueden utilizar en TeX son los siguientes:
+</p>
+<p>Adviértase que algunas mayúsculas griegas se representan iguales a sus equivalentes latinas.
+</p>
+<p>En las expresiones se pueden emplear colores
+</p>
+<p>Los colores pueden anidarse, en este caso prevalecerá el más reciente:
+</p>
+<p>Las posibilidades disponibles son estas:
+</p>
+<p><a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> usa etiquetas AMS-LaTeX para las fórmulas matemáticas. El
+marcado AMS-LaTeX se derivan de <a href="/wiki/LaTeX" title="LaTeX">LaTeX</a>, que a la vez proviene de
+<a href="/wiki/TeX" title="TeX">TeX</a>. AMS-LaTeX genera imágenes <a class="mw-redirect" href="/wiki/PNG" title="PNG">PNG</a> por defecto. También existe
+la opción de usar <a href="/wiki/MathJax" title="MathJax">MathJax</a>, que combina <a href="/wiki/HTML" title="HTML">HTML</a> y <a href="/wiki/CSS" title="CSS">CSS</a> para
+visualizar las ecuaciones. MathJax se puede seleccionar en el menú de
+<a href="/wiki/Especial:Preferencias#mw-prefsection-rendering" title="Especial:Preferencias">Preferencias de
+Usuario (Apariencia)</a>.
+</p>
+<p>La diferencia entre TeX y LaTeX y la versión implementada por
+MediaWiki consiste en que, en los dos primeros casos, el resultado
+final es un solo documento que engloba las fórmulas y texto en su
+totalidad, mientras que en el último el marcado es filtrado
+por las herramientas <a class="mw-redirect" href="/wiki/Texvc" title="Texvc">Texvc</a> u, opcionalmente, por <a href="/wiki/MathJax" title="MathJax">MathJax</a>, que a su vez
+redirigen el resultado a TeX para la compilación final.
+</p>
+<p>Visualmente, MathJax proporciona mejores resultados. La calidad de la tipografía es muy superior y se eliminan ciertos problemas, como el diferente tamaño de las fórmulas con respecto al texto circundante o falta de alineación. Por otro lado, la herramienta <a class="mw-redirect" href="/wiki/Javascript" title="Javascript">javascript</a> empleada por MathJax para interpretar las expresiones matemáticas toma más tiempo que <a class="mw-redirect" href="/wiki/Texvc" title="Texvc">Texvc</a>.
+</p>
+<p>Las expresiones matemáticas escritas en TeX deben estar entre las <a href="/wiki/Etiqueta_(lenguaje_de_marcado)" title="Etiqueta (lenguaje de marcado)">etiquetas</a> de comienzo y cierre:
+</p>
+<p>Para ello se puede seleccionar el código TeX y pulsar el botón <a class="image" href="/wiki/Archivo:Math_icon.png"><img alt="Math icon.png" data-file-height="22" data-file-width="23" decoding="async" height="22" src="//upload.wikimedia.org/wikipedia/commons/5/5b/Math_icon.png" width="23"/></a> que aparece en la barra de botones que está encima de la caja de edición (es posible que en tu navegador no aparezca), o escribir las etiquetas directamente.
+</p>
+<p>El atributo <code>alt</code> de las imágenes TeX (al dejar el cursor sobre la imagen el texto que se muestra en la caja de ayuda flotante) es el texto wiki a partir de la que se generó, excluyendo las etiquetas de comienzo y cierre.
+</p>
+<p>Las imágenes PNG son generadas en negro sobre fondo blanco no transparente. Estos colores, así como los tamaños y tipos de fuente, son independientes de la configuración del navegador y del <a href="/wiki/CSS" title="CSS">CSS</a> utilizado. Los tamaños y tipos de fuente diferirán a menudo de los usados por el navegador para mostrar el HTML. El selector CSS de las imágenes es <code>img.tex</code>.
+</p>
+<p>Las expresiones escritas en TeX, pueden formar parte de una línea de texto, insertarse en una tabla o ocupar un espacio entre párrafos según se desee, pero debe tenerse en cuenta que dentro de las etiquetas de comienzo y cierre no es válido el código <a href="/wiki/Ayuda:Edici%C3%B3n" title="Ayuda:Edición">Ayuda:Edición</a> para edición en <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> y que las etiquetas de comienzo y cierre de TeX no pueden anidarse.
+</p>
+<p>Si entre las etiquetas de comienzo y cierre no hay código TeX, o es incorrecto, se presentará un mensaje de error:
+</p>
+<p><code><b>Error al representar (error de sintaxis): {\displaystyle á }</b></code>
+</p>
+<p>los informes de errores y peticiones, deberán enviarse a la <a class="new" href="/w/index.php?title=Mailing_list&amp;action=edit&amp;redlink=1" title="Mailing list (aún no redactado)">Wikitech-l mailing list</a>. O también pueden ser dirigidas a <a class="external text" href="https://bugzilla.wikipedia.org">Mediazilla</a> en <i>MediaWiki extensiones</i>.
+</p>
+<p>La expresiones escritas en TeX se presentan normalmente en formato HTML, si el resultado es una sola línea, sin signos especiales:
+</p>
+<p>Si dentro de la expresión hay un solo signo que TeX tenga que representar en formato PNG, toda la expresión se representará en formato PNG.
+</p>
+<p>Para forzar que la fórmula se muestre como una imagen PNG, basta con añadir <b>\,</b> (espacio pequeño) al final de la fórmula (donde no será representado).
+</p>
+<p>También puede usarse <b>\,\!</b> (espacio pequeño y espacio negativo, que se cancelan) en cualquier lugar dentro de las etiquetas de comienzo y cierre de TeX. Esto <b>sí</b> fuerza la generación del PNG.
+</p>
+<p>Esto puede utilizarse para corregir fórmulas que se muestran incorrectamente en HTML, generando un subrayado sobrante, o para forzar una imagen en PNG cuando normalmente se mostraría en HTML.
+</p>
+<p>Por ejemplo:
+</p>
+<p>Estos ejemplos han sido probados con la mayoría de las fórmulas de esta página, y parecen funcionar perfectamente.
+</p>
+<p>Entre las etiquetas de comienzo y cierre de TeX se pueden poner tantos espacios en blanco y saltos de línea como se quiera sin que afecte al código TeX, pudiendo de este modo darle un aspecto más ordenado y claro al ser editado (por ejemplo, un salto de línea después de cada término o de cada fila de una matriz).
+</p>
+<p>Podemos considerar como un buen estilo en la edición de fórmulas matemáticas en TeX, los siguientes consejos:
+</p>
+<p>Estos consejos no son obligatorios pero facilitarán la edición de la expresión y su corrección futura y le dará claridad.
+</p>
+<p>Debido al estilo CSS por defecto: <code>img.tex { vertical-align: middle; }</code>
+</p>
+<p>Una expresión en línea como:
+</p>
+<p>Quedaría bien alineada en el renglón-
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">←<!-- ← --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/013c41dc23977bf60cf0e646b91c798b0dc3bcb9" style="vertical-align: -2.338ex; width:14.915ex; height:6.343ex;"/></span>
+- en el que esta insertada.
+</p>
+<p>Si se necesita alinearla de otra forma, usa <tt>&lt;span style="vertical-align:-100%;"&gt;&lt;math&gt;...&lt;/math&gt;&lt;/span&gt;</tt> y juega con el parámetro de <tt>vertical-align</tt> hasta que obtengas el resultado deseado. Sin embargo, el resultado final depende de la configuración del navegador.
+</p>
+<p>Con <b>vertical-align:10%</b> quedaría así:
+</p>
+<p>Línea de texto -
+<span style="vertical-align:10%;">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">←<!-- ← --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/013c41dc23977bf60cf0e646b91c798b0dc3bcb9" style="vertical-align: -2.338ex; width:14.915ex; height:6.343ex;"/></span>
+</span>
+- esta es la línea de texto
+</p>
+<p>Con <b>vertical-align:5%</b> quedaría así:
+</p>
+<p>Línea de texto -
+<span style="vertical-align:5%;">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">←<!-- ← --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/013c41dc23977bf60cf0e646b91c798b0dc3bcb9" style="vertical-align: -2.338ex; width:14.915ex; height:6.343ex;"/></span>
+</span>
+- esta es la línea de texto
+</p>
+<p>Con <b>vertical-align:0%</b> quedaría así:
+</p>
+<p>Línea de texto -
+<span style="vertical-align:0%;">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">←<!-- ← --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/013c41dc23977bf60cf0e646b91c798b0dc3bcb9" style="vertical-align: -2.338ex; width:14.915ex; height:6.343ex;"/></span>
+</span>
+- esta es la línea de texto
+</p>
+<p>Con <b>vertical-align:-5%</b> quedaría así:
+</p>
+<p>Línea de texto -
+<span style="vertical-align:-5%;">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">←<!-- ← --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \leftarrow \int _{a}^{b}e^{x}\,dx\rightarrow }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/013c41dc23977bf60cf0e646b91c798b0dc3bcb9" style="vertical-align: -2.338ex; width:14.915ex; height:6.343ex;"/></span>
+</span>
+- esta es la línea de texto
+</p>
+<p>El valor de <b>vertical-align</b>, puede tomar valores positivos o negativos, incluso superiores a 100.
+</p>
+<p>Los caracteres que pueden utilizarse directamente, son las letras minúsculas:
+</p>
+<p>las letras mayúsculas:
+</p>
+<p>los signos de puntuación:
+</p>
+<p>y los signos:
+</p>
+<p>los números:
+</p>
+<p>y los signos matemáticos:
+</p>
+<p>Si dentro de la expresión TeX, se incluye un carácter especial se producirá una imagen PNG:
+</p>
+<p>Las letras del alfabeto español: ñ, Ñ, á, é, í, ó, ú, ü, Á, É, Í, Ó, Ú, Ü, se pueden obtener, siempre como imagen PNG, así:
+</p>
+<p>los caracteres ºª~\{}#&amp;, tampoco pueden incluirse en TeX, tienen que hacerse así:
+</p>
+<p>Los signos: <b>\</b>, <b>{</b>, <b>}</b> y <b>&amp;</b> no solo no se pueden representar directamente, sino que tienen un significado dentro de TeX, 
+</p>
+<p>Los signos: <b>Ç</b>, <b>ç</b>, <b>¡</b>, <b>¿</b>, <b>_</b>, <b>^</b>, <b>"</b>, <b>@</b> y <b>€</b> no pueden presentarse en una expresión TeX.
+</p>
+<p>Se usan según la convención <b>\palabrareservada{vocal}</b>, de acuerdo a los ejemplos de la tabla. También estos acentos pueden usarse con consonantes, como en el caso de: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\acute {s}},\;{\check {s}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>s</mi>
+<mo>´<!-- ´ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>s</mi>
+<mo stretchy="false">ˇ<!-- ˇ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\acute {s}},\;{\check {s}}}</annotation>
+</semantics>
+</math></span><img alt="{\acute  {s}},\;{\check  {s}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b52ac88fa239162260a151f4f3a13661e209d28" style="vertical-align: -0.671ex; width:4.262ex; height:2.676ex;"/></span>.
+</p>
+<p>En todos los casos, para que la expresión aparezca con caracteres más grandes, ésta debe cerrarse con <code>\,</code>.
+</p>
+<p>La expresión se puede tachar o cancelar del siguiente modo:
+</p>
+<p>Se pueden poner una o dos líneas de texto signos o expresiones:
+</p>
+<p>Adviértase que TeX ajusta casi todo el espaciado automáticamente, pero a veces se necesita un control manual.
+</p>
+<p>La estructura <b>\begin{array}</b> tiene que ir seguida, entre llaves, de una letra por columna <b>l</b>, <b>c</b> o <b>r</b>, según se quiera que los datos de la columna estén alineados a la derecha, centrados o izquierda, se pueden insertar entre estas letras una barra vertical, sencilla o doble, para que en la tabla haya una línea divisoria entre las columnas.
+</p>
+<p>El tamaño de los delimitadores tiene que corresponder con el de la expresión que delimitan:
+</p>
+<p>La forma de los delimitadores verticales viene definida por los siguientes signos:
+</p>
+<p>Los delimitadores verticales constantes vienen definidos en cuanto tamaños por las palabras reservadas:
+</p>
+<p>Los delimitadores constantes, pueden alternarse en cualquier orden y la apertura de uno de ellos no obliga necesariamenta tener que cerrarlo.
+</p>
+<p>Veamos algunos ejemplos.
+</p>
+<p>Los delimitadores variables se ajustan automáticamente al tamaño de la expresión que delimitan, comenzando siempre con la palabra reservada: <b>\left</b> y finalizando con: <b>\right</b>, todo \left a de ser cerrado obligatoriamente con un \right, si bien el signo de apertura y cierre no tienen porque ser iguales, si alguno de los dos signos no se quiere que aparezca en su lugar se pone un punto (.).
+</p>
+<p>Podemos ver algunos ejemplos de estos delimitadores.
+</p>
+<p>Los delimitadores pueden mezclarse, siempre que cada <code>\left</code> vaya cerrado por un <code>\right</code>
+</p>
+<p>Usa <code>\left .</code> y <code>\right .</code> si no quieres que se muestre un delimitador
+</p>
+<p>Cualquier símbolo precedido de <b>\not</b> se representa cruzado con una barra inclinada, indicando negación, hay símbolos que ya indican negación directamente, si existen emplearlos preferentemente, si no poner \not y el signo que se quiere negar.
+</p>
+<p>Los símbolos que se pueden utilizar en TeX son los siguientes:
+</p>
+<p>Adviértase que algunas mayúsculas griegas se representan iguales a sus equivalentes latinas.
+</p>
+<p>En las expresiones se pueden emplear colores
+</p>
+<p>Los colores pueden anidarse, en este caso prevalecerá el más reciente:
+</p>
+<p>Las posibilidades disponibles son estas:
+</p>

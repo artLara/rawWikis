@@ -1,0 +1,38 @@
+<p><br/>
+<big> Bienvenidos al <b>Portal de la comunidad</b> </big>
+</p>
+<p><br/>
+Aquí puedes descubrir lo que sucede en Wikipedia, cómo colaborar y algunos recursos de interés.
+</p>
+<p>Estamos trabajando en <a href="/wiki/Especial:Estad%C3%ADsticas" title="Especial:Estadísticas">1 850 276 artículos</a>. Puedes ver las últimas ediciones en <a href="/wiki/Especial:CambiosRecientes" title="Especial:CambiosRecientes">cambios recientes</a> y en <a href="/wiki/Especial:P%C3%A1ginasNuevas" title="Especial:PáginasNuevas">artículos nuevos</a>.
+</p>
+<p><a href="/wiki/Mi%C3%A9rcoles" title="Miércoles">miércoles</a>
+<a href="/wiki/29_de_marzo" title="29 de marzo"><span style="font-size: x-large; width: 100%; display: block; padding:6px 0px">29</span></a>
+<span style="display: block;"> <a href="/wiki/Marzo" title="Marzo">marzo</a></span>
+<span style="background: #aaa; color: #000; display: block;"><b><a href="/wiki/2023" title="2023">2023</a></b></span>
+</p>
+<p><br/>
+</p>
+<p><br/>
+</p>
+<p><br/>
+</p>
+<p>Noticias y anuncios relacionados con Wikipedia <span class="plainlinks"> <sup><a class="external text" href="https://es.wikipedia.org/w/index.php?title=Portal:Comunidad/Tablón_de_la_comunidad&amp;action=edit">editar</a></sup></span>
+</p>
+<p>Si tu wikiproyecto tiene menos de diez usuarios y buscas nuevos voluntarios, agrégalo a esta lista. Cuando tu wikiproyecto alcance la cifra, por favor retíralo de la lista para dar más visibilidad a otros wikiproyectos.
+</p>
+<p>Wikipedia es, por su número de artículos, la mayor enciclopedia jamás escrita. Sin embargo, muchos de nuestros artículos son <a class="mw-redirect" href="/wiki/Wikipedia:Esbozos" title="Wikipedia:Esbozos">esbozos</a> o necesitan atención. Tú puedes ayudarnos, <b><a class="mw-redirect" href="/wiki/Wikipedia:S%C3%A9_valiente_editando_p%C3%A1ginas" title="Wikipedia:Sé valiente editando páginas">¡sé valiente!</a></b>.
+</p>
+<p>Te invitamos a que colabores con las siguientes solicitudes:
+</p>
+<p>La comunidad de Wikipedia realiza actividades en grupo para mejorar y organizar los numerosos artículos.
+</p>
+<p>Los <b><a href="/wiki/Wikipedia:Wikiproyectos" title="Wikipedia:Wikiproyectos"><i>wikiproyectos</i></a></b> son grupos de editores que colaboran para mejorar artículos en torno a un mismo tema o actividad. Puedes ofrecerte a colaborar en aquellos que sean de tu interés; los nuevos participantes siempre son bienvenidos.
+</p>
+<p>Wikipedia tiene una gran cantidad de páginas de ayuda, políticas y departamentos.
+</p>
+<p>Wikipedia se rige por muchas <a href="/wiki/Wikipedia:Pol%C3%ADticas_y_convenciones" title="Wikipedia:Políticas y convenciones">políticas y convenciones</a> sobre los artículos y la convivencia con otros editores.
+</p>
+<p>2. Un robot debe obedecer las órdenes impartidas por los seres humanos, excepto cuando dichas órdenes entren en conflicto con la Primera Ley.<br/>
+3. Un robot debe proteger su propia existencia, mientras dicha protección no entre en conflicto con la Primera ni con la Segunda Ley.<span style="white-space: nowrap; font-size: 180%; color: #b2b7f2; vertical-align: baseline"> ».</span>
+</p>

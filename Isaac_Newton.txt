@@ -1,0 +1,382 @@
+<p><b>Sir Isaac Newton</b> (<a href="/wiki/Woolsthorpe-by-Colsterworth" title="Woolsthorpe-by-Colsterworth">Woolsthorpe</a>, <a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a>; 25 de diciembre de 1642<sup><a href="/wiki/Calendario_juliano" title="Calendario juliano">jul.</a></sup>/ <span style="margin-left:-0.1em"><a href="/wiki/4_de_enero" title="4 de enero">4 de enero</a> de <a href="/wiki/1643" title="1643">1643</a><sup><a href="/wiki/Calendario_gregoriano" title="Calendario gregoriano">greg.</a></sup></span>-<a href="/wiki/Kensington" title="Kensington">Kensington</a>, <a href="/wiki/Londres" title="Londres">Londres</a>; 20 de marzo<sup><a href="/wiki/Calendario_juliano" title="Calendario juliano">jul.</a></sup>/ <span style="margin-left:-0.1em">31 de marzo de 1727<sup><a href="/wiki/Calendario_gregoriano" title="Calendario gregoriano">greg.</a></sup></span>) fue un <a href="/wiki/F%C3%ADsico" title="Físico">físico</a>, <a class="mw-redirect" href="/wiki/Te%C3%B3logo" title="Teólogo">teólogo</a>, <a href="/wiki/Inventor" title="Inventor">inventor</a>, <a class="mw-redirect" href="/wiki/Alquimista" title="Alquimista">alquimista</a> y <a href="/wiki/Matem%C3%A1ticas" title="Matemáticas">matemático</a> <a href="/wiki/Inglaterra" title="Inglaterra">inglés</a>. Es autor de los <i><a href="/wiki/Philosophi%C3%A6_naturalis_principia_mathematica" title="Philosophiæ naturalis principia mathematica">Philosophiæ naturalis principia mathematica</a></i>, más conocidos como los <i>Principia</i>, donde describe la <a href="/wiki/Ley_de_gravitaci%C3%B3n_universal" title="Ley de gravitación universal">ley de la gravitación universal</a> y estableció las bases de la <a href="/wiki/Mec%C3%A1nica_cl%C3%A1sica" title="Mecánica clásica">mecánica clásica</a> mediante las <a href="/wiki/Leyes_de_Newton" title="Leyes de Newton">leyes</a> que llevan su nombre. Entre sus otros descubrimientos científicos destacan los trabajos sobre la naturaleza de la <a href="/wiki/Luz" title="Luz">luz</a> y la <a href="/wiki/%C3%93ptica" title="Óptica">óptica</a> (que se presentan principalmente en su obra <i><a href="/wiki/Opticks" title="Opticks">Opticks</a></i>), y en matemáticas, el desarrollo del <a href="/wiki/C%C3%A1lculo_infinitesimal" title="Cálculo infinitesimal">cálculo infinitesimal</a>.
+</p>
+<p>Newton comparte con <a href="/wiki/Gottfried_Leibniz" title="Gottfried Leibniz">Gottfried Leibniz</a> el crédito por el desarrollo del <a href="/wiki/C%C3%A1lculo_infinitesimal" title="Cálculo infinitesimal">cálculo integral y diferencial</a>, que utilizó para formular sus leyes de la <a href="/wiki/F%C3%ADsica" title="Física">física</a> y <a href="/wiki/Astronom%C3%ADa" title="Astronomía">astronomía</a>. También contribuyó en otras áreas de las <a href="/wiki/Matem%C3%A1ticas" title="Matemáticas">matemáticas</a>, desarrollando el <a href="/wiki/Teorema_del_binomio" title="Teorema del binomio">teorema del binomio</a> y las <a href="/wiki/F%C3%B3rmulas_de_Newton-Cotes" title="Fórmulas de Newton-Cotes">fórmulas de Newton-Cotes</a>.
+</p>
+<p>Entre sus hallazgos científicos se encuentran el descubrimiento —considerado el <a href="/wiki/Historia_de_la_espectroscopia" title="Historia de la espectroscopia">inicio de la espectroscopia</a>— de que el <a href="/wiki/Espectro_visible" title="Espectro visible">espectro de color</a> que se observa cuando la luz blanca pasa por un <a href="/wiki/Prisma_(%C3%B3ptica)" title="Prisma (óptica)">prisma</a> es inherente a esa luz, en lugar de provenir del prisma (como había sido postulado por <a href="/wiki/Roger_Bacon" title="Roger Bacon">Roger Bacon</a> en el siglo <span style="font-variant:small-caps;text-transform:lowercase">XIII</span>); su argumentación sobre la posibilidad de que la luz estuviera compuesta por <a href="/wiki/Part%C3%ADcula_subat%C3%B3mica" title="Partícula subatómica">partículas</a>; su desarrollo de una <a class="mw-redirect" href="/wiki/Convecci%C3%B3n_t%C3%A9rmica" title="Convección térmica">ley de convección térmica</a>, que describe la tasa de enfriamiento de los objetos expuestos al aire; sus estudios sobre la <a href="/wiki/Velocidad_del_sonido" title="Velocidad del sonido">velocidad del sonido</a> en el aire; y su propuesta de una teoría sobre el origen de las <a href="/wiki/Estrella" title="Estrella">estrellas</a>. Fue también un pionero de la <a href="/wiki/Mec%C3%A1nica_de_fluidos" title="Mecánica de fluidos">mecánica de fluidos</a>, estableciendo una ley sobre la <a href="/wiki/Viscosidad" title="Viscosidad">viscosidad</a>.
+Newton fue el primero en demostrar que las leyes naturales que gobiernan el movimiento en la <a href="/wiki/Tierra" title="Tierra">Tierra</a> y las que gobiernan el movimiento de los cuerpos celestes son las mismas. Es, a menudo, calificado como el <a href="/wiki/Cient%C3%ADfico" title="Científico">científico</a> más grande de todos los tiempos, y su obra como la culminación de la <a href="/wiki/Revoluci%C3%B3n_cient%C3%ADfica" title="Revolución científica">revolución científica</a>. El matemático y físico <a class="mw-redirect" href="/wiki/Joseph_Louis_Lagrange" title="Joseph Louis Lagrange">Joseph Louis Lagrange</a> (1736-1813) dijo que «Newton fue el más grande genio que ha existido y también el más afortunado, dado que solo se puede encontrar una vez un sistema que rija el mundo».
+</p>
+<p>Isaac Newton nació el 4 de enero de 1643 (aunque en ese entonces el calendario usado era el juliano), y correspondía al 25 de diciembre de 1642, día de la Navidad.<sup class="reference separada" id="cite_ref-4"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>​ El parto fue prematuro aparentemente y nació tan pequeño que nadie pensó que lograría vivir mucho tiempo.<sup class="reference separada" id="cite_ref-5"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>​ Su vida corrió peligro por lo menos durante una semana. Fue bautizado el 1 de enero de 1643, 12 de enero en el calendario gregoriano.<sup class="reference separada" id="cite_ref-6"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La casa donde nació y vivió hasta su juventud se ubica en el lado oeste del valle del <a href="/wiki/R%C3%ADo_Witham" title="Río Witham">río Witham</a>, más abajo de la <a class="new" href="/w/index.php?title=Meseta_de_Kesteven&amp;action=edit&amp;redlink=1" title="Meseta de Kesteven (aún no redactado)">meseta de Kesteven</a>, en dirección a la ciudad de <a href="/wiki/Grantham" title="Grantham">Grantham</a>. Es de piedra caliza gris, el mismo material que se encuentra en la meseta. Tiene forma de una letra T gruesa en cuyo trazo más largo se encuentran la cocina y el vestíbulo, y la sala se halla en la unión de los dos trazos.<sup class="reference separada" id="cite_ref-ref_dup_1_7-0"><a href="#cite_note-ref_dup_1-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​ Su entrada es descentrada y se ubica entre el vestíbulo y la sala, y se orienta hacia las escaleras que conducen a los dos dormitorios del piso superior.
+</p>
+<p>Sus padres fueron Isaac Newton y Hannah Ayscough, dos campesinos <a href="/wiki/Puritanismo" title="Puritanismo">puritanos</a>.<sup class="reference separada" id="cite_ref-8"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>​ No llegó a conocer a su padre, pues había muerto en octubre de 1642. Cuando su madre volvió a casarse con Barnabás Smith, este no tenía intención de cargar con un niño ajeno de tres años, por lo que lo dejó a cargo de su abuela, con quien vivió hasta la muerte de su padrastro en 1653. Este fue posiblemente un hecho traumático para Isaac; constituía la pérdida de la madre no habiendo conocido al padre.
+A su abuela nunca le dedicó un recuerdo cariñoso y hasta su muerte pasó desapercibida. Lo mismo ocurrió con el abuelo, que pareció no existir hasta que se descubrió que también estaba presente en la casa y correspondió al afecto de Newton de la misma forma: lo desheredó.<sup class="reference separada" id="cite_ref-9"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Escribió una lista de sus pecados e incluyó uno en particular: «Amenazar a mi padre y a mi madre Smith con quemarlos a ellos y a su casa». Lo hizo nueve años después del fallecimiento del padrastro, lo que comprueba que la escena quedó grabada en el recuerdo de Newton. Las acciones del padrastro, que se negó a llevarlo a vivir con él hasta que cumplió diez años, podrían motivar este odio.<sup class="reference separada" id="cite_ref-ref_dup_1_7-1"><a href="#cite_note-ref_dup_1-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Cuando Barnabás Smith falleció, su madre regresó al hogar familiar acompañada por dos hijos de este matrimonio, sus hermanastros, pero la unión familiar duró menos de dos años. Isaac fue enviado a estudiar al colegio The King's School, en Grantham, a la edad de doce años. Lo que se sabe de esta etapa es que estudió <a href="/wiki/Lat%C3%ADn" title="Latín">latín</a>, algo de griego y lo básico de geometría y aritmética. Era el programa habitual de estudio de una escuela primaria en ese entonces. Su maestro fue Sr. Stokes, que tenía buen prestigio como educador.<sup class="reference separada" id="cite_ref-ref_dup_2_10-0"><a href="#cite_note-ref_dup_2-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En 1659 compró un cuaderno, libro de bolsillo llamado entonces, en cuya primera página escribió en latín «<i>Martij 19, 1659</i>» (19 de marzo de 1659). Representaba el período entre 1659 y 1660, que coincidía con el período de su regreso a su ciudad natal, y la mayor parte de sus escritos están dedicados a «<i>Utilissimum prosodiae supplementum</i>». Años después, en la colección Keynes del King's College se encuentra una edición de <a href="/wiki/P%C3%ADndaro" title="Píndaro">Píndaro</a> con la firma de Newton y fechada en 1659. En la colección Babson aparece una copia de las <i><a class="mw-redirect" href="/wiki/Metamorfosis_(Ovidio)" title="Metamorfosis (Ovidio)">Metamorfosis</a></i> de <a href="/wiki/Ovidio" title="Ovidio">Ovidio</a> fechadas ese mismo año.<sup class="reference separada" id="cite_ref-ref_dup_2_10-1"><a href="#cite_note-ref_dup_2-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Los estudios primarios fueron de gran utilidad para Newton; los trabajos sobre matemáticas estaban escritos en latín, al igual que los escritos sobre filosofía natural, y posteriormente le permitieron entrar en contacto con los científicos europeos. La aritmética básica difícilmente hubiese compensado un nivel deficiente de latín.<sup class="reference separada" id="cite_ref-Westfall37_11-0"><a href="#cite_note-Westfall37-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​ En esa época otra materia importante era el estudio de la <a href="/wiki/Biblia" title="Biblia">Biblia</a> y se leía en lenguas clásicas apoyando el programa clásico de estudios y ampliando la fe protestante de Inglaterra. En el caso de Isaac, el estudio de este tema, unido a la biblioteca que heredó de su padrastro, le pudo haber hecho iniciar un viaje a la Teología.<sup class="reference separada" id="cite_ref-Westfall37_11-1"><a href="#cite_note-Westfall37-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En su estadía en Grantham se hospedó en la casa de Sr. Clark, en la calle High Street, junto a la George Inn. Tenía que compartir el hogar junto a otros tres niños, Edward, Arthur y una niña, hijos del primer esposo de la mujer de Sr. Clark. Por la infancia que tuvo, Isaac parecía no congeniar con otras personas de su edad. El haber crecido en un ambiente de aislamiento con sus abuelos y la posible envidia que le causaba a sus pares su superioridad intelectual le provocaban dificultades y lo llevaba a realizar travesuras varias que después negaba haber hecho.<sup class="reference separada" id="cite_ref-Westfall37_11-2"><a href="#cite_note-Westfall37-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​ Uno de sus amigos, <a href="/wiki/William_Stukeley" title="William Stukeley">William Stukeley</a>, se dedicó a reunir información sobre Newton en su estancia en Grantham y concluyó que los niños lo encontraban demasiado astuto y pensaban que se aprovechaba de ellos debido a su rapidez mental, muy superior a la de ellos.<sup class="reference separada" id="cite_ref-Westfall37_11-3"><a href="#cite_note-Westfall37-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Además estas anécdotas demostraron que Newton aparentemente prefería la compañía femenina. Para su amiga Catherine Storer, varios años más joven que él, construyó muebles de muñecas utilizando herramientas con mucha habilidad. Además en el terreno de las suposiciones pudo haber un romance entre los dos jóvenes cuando fueron mayores. Según los registros conocidos, pudo haber sido la primera y posiblemente la única y última experiencia romántica con una mujer en su vida. Tiempo después la señorita Storer se casó con un hombre apellidado Vincent y recordaba a Newton como un joven silencioso y pensativo.<sup class="reference separada" id="cite_ref-12"><a href="#cite_note-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Tuvo un incidente con un compañero que posiblemente fuese Arthur Storer. Este le dio una patada en el estómago, supuestamente como represalia a alguna broma pesada de Newton. Este no pudo olvidar nunca este hecho; en este tiempo no había podido afirmar su poder intelectual, a causa de la deficiente formación escolar o porque nuevamente estaba solo y asustado. Estaba relegado al último banco. Según el relato de Conduitt, ni bien finalizó la clase, Newton retó a una pelea al otro niño en el patio de la iglesia para devolverle el golpe. El hijo del maestro se acercó a ellos y azuzó la pelea palmeándole la espalda a uno y guiñándole el ojo al otro. Aunque Newton no era tan fuerte como su rival tenía mayor decisión y golpeó al otro hasta que se rindió y declaró que no pelearía más. El hijo del maestro le pidió a Isaac que lo tratara como a un cobarde y le restregara la nariz contra la pared. Entonces Isaac lo agarró de las orejas y golpeó su cara contra uno de los lados de la iglesia.<sup class="reference separada" id="cite_ref-ref_dup_3_13-0"><a href="#cite_note-ref_dup_3-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Además de ganarle en la pelea, Newton se esmeró en derrotarlo académicamente y se convirtió en el primer alumno de la escuela. Y además fue grabando su nombre en todos los bancos que ocupó. Aún se conserva un alféizar de piedra con su nombre.<sup class="reference separada" id="cite_ref-ref_dup_3_13-1"><a href="#cite_note-ref_dup_3-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En las anécdotas de Stukeley ya se reconocía el genio de Newton y la gente recordaba sus raros inventos y su gran capacidad para los trabajos mecánicos. Llenó su habitación de herramientas que adquiría con el dinero que su madre le daba. Fabricó objetos de madera, muebles de muñecas y de forma especial maquetas. Además logró reproducir un molino de viento construido en esa época al norte de Grantham. El modelo replicado por Newton mejoró al original y funcionó cuando lo colocó sobre el tejado. Su modelo estaba equipado con una noria impulsada por un ratón al que espoleaba. Newton llamaba al ratón el molinero.<sup class="reference separada" id="cite_ref-ref_dup_4_14-0"><a href="#cite_note-ref_dup_4-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Otras construcciones de Newton fueron un carro de cuatro ruedas impulsado por una manivela que él accionaba desde su interior. Otra fue una linterna de papel plegado para llegar a la escuela en los oscuros días invernales y que además la usaba atada a la cola de una cometa para asustar a los vecinos durante la noche. Para poder realizar estas invenciones debía desatender sus tareas escolares, lo cual le valía retroceder en los puestos, y cuando esto ocurría volvía a estudiar y recuperaba las posiciones perdidas.<sup class="reference separada" id="cite_ref-ref_dup_4_14-1"><a href="#cite_note-ref_dup_4-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>​ Muchos de los aparatos que fabricó los sacó del libro <i>The Mysteries of Nature and Art</i>, de <a class="new" href="/w/index.php?title=John_Bate&amp;action=edit&amp;redlink=1" title="John Bate (aún no redactado)">John Bate</a>, del cual tomó nota en otro cuaderno, en Grantham, que adquirió por el precio de 2,5 peniques en 1659. Allí tomó notas de ese libro sobre la técnica del dibujo, la captura de pájaros y la fabricación de tintas de diferentes colores, entre otros temas. El molino de viento también está incluido en este libro.<sup class="reference separada" id="cite_ref-Westfall40_15-0"><a href="#cite_note-Westfall40-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Estudiaba las propiedades de los cometas, calculaba las proporciones ideales y los puntos más adecuados para ajustar las cuerdas. Además les regalaba linternas a sus compañeros y les comentaba sus estudios con el aparente propósito de ganarse su amistad, pero no dio resultado. Con estos procedimientos demostró su superioridad y los hizo sentir más alejados de él. El día de la muerte de <a href="/wiki/Oliver_Cromwell" title="Oliver Cromwell">Cromwell</a> (3 de septiembre de 1658) tuvo lugar su primer experimento. Ese día, una tormenta se desencadenó sobre Inglaterra, y saltando primero a favor del viento y luego en contra, con la comparación de sus saltos con los de un día de calma midió la «fuerza de la tormenta». Les dijo a los niños que la tormenta era un pie más fuerte que cualquiera que hubiese conocido y les enseñó las marcas que medían sus pasos. Además, según esta versión, utilizó la fuerza del viento para ganar un concurso de saltos, y la superioridad de su conocimiento lo hacía sospechoso.<sup class="reference separada" id="cite_ref-Westfall40_15-1"><a href="#cite_note-Westfall40-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Los relojes solares fueron otro pasatiempo en esta ciudad. En la iglesia de <a class="new" href="/w/index.php?title=Colserworth&amp;action=edit&amp;redlink=1" title="Colserworth (aún no redactado)">Colserworth</a> existe uno que construyó a los nueve años. Los relojes solares eran un reto individual mayor al del manejo de herramientas. Llenó de relojes la casa de Clark, su habitación, otras habitaciones de la casa, el vestíbulo y cualquier otra habitación donde entrara el sol. En las paredes clavó puntas para señalar las horas, las medias, e incluso los cuartos, y ató a estas cuerdas con ruedas para medir las sombras en los días siguientes.<sup class="reference separada" id="cite_ref-Westfall40_15-2"><a href="#cite_note-Westfall40-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>A los dieciocho años ingresó en la <a href="/wiki/Universidad_de_Cambridge" title="Universidad de Cambridge">Universidad de Cambridge</a> para continuar sus estudios. Newton nunca asistió regularmente a sus clases, ya que su principal interés era la biblioteca. Se graduó en el <a href="/wiki/Trinity_College_(Cambridge)" title="Trinity College (Cambridge)">Trinity College</a> como un estudiante mediocre debido a su formación principalmente autodidacta, leyendo algunos de los libros más importantes de <a class="mw-redirect" href="/wiki/Matem%C3%A1tica" title="Matemática">matemática</a> y <a class="mw-redirect" href="/wiki/Filosof%C3%ADa_natural" title="Filosofía natural">filosofía natural</a> de la época. En <a href="/wiki/1663" title="1663">1663</a> Newton leyó la <i>Clavis mathematicae</i> de <a href="/wiki/William_Oughtred" title="William Oughtred">William Oughtred</a>, la <i>Geometría</i> de <a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">Descartes</a>, la <i>Astronomiae Pars Optica</i> de <a class="mw-redirect" href="/wiki/Kepler" title="Kepler">Kepler</a>, la <i>Opera mathematica</i> de <a href="/wiki/Fran%C3%A7ois_Vi%C3%A8te" title="François Viète">Viète</a>, editadas por <a href="/wiki/Frans_van_Schooten" title="Frans van Schooten">Frans van Schooten</a> y en <a href="/wiki/1664" title="1664">1664</a>, la <i>Aritmética</i> de <a href="/wiki/John_Wallis" title="John Wallis">John Wallis</a>, que le serviría como introducción a sus investigaciones sobre las <a class="mw-redirect" href="/wiki/Serie_(matem%C3%A1ticas)" title="Serie (matemáticas)">series infinitas</a>, el <a href="/wiki/Teorema_del_binomio" title="Teorema del binomio">teorema del binomio</a> y ciertas <a href="/wiki/Cuadratura_(trigonometr%C3%ADa)" title="Cuadratura (trigonometría)">cuadraturas</a>.<sup class="reference separada" id="cite_ref-ref_dup_1_7-2"><a href="#cite_note-ref_dup_1-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>En 1663 conoció a <a href="/wiki/Isaac_Barrow" title="Isaac Barrow">Isaac Barrow</a>, quien le dio clases (habiendo sido designado el primer <a href="/wiki/Profesor_Lucasiano" title="Profesor Lucasiano">profesor Lucasiano</a>) de matemática.<sup class="reference separada" id="cite_ref-16"><a href="#cite_note-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>​ En la misma época entró en contacto con los trabajos de <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo</a>, <a href="/wiki/Pierre_de_Fermat" title="Pierre de Fermat">Fermat</a>, <a href="/wiki/Christiaan_Huygens" title="Christiaan Huygens">Huygens</a> y otros, a partir, probablemente, de la edición de 1659 de la <i>Geometría</i>, de Descartes por Van Schooten. Newton superó rápidamente a Barrow, quien solicitaba su ayuda frecuentemente en problemas matemáticos.
+</p>
+<p>En esta época la <a href="/wiki/Geometr%C3%ADa" title="Geometría">geometría</a> y la óptica ya tenían un papel esencial en la vida de Newton. Además, en esos días su fama comenzó a crecer, ya que había iniciado correspondencia con la <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a>. Newton les envió algunos de sus descubrimientos y un <a href="/wiki/Telescopio" title="Telescopio">telescopio</a>, que suscitó gran interés entre los miembros de la Sociedad, aunque también las críticas de algunos, principalmente <a href="/wiki/Robert_Hooke" title="Robert Hooke">Robert Hooke</a>. Ese fue el comienzo de una de las muchas disputas que tuvo en su carrera científica. Se considera que Newton mostró agresividad ante sus contrincantes, que fueron principalmente (pero no únicamente) <a href="/wiki/Robert_Hooke" title="Robert Hooke">Hooke</a>, <a href="/wiki/Gottfried_Leibniz" title="Gottfried Leibniz">Leibniz</a> y, en lo religioso, la <a href="/wiki/Iglesia_cat%C3%B3lica" title="Iglesia católica">Iglesia católica</a>. Como presidente de la Royal Society, fue descrito como un dictador cruel, vengativo y buscapleitos. Sin embargo, lo que hizo que iniciara de lleno sus estudios sobre la <a href="/wiki/Mec%C3%A1nica" title="Mecánica">mecánica</a> y la <a href="/wiki/Gravedad" title="Gravedad">gravedad</a>, fue una carta de Hooke, en la que este comentaba sus ideas intuitivas acerca de la gravedad. Newton resolvió el problema con el que Hooke no había podido y sus resultados los escribió en lo que muchos científicos creen que es el libro más importante de la historia de la <a href="/wiki/Ciencia" title="Ciencia">ciencia</a>, <i><a class="mw-redirect" href="/wiki/Philosophiae_naturalis_principia_mathematica" title="Philosophiae naturalis principia mathematica">Philosophiae naturalis principia mathematica</a></i>.
+</p>
+<p>En 1693 sufrió una gran crisis psíquica, causante de largos periodos en los que permaneció aislado, durante los que no comía ni dormía. En esta época sufrió <a href="/wiki/Depresi%C3%B3n" title="Depresión">depresión</a> y arranques de <a href="/wiki/Trastorno_delirante" title="Trastorno delirante">paranoia</a>. Mantuvo correspondencia con su amigo, el filósofo <a href="/wiki/John_Locke" title="John Locke">John Locke</a>, en la que además de contarle su mal estado, lo acusó en varias ocasiones de cosas que nunca hizo. Algunos historiadores creen que la crisis fue causada por la ruptura de su relación con su discípulo <a class="mw-redirect" href="/wiki/Nicol%C3%A1s_Fatio_de_Duillier" title="Nicolás Fatio de Duillier">Nicolás Fatio de Duillier</a>. Sin embargo, tras la publicación en 1979 de un estudio que demostró una concentración de mercurio (altamente neurotóxico) quince veces mayor que la normal en el cabello de Newton, la mayoría opina que en esta época Newton sufría <a href="/wiki/Envenenamiento_por_mercurio" title="Envenenamiento por mercurio">envenenamiento por mercurio</a> al hacer sus experimentos <a href="/wiki/Alquimia" title="Alquimia">alquímicos</a>, lo que explicaría su enfermedad y los cambios en su conducta.<sup class="reference separada" id="cite_ref-17"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>​ Después de escribir los <i>Principia</i> abandonó <a href="/wiki/Cambridge" title="Cambridge">Cambridge</a> y se mudó a Londres, donde ocupó diferentes puestos públicos de prestigio, siendo nombrado Preboste del Rey, magistrado de Charterhouse y director de la <a class="mw-redirect" href="/wiki/Casa_de_Moneda" title="Casa de Moneda">Casa de Moneda</a>.
+</p>
+<p>Entre sus intereses más profundos se encontraban la <a href="/wiki/Alquimia" title="Alquimia">alquimia</a> y la religión, temas en los que sus escritos sobrepasan con mucho en volumen a sus escritos científicos. Entre sus opiniones religiosas defendía el <a href="/wiki/Arrianismo" title="Arrianismo">arrianismo</a> y estaba convencido de que las <a class="mw-redirect" href="/wiki/Sagradas_Escrituras" title="Sagradas Escrituras">Sagradas Escrituras</a> habían sido violadas para sustentar la doctrina <a class="mw-redirect" href="/wiki/Santa_Trinidad" title="Santa Trinidad">trinitaria</a>. Esto le causó graves problemas al formar parte del Trinity College en Cambridge y sus ideas religiosas impidieron que pudiera ser director del College. Entre sus estudios alquímicos se encontraban temas esotéricos como la transmutación de los elementos, la <a href="/wiki/Piedra_filosofal" title="Piedra filosofal">piedra filosofal</a> y el <a href="/wiki/Elixir_de_la_vida" title="Elixir de la vida">elixir de la vida</a>.
+</p>
+<p>Desde finales de 1664 trabajó intensamente en diferentes problemas <a href="/wiki/Matem%C3%A1ticas" title="Matemáticas">matemáticos</a>. Abordó entonces el <a href="/wiki/Teorema_del_binomio" title="Teorema del binomio">teorema del binomio</a>, a partir de los trabajos de <a href="/wiki/John_Wallis" title="John Wallis">John Wallis</a>, y desarrolló un método propio denominado <a href="/wiki/M%C3%A9todo_de_las_fluxiones" title="Método de las fluxiones">cálculo de fluxiones</a>. Poco después regresó a la granja familiar a causa de una epidemia de <a href="/wiki/Peste_bub%C3%B3nica" title="Peste bubónica">peste bubónica</a>.
+</p>
+<p>Retirado con su familia entre 1665 y 1666, conoció un período muy intenso de descubrimientos, entre los que destaca la ley del inverso del cuadrado de la distancia en la <a href="/wiki/Gravedad" title="Gravedad">gravitación</a>, su desarrollo de las bases de la <a href="/wiki/Mec%C3%A1nica_cl%C3%A1sica" title="Mecánica clásica">mecánica clásica</a>, la formalización del método de fluxiones y la generalización del teorema del binomio, poniendo además de manifiesto la naturaleza física de los colores. Sin embargo, guardó silencio durante mucho tiempo sobre sus descubrimientos ante el temor a las críticas y al robo de sus ideas. En 1667 reanudó sus estudios en la <a href="/wiki/Universidad_de_Cambridge" title="Universidad de Cambridge">Universidad de Cambridge</a>.
+</p>
+<p>De 1667 a 1670 emprendió investigaciones sobre óptica y fue elegido <i>fellow</i> del <a href="/wiki/Trinity_College_(Cambridge)" title="Trinity College (Cambridge)">Trinity College</a>. En 1669, su mentor, <a href="/wiki/Isaac_Barrow" title="Isaac Barrow">Isaac Barrow</a>, renunció a su <a class="mw-redirect" href="/wiki/C%C3%A1tedra_Lucasiana" title="Cátedra Lucasiana">Cátedra Lucasiana</a> de matemática, puesto en el que Newton le sucedería hasta 1696. El mismo año envió a <a href="/wiki/John_Collins_(matem%C3%A1tico)" title="John Collins (matemático)">John Collins</a>, por medio de Barrow, su <i>Analysis per aequationes número terminorum infinitos</i>. Para Newton, este manuscrito representa la introducción a un potente método general, que desarrollaría más tarde: su <a href="/wiki/C%C3%A1lculo_diferencial" title="Cálculo diferencial">cálculo diferencial</a> e <a class="mw-redirect" href="/wiki/C%C3%A1lculo_integral" title="Cálculo integral">integral</a>.
+</p>
+<p>Newton había descubierto los principios de su cálculo diferencial e integral hacia 1665-1666 y, durante el decenio siguiente, elaboró al menos tres enfoques diferentes de su nuevo análisis.
+</p>
+<p>Newton y Leibniz protagonizaron una agria polémica sobre la autoría del desarrollo de esta rama de la matemática. Los historiadores de la ciencia consideran que ambos desarrollaron el cálculo independientemente, si bien la notación de Leibniz era mejor y la formulación de Newton se aplicaba mejor a problemas prácticos. La polémica dividió aún más a los matemáticos británicos y continentales. Sin embargo esta separación no fue tan profunda como para que Newton y Leibniz dejaran de intercambiar resultados.
+</p>
+<p>Newton abordó el desarrollo del cálculo a partir de la <a href="/wiki/Geometr%C3%ADa_anal%C3%ADtica" title="Geometría analítica">geometría analítica</a> desarrollando un enfoque geométrico y analítico de las derivadas matemáticas aplicadas sobre curvas definidas a través de <a href="/wiki/Ecuaci%C3%B3n" title="Ecuación">ecuaciones</a>. Newton también buscaba cómo cuadrar distintas curvas, y la relación entre la cuadratura y la teoría de <a href="/wiki/Tangente_(geometr%C3%ADa)" title="Tangente (geometría)">tangentes</a>. Después de los estudios de <a href="/wiki/Gilles_de_Roberval" title="Gilles de Roberval">Roberval</a>, Newton se percató de que el método de tangentes podía utilizarse para obtener las velocidades instantáneas de una trayectoria conocida. En sus primeras investigaciones Newton lidia únicamente con problemas geométricos, como encontrar tangentes, curvaturas y <a href="/wiki/%C3%81rea" title="Área">áreas</a> utilizando como base matemática la <a href="/wiki/Geometr%C3%ADa_anal%C3%ADtica" title="Geometría analítica">geometría analítica</a> de <a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">Descartes</a>. No obstante, con el afán de separar su teoría de la de Descartes, comenzó a trabajar únicamente con las ecuaciones y sus variables sin necesidad de recurrir al sistema cartesiano.
+</p>
+<p>Después de 1666 Newton abandonó sus trabajos matemáticos, y se sintió cada vez más interesado por el estudio de la <a href="/wiki/Naturaleza" title="Naturaleza">naturaleza</a> y la creación de sus <i>Principia</i>.
+</p>
+<p>Entre 1670 y 1672 trabajó intensamente en problemas relacionados con la óptica y la naturaleza de la <a href="/wiki/Luz" title="Luz">luz</a>. Newton demostró que la luz blanca estaba formada por una banda de colores (<a href="/wiki/Rojo" title="Rojo">rojo</a>, <a href="/wiki/Naranja_(color)" title="Naranja (color)">anaranjado</a>, <a href="/wiki/Amarillo" title="Amarillo">amarillo</a>, <a href="/wiki/Verde" title="Verde">verde</a>, <a class="mw-redirect" href="/wiki/Cian_(color)" title="Cian (color)">cian</a>, <a href="/wiki/Azul" title="Azul">azul</a> y <a href="/wiki/Violeta_(color)" title="Violeta (color)">violeta</a>) que podían separarse por medio de un <a href="/wiki/Prisma_(%C3%B3ptica)" title="Prisma (óptica)">prisma</a>. Como consecuencia de estos trabajos concluyó que cualquier <a href="/wiki/Telescopio_refractor" title="Telescopio refractor">telescopio refractor</a> sufriría de un tipo de aberración conocida en la actualidad como <a href="/wiki/Aberraci%C3%B3n_crom%C3%A1tica" title="Aberración cromática">aberración cromática</a>, que consiste en la dispersión de la luz en diferentes colores al atravesar una <a href="/wiki/Lente" title="Lente">lente</a>. Para evitar este problema inventó un <a href="/wiki/Telescopio_reflector" title="Telescopio reflector">telescopio reflector</a> (conocido como <a href="/wiki/Telescopio_newtoniano" title="Telescopio newtoniano">telescopio newtoniano</a>).
+</p>
+<p>Sus experimentos sobre la naturaleza de la luz le llevaron a formular su teoría general sobre la misma, que, según él, está formada por <a href="/wiki/Part%C3%ADcula_subat%C3%B3mica" title="Partícula subatómica">corpúsculos</a> y se propaga en línea recta y no por medio de <a href="/wiki/Onda" title="Onda">ondas</a>. El libro en que expuso esta teoría fue severamente criticado por la mayor parte de sus contemporáneos, entre ellos <a href="/wiki/Robert_Hooke" title="Robert Hooke">Hooke</a> (1635-1703) y <a class="mw-redirect" href="/wiki/Christian_Huygens" title="Christian Huygens">Huygens</a>, quienes sostenían ideas diferentes defendiendo una naturaleza ondulatoria. Estas críticas provocaron su recelo por las publicaciones, por lo que se retiró a la soledad de su estudio en Cambridge.
+</p>
+<p>En 1704, Newton escribió su obra más importante sobre óptica, <i><a href="/wiki/Opticks" title="Opticks">Opticks</a></i>, en la que exponía sus teorías anteriores y la naturaleza corpuscular de la luz, así como un estudio detallado sobre fenómenos como la refracción, la reflexión y la dispersión de la luz.
+</p>
+<p>Aunque sus ideas acerca de la naturaleza corpuscular de la luz pronto fueron desacreditadas en favor de la teoría ondulatoria, los científicos posteriores llegaron a la conclusión, gracias a los trabajos de <a href="/wiki/Max_Planck" title="Max Planck">Max Planck</a> y <a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a>, de que la luz tiene una naturaleza dual: es onda y corpúsculo al mismo tiempo. Esta es la base en la cual se apoya toda la <a href="/wiki/Mec%C3%A1nica_cu%C3%A1ntica" title="Mecánica cuántica">mecánica cuántica</a>.
+</p>
+<p><a href="/wiki/Bernard_Cohen" title="Bernard Cohen">Bernard Cohen</a> afirma que «El momento culminante de la <a href="/wiki/Revoluci%C3%B3n_cient%C3%ADfica" title="Revolución científica">Revolución científica</a> fue el descubrimiento realizado por Isaac Newton de la <a class="mw-redirect" href="/wiki/Ley_de_la_gravitaci%C3%B3n" title="Ley de la gravitación">ley de la gravitación</a> universal». Con una simple ley, Newton dio a entender los fenómenos físicos más importantes del <a href="/wiki/Universo" title="Universo">universo</a> observable, explicando las tres leyes de <a class="mw-redirect" href="/wiki/Kepler" title="Kepler">Kepler</a>. La ley de la gravitación universal descubierta por Newton se escribe:
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {F}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {F}}}</annotation>
+</semantics>
+</math></span><img alt="{\vec  F}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef40edff397a115ecdce7d3518001dfcc7f37d9e" style="vertical-align: -0.338ex; width:1.771ex; height:2.843ex;"/></span> es la fuerza, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\text{G}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>G</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{G}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\text{G}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4ade63c42b52d7735e59fc1c51d0e9293d84699b" style="vertical-align: -0.338ex; width:1.824ex; height:2.176ex;"/></span> es <a href="/wiki/Constante_de_gravitaci%C3%B3n_universal" title="Constante de gravitación universal">una constante</a> que determina la intensidad de la fuerza y que sería medida años más tarde por <a href="/wiki/Henry_Cavendish" title="Henry Cavendish">Henry Cavendish</a> en su célebre <a class="mw-redirect" href="/wiki/Experimento_de_la_balanza_de_torsi%C3%B3n" title="Experimento de la balanza de torsión">experimento de la balanza de torsión</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m_{1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m_{1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle m_{1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/31aafa60e48d39ccce922404c0b80340b2cc777a" style="vertical-align: -0.671ex; width:3.095ex; height:2.009ex;"/></span> y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m_{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m_{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle m_{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0ecebe334d5cadc3ffcf245eb02919034d7a2ec8" style="vertical-align: -0.671ex; width:3.095ex; height:2.009ex;"/></span> son las masas de dos cuerpos que se atraen entre sí y <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle r}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>r</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+</semantics>
+</math></span><img alt="r" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" style="vertical-align: -0.338ex; width:1.049ex; height:1.676ex;"/></span> es la distancia entre ambos cuerpos, siendo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\hat {r}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>r</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\hat {r}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\hat {r}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1009619964ce33a4a02aaa7cf82adc0fb0a50f23" style="vertical-align: -0.338ex; width:1.292ex; height:2.176ex;"/></span> el vector unitario que indica la dirección del movimiento (si bien existe cierta polémica acerca de que Cavendish hubiera medido realmente <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\text{G}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>G</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{G}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\text{G}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4ade63c42b52d7735e59fc1c51d0e9293d84699b" style="vertical-align: -0.338ex; width:1.824ex; height:2.176ex;"/></span>, pues algunos estudiosos afirman que simplemente midió la masa terrestre).
+</p>
+<p>La ley de gravitación universal nació en 1685 como culminación de una serie de estudios y trabajos iniciados mucho antes. En 1551, el español <a href="/wiki/Domingo_de_Soto" title="Domingo de Soto">Domingo de Soto</a> fue el primero en establecer que un cuerpo en caída libre sufre una aceleración constante.<sup class="reference separada" id="cite_ref-perez-sols_18-0"><a href="#cite_note-perez-sols-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>​ La primera referencia escrita que tenemos de la idea de la atracción universal es de 1666, en el libro <i><a href="/wiki/Micrographia" title="Micrographia">Micrographia</a></i>, de <a href="/wiki/Robert_Hooke" title="Robert Hooke">Robert Hooke</a>.<sup class="reference separada" id="cite_ref-19"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>​ En 1679 <a href="/wiki/Robert_Hooke" title="Robert Hooke">Robert Hooke</a> introdujo a Newton en el problema de analizar una trayectoria curva. Cuando Hooke se convirtió en secretario de la Royal Society quiso entablar una correspondencia filosófica con Newton. En su primera carta planteó dos cuestiones que interesarían profundamente a Newton. Hasta entonces científicos y filósofos como <a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">Descartes</a> y <a href="/wiki/Christiaan_Huygens" title="Christiaan Huygens">Huygens</a> analizaban el movimiento curvilíneo con la <a href="/wiki/Fuerza_centr%C3%ADfuga" title="Fuerza centrífuga">fuerza centrífuga</a>. Hooke, sin embargo, proponía «componer los movimientos celestes de los planetas a partir de un movimiento rectilíneo a lo largo de la <a href="/wiki/Tangente_(geometr%C3%ADa)" title="Tangente (geometría)">tangente</a> y un movimiento atractivo, hacia el cuerpo central». Sugiere que la fuerza centrípeta hacia el <a href="/wiki/Sol" title="Sol">Sol</a> varía en razón inversa al cuadrado de las distancias. Newton contesta que él nunca había oído hablar de esta hipótesis.
+</p>
+<p>En otra carta de Hooke, escribe: «Nos queda ahora por conocer las propiedades de una línea curva… tomándole a todas las distancias en proporción cuadrática inversa». En otras palabras, Hooke deseaba saber cuál es la curva resultante de un objeto al que se le imprime una fuerza inversa al cuadrado de la distancia. Hooke termina esa carta diciendo: «No dudo que usted, con su excelente método, encontrará fácilmente cuál ha de ser esta curva».
+</p>
+<p>En 1684 Newton informó a su amigo <a href="/wiki/Edmund_Halley" title="Edmund Halley">Edmund Halley</a> de que había resuelto el problema de la fuerza inversamente proporcional al cuadrado de la distancia. Newton redactó estos cálculos en el tratado <i><a class="new" href="/w/index.php?title=De_Motu&amp;action=edit&amp;redlink=1" title="De Motu (aún no redactado)">De Motu</a></i> y los desarrolló ampliamente en el libro <i><a class="mw-redirect" href="/wiki/Philosophiae_naturalis_principia_mathematica" title="Philosophiae naturalis principia mathematica">Philosophiae naturalis principia mathematica</a></i>. Aunque muchos astrónomos no utilizaban las <a href="/wiki/Leyes_de_Kepler" title="Leyes de Kepler">leyes de Kepler</a>, Newton intuyó su gran importancia y las engrandeció demostrándolas a partir de su <a href="/wiki/Gravedad" title="Gravedad">ley de la gravitación universal</a>.
+</p>
+<p>Sin embargo, la gravitación universal es mucho más que una fuerza dirigida hacia el <a href="/wiki/Sol" title="Sol">Sol</a>. Es también un efecto de los planetas sobre el Sol y sobre todos los objetos del <a href="/wiki/Universo" title="Universo">Universo</a>. Newton intuyó fácilmente a partir de su tercera ley de la <a href="/wiki/Din%C3%A1mica" title="Dinámica">dinámica</a> que si un objeto atrae a un segundo objeto, este segundo también atrae al primero con la misma fuerza. Newton se percató de que el movimiento de los cuerpos celestes no podía ser regular. Afirmó: «los planetas ni se mueven exactamente en elipses, ni giran dos veces según la misma órbita». Para Newton, ferviente religioso, la estabilidad de las órbitas de los planetas implicaba reajustes continuos sobre sus trayectorias impuestas por el poder divino.
+</p>
+<p>Otro de los temas tratados en los <i>Principia</i> fueron las tres leyes de la <a href="/wiki/Din%C3%A1mica" title="Dinámica">dinámica</a> o <a href="/wiki/Leyes_de_Newton" title="Leyes de Newton">leyes de Newton</a>, en las que explicaba el movimiento de los cuerpos así como sus efectos y causas. Estas son:
+</p>
+<p>En esta ley, Newton afirma que un cuerpo sobre el que no actúan fuerzas externas (o las que actúan se anulan entre sí) permanecerá en reposo o moviéndose a <a href="/wiki/Velocidad" title="Velocidad">velocidad</a> constante.
+</p>
+<p>Esta idea, que ya había sido enunciada por <a class="mw-redirect" href="/wiki/Descartes" title="Descartes">Descartes</a> y <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo</a>, suponía romper con la <a href="/wiki/F%C3%ADsica_aristot%C3%A9lica" title="Física aristotélica">física aristotélica</a>, según la cual un cuerpo solo se mantenía en movimiento mientras actuara una fuerza sobre él.
+</p>
+<p>Esta ley explica las condiciones necesarias para modificar el estado de movimiento o reposo de un cuerpo. Según Newton estas modificaciones solo tienen lugar si se produce una interacción entre dos cuerpos, entrando o no en contacto (por ejemplo, la <a href="/wiki/Gravedad" title="Gravedad">gravedad</a> actúa sin que haya contacto físico). Según la segunda ley, las interacciones producen variaciones en el <a class="mw-redirect" href="/wiki/Momento_lineal" title="Momento lineal">momento lineal</a>, a razón de
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {F}}={\frac {d{\vec {p}}}{dt}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>p</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {F}}={\frac {d{\vec {p}}}{dt}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {F}}={\frac {d{\vec {p}}}{dt}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d81f0d7d675e2b26f33b9faed776e5cb8bb4c1c1" style="vertical-align: -2.005ex; width:8.893ex; height:5.676ex;"/></span>
+</p>
+<p>siendo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {F}}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {F}}\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {F}}\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/96f8f1e10179b83ceb95288ad89aba8197173e36" style="vertical-align: -0.338ex; width:2.158ex; height:2.843ex;"/></span> la fuerza, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle d{\vec {p}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>p</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d{\vec {p}}}</annotation>
+</semantics>
+</math></span><img alt="d{{\vec  p}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2688eb5d3ea1789e3de02f403e0af19032e4ae80" style="vertical-align: -0.671ex; width:2.541ex; height:2.676ex;"/></span> el diferencial del momento lineal, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {dt}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {dt}}</annotation>
+</semantics>
+</math></span><img alt="{dt}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cfb070e7c1000a9438b123975ae14ee58c24ce91" style="vertical-align: -0.338ex; width:2.055ex; height:2.176ex;"/></span> el diferencial del tiempo.
+</p>
+<p>La segunda ley puede resumirse en la fórmula
+</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {F}}={m}{\vec {a}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>a</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {F}}={m}{\vec {a}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {F}}={m}{\vec {a}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bf3f36d6a25a8630b3c8aedd5a6322d437940ec9" style="vertical-align: -0.671ex; width:8.786ex; height:3.176ex;"/></span>
+</p>
+<p>donde <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {F}}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {F}}\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {F}}\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/96f8f1e10179b83ceb95288ad89aba8197173e36" style="vertical-align: -0.338ex; width:2.158ex; height:2.843ex;"/></span> es la fuerza (medida en newtons) que hay que aplicar sobre un cuerpo de masa <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+</semantics>
+</math></span><img alt="m" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;"/></span> para provocar una aceleración <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\vec {a}}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>a</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {a}}\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\vec {a}}\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1d68eda50bd748cf4c65dacf137d34d1de6aaadd" style="vertical-align: -0.338ex; width:1.617ex; height:2.343ex;"/></span>.
+</p>
+<p>Esta ley se refleja constantemente en la naturaleza: se tiene una sensación de <a href="/wiki/Dolor" title="Dolor">dolor</a> al golpear una mesa, puesto que la mesa ejerce una fuerza sobre ti con la misma intensidad; el impulso que consigue un <a href="/wiki/Nataci%C3%B3n" title="Natación">nadador</a> al ejercer una fuerza sobre el borde de la <a href="/wiki/Piscina" title="Piscina">piscina</a>, siendo la fuerza que le impulsa la reacción del borde a la fuerza que él está ejerciendo.
+</p>
+<p>En 1687 defendió los derechos de la Universidad de Cambridge contra el impopular <a href="/wiki/Jacobo_II_de_Inglaterra" title="Jacobo II de Inglaterra">rey Jacobo II</a>, que intentó transformar la universidad en una institución católica. Como resultado de la eficacia que demostró en esa ocasión fue elegido miembro del Parlamento en 1689, cuando el rey fue destronado y obligado a exiliarse. Mantuvo su escaño durante varios años sin mostrarse muy activo durante los debates. Durante este tiempo prosiguió sus trabajos de química. Se dedicó también al estudio de la <a href="/wiki/Hidrost%C3%A1tica" title="Hidrostática">hidrostática</a> y de la <a href="/wiki/Hidrodin%C3%A1mica" title="Hidrodinámica">hidrodinámica</a>, además de construir telescopios.
+</p>
+<p>Después de haber sido profesor durante cerca de treinta años, Newton abandonó su puesto para aceptar la responsabilidad de <i>Director de la Moneda</i> en 1696. Durante este periodo fue un incansable perseguidor de falsificadores, a los que enviaba a la horca, y propuso por primera vez el uso del oro como patrón monetario. Durante los últimos treinta años de su vida, abandonó prácticamente toda actividad científica y se consagró progresivamente a los estudios religiosos. Fue elegido presidente de la <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a> en 1703 y reelegido cada año hasta su muerte. En 1705 fue nombrado <a href="/wiki/Caballero" title="Caballero">caballero</a> por la <a class="mw-redirect" href="/wiki/Ana_I_de_Gran_Breta%C3%B1a" title="Ana I de Gran Bretaña">reina Ana</a>, como recompensa a los servicios prestados a Inglaterra. Aún perteneciendo al Gobierno y siendo por ello un hombre rico, hacia 1721 acabó perdiendo 20 000 libras debido a la <a href="/wiki/Burbuja_de_los_mares_del_Sur" title="Burbuja de los mares del Sur">burbuja de los mares del Sur</a>, ante lo que diría que «puedo predecir el movimiento de los cuerpos celestes, pero no la locura de las gentes».
+</p>
+<p>Escribió más de un millón de palabras sobre este tema, algo que tardó en saberse ya que la alquimia era ilegal en aquella época. Como alquimista, Newton firmó sus trabajos como <i>Jeova Sanctus Unus</i>, que se interpreta como un lema anti-trinitario: <i>Jehová único santo</i>, y es además un <a href="/wiki/Anagrama" title="Anagrama">anagrama</a> del nombre latinizado de Isaac Newton, <i>Isaacus Neuutonus</i> - <i>Ieova Sanctus Unus</i>. En el jardín tras su habitación construyó un cobertizo a modo de laboratorio, donde de continuo el fuego estaba encendido, y allí hacía experiencias en ese terreno.
+</p>
+<p>El primer contacto que tuvo con la alquimia fue a través de <a href="/wiki/Isaac_Barrow" title="Isaac Barrow">Isaac Barrow</a> y <a href="/wiki/Henry_More" title="Henry More">Henry More</a>, intelectuales de Cambridge. En 1669 redactó dos trabajos sobre la alquimia, <i><a class="new" href="/w/index.php?title=Theatrum_Chemicum&amp;action=edit&amp;redlink=1" title="Theatrum Chemicum (aún no redactado)">Theatrum Chemicum</a></i> y <i><a class="new" href="/w/index.php?title=The_Vegetation_of_Metals&amp;action=edit&amp;redlink=1" title="The Vegetation of Metals (aún no redactado)">The Vegetation of Metals</a></i>. En este mismo año fue nombrado profesor Lucasiano de <a href="/wiki/Universidad_de_Cambridge" title="Universidad de Cambridge">Cambridge</a>.
+</p>
+<p>En <a href="/wiki/1680" title="1680">1680</a> empezó su más extenso escrito alquímico, <i><a class="new" href="/w/index.php?title=Index_Chemicus&amp;action=edit&amp;redlink=1" title="Index Chemicus (aún no redactado)">Index Chemicus</a></i> (100 pp.), el cual sobresale por su gran organización y sistematización, que concluyó a finales de siglo.<sup class="reference separada" id="cite_ref-20"><a href="#cite_note-20"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>​ Además, en 1692 escribió dos ensayos, de los que sobresale <i><a class="new" href="/w/index.php?title=De_Natura_Acidorum&amp;action=edit&amp;redlink=1" title="De Natura Acidorum (aún no redactado)">De Natura Acidorum</a></i>, en donde discutía la acción química de los <a href="/wiki/%C3%81cido" title="Ácido">ácidos</a> por medio de la fuerza atractiva de sus <a href="/wiki/Mol%C3%A9cula" title="Molécula">moléculas</a>. Es interesante ver cómo relaciona la alquimia con el lenguaje físico de las fuerzas.
+</p>
+<p>Durante la siguiente década prosiguió sus estudios alquímicos escribiendo obras como <i><a class="new" href="/w/index.php?title=Ripley_Expounded&amp;action=edit&amp;redlink=1" title="Ripley Expounded (aún no redactado)">Ripley Expounded</a></i>, <i><a class="mw-redirect" href="/wiki/Tabula_Smaragdina" title="Tabula Smaragdina">Tabula Smaragdina</a></i> y el más importante <i>Praxis</i>, que es un conjunto de notas sobre <i><a class="new" href="/w/index.php?title=Triomphe_Herm%C3%A9tique&amp;action=edit&amp;redlink=1" title="Triomphe Hermétique (aún no redactado)">Triomphe Hermétique</a></i>, de <a class="new" href="/w/index.php?title=Didier&amp;action=edit&amp;redlink=1" title="Didier (aún no redactado)">Didier</a>, libro francés cuya única traducción es del mismo Newton.<sup class="reference separada" id="cite_ref-21"><a href="#cite_note-21"><span class="corchete-llamada">[</span>21<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>Cabe mencionar que desde joven Newton desconfiaba de la <a href="/wiki/Medicina" title="Medicina">medicina</a> oficial y usaba sus conocimientos para automedicarse. Muchos historiadores consideran su uso de remedios alquímicos como la fuente de numerosos envenenamientos que le produjeron crisis nerviosas durante gran parte de su vida.<sup>[<i><a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">cita requerida</a></i>]</sup> Vivió, sin embargo, 84 años.
+</p>
+<p>Newton fue profundamente religioso toda su vida. Hijo de padres puritanos, dedicó más tiempo al estudio de la <a href="/wiki/Biblia" title="Biblia">Biblia</a> que al de la <a href="/wiki/Ciencia" title="Ciencia">ciencia</a>. Un análisis de todo lo que escribió Newton revela que, de unas 3 600 000 palabras, solo 1 000 000 se dedicaron a las ciencias, mientras que 1 400 000 tuvieron que ver con <a href="/wiki/Teolog%C3%ADa" title="Teología">teología</a>.<sup class="reference separada" id="cite_ref-22"><a href="#cite_note-22"><span class="corchete-llamada">[</span>22<span class="corchete-llamada">]</span></a></sup>​ Se conoce una lista de cincuenta y ocho pecados que escribió a los 19 años, en la cual se puede leer: «Amenazar a mi padre y madre Smith con quemarlos y a la casa con ellos».
+</p>
+<p>Newton era <a href="/wiki/Arrianismo" title="Arrianismo">arrianista</a><sup class="reference separada" id="cite_ref-23"><a href="#cite_note-23"><span class="corchete-llamada">[</span>23<span class="corchete-llamada">]</span></a></sup>​ y creía en un único <a href="/wiki/Dios" title="Dios">dios</a>, Dios Padre. En cuanto a los trinitarios, creía que habían cometido un fraude a las <a class="mw-redirect" href="/wiki/Sagradas_Escrituras" title="Sagradas Escrituras">Sagradas Escrituras</a> y acusó a la <a href="/wiki/Iglesia_cat%C3%B3lica" title="Iglesia católica">Iglesia católica</a> de ser la bestia del <a href="/wiki/Apocalipsis" title="Apocalipsis">Apocalipsis</a>. Por estos motivos se entiende por qué eligió firmar sus más secretos manuscritos alquímicos como <i>Jehová Sanctus Unus</i>. Relacionó sus estudios teológicos con los alquímicos y creía que <a href="/wiki/Mois%C3%A9s" title="Moisés">Moisés</a> había sido un alquimista. Su ideología antitrinitaria le causó problemas, ya que estudiaba en el Trinity College, en donde estaba obligado a sostener la doctrina de la <a class="mw-redirect" href="/wiki/Santa_Trinidad" title="Santa Trinidad">Santa Trinidad</a>. Newton viajó a Londres para pedirle al rey <a href="/wiki/Carlos_II_de_Inglaterra" title="Carlos II de Inglaterra">Carlos II</a> que lo dispensara de tomar las órdenes sagradas y su solicitud le fue concedida.
+</p>
+<p>Cuando regresó a Cambridge, inició su correspondencia con el filósofo <a href="/wiki/John_Locke" title="John Locke">John Locke</a>. Newton tuvo la confianza de confesarle sus opiniones acerca de la Trinidad y Locke le incitó a que continuara con sus manuscritos teológicos. Entre sus obras teológicas, algunas de las más conocidas son <i><a class="new" href="/w/index.php?title=An_Historical_Account_of_Two_Notable_Corruption_of_Scriptures&amp;action=edit&amp;redlink=1" title="An Historical Account of Two Notable Corruption of Scriptures (aún no redactado)">An Historical Account of Two Notable Corruption of Scriptures</a></i>, <i><a class="new" href="/w/index.php?title=Chronology_of_Ancient_Kingdoms_Atended&amp;action=edit&amp;redlink=1" title="Chronology of Ancient Kingdoms Atended (aún no redactado)">Chronology of Ancient Kingdoms Atended</a></i> y <i><a class="new" href="/w/index.php?title=Observations_upon_the_Prophecies&amp;action=edit&amp;redlink=1" title="Observations upon the Prophecies (aún no redactado)">Observations upon the Prophecies</a></i>. Newton realizó varios cálculos sobre el <a href="/wiki/Juicio_Final" title="Juicio Final">día del Juicio Final</a>, llegando a la conclusión de que este no sería antes de 2060.<sup>[<i><a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">cita requerida</a></i>]</sup>
+</p>
+<p>Newton publicó sus <i><a class="mw-redirect" href="/wiki/Philosophiae_Naturalis_Principia_Mathematica" title="Philosophiae Naturalis Principia Mathematica">Principios matemáticos de la filosofía natural</a></i> en 1687. Editados 22 años después de la <i><a href="/wiki/Micrographia" title="Micrographia">Micrographia</a></i> de <a href="/wiki/Robert_Hooke" title="Robert Hooke">Robert Hooke</a>, describían las leyes del movimiento, entre ellas la <a class="mw-redirect" href="/wiki/Ley_de_la_gravedad" title="Ley de la gravedad">ley de la gravedad</a>; pero lo cierto es que, como indica <a class="new" href="/w/index.php?title=Allan_Chapman&amp;action=edit&amp;redlink=1" title="Allan Chapman (aún no redactado)">Allan Chapman</a>, Hooke «había formulado antes que Newton muchos de los fundamentos de la teoría de la gravitación». La labor de Hooke también estimuló las investigaciones de Newton sobre la naturaleza de la luz.
+</p>
+<p>Por desgracia, las disputas en materia de <a href="/wiki/%C3%93ptica" title="Óptica">óptica</a> y gravitación agriaron las relaciones entre ambos científicos. Newton llegó al extremo de eliminar de sus <i>Principios matemáticos</i> toda referencia a Hooke. Un especialista asegura que también intentó borrar de los registros las contribuciones que Hooke había hecho a la ciencia. Además, los instrumentos de Hooke —muchos elaborados artesanalmente—, buena parte de sus ensayos y el único retrato auténtico suyo se esfumaron una vez que Newton se convirtió en presidente de la <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a> en 1703.
+</p>
+<p>Los últimos años de su vida se vieron ensombrecidos por la desgraciada controversia, de envergadura internacional, con <a href="/wiki/Gottfried_Leibniz" title="Gottfried Leibniz">Leibniz</a> a propósito de la prioridad de la invención del nuevo análisis. Acusaciones mutuas de <a href="/wiki/Plagio" title="Plagio">plagio</a>, secretos disimulados en <a href="/wiki/Criptograma" title="Criptograma">criptogramas</a>, cartas anónimas, tratados inéditos, afirmaciones a menudo subjetivas de amigos y partidarios de los dos gigantes enfrentados, celos manifiestos y esfuerzos desplegados por los conciliadores para aproximar a los clanes adversos, solo terminaron con la muerte de Leibniz en 1716.
+</p>
+<p>Newton fue respetado durante toda su vida como ningún otro científico, y prueba de ello fueron los diversos cargos con que se le honró: en 1689 fue elegido miembro del Parlamento, en 1696 se le encargó la custodia de la Casa de la Moneda, en 1703 se le nombró presidente de la Royal Society y finalmente en 1705 recibió el título de <i>sir</i> de manos de la <a class="mw-redirect" href="/wiki/Ana_I_de_Gran_Breta%C3%B1a" title="Ana I de Gran Bretaña">reina Ana</a>.
+</p>
+<p>Padeció durante su vejez diversos problemas renales, incluyendo atroces <a href="/wiki/C%C3%B3lico_nefr%C3%ADtico" title="Cólico nefrítico">cólicos nefríticos</a>, sufriendo uno de los cuales murió —tras muchas horas de delirio— la noche del 31 de marzo de 1727 (<a href="/wiki/Calendario_gregoriano" title="Calendario gregoriano">calendario gregoriano</a>). Sus restos fueron ubicados en la <a href="/wiki/Abad%C3%ADa_de_Westminster" title="Abadía de Westminster">abadía de Westminster</a> junto a otros hombres de <a href="/wiki/Inglaterra" title="Inglaterra">Inglaterra</a>.<sup class="reference separada" id="cite_ref-wabbey_24-0"><a href="#cite_note-wabbey-24"><span class="corchete-llamada">[</span>24<span class="corchete-llamada">]</span></a></sup>​
+</p>
+<p>La gran obra de Newton culminaba la <a href="/wiki/Revoluci%C3%B3n_cient%C3%ADfica" title="Revolución científica">revolución científica</a> iniciada por <a href="/wiki/Nicol%C3%A1s_Cop%C3%A9rnico" title="Nicolás Copérnico">Nicolás Copérnico</a> (1473-1543) e inauguraba un período de confianza sin límites en la razón, extensivo a todos los campos del conocimiento.
+</p>
+<p>Además de las distintas fórmulas y principios físicos y matemáticos que llevan su nombre, se tiene que:
+</p>

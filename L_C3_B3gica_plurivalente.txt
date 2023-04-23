@@ -1,0 +1,27 @@
+<p>Una <b>lógica plurivalente</b> o <b>lógica polivalente</b> es un <a class="mw-redirect" href="/wiki/Sistema_l%C3%B3gico" title="Sistema lógico">sistema lógico</a> que rechaza el <a href="/wiki/Principio_del_tercero_excluido" title="Principio del tercero excluido">principio del tercero excluido</a> de las <a href="/wiki/L%C3%B3gica_bivalente" title="Lógica bivalente">lógicas bivalentes</a> y admite más valores de verdad que los tradicionales <i>verdadero</i> y <i>falso</i>.<sup class="reference separada" id="cite_ref-1"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>​ Distintas lógicas plurivalentes pueden admitir distintas cantidades de valores de verdad: desde tres, hasta infinito (cualquier número real entre 0 y 1).
+</p>
+<p>Las lógicas polivalentes se difundieron especialmente a partir de los trabajos de los filósofos polacos <a href="/wiki/Jan_%C5%81ukasiewicz" title="Jan Łukasiewicz">Jan Łukasiewicz</a> y <a class="mw-redirect" href="/wiki/Emil_Post" title="Emil Post">Emil Post</a> y sus relaciones con la <a class="mw-redirect" href="/wiki/F%C3%ADsica_cu%C3%A1ntica" title="Física cuántica">física cuántica</a>, pero fueron expuestas anteriormente, con diferentes enfoques, por <a class="mw-redirect" href="/wiki/Hegel" title="Hegel">Hegel</a>, <a href="/wiki/Hugh_MacColl" title="Hugh MacColl">Hugh MacColl</a>, <a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">Charles Sanders Peirce</a> y <a class="mw-redirect" href="/wiki/Nicolai_A._Vasiliev" title="Nicolai A. Vasiliev">Nicolai A. Vasiliev</a>. <a href="/wiki/Stephen_Kleene" title="Stephen Kleene">Stephen Kleene</a> elaboró las <a class="mw-redirect" href="/wiki/Tablas_de_verdad" title="Tablas de verdad">tablas de verdad</a> para un sistema de lógica trivalente. Un ejemplo para ilustrar la trivalencia en <a href="/wiki/F%C3%ADsica" title="Física">física</a> ha sido la <a href="/wiki/Paradoja" title="Paradoja">paradoja</a> del <a href="/wiki/Gato_de_Schr%C3%B6dinger" title="Gato de Schrödinger">gato de Schrödinger</a>.
+</p>
+<p>Pueden considerarse como polivalentes:
+</p>
+<p>La lógica trivalente como la del universo de los modelos de Kripke que contienen tres "mundos" posibles. Otras lógicas se proponen como polivalentes o n-valentes, de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+</semantics>
+</math></span><img alt="n" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;"/></span> mundos o un número infinito de "mundos" posibles.
+</p>
+<p>Formula lo siguiente::
+</p>
+<p>Formula lo siguiente::
+</p>
+<p><br/>
+</p>
+<p>Es interesante observar como en las lógicas de Gödel y producto, al igual que en la <a href="/wiki/L%C3%B3gica_intuicionista" title="Lógica intuicionista">lógica intuicionista</a>, se niega el principio de la doble negación con el fin de mantener la validez del <a href="/wiki/Principio_de_no_contradicci%C3%B3n" title="Principio de no contradicción">principio de no contradicción</a>.
+</p>
+<p>En particular, a causa de la particular definición del operador NOT se verifica que:
+</p>
